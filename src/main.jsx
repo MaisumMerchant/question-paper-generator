@@ -261,14 +261,14 @@ function App() {
     let cancelled = false;
     async function loadBundledBanks() {
       try {
-        const manifestResponse = await fetch('/question-banks/manifest.json');
+        const manifestResponse = await fetch('/question-banks/manifest.json', { cache: 'no-store' });
         if (!manifestResponse.ok) throw new Error(`Manifest request failed (${manifestResponse.status}).`);
         const manifestText = await manifestResponse.text();
         if (!manifestText.trim()) throw new Error('The bundled-bank manifest was empty.');
         const manifest = JSON.parse(manifestText);
         const settled = await Promise.allSettled(manifest.files.map(async (path) => {
           const encodedPath = path.split('/').map(encodeURIComponent).join('/');
-          const response = await fetch(`/question-banks/${encodedPath}`);
+          const response = await fetch(`/question-banks/${encodedPath}`, { cache: 'no-store' });
           if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
           const text = await response.text();
           if (!text.trim()) throw new Error('empty response');
