@@ -1,0 +1,372 @@
+{
+  "subject": "Computer Science",
+  "class": "XII",
+  "questions": [
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2025,
+      "text": "What is IDE? Write few shortcut keys and their functions in IDE."
+    },
+    {
+      "section": "B",
+      "number": "2. ii)",
+      "year": 2025,
+      "text": "What are escape sequences? Write the purpose of any three."
+    },
+    {
+      "section": "B",
+      "number": "2. iii)",
+      "year": 2025,
+      "text": "Convert the following mathematical expressions into 'C' language format. (a) $(a+b)^2$ (b) $(x^2- y^2)(x+y)$ (c) $y = (a + b)^n$"
+    },
+    {
+      "section": "B",
+      "number": "2. iv)",
+      "year": 2025,
+      "text": "Identify valid and invalid Identifiers. Give reason in case of Identifiers are invalid. (a) void (b) std_marks (c) 1\" number"
+    },
+    {
+      "section": "B",
+      "number": "2. v)",
+      "year": 2025,
+      "text": "Define increment and decrement operators."
+    },
+    {
+      "section": "B",
+      "number": "2. vi)",
+      "year": 2025,
+      "text": "If $x = 1$, what is the output of the following program segment: printf(x=%d\\n,x); printf(x=%d\\n,+x); printf(x=%d\\n,x);"
+    },
+    {
+      "section": "B",
+      "number": "2. vii)",
+      "year": 2025,
+      "text": "What is an Array? How can we declare and initialize and integer array."
+    },
+    {
+      "section": "B",
+      "number": "2. viii)",
+      "year": 2025,
+      "text": "What will be the output of following code segment: a) int num [j = {3,5,7,10,20} printf(\"%d\",num[3]);"
+    },
+    {
+      "section": "B",
+      "number": "2. ix)",
+      "year": 2025,
+      "text": "Define break and continue statement with an example."
+    },
+    {
+      "section": "B",
+      "number": "2. x)",
+      "year": 2025,
+      "text": "What are the main differences between while and do-while loop?"
+    },
+    {
+      "section": "B",
+      "number": "2. xii)",
+      "year": 2025,
+      "text": "What is a pointer in 'C'? How is it initialized?"
+    },
+    {
+      "section": "B",
+      "number": "2. xiii)",
+      "year": 2025,
+      "text": "What is 'C' language is called case sensitive language?"
+    },
+    {
+      "section": "B",
+      "number": "2. xiii)",
+      "year": 2025,
+      "text": "What are the main differences between source code and object code?"
+    },
+    {
+      "section": "B",
+      "number": "2. xiv)",
+      "year": 2025,
+      "text": "Define any three reserved words in 'C' language."
+    },
+    {
+      "section": "B",
+      "number": "2. xv)",
+      "year": 2025,
+      "text": "What is address operator? Explain with example."
+    },
+    {
+      "section": "B",
+      "number": "2. xvi)",
+      "year": 2025,
+      "text": "Define the Basic structure of a C program."
+    },
+    {
+      "section": "C",
+      "number": "3",
+      "year": 2025,
+      "text": "Define the control structures used in C language? Explain Iteration control structures with syntax and example"
+    },
+    {
+      "section": "C",
+      "number": "4",
+      "year": 2025,
+      "text": "What are data types? Explain any five data types used in C language."
+    },
+    {
+      "section": "C",
+      "number": "5",
+      "year": 2025,
+      "text": "Define an operator in C language? Explain basic types of operators used in C- language."
+    },
+    {
+      "section": "C",
+      "number": "6",
+      "year": 2025,
+      "text": "Explain different I/O functions in C with syntax and examples."
+    },
+    {
+      "section": "C",
+      "number": "7",
+      "year": 2025,
+      "text": "What is Function in C? Write its advantages and explain types of functions."
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2024,
+      "text": "What is meaning of two void in any function declaration? i.e void ABC(void);"
+    },
+    {
+      "section": "B",
+      "number": "2. ii)",
+      "year": 2024,
+      "text": "Differentiate between any one. a) Source Code and Object Code b) Variable and Local Variable"
+    },
+    {
+      "section": "B",
+      "number": "2. iii)",
+      "year": 2024,
+      "text": "What are pre- processor directives in C language? Name any two:"
+    },
+    {
+      "section": "B",
+      "number": "2. iv)",
+      "year": 2024,
+      "text": "Write a program to display the following output. 6 12 18 7 14 21 8 16 24"
+    },
+    {
+      "section": "B",
+      "number": "2. v)",
+      "year": 2024,
+      "text": "What will be the output of the C code. main() int a = 11; while(a<=20){ printf(\"%d\",a); a+=2;"
+    },
+    {
+      "section": "B",
+      "number": "2. vi)",
+      "year": 2024,
+      "text": "Convert the following, mathematical expression into C expression: a.Y=(x+y)-(a²+b²) b.c=√x+y+z c.p= (a²+b²"
+    },
+    {
+      "section": "B",
+      "number": "2. vii)",
+      "year": 2024,
+      "text": "Define any two input and output functions in C."
+    },
+    {
+      "section": "B",
+      "number": "2. viii)",
+      "year": 2024,
+      "text": "Differentiate between n while loop and do while loop."
+    },
+    {
+      "section": "B",
+      "number": "2. ix)",
+      "year": 2024,
+      "text": "What is the purpose of the main() function in any C program?"
+    },
+    {
+      "section": "B",
+      "number": "2. x)",
+      "year": 2024,
+      "text": "What is the function of \"break\" state- met in C?"
+    },
+    {
+      "section": "B",
+      "number": "2. xi)",
+      "year": 2024,
+      "text": "What is a DBMS?"
+    },
+    {
+      "section": "B",
+      "number": "2. xii)",
+      "year": 2024,
+      "text": "Define primary k; and foreign key"
+    },
+    {
+      "section": "B",
+      "number": "2. xiii)",
+      "year": 2024,
+      "text": "Write the full form of any three of the following acronyms: *DML *DDL *SQL *IDE *RDBMS"
+    },
+    {
+      "section": "B",
+      "number": "2. xiv)",
+      "year": 2024,
+      "text": "Write a program in C to check weather the entered number is even or odd:"
+    },
+    {
+      "section": "B",
+      "number": "2. xv)",
+      "year": 2024,
+      "text": "What is the role of DBA in DBMS?"
+    },
+    {
+      "section": "C",
+      "number": "3",
+      "year": 2024,
+      "text": "What is user-defined function? How is it differ from library function? Write any two with examples."
+    },
+    {
+      "section": "C",
+      "number": "4",
+      "year": 2024,
+      "text": "What is relationship in database? Define three types of relationships in database with examples."
+    },
+    {
+      "section": "C",
+      "number": "5",
+      "year": 2024,
+      "text": "Explain various types of database models."
+    },
+    {
+      "section": "C",
+      "number": "6",
+      "year": 2024,
+      "text": "What is control structure? Explain selection control structure."
+    },
+    {
+      "section": "C",
+      "number": "7",
+      "year": 2024,
+      "text": "Explain all the data types in C language."
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2022,
+      "text": "Why is C language called 'case sensitive language?"
+    },
+    {
+      "section": "B",
+      "number": "2. ii)",
+      "year": 2022,
+      "text": "What will be the output of the following program segment? For(i = 1; i< 5; i++) if (i == 3) continue; else printf(\"%d\",i);"
+    },
+    {
+      "section": "B",
+      "number": "2. iii)",
+      "year": 2022,
+      "text": "What is a function? What are the advantages of using a function?"
+    },
+    {
+      "section": "B",
+      "number": "2. iv)",
+      "year": 2022,
+      "text": "Define any one of the following: a) DBMS Data dictionary"
+    },
+    {
+      "section": "B",
+      "number": "2. v)",
+      "year": 2022,
+      "text": "Write a program that generates the following output: (use any loop) 2 3 4 5 10"
+    },
+    {
+      "section": "B",
+      "number": "2. vi)",
+      "year": 2022,
+      "text": "Write a program that prints the factorial of given number."
+    },
+    {
+      "section": "B",
+      "number": "2. vii)",
+      "year": 2022,
+      "text": "What is reserved word or keywords in C language? Define only three."
+    },
+    {
+      "section": "B",
+      "number": "2. viii)",
+      "year": 2022,
+      "text": "What an Escape squaws? Write the purpose of any three."
+    },
+    {
+      "section": "B",
+      "number": "2. ix)",
+      "year": 2022,
+      "text": "Define a) Table b) Query"
+    },
+    {
+      "section": "B",
+      "number": "2. x)",
+      "year": 2022,
+      "text": "What is data redundancy?"
+    },
+    {
+      "section": "B",
+      "number": "2. xi)",
+      "year": 2022,
+      "text": "Define increment operator and decrement operator. Give example of each operator."
+    },
+    {
+      "section": "B",
+      "number": "2. xii)",
+      "year": 2022,
+      "text": "What is the difference between a primary key and a secondary key?"
+    },
+    {
+      "section": "B",
+      "number": "2. xiii)",
+      "year": 2022,
+      "text": "Write equivalent C statement: a) $x = \\frac{e^{-x}}{2x}$ b) $(x + y)^{x}$ $b = \\sqrt{x + y + z^{2}}$"
+    },
+    {
+      "section": "B",
+      "number": "2. xiv)",
+      "year": 2022,
+      "text": "Define scanf() with its syntax"
+    },
+    {
+      "section": "B",
+      "number": "2. xv)",
+      "year": 2022,
+      "text": "Differentiate between Actual Parameter and Formal Parameters."
+    },
+    {
+      "section": "C",
+      "number": "3",
+      "year": 2022,
+      "text": "Explain arithmetic, relational and logical operators used in C."
+    },
+    {
+      "section": "C",
+      "number": "4",
+      "year": 2022,
+      "text": "Define switch statement. Also write an example program of switch statement."
+    },
+    {
+      "section": "C",
+      "number": "5",
+      "year": 2022,
+      "text": "Explain different types of database models."
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2021,
+      "text": "What is IDE? Write few shortcut keys and their functions in IDE."
+    },
+    {
+      "section": "B",
+      "number": "2. ii)",
+      "year": 2021,
+      "text": "Write a program to print the factorial of an inputted number."
+    }
+  ]
+}

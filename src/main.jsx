@@ -6,6 +6,7 @@ import { jsPDF } from 'jspdf';
 import 'katex/dist/katex.min.css';
 import './styles.css';
 
+const embeddedBankModules = import.meta.glob('./question-banks/**/*.json', { eager: true, import: 'default' });
 const UNKNOWN_CHAPTER = 'Unknown chapter';
 const SECTION_FILTERS = ['All', 'B', 'C'];
 
@@ -259,42 +260,72 @@ function App() {
 
   useEffect(() => {
     let cancelled = false;
+
+    function readEmbeddedBanks() {
+      return Object.entries(embeddedBankModules).flatMap(([modulePath, payload]) => {
+        const sourceName = modulePath.replace(/^\.\/question-banks\//, '');
+        try {
+          return [normalizeBank(payload, sourceName, `embedded-${sourceName}`)];
+        } catch {
+          return [];
+        }
+      });
+    }
+
+    async function readNetworkBanks() {
+      const manifestResponse = await fetch('/question-banks/manifest.json', { cache: 'no-store' });
+      if (!manifestResponse.ok) throw new Error(`Manifest request failed (${manifestResponse.status}).`);
+      const manifestText = await manifestResponse.text();
+      if (!manifestText.trim()) throw new Error('The bundled-bank manifest was empty.');
+      const manifest = JSON.parse(manifestText);
+      if (!Array.isArray(manifest.files)) throw new Error('The bundled-bank manifest has no files array.');
+      const settled = await Promise.allSettled(manifest.files.map(async (path) => {
+        const encodedPath = path.split('/').map(encodeURIComponent).join('/');
+        const response = await fetch(`/question-banks/${encodedPath}`, { cache: 'no-store' });
+        if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+        const text = await response.text();
+        if (!text.trim()) throw new Error('empty response');
+        return normalizeBank(JSON.parse(text), path, `bundled-${path}`);
+      }));
+      return {
+        loaded: settled.flatMap((result) => result.status === 'fulfilled' ? [result.value] : []),
+        failed: settled.filter((result) => result.status === 'rejected').length
+      };
+    }
+
     async function loadBundledBanks() {
+      const embedded = readEmbeddedBanks();
+      let network = { loaded: [], failed: 0 };
+      let networkError = null;
       try {
-        const manifestResponse = await fetch('/question-banks/manifest.json', { cache: 'no-store' });
-        if (!manifestResponse.ok) throw new Error(`Manifest request failed (${manifestResponse.status}).`);
-        const manifestText = await manifestResponse.text();
-        if (!manifestText.trim()) throw new Error('The bundled-bank manifest was empty.');
-        const manifest = JSON.parse(manifestText);
-        const settled = await Promise.allSettled(manifest.files.map(async (path) => {
-          const encodedPath = path.split('/').map(encodeURIComponent).join('/');
-          const response = await fetch(`/question-banks/${encodedPath}`, { cache: 'no-store' });
-          if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
-          const text = await response.text();
-          if (!text.trim()) throw new Error('empty response');
-          const payload = JSON.parse(text);
-          return normalizeBank(payload, path, `bundled-${path}`);
-        }));
-        const loaded = settled.flatMap((result) => result.status === 'fulfilled' ? [result.value] : []);
-        const failed = settled.filter((result) => result.status === 'rejected');
-        if (!cancelled) {
-          if (!loaded.length) throw new Error('No bundled question banks could be parsed.');
-          setBanks(loaded);
-          setSelectedBankId(loaded[0]?.id || '');
-          setLoadState('ready');
-          if (failed.length) setNotice(`${failed.length} bundled bank${failed.length > 1 ? 's were' : ' was'} skipped because its response was empty or invalid.`);
-        }
+        network = await readNetworkBanks();
       } catch (error) {
-        if (!cancelled) {
-          setLoadState('error');
-          setNotice(`Bundled banks could not load: ${error.message}`);
-        }
+        networkError = error;
+      }
+      if (cancelled) return;
+
+      const loaded = network.loaded.length ? network.loaded : embedded;
+      if (!loaded.length) {
+        throw new Error(networkError?.message || 'No bundled question banks could be parsed.');
+      }
+      setBanks(loaded);
+      setSelectedBankId(loaded[0]?.id || '');
+      setLoadState('ready');
+      if (networkError || network.failed || !network.loaded.length) {
+        setNotice(`Loaded ${loaded.length} bundled question banks from the local fallback${networkError ? ` (${networkError.message})` : '.'}`);
+      } else if (network.failed) {
+        setNotice(`${network.failed} bundled bank${network.failed > 1 ? 's were' : ' was'} skipped because its response was empty or invalid.`);
       }
     }
-    loadBundledBanks();
+
+    loadBundledBanks().catch((error) => {
+      if (!cancelled) {
+        setLoadState('error');
+        setNotice(`Bundled banks could not load: ${error.message}`);
+      }
+    });
     return () => { cancelled = true; };
   }, []);
-
   const selectedBank = useMemo(() => banks.find((bank) => bank.id === selectedBankId) || null, [banks, selectedBankId]);
   const classOptions = useMemo(() => [...new Set(banks.map((bank) => bank.className))].sort((a, b) => a.localeCompare(b, undefined, { numeric: true })), [banks]);
   const subjectOptions = useMemo(() => [...new Set(banks.map((bank) => bank.subject))].sort(), [banks]);
