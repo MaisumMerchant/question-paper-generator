@@ -6,7 +6,7 @@ import { jsPDF } from 'jspdf';
 import 'katex/dist/katex.min.css';
 import './styles.css';
 
-const embeddedBankModules = import.meta.glob('./question-banks/**/*.json', { eager: true, import: 'default' });
+const embeddedBankModules = import.meta.glob('../Data/**/*.json', { eager: true, import: 'default' });
 const UNKNOWN_CHAPTER = 'Unknown chapter';
 const SECTION_FILTERS = ['All', 'B', 'C'];
 
@@ -69,38 +69,28 @@ function RichText({ text }) {
   return <span className="rich-text" dangerouslySetInnerHTML={{ __html: richTextHtml(text) }} />;
 }
 
-function makeChapterName(index) {
-  return `Chapter ${String(index).padStart(2, '0')}`;
-}
-
 function inferChapters(rawQuestions, sourceKey) {
-  let chapterNumber = 0;
-  let currentChapter = null;
-  let hasStarted = false;
-  let previousWasC = false;
   const questions = (Array.isArray(rawQuestions) ? rawQuestions : []).map((raw, index) => {
     const section = String(raw?.section ?? '').trim().toUpperCase();
-    if (section === 'B') {
-      if (!hasStarted) {
-        chapterNumber = 1;
-        currentChapter = makeChapterName(chapterNumber);
-        hasStarted = true;
-      } else if (previousWasC) {
-        chapterNumber += 1;
-        currentChapter = makeChapterName(chapterNumber);
-      }
-      previousWasC = false;
-    } else if (section === 'C') {
-      previousWasC = true;
-    }
-    const chapter = section === 'B' || section === 'C' ? (currentChapter || UNKNOWN_CHAPTER) : UNKNOWN_CHAPTER;
+    const chapter = String(raw?.chapter || '').trim() || UNKNOWN_CHAPTER;
+    const type = ['short', 'long', 'numerical'].includes(raw?.type)
+      ? raw.type
+      : (section === 'C' ? 'long' : 'short');
+    const source = ['past_paper', 'important_book'].includes(raw?.source)
+      ? raw.source
+      : 'past_paper';
     return {
       id: `${sourceKey}::${index}`,
       section: section || '?',
-      number: raw?.number ?? '',
-      year: raw?.year ?? '',
+      type,
+      source,
+      year: Number.isInteger(raw?.year) ? raw.year : null,
       text: raw?.text ?? '',
-      parts: Array.isArray(raw?.parts) ? raw.parts.map((part, partIndex) => ({ label: part?.label || `(${partIndex + 1})`, text: part?.text ?? '' })) : [],
+      parts: Array.isArray(raw?.parts) ? raw.parts.map((part, partIndex) => (
+        typeof part === 'string'
+          ? { label: `(${partIndex + 1})`, text: part }
+          : { label: part?.label || `(${partIndex + 1})`, text: part?.text ?? '' }
+      )) : [],
       chapter,
       raw
     };
@@ -127,16 +117,28 @@ function normalizeBank(payload, sourceName, sourceKey = sourceName) {
   };
 }
 
-function shuffle(items) {
+function seededRandom(seedText = '') {
+  let seed = 2166136261;
+  for (const char of String(seedText)) seed = Math.imul(seed ^ char.charCodeAt(0), 16777619);
+  return () => {
+    seed += 0x6D2B79F5;
+    let t = seed;
+    t = Math.imul(t ^ (t >>> 15), t | 1);
+    t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+function shuffle(items, random = Math.random) {
   const copy = [...items];
   for (let i = copy.length - 1; i > 0; i -= 1) {
-    const j = Math.floor(Math.random() * (i + 1));
+    const j = Math.floor(random() * (i + 1));
     [copy[i], copy[j]] = [copy[j], copy[i]];
   }
   return copy;
 }
 
-function allocateQuestions(candidates, count, percentages) {
+function allocateQuestions(candidates, count, percentages, random = Math.random) {
   if (!count || !candidates.length) return [];
   const byChapter = candidates.reduce((acc, question) => {
     (acc[question.chapter] ||= []).push(question);
@@ -149,21 +151,21 @@ function allocateQuestions(candidates, count, percentages) {
   const target = Math.min(count, candidates.length);
   const chosen = [];
   const chosenIds = new Set();
-  const orderedChapters = shuffle(eligible).sort((a, b) => weight(b) - weight(a));
+  const orderedChapters = shuffle(eligible, random).sort((a, b) => weight(b) - weight(a));
   const chapterSlots = target >= eligible.length ? orderedChapters : orderedChapters.slice(0, target);
   chapterSlots.forEach((chapter) => {
-    const question = shuffle(byChapter[chapter])[0];
+    const question = shuffle(byChapter[chapter], random)[0];
     if (question && !chosenIds.has(question.id)) {
       chosen.push(question);
       chosenIds.add(question.id);
     }
   });
-  const remaining = shuffle(candidates.filter((question) => !chosenIds.has(question.id)))
-    .map((question) => ({ question, score: Math.random() * (0.12 + weight(question.chapter)) }))
+  const remaining = shuffle(candidates.filter((question) => !chosenIds.has(question.id)), random)
+    .map((question) => ({ question, score: random() * (0.12 + weight(question.chapter)) }))
     .sort((a, b) => b.score - a.score)
     .slice(0, target - chosen.length)
     .map(({ question }) => question);
-  return shuffle([...chosen, ...remaining]);
+  return shuffle([...chosen, ...remaining], random);
 }
 
 function downloadBlob(content, filename, type) {
@@ -176,12 +178,21 @@ function downloadBlob(content, filename, type) {
   URL.revokeObjectURL(url);
 }
 
-function PaperQuestion({ question, index }) {
+function PaperQuestion({ question, index, marks, showMarks, showChapter, showSource }) {
   return (
     <div className="paper-question">
       <div className="paper-number">{index + 1}.</div>
       <div className="paper-question-body">
-        <div className="paper-question-text"><RichText text={question.text} /></div>
+        <div className="paper-question-text">
+          <RichText text={question.text} />
+          {showMarks && <span className="question-marks">[{marks}]</span>}
+        </div>
+        {(showChapter || showSource) && (
+          <div className="paper-question-meta">
+            {showChapter && <span>{question.chapter}</span>}
+            {showSource && <span>{question.source === 'past_paper' ? `Past paper${question.year ? ` · ${question.year}` : ''}` : 'Important book'}</span>}
+          </div>
+        )}
         {question.parts.length > 0 && (
           <div className="paper-parts">
             {question.parts.map((part, partIndex) => (
@@ -232,7 +243,14 @@ function QuestionRow({ question, checked, onToggle }) {
       <input type="checkbox" checked={checked} onChange={() => onToggle(question.id)} />
       <span className="custom-check"><Icon name="check" size={13} /></span>
       <span className="question-row-copy">
-        <span className="question-meta"><span className={`section-chip section-${displaySection === '?' ? 'unknown' : displaySection}`}>{displaySection}</span><span>{question.chapter}</span>{question.section !== 'B' && question.section !== 'C' && <span className="parts-badge">not eligible for B/C output</span>}{question.parts.length > 0 && <span className="parts-badge">{question.parts.length} parts</span>}</span>
+        <span className="question-meta">
+          <span className={`section-chip section-${displaySection === '?' ? 'unknown' : displaySection}`}>{displaySection}</span>
+          <span>{question.chapter}</span>
+          <span className="parts-badge">{question.type}</span>
+          <span className="parts-badge">{question.source === 'past_paper' ? `Past paper${question.year ? ` · ${question.year}` : ''}` : 'Important book'}</span>
+          {question.section !== 'B' && question.section !== 'C' && <span className="parts-badge">not eligible for B/C output</span>}
+          {question.parts.length > 0 && <span className="parts-badge">{question.parts.length} parts</span>}
+        </span>
         <span className="question-row-text"><RichText text={question.text} /></span>
       </span>
     </label>
@@ -248,9 +266,26 @@ function App() {
   const [chapterConfig, setChapterConfig] = useState({});
   const [selectedQuestionIds, setSelectedQuestionIds] = useState(new Set());
   const [sectionFilter, setSectionFilter] = useState('All');
+  const [typeFilter, setTypeFilter] = useState('All');
+  const [sourceFilter, setSourceFilter] = useState('All');
+  const [yearFilter, setYearFilter] = useState('All');
   const [questionSearch, setQuestionSearch] = useState('');
   const [shortCount, setShortCount] = useState(5);
   const [longCount, setLongCount] = useState(3);
+  const [shortMarks, setShortMarks] = useState(2);
+  const [longMarks, setLongMarks] = useState(5);
+  const [seed, setSeed] = useState('');
+  const [paperMeta, setPaperMeta] = useState({
+    institution: '',
+    exam: '',
+    time: '2 hours',
+    instructionsB: 'Attempt all questions.',
+    instructionsC: 'Attempt any required questions.',
+    showHeader: true,
+    showMarks: true,
+    showChapter: false,
+    showSource: false
+  });
   const [generatedPaper, setGeneratedPaper] = useState({ B: [], C: [] });
   const [pdfFiles, setPdfFiles] = useState([]);
   const [previewPdf, setPreviewPdf] = useState(null);
@@ -263,7 +298,7 @@ function App() {
 
     function readEmbeddedBanks() {
       return Object.entries(embeddedBankModules).flatMap(([modulePath, payload]) => {
-        const sourceName = modulePath.replace(/^\.\/question-banks\//, '');
+        const sourceName = modulePath.replace(/^\.\.\/Data\//, '');
         try {
           return [normalizeBank(payload, sourceName, `embedded-${sourceName}`)];
         } catch {
@@ -273,7 +308,8 @@ function App() {
     }
 
     async function readNetworkBanks() {
-      const manifestResponse = await fetch('/question-banks/manifest.json', { cache: 'no-store' });
+      const base = import.meta.env.BASE_URL || '/';
+      const manifestResponse = await fetch(`${base}question-banks/manifest.json`, { cache: 'no-store' });
       if (!manifestResponse.ok) throw new Error(`Manifest request failed (${manifestResponse.status}).`);
       const manifestText = await manifestResponse.text();
       if (!manifestText.trim()) throw new Error('The bundled-bank manifest was empty.');
@@ -281,7 +317,7 @@ function App() {
       if (!Array.isArray(manifest.files)) throw new Error('The bundled-bank manifest has no files array.');
       const settled = await Promise.allSettled(manifest.files.map(async (path) => {
         const encodedPath = path.split('/').map(encodeURIComponent).join('/');
-        const response = await fetch(`/question-banks/${encodedPath}`, { cache: 'no-store' });
+        const response = await fetch(`${base}question-banks/${encodedPath}`, { cache: 'no-store' });
         if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
         const text = await response.text();
         if (!text.trim()) throw new Error('empty response');
@@ -295,27 +331,12 @@ function App() {
 
     async function loadBundledBanks() {
       const embedded = readEmbeddedBanks();
-      let network = { loaded: [], failed: 0 };
-      let networkError = null;
-      try {
-        network = await readNetworkBanks();
-      } catch (error) {
-        networkError = error;
-      }
       if (cancelled) return;
-
-      const loaded = network.loaded.length ? network.loaded : embedded;
-      if (!loaded.length) {
-        throw new Error(networkError?.message || 'No bundled question banks could be parsed.');
-      }
-      setBanks(loaded);
-      setSelectedBankId(loaded[0]?.id || '');
+      if (!embedded.length) throw new Error('No bundled question banks could be parsed.');
+      setBanks(embedded);
+      setSelectedBankId(embedded[0]?.id || '');
       setLoadState('ready');
-      if (networkError || network.failed || !network.loaded.length) {
-        setNotice(`Loaded ${loaded.length} bundled question banks from the local fallback${networkError ? ` (${networkError.message})` : '.'}`);
-      } else if (network.failed) {
-        setNotice(`${network.failed} bundled bank${network.failed > 1 ? 's were' : ' was'} skipped because its response was empty or invalid.`);
-      }
+      setNotice(`Loaded ${embedded.length} validated question banks.`);
     }
 
     loadBundledBanks().catch((error) => {
@@ -328,10 +349,11 @@ function App() {
   }, []);
   const selectedBank = useMemo(() => banks.find((bank) => bank.id === selectedBankId) || null, [banks, selectedBankId]);
   const classOptions = useMemo(() => [...new Set(banks.map((bank) => bank.className))].sort((a, b) => a.localeCompare(b, undefined, { numeric: true })), [banks]);
-  const subjectOptions = useMemo(() => [...new Set(banks.map((bank) => bank.subject))].sort(), [banks]);
   const selectedClass = selectedBank?.className || '';
   const selectedSubject = selectedBank?.subject || '';
+  const subjectOptions = useMemo(() => [...new Set(banks.filter((bank) => !selectedClass || bank.className === selectedClass).map((bank) => bank.subject))].sort(), [banks, selectedClass]);
   const chapters = selectedBank?.chapters || [];
+  const availableYears = useMemo(() => [...new Set((selectedBank?.questions || []).map((question) => question.year).filter(Boolean))].sort((a, b) => b - a), [selectedBank]);
   const activeChapters = useMemo(() => chapters.filter((chapter) => chapterConfig[chapter]?.selected), [chapters, chapterConfig]);
   const percentages = useMemo(() => Object.fromEntries(chapters.map((chapter) => [chapter, chapterConfig[chapter]?.percent ?? 0])), [chapters, chapterConfig]);
 
@@ -347,13 +369,23 @@ function App() {
     setLongCount(Math.min(3, eligible.filter((question) => question.section === 'C').length));
     setGeneratedPaper({ B: [], C: [] });
     setSectionFilter('All');
+    setTypeFilter('All');
+    setSourceFilter('All');
+    setYearFilter('All');
     setQuestionSearch('');
   }, [selectedBankId]);
 
   const selectedPool = useMemo(() => {
     if (!selectedBank) return [];
-    return selectedBank.questions.filter((question) => selectedQuestionIds.has(question.id) && activeChapters.includes(question.chapter) && (question.section === 'B' || question.section === 'C'));
-  }, [selectedBank, selectedQuestionIds, activeChapters]);
+    return selectedBank.questions.filter((question) =>
+      selectedQuestionIds.has(question.id)
+      && activeChapters.includes(question.chapter)
+      && (question.section === 'B' || question.section === 'C')
+      && (typeFilter === 'All' || question.type === typeFilter)
+      && (sourceFilter === 'All' || question.source === sourceFilter)
+      && (yearFilter === 'All' || String(question.year) === String(yearFilter))
+    );
+  }, [selectedBank, selectedQuestionIds, activeChapters, typeFilter, sourceFilter, yearFilter]);
   const poolBySection = useMemo(() => ({
     B: selectedPool.filter((question) => question.section === 'B'),
     C: selectedPool.filter((question) => question.section === 'C')
@@ -363,10 +395,13 @@ function App() {
     const query = questionSearch.trim().toLowerCase();
     return selectedBank.questions.filter((question) => {
       const matchingSection = sectionFilter === 'All' || question.section === sectionFilter;
+      const matchingType = typeFilter === 'All' || question.type === typeFilter;
+      const matchingSource = sourceFilter === 'All' || question.source === sourceFilter;
+      const matchingYear = yearFilter === 'All' || String(question.year) === String(yearFilter);
       const matchingText = !query || String(question.text).toLowerCase().includes(query) || question.parts.some((part) => String(part.text).toLowerCase().includes(query));
-      return matchingSection && matchingText;
+      return matchingSection && matchingType && matchingSource && matchingYear && matchingText;
     });
-  }, [selectedBank, sectionFilter, questionSearch]);
+  }, [selectedBank, sectionFilter, typeFilter, sourceFilter, yearFilter, questionSearch]);
   const visibleSelected = visibleQuestions.filter((question) => selectedQuestionIds.has(question.id)).length;
   const allocationTotal = activeChapters.reduce((sum, chapter) => sum + Number(chapterConfig[chapter]?.percent || 0), 0);
 
@@ -430,14 +465,33 @@ function App() {
     setChapterConfig((current) => ({ ...current, [chapter]: { ...current[chapter], percent: numeric } }));
   }
 
+  function balanceSelectedChapters() {
+    const selected = chapters.filter((chapter) => chapterConfig[chapter]?.selected);
+    if (!selected.length) return;
+    const base = Math.floor(100 / selected.length);
+    let remainder = 100 - base * selected.length;
+    setChapterConfig((current) => Object.fromEntries(chapters.map((chapter) => [
+      chapter,
+      {
+        ...current[chapter],
+        percent: current[chapter]?.selected ? base + (remainder-- > 0 ? 1 : 0) : 0
+      }
+    ])));
+  }
+
   function generatePaper() {
     if (!activeChapters.length) {
       showNotice('Select at least one chapter before generating.');
       return;
     }
+    if (!poolBySection.B.length && !poolBySection.C.length) {
+      showNotice('No questions match the current chapter and metadata filters.');
+      return;
+    }
+    const random = seededRandom(seed.trim() || `${Date.now()}-${selectedBankId}`);
     const paper = {
-      B: allocateQuestions(poolBySection.B, Math.max(0, Number(shortCount) || 0), percentages),
-      C: allocateQuestions(poolBySection.C, Math.max(0, Number(longCount) || 0), percentages)
+      B: allocateQuestions(poolBySection.B, Math.max(0, Number(shortCount) || 0), percentages, random),
+      C: allocateQuestions(poolBySection.C, Math.max(0, Number(longCount) || 0), percentages, random)
     };
     setGeneratedPaper(paper);
     setActiveStep(4);
@@ -469,6 +523,7 @@ function App() {
 
   const hasPaper = generatedPaper.B.length > 0 || generatedPaper.C.length > 0;
   const totalQuestions = (selectedBank?.questions || []).filter((question) => question.section === 'B' || question.section === 'C').length;
+  const totalMarks = generatedPaper.B.length * Math.max(0, Number(shortMarks) || 0) + generatedPaper.C.length * Math.max(0, Number(longMarks) || 0);
 
   return (
     <div className="app-shell">
@@ -510,6 +565,12 @@ function App() {
                   <div className="filter-pills">{SECTION_FILTERS.map((filter) => <button key={filter} className={sectionFilter === filter ? 'active' : ''} onClick={() => setSectionFilter(filter)}>{filter === 'All' ? 'All sections' : `Section ${filter}`}</button>)}</div>
                   <button className="text-button" onClick={toggleVisibleQuestions}>{visibleSelected === visibleQuestions.length ? 'Deselect visible' : 'Select visible'}</button>
                 </div>
+                <div className="metadata-filters">
+                  <label>Type<select value={typeFilter} onChange={(event) => setTypeFilter(event.target.value)}><option>All</option><option value="short">Short</option><option value="numerical">Numerical</option><option value="long">Long</option></select></label>
+                  <label>Source<select value={sourceFilter} onChange={(event) => setSourceFilter(event.target.value)}><option>All</option><option value="past_paper">Past paper</option><option value="important_book">Important book</option></select></label>
+                  <label>Year<select value={yearFilter} onChange={(event) => setYearFilter(event.target.value)}><option>All</option>{availableYears.map((year) => <option key={year} value={year}>{year}</option>)}</select></label>
+                  <button className="text-button" onClick={() => { setTypeFilter('All'); setSourceFilter('All'); setYearFilter('All'); }}>Clear filters</button>
+                </div>
                 <div className="pool-summary"><span><b>{visibleQuestions.length}</b> shown</span><span className="summary-divider" /><span><b>{poolBySection.B.length}</b> short</span><span><b>{poolBySection.C.length}</b> long</span><span className="summary-spacer" /><span className="legend-item"><i className="legend-dot dot-b" /> B</span><span className="legend-item"><i className="legend-dot dot-c" /> C</span><span className="legend-item"><i className="legend-dot dot-unknown" /> ?</span></div>
                 <div className="question-list">
                   {visibleQuestions.length ? visibleQuestions.map((question) => <QuestionRow key={question.id} question={question} checked={selectedQuestionIds.has(question.id)} onToggle={toggleQuestion} />) : <div className="empty-list"><Icon name="search" size={22} /><strong>No questions match</strong><span>Try a different search or section filter.</span></div>}
@@ -526,24 +587,42 @@ function App() {
               <section className="panel chapter-panel">
                 <div className="panel-heading compact"><div><div className="panel-kicker">STEP 02 — BALANCE</div><h2>Chapter contribution</h2><p>Every selected chapter gets a fair chance when the pool allows.</p></div><div className={`total-badge ${allocationTotal === 100 ? 'valid' : ''}`}><strong>{allocationTotal}%</strong><span>{allocationTotal === 100 ? 'balanced' : 'adjust to 100%'}</span></div></div>
                 <div className="chapter-list">{chapters.map((chapter, index) => { const chapterQuestions = selectedBank.questions.filter((question) => question.chapter === chapter); return <div className={`chapter-row ${chapterConfig[chapter]?.selected ? 'selected' : ''}`} key={chapter}><button className="chapter-toggle" onClick={() => toggleChapter(chapter)} aria-label={`Toggle ${chapter}`}><span className="chapter-check"><Icon name="check" size={13} /></span></button><div className="chapter-stamp">{chapter === UNKNOWN_CHAPTER ? '?' : String(index + 1).padStart(2, '0')}</div><div className="chapter-name"><strong>{chapter}</strong><span>{chapterQuestions.length} questions</span></div><div className="percent-input"><input type="number" min="0" max="100" value={chapterConfig[chapter]?.percent ?? 0} onChange={(event) => changePercent(chapter, event.target.value)} /><span>%</span></div></div>})}</div>
-                <div className="chapter-footnote"><Icon name="info" size={14} /> Percentages are normalized during generation; 100% keeps the plan easiest to read.</div>
+                <div className="chapter-footnote"><span><Icon name="info" size={14} /> Percentages are normalized during generation.</span><button className="text-button" onClick={balanceSelectedChapters}>Balance evenly</button></div>
               </section>
 
               <section className="panel shape-panel">
                 <div className="panel-heading compact"><div><div className="panel-kicker">STEP 03 — SHAPE</div><h2>Paper structure</h2><p>Choose how many questions to draw from the curated pool.</p></div><div className="shape-icon"><Icon name="sliders" size={20} /></div></div>
-                <div className="count-grid"><label className="count-card"><span className="count-label"><i className="legend-dot dot-b" /> Section B <small>short questions</small></span><input type="number" min="0" max={poolBySection.B.length} value={shortCount} onChange={(event) => setShortCount(event.target.value)} /><span className="availability">of {poolBySection.B.length} available</span></label><label className="count-card"><span className="count-label"><i className="legend-dot dot-c" /> Section C <small>long questions</small></span><input type="number" min="0" max={poolBySection.C.length} value={longCount} onChange={(event) => setLongCount(event.target.value)} /><span className="availability">of {poolBySection.C.length} available</span></label></div>
+                <div className="count-grid">
+                  <label className="count-card"><span className="count-label"><i className="legend-dot dot-b" /> Section B <small>questions</small></span><input type="number" min="0" max={poolBySection.B.length} value={shortCount} onChange={(event) => setShortCount(event.target.value)} /><span className="availability">of {poolBySection.B.length} available</span><span className="inline-setting">Marks each <input type="number" min="0" value={shortMarks} onChange={(event) => setShortMarks(event.target.value)} /></span></label>
+                  <label className="count-card"><span className="count-label"><i className="legend-dot dot-c" /> Section C <small>questions</small></span><input type="number" min="0" max={poolBySection.C.length} value={longCount} onChange={(event) => setLongCount(event.target.value)} /><span className="availability">of {poolBySection.C.length} available</span><span className="inline-setting">Marks each <input type="number" min="0" value={longMarks} onChange={(event) => setLongMarks(event.target.value)} /></span></label>
+                </div>
+                <div className="paper-settings">
+                  <label>Institution<input value={paperMeta.institution} onChange={(event) => setPaperMeta({ ...paperMeta, institution: event.target.value })} placeholder="School or college name" /></label>
+                  <label>Exam title<input value={paperMeta.exam} onChange={(event) => setPaperMeta({ ...paperMeta, exam: event.target.value })} placeholder="Midterm examination" /></label>
+                  <label>Time allowed<input value={paperMeta.time} onChange={(event) => setPaperMeta({ ...paperMeta, time: event.target.value })} /></label>
+                  <label>Repeatable seed<input value={seed} onChange={(event) => setSeed(event.target.value)} placeholder="Leave blank for new random paper" /></label>
+                  <label className="wide-setting">Section B instructions<input value={paperMeta.instructionsB} onChange={(event) => setPaperMeta({ ...paperMeta, instructionsB: event.target.value })} /></label>
+                  <label className="wide-setting">Section C instructions<input value={paperMeta.instructionsC} onChange={(event) => setPaperMeta({ ...paperMeta, instructionsC: event.target.value })} /></label>
+                </div>
+                <div className="toggle-grid">
+                  {[['showHeader', 'Paper header'], ['showMarks', 'Marks'], ['showChapter', 'Chapter labels'], ['showSource', 'Source/year']].map(([key, label]) => <label key={key}><input type="checkbox" checked={paperMeta[key]} onChange={(event) => setPaperMeta({ ...paperMeta, [key]: event.target.checked })} /><span>{label}</span></label>)}
+                </div>
                 <button className="generate-button" onClick={generatePaper}><span><Icon name="shuffle" size={18} /> Generate random paper</span><Icon name="arrow" size={18} /></button>
-                <div className="generation-note"><span className="spark">✦</span> Randomized within your chapter percentages. Optional parts stay attached.</div>
+                <div className="generation-note"><span className="spark">✦</span> Chapter-aware, filter-aware, and reproducible when you provide a seed.</div>
               </section>
 
               <section className="panel preview-panel">
-                <div className="panel-heading compact preview-heading"><div><div className="panel-kicker">STEP 04 — REVIEW</div><h2>Paper preview</h2><p>The export surface contains only the required sections and selected questions.</p></div><div className="export-actions"><button className="small-button" onClick={downloadWord} disabled={!hasPaper}><Icon name="word" size={15} /> Word</button><button className="small-button dark" onClick={downloadPdf} disabled={!hasPaper}><Icon name="pdf" size={15} /> PDF</button></div></div>
+                <div className="panel-heading compact preview-heading"><div><div className="panel-kicker">STEP 04 — REVIEW</div><h2>Paper preview</h2><p>Review the exact printable output before export.</p></div><div className="export-actions"><button className="small-button" onClick={() => window.print()} disabled={!hasPaper}>Print</button><button className="small-button" onClick={downloadWord} disabled={!hasPaper}><Icon name="word" size={15} /> Word</button><button className="small-button dark" onClick={downloadPdf} disabled={!hasPaper}><Icon name="pdf" size={15} /> PDF</button></div></div>
                 <div className="paper-frame">
                   <div className="paper-sheet" id="paper-print" ref={paperRef}>
-                    {hasPaper ? <><section className="paper-section"><h3>Section B</h3>{generatedPaper.B.map((question, index) => <PaperQuestion key={question.id} question={question} index={index} />)}</section><section className="paper-section"><h3>Section C</h3>{generatedPaper.C.map((question, index) => <PaperQuestion key={question.id} question={question} index={index} />)}</section></> : <div className="paper-empty"><div className="empty-paper-mark"><Icon name="file" size={24} /></div><strong>Your paper will appear here</strong><span>Set the balance, then generate a random paper.</span></div>}
+                    {hasPaper ? <>
+                      {paperMeta.showHeader && <header className="exam-header"><h2>{paperMeta.institution || 'Question Paper'}</h2>{paperMeta.exam && <h4>{paperMeta.exam}</h4>}<div><span>Class: {selectedClass}</span><span>Subject: {selectedSubject}</span><span>Time: {paperMeta.time}</span><span>Total marks: {totalMarks}</span></div></header>}
+                      {generatedPaper.B.length > 0 && <section className="paper-section"><h3>Section B <small>{paperMeta.instructionsB}</small></h3>{generatedPaper.B.map((question, index) => <PaperQuestion key={question.id} question={question} index={index} marks={shortMarks} {...paperMeta} />)}</section>}
+                      {generatedPaper.C.length > 0 && <section className="paper-section"><h3>Section C <small>{paperMeta.instructionsC}</small></h3>{generatedPaper.C.map((question, index) => <PaperQuestion key={question.id} question={question} index={index} marks={longMarks} {...paperMeta} />)}</section>}
+                    </> : <div className="paper-empty"><div className="empty-paper-mark"><Icon name="file" size={24} /></div><strong>Your paper will appear here</strong><span>Set the balance, then generate a random paper.</span></div>}
                   </div>
                 </div>
-                {hasPaper && <div className="preview-foot"><span><span className="status-dot" /> Ready to export</span><span>{generatedPaper.B.length + generatedPaper.C.length} questions selected</span></div>}
+                {hasPaper && <div className="preview-foot"><span><span className="status-dot" /> Ready to export</span><span>{generatedPaper.B.length + generatedPaper.C.length} questions · {totalMarks} marks</span></div>}
               </section>
             </div>
           </div>
