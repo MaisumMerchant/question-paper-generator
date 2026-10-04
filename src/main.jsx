@@ -261,16 +261,28 @@ function App() {
     let cancelled = false;
     async function loadBundledBanks() {
       try {
-        const manifest = await fetch('/question-banks/manifest.json').then((response) => response.json());
-        const loaded = await Promise.all(manifest.files.map(async (path) => {
+        const manifestResponse = await fetch('/question-banks/manifest.json');
+        if (!manifestResponse.ok) throw new Error(`Manifest request failed (${manifestResponse.status}).`);
+        const manifestText = await manifestResponse.text();
+        if (!manifestText.trim()) throw new Error('The bundled-bank manifest was empty.');
+        const manifest = JSON.parse(manifestText);
+        const settled = await Promise.allSettled(manifest.files.map(async (path) => {
           const encodedPath = path.split('/').map(encodeURIComponent).join('/');
-          const payload = await fetch(`/question-banks/${encodedPath}`).then((response) => response.json());
+          const response = await fetch(`/question-banks/${encodedPath}`);
+          if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+          const text = await response.text();
+          if (!text.trim()) throw new Error('empty response');
+          const payload = JSON.parse(text);
           return normalizeBank(payload, path, `bundled-${path}`);
         }));
+        const loaded = settled.flatMap((result) => result.status === 'fulfilled' ? [result.value] : []);
+        const failed = settled.filter((result) => result.status === 'rejected');
         if (!cancelled) {
+          if (!loaded.length) throw new Error('No bundled question banks could be parsed.');
           setBanks(loaded);
           setSelectedBankId(loaded[0]?.id || '');
           setLoadState('ready');
+          if (failed.length) setNotice(`${failed.length} bundled bank${failed.length > 1 ? 's were' : ' was'} skipped because its response was empty or invalid.`);
         }
       } catch (error) {
         if (!cancelled) {
