@@ -1,0 +1,138 @@
+{
+  "subject": "Mathematics",
+  "class": "XII",
+  "questions": [
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2025,
+      "text": "If $f(x) = \\frac{x + 1}{3}$ and $g(x) = 3x + 5$ are two functions then show that $(f \\circ g)^{-1} = g^{-1} \\circ f^{-1}$."
+    },
+    {
+      "section": "B",
+      "number": "ii)",
+      "year": 2025,
+      "text": "Evaluate any one of the following: $\\lim_{x \\to 0} \\frac{1 - \\cos^3x}{\\sin^2x}$ $\\lim_{x \\to e} \\frac{\\ln x - 1}{x - e}$"
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2025,
+      "text": "Find the value of $p'$ if $f(x) = \\left(\\frac{\\sin px}{x}\\right)$; $x \\neq 0$ is continuous at $x = 0$. (Same question with different variable)"
+    },
+    {
+      "section": "B",
+      "number": "ii)",
+      "year": 2024,
+      "text": "Evaluate any one of the following: $\\lim_{x \\to 0} \\frac{\\sin\\sqrt{ax}}{x}$ $\\lim_{x \\to 0} \\frac{\\sqrt{x + 3} - \\sqrt{3}}{x}$"
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2024,
+      "text": "Evaluate any one of the following:"
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 0,
+      "text": "Find the first four terms of Taylor's Series of $f(x) = \\ln (1 + x)$ at $b = 2$. EXAMPLE (vi), TOPIC 4.2.1"
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 0,
+      "text": "Find the first four terms of Taylor's Series of $f(x) = \\cos x$ at $a = \\frac{\\pi}{4}$. EXAMPLE (ii), TOPIC 4.2.1"
+    },
+    {
+      "section": "B",
+      "number": "v)",
+      "year": 0,
+      "text": "Show that the function $F(t) = \\sin^2 t \\mathbf{i} + \\tan t \\mathbf{j} + \\frac{1}{2} \\mathbf{k}$ is continuous at $t = \\frac{\\pi}{4}$."
+    },
+    {
+      "section": "B",
+      "number": "v)",
+      "year": 0,
+      "text": "Show that the function $F(t) = |t| \\mathbf{i} + \\frac{1}{2} t \\mathbf{j} + \\frac{1}{2} \\mathbf{k}$ is continuous at $t = 0$ EXAMPLE: 2, TOPIC 5.2.2"
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 0,
+      "text": "A particle moves along a curve whose parametric equations are $x = e^{-t}, y = 2\\cos 3t$ and $z = 2\\sin 3t$. Find the magnitude of the acceleration at $t = 0$. EXAMPLE: 1, TOPIC 5.4.2"
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 0,
+      "text": "A particle moves so that its position as a function of time is given by $r(t) = \\mathbf{i} + 4t^2 \\mathbf{j} + t \\mathbf{k}$. Write expressions for its: a) Velocity b) acceleration as functions of time"
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 0,
+      "text": "Compute the definite integral $\\int_{0}^{\\pi/2} \\cos x \\, dx$ by using basic properties. EXAMPLE: 6, TOPIC 6.6.3"
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 0,
+      "text": "Find the area, above x-axis under the curve $y = 3x^2 + 2$ between the ordinates $x = 1$ and $x = 2$."
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 0,
+      "text": "Computer the definite integral $\\int_{0}^{\\pi/2} (x^4 + 2x^2) \\, dx$ by using basic properties."
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 0,
+      "text": "Find the area, above x-axis under the curve $y = 3\\sec^2 x$ between the ordinates $x = \\pi/6$ and $x = \\pi/3$."
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 0,
+      "text": "Compute the following definite integral by using basic properties. $\\int (x^4 + 2x^2) \\, dx$"
+    },
+    {
+      "section": "B",
+      "number": "viii)",
+      "year": 0,
+      "text": "Find the area, above the x-axis under the curve $y = x^2 + 1$ between the given ordinates $x = 2, x = 4$. EXAMPLE: 1, TOPIC 6.6.5"
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 0,
+      "text": "Compute the definite integral by using basic properties: $\\int_{0}^{\\pi/2} \\sin^2 x \\cos^2 x \\, dx$"
+    },
+    {
+      "section": "B",
+      "number": "viii)",
+      "year": 0,
+      "text": "Find the Area, above the x-axis under the curve $y = 3x^2 + 2$, between the ordinates $x = 1, x = 2$."
+    },
+    {
+      "section": "C",
+      "number": "3",
+      "year": 0,
+      "text": "Evaluate any two of the following: a) $\\int \\frac{5x-2}{(x-3)(x+7)} \\, dx$ (by using partial fraction) b) $\\int \\frac{x^2}{3 - x^2} \\, dx$ (by using integration by parts) c) $\\int \\frac{x^2}{3 - x^2} \\, dx$ (by using trigonometric substitution)"
+    },
+    {
+      "section": "C",
+      "number": "3",
+      "year": 0,
+      "text": "Evaluate any two of the following: a) $\\int 2x \\sec^{-1}x \\, dx$ (by using integration by parts) b) $\\int \\frac{\\cos x \\, dx}{\\sin x(2+\\sin x)}$ (by using partial fraction) a) $\\int \\frac{2\\sqrt{3} x^3 \\, dx}{(x^3+4)}$ (by using trigonometric substitution)"
+    },
+    {
+      "section": "C",
+      "number": "3",
+      "year": 0,
+      "text": "Evaluate any two of the following: (a) $\\int \\cos^2 x \\sin^3 x \\, dx$ EXAMPLE: 3, TOPIC 6.3.2 (b) $\\int \\frac{-\\sqrt{3} \\, dx}{x\\sqrt{x^2-9}}$ EXAMPLE: 8, TOPIC 6.6.3 (c) $\\int \\cos(\\ln x) \\, dx$"
+    }
+  ]
+}
