@@ -1,0 +1,1252 @@
+{
+  "subject": "Physics",
+  "class": "XI",
+  "questions": [
+    {
+      "section": "B",
+      "number": "xi)",
+      "year": 2025,
+      "text": "Prove that the following equations are dimensionally correct:",
+      "parts": [
+        {
+          "label": "*",
+          "text": "$S = v_i t + \\frac{1}{2}at^2$"
+        },
+        {
+          "label": "*",
+          "text": "$T = 2\\pi \\sqrt{\\frac{l}{g}}$"
+        },
+        {
+          "label": "*",
+          "text": "$F = \\frac{mv^2}{r}$"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2024,
+      "text": "Prove that following equations are dimensionally correct:",
+      "parts": [
+        {
+          "label": "*",
+          "text": "$T = 2\\pi \\sqrt{\\frac{l}{g}}$"
+        },
+        {
+          "label": "*",
+          "text": "$x = m_1/2$"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2024,
+      "text": "Prove that following equations are dimensionally correct:",
+      "parts": [
+        {
+          "label": "*",
+          "text": "$T = 2\\pi \\sqrt{\\frac{l}{g}}$"
+        },
+        {
+          "label": "*",
+          "text": "$S = v_i t + \\frac{1}{2}at^2$"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "x)",
+      "year": 2023,
+      "text": "Using dimensional analysis verify the equations:",
+      "parts": [
+        {
+          "label": "a)",
+          "text": "$v_f = v_i + at$"
+        },
+        {
+          "label": "b)",
+          "text": "$T = 2\\pi \\sqrt{\\frac{l}{g}}$"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "(ii)",
+      "year": 2022,
+      "text": "Show that any two of the following equations.",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "$S = v_i t + \\frac{1}{2}at^2$"
+        },
+        {
+          "label": "(b)",
+          "text": "$T = 2\\pi \\sqrt{\\frac{l}{g}}$"
+        },
+        {
+          "label": "(c)",
+          "text": "$T = 2\\pi \\sqrt{\\frac{m}{k}}$"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "(vii)",
+      "year": 2017,
+      "text": "Show that the expression $f = \\frac{1}{2l}\\sqrt{\\frac{T}{m}}$ is dimensionally correct and find the dimensions of kinetic energy."
+    },
+    {
+      "section": "B",
+      "number": "(ii)",
+      "year": 2016,
+      "text": "Show that the following formulae are dimensionally correct: (a) $V = f\\lambda$ (b) $T = 2\\pi \\sqrt{\\frac{m}{k}}$"
+    },
+    {
+      "section": "B",
+      "number": "xiii)",
+      "year": 2025,
+      "text": "What is a projectile? Derive mathematical equation for its horizontal range."
+    },
+    {
+      "section": "B",
+      "number": "v)",
+      "year": 2025,
+      "text": "At what angle the horizontal range of projectile become equal to its vertical range? Prove mathematically."
+    },
+    {
+      "section": "B",
+      "number": "iv)",
+      "year": 2024,
+      "text": "A mortar shell is fired at a ground level target 500m distance with an initial velocity of $90ms^{-1}$. What is the launch angle?"
+    },
+    {
+      "section": "B",
+      "number": "iii)",
+      "year": 2023,
+      "text": "Why catching a ball of high trajectory easier in a cricket match?"
+    },
+    {
+      "section": "B",
+      "number": "xi)",
+      "year": 2023,
+      "text": "Find a unit vector normal to the plane of vectors $A = i - 2j + k$ and $B = 4i - 4j + 7k$."
+    },
+    {
+      "section": "B",
+      "number": "(vi)",
+      "year": 2022,
+      "text": "What is the ratio of maximum range and maximum height of a projectile for an angle at which range is maximum."
+    },
+    {
+      "section": "B",
+      "number": "2. iv)",
+      "year": 2021,
+      "text": "Determine the unit vector perpendicular in the plane of $A = 2i - 6j - 3k$ and $B = 4i + 3j - k$"
+    },
+    {
+      "section": "B",
+      "number": "(x)",
+      "year": 2019,
+      "text": "In the game of cricket, why is it easy to catch a ball of high trajectory?"
+    },
+    {
+      "section": "B",
+      "number": "(xiii)",
+      "year": 2019,
+      "text": "Two vectors A and B are such that $|A| = 4$, and $|B| = 6$ and $A.B = 13.5$. Find the magnitude of difference of vectors and the angle between A and B."
+    },
+    {
+      "section": "B",
+      "number": "(i)",
+      "year": 2018,
+      "text": "If the vector $A = ai + j - 2k$ and $B = i + aj + k$ are perpendicular to each other, then find the value of “a”."
+    },
+    {
+      "section": "B",
+      "number": "(ii)",
+      "year": 2018,
+      "text": "Calculate the angle of projection for which the maximum height of a projectile is equal to 1/3 of its horizontal range."
+    },
+    {
+      "section": "B",
+      "number": "(ii)",
+      "year": 2017,
+      "text": "If $A = 2i - 6j - 3k$ and $B = 4i + 3j - k$, find a unit vector perpendicular to the plane of A and B."
+    },
+    {
+      "section": "B",
+      "number": "(viii)",
+      "year": 2017,
+      "text": "A boy standing 12m from a building can just barely reach the roof 10m above him when he throws a ball at the optimum angle with respect to the ground. Find the initially velocity components of the ball."
+    },
+    {
+      "section": "B",
+      "number": "(xi)",
+      "year": 2016,
+      "text": "Determine the unit vector perpendicular to the plane of $\\overline{A} = 3i+4j-k$ and $\\overline{B} = 4i + 3j - 2\\overline{k}$ vectors."
+    },
+    {
+      "section": "B",
+      "number": "(xii)",
+      "year": 2016,
+      "text": "Two sides of a triangle are formed by vectors. $\\overline{A} = 3i + 6j - 2\\overline{k}$ and $\\overline{B} = 4i - j + 3\\overline{k}$, determine the area of the triangle."
+    },
+    {
+      "section": "C",
+      "number": "4. b)",
+      "year": 2021,
+      "text": "Define scalar product and vector product of two vectors. Give one example of each. Prove that $\\overline{A} \\times \\overline{B} \\neq \\overline{B} \\times \\overline{A}$."
+    },
+    {
+      "section": "C",
+      "number": "3. a)",
+      "year": 2020,
+      "text": "Define Projectile Motion. Derive mathematical equations for the following: i) Time to reach maximum height ii) Range of the projectile"
+    },
+    {
+      "section": "C",
+      "number": "4. a)",
+      "year": 2019,
+      "text": "Describe the addition of vectors by Head to Tail method. Add two vectors $\\overline{P}$ and $\\overline{Q}$ making angles $\\theta_1$ and $\\theta_2$ with the horizontal by rectangular component method."
+    },
+    {
+      "section": "C",
+      "number": "3. a)",
+      "year": 2018,
+      "text": "Two vectors $\\overline{A_2}$ and $\\overline{A_1}$ making angles $\\theta_1$ and $\\theta_2$ with the horizontal. Describe addition of these vectors by rectangular component method also derive formula for magnitude of resultant vector and its direction."
+    },
+    {
+      "section": "C",
+      "number": "4. a)",
+      "year": 2017,
+      "text": "What is a projectile? Give example. Derive of the following expressions for: i) maximum height of projectile ii) total time of flight of projectile iii) range of projectile"
+    },
+    {
+      "section": "C",
+      "number": "5. b)",
+      "year": 2016,
+      "text": "Define Position and Unit Vectors. Describe the law of parallelogram of vector addition. Determine the magnitude of resultant vector and also write the direction of resultant vector, diagrams are necessary."
+    },
+    {
+      "section": "C",
+      "number": "3. (a)",
+      "year": 2015,
+      "text": "Describe the addition of two vectors by rectangular components method. Draw labelled diagram."
+    },
+    {
+      "section": "C",
+      "number": "3. a)",
+      "year": 2014,
+      "text": "Show that i) $\\overline{A} \\cdot \\overline{B} = \\overline{B} \\cdot \\overline{A}$ (ii) $\\overline{A} \\cdot (\\overline{B} + \\overline{C}) = \\overline{A} \\cdot \\overline{B} + \\overline{A} \\cdot \\overline{C}$"
+    },
+    {
+      "section": "C",
+      "number": "4. c)",
+      "year": 2014,
+      "text": "A shell is fired at an angle $\\theta^\\circ$ with the horizontal initial velocity $v_0$. Find the expressions for its; i) Maximum height ii) Horizontal range"
+    },
+    {
+      "section": "C",
+      "number": "4. (b)",
+      "year": 2014,
+      "text": "In how many ways can vectors be added? Two vectors $\\overline{P}$ and $\\overline{Q}$ are making angles $\\theta_1$ and $\\theta_2$ with x-axis respectively. Find the magnitude and direction of the resultant vector by rectangular components method."
+    },
+    {
+      "section": "C",
+      "number": "3. (a)",
+      "year": 2014,
+      "text": "Define scalar vector products of two vectors, giving an example of each. $\\overline{A} \\cdot \\overline{B} = \\overline{B} \\cdot \\overline{A}$. Also show that the magnitude of vector product of two vectors is equal to area of parallelogram."
+    },
+    {
+      "section": "C",
+      "number": "5. (a)",
+      "year": 2013,
+      "text": "By rectangular components method, describe step, the addition of two vectors A1 and A2, making angles $\\theta_1$ and $\\theta_2$ with x-axis respectively."
+    },
+    {
+      "section": "C",
+      "number": "3. (a)",
+      "year": 2012,
+      "text": "Define scalar and vector product. Show that: $\\overline{A} \\cdot \\overline{B} = \\overline{B} \\cdot \\overline{A}$ $\\overline{B} \\cdot (\\overline{A} + \\overline{C}) = \\overline{B} \\cdot \\overline{A} + \\overline{B} \\cdot \\overline{C}$"
+    },
+    {
+      "section": "C",
+      "number": "5. (b)",
+      "year": 2011,
+      "text": "Define projectile motion. A projectile is thrown in the air at an angle \"θ\" with the horizontal with the velocity $V_0$. Derive the equation for the total time of flight and the range of projectile."
+    },
+    {
+      "section": "C",
+      "number": "3. (a)",
+      "year": 2010,
+      "text": "Tow vectors P and Q are acting on a point making angles $\\theta_1$ and $\\theta_2$ with positive x-axis respectively. Find the expressions for the magnitude of the resultant vector and its direction."
+    },
+    {
+      "section": "C",
+      "number": "4. (b)",
+      "year": 2009,
+      "text": "An object is thrown upward with initial velocity V0 at the angle \"θ\" with the horizontal. Derive the expression for (i)Time required to reach maximum height (ii)Horizontal range."
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2025,
+      "text": "A 100 gram bullet is fired into a 12 kg block which is suspended by a long card so that it can swing as a pendulum. If bullet is embedded in the block and centre of gravity of the block is rised by 10 cm, what was the speed of bullet?"
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 2025,
+      "text": "For an inclined plane, derive relation between angle of frictions and angle of repose."
+    },
+    {
+      "section": "B",
+      "number": "ii)",
+      "year": 2025,
+      "text": "What is angle of repose? Derive relation between angle of friction and angle of repose."
+    },
+    {
+      "section": "B",
+      "number": "ix)",
+      "year": 2025,
+      "text": "A machine gun fires 10 bullets per second into a target. Each bullet weigh 30 gram and had a speed of 1500m/s. Find the force necessary to hold the gun in its position."
+    },
+    {
+      "section": "B",
+      "number": "xii)",
+      "year": 2024,
+      "text": "State the law of conservation of linear momentum. By using the law, calculate the speed of recoil of the gun, when a 100g bullet is fired from a 10kg gun with a speed of 1000m/s."
+    },
+    {
+      "section": "B",
+      "number": "ii)",
+      "year": 2024,
+      "text": "A 50g bullet is fired into a 10kg block that is suspended by a long cord so that it can swing as a pendulum. If the block is displaced so that its center of gravity rises by 10cm, find the initial velocity of bullet."
+    },
+    {
+      "section": "B",
+      "number": "xi)",
+      "year": 2024,
+      "text": "A helicopter is ascending at a rate of 12m/s. At a height of 80m above the ground, a packet is dropped. Find the time taken by packet to reach the ground."
+    },
+    {
+      "section": "B",
+      "number": "ix)",
+      "year": 2023,
+      "text": "A helicopter is ascending at a rate of $12m/s$. At a height of $80m$, a package is dropped. How long does the package take to reach ground?"
+    },
+    {
+      "section": "B",
+      "number": "(iv)",
+      "year": 2023,
+      "text": "A cyclist is going up a slope of $30^\\circ$ with a $3.5m/s$, If he stops pedaling, how much distance will he move before coming to rest? (Assume, friction in in negligible)."
+    },
+    {
+      "section": "B",
+      "number": "2. vii)",
+      "year": 2022,
+      "text": "Derive an expression for the acceleration of a body sliding down on a frictionless inclined plane. Also show that all the bodies sliding down on frictionless inclined plane have the same acceleration."
+    },
+    {
+      "section": "B",
+      "number": "2. (i)",
+      "year": 2022,
+      "text": "A body starts from rest and moves with constant acceleration $10 m/sec^2$. How much distance will it travel in the $4^{th}$ sec of its motion?"
+    },
+    {
+      "section": "B",
+      "number": "(ix)",
+      "year": 2022,
+      "text": "A uniform ladder having length 'L' and weighing $50N$, rests against a smooth vertical wall. If the co-efficient of friction between the ladder and the ground is 0.40, find the minimum angle such that the ladder may not slip."
+    },
+    {
+      "section": "B",
+      "number": "(xv)",
+      "year": 2022,
+      "text": "A 50 gm bullet is fired into $10kg$ wooden block that is suspended by a long cord so that it can swing as a pendulum. If the block is displaced so that its center of gravity rises by $10cm$, what is the speed of the bullet?"
+    },
+    {
+      "section": "B",
+      "number": "(v)",
+      "year": 2021,
+      "text": "A brick of mass $2kg$ is dropped form a height of $5m$ above the ground. What is its velocity at a height of $3m$ above the ground?"
+    },
+    {
+      "section": "B",
+      "number": "(xiii)",
+      "year": 2021,
+      "text": "A balloon tied up with a wooden piece is moving upward with velocity of $15m/s$. At a height of $300m$ above the ground, the wooden piece is detached from the balloon. How much time will it take to reach the ground?"
+    },
+    {
+      "section": "B",
+      "number": "(iii)",
+      "year": 2019,
+      "text": "What is meant by an isolated system? Prove that the linear momentum of two interacting bodies is conserved in an isolated system."
+    },
+    {
+      "section": "B",
+      "number": "(iv)",
+      "year": 2018,
+      "text": "A uniform ladder, of length \"L\" and weight $50N$, tests against a smooth vertical wall. If the coefficient of friction between the ladder and the ground is 0.4, find the minimum angle $\\theta$ such that the ladder may not slip."
+    },
+    {
+      "section": "B",
+      "number": "(viii)",
+      "year": 2017,
+      "text": "It is observed that all bodies, sliding down a frictionless inclined plane, have the same acceleration. How does it happen? Explain."
+    },
+    {
+      "section": "B",
+      "number": "(xii)",
+      "year": 2016,
+      "text": "A car starts from rest and moves with a cons ant acceleration. During the $5^{th}$ second of its motion, it covers a distance of $36m$. Calculate: (a) Acceleration of the car (b) Distance covered by the car during this time"
+    },
+    {
+      "section": "B",
+      "number": "(i)",
+      "year": 2015,
+      "text": "Derive an expression for acceleration of a body moving downward on an inclined plane making angle 'θ' with the horizontal when friction is present."
+    },
+    {
+      "section": "B",
+      "number": "(xiii)",
+      "year": 2015,
+      "text": "A 100 g bullet is formed from a 10 kg gun with a speed of 1000 m/s. What is speed of recoil of the gun?"
+    },
+    {
+      "section": "C",
+      "number": "3. a)",
+      "year": 2025,
+      "text": "Two non-rotating spheres of masses 'm1'and 'm2' are moving in one dimension with initial velocities 'u1'and 'u2' respectively. Derive expressions for final velocities of both after an elastic collision."
+    },
+    {
+      "section": "C",
+      "number": "5. a)",
+      "year": 2024,
+      "text": "Two smooth, rigid and not-rotating spheres of masses m1 and m2, moving with initial velocities U1 and U2, collide elastically in one dimension. Derive the expressions for the final velocities of the spheres after the collision."
+    },
+    {
+      "section": "C",
+      "number": "3. a)",
+      "year": 2023,
+      "text": "What is an inclined plane? A block of mass 'm' is placed on an inclined plane; derive the relation for its acceleration when the block slides down in the presence of friction. What does happen if the angle of inclination becomes 90°. Diagram is necessary."
+    },
+    {
+      "section": "C",
+      "number": "3. (a)",
+      "year": 2022,
+      "text": "A Two non-rotating spheres of masses m1 and m2, initial, moving with velocities and u1 and u2 respectively in one dimensions collide elastically. Derive expression for their final velocities v1 or v2 (diagram is not required)"
+    },
+    {
+      "section": "C",
+      "number": "5. (a)",
+      "year": 2019,
+      "text": "What is an inclined plane? Resolve the weight of the body of mass 'm1', sliding down an inclined plane into components and derive expressions for the acceleration of the body in the: (i) Presence of friction (ii) Absence of friction"
+    },
+    {
+      "section": "C",
+      "number": "3. (b)",
+      "year": 2017,
+      "text": "What is an inclined plane? A body of mass m is sliding down and inclined plane. Derive expression for the acceleration of the body in the: (i) presence of friction (ii) absence of friction."
+    },
+    {
+      "section": "C",
+      "number": "4. (a)",
+      "year": 2016,
+      "text": "Define elastic and inelastic collisions. Two non-rotating spheres of masses m1 and m2, initially moving with the velocities U1 and U2 respectively in one dimension, collide elastically, Derive the expression for their final; velocities V1 and V2"
+    },
+    {
+      "section": "B",
+      "number": "iv)",
+      "year": 2025,
+      "text": "A satellite is orbiting the earth with an orbital velocity 3200 m/s. What is orbital radius? $(G = 6.67 \\times 10^{-11} Nm^3/kg^2$, mass of earth $= 5.98 \\times 10^{24}kg)$"
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2024,
+      "text": "With the help of diagram show the forces acting on a car moving on a banked curve and derive the mathematical expression for banking angle $\\theta = \\tan^{-1}(\\frac{v^2}{rg})$"
+    },
+    {
+      "section": "B",
+      "number": "xiv)",
+      "year": 2024,
+      "text": "Derive an expression for centripetal acceleration $a_c = \\frac{v^2}{r}$."
+    },
+    {
+      "section": "B",
+      "number": "ii)",
+      "year": 2023,
+      "text": "A particle of 300g revolves in a circular orbit with radius or 25cm having uniform angular velocity 25 rev/s. Calculate angular momentum of the particle"
+    },
+    {
+      "section": "B",
+      "number": "xiv)",
+      "year": 2023,
+      "text": "Find centripetal acceleration on a body of mass 64 kg, when it is at equator. $(R_E = 6.4 \\times 10^6 m)$"
+    },
+    {
+      "section": "B",
+      "number": "2. (i)",
+      "year": 2022,
+      "text": "Define torque of a couple. Prove $\\tau = Fd$ with the help of diagram."
+    },
+    {
+      "section": "B",
+      "number": "(xi)",
+      "year": 2022,
+      "text": "A particle of mass m is located at the vector position $\\bar{r}$ and has a linear momentum vector $\\bar{p}$. The vectors $\\bar{r}$ and $\\bar{p}$ are non-zero. If the particle moves in xy-plane, prove that $L_x = L_y = 0, L_z \\neq 0$."
+    },
+    {
+      "section": "B",
+      "number": "(iv)",
+      "year": 2021,
+      "text": "State and prove the law of conservation of Angular momentum."
+    },
+    {
+      "section": "B",
+      "number": "(viii)",
+      "year": 2019,
+      "text": "What is the cause of Centripetal acceleration? Derive an expression for centripetal acceleration when a body moves with constant speed in circular path."
+    },
+    {
+      "section": "B",
+      "number": "(ix)",
+      "year": 2018,
+      "text": "Name the acceleration produced due to the change in the direction of linear velocity of a body moving in a circle. Derive the relevant mathematical expression for it."
+    },
+    {
+      "section": "B",
+      "number": "(xiv)",
+      "year": 2017,
+      "text": "Define torque of a couple and prove that $\\tau = Fd$."
+    },
+    {
+      "section": "B",
+      "number": "(iii)",
+      "year": 2016,
+      "text": "Tarzan swings on a vine, of length 5m, in a vertical circle, under the influence of gravity. When the vine makes an angle of $30^\\circ$ with the Vertical, Tarzan has a speed of $4m/s$. Find: (a) Centripetal acceleration at this instant (b) His tangential acceleration"
+    },
+    {
+      "section": "B",
+      "number": "(xiv)",
+      "year": 2015,
+      "text": "Derive an expression for the centripetal acceleration produced by the body of mass \"s\", moving along circular path of radius \"r\""
+    },
+    {
+      "section": "B",
+      "number": "(x)",
+      "year": 2014,
+      "text": "Prove That $V = r\\omega$ Or $a = r\\alpha$"
+    },
+    {
+      "section": "B",
+      "number": "(vii)",
+      "year": 2013,
+      "text": "A boy whose mass is 100 kg when resting on the ground at the equator if the radius of earth 'R' is $6.4 \\times 10^6 m$. Calculate the centripetal acceleration & centripetal force."
+    },
+    {
+      "section": "C",
+      "number": "4. a)",
+      "year": 2018,
+      "text": "State and prove law of conservation of linear momentum."
+    },
+    {
+      "section": "C",
+      "number": "4. b)",
+      "year": 2018,
+      "text": "Name the acceleration due to the change in direction of linear velocity of a body moving in a circle. Derive the relevant expression for it in terms of linear and angular velocities."
+    },
+    {
+      "section": "C",
+      "number": "4. (b)",
+      "year": 2017,
+      "text": "By using a ray diagram, derive an expression for the centripetal acceleration in terms of linear velocity, angular velocity and time period."
+    },
+    {
+      "section": "C",
+      "number": "5. (a)",
+      "year": 2016,
+      "text": "What is meant by centripetal acceleration? Derive expressions for the centripetal acceleration in terms of linear velocity, angular velocity and time period."
+    },
+    {
+      "section": "B",
+      "number": "x)",
+      "year": 2025,
+      "text": "Prove that total work done by the by the gravitational force in moving a body around a closed path is zero."
+    },
+    {
+      "section": "B",
+      "number": "v)",
+      "year": 2025,
+      "text": "When an object is thrown upward, it rises to a height \"h\". How high is the object in terms of \"h\", when it has lost one third of its original kinetic energy."
+    },
+    {
+      "section": "B",
+      "number": "iii)",
+      "year": 2025,
+      "text": "State and prove work-energy equation/theorem."
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 2024,
+      "text": "Define escape velocity. Derive the relation $v_{esc} = \\sqrt{2gR}$ for escape velocity on earth's surface."
+    },
+    {
+      "section": "B",
+      "number": "iii)",
+      "year": 2024,
+      "text": "Define escape velocity. Derive the expression for escape velocity on earth's surface."
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2023,
+      "text": "Find the work done by moving an object slangs straight line from (3,2,-1) to (2,-1,4) in force field given by $F = 4i - 3j + 2k$"
+    },
+    {
+      "section": "B",
+      "number": "viii)",
+      "year": 2023,
+      "text": "Prove that power is a scalar (dot) product of force and velocity. What is SI Unit of power and its dimensions?"
+    },
+    {
+      "section": "B",
+      "number": "(viii)",
+      "year": 2022,
+      "text": "Two forces $F_1 = 3i - 2j + 5k$ and $F_2 = i + 6j + 2k$ act on a body which is displaced along $F = 4i - j + 3k$. Calculate the work done on the body."
+    },
+    {
+      "section": "B",
+      "number": "(ix)",
+      "year": 2022,
+      "text": "Show the gravitational field is conservative."
+    },
+    {
+      "section": "B",
+      "number": "2. ix)",
+      "year": 2021,
+      "text": "By drawing a figure establish work energy equation for a freely falling body."
+    },
+    {
+      "section": "B",
+      "number": "(iii)",
+      "year": 2019,
+      "text": "What is Conservative field? Prove that Gravitational field is an example of conservative field."
+    },
+    {
+      "section": "B",
+      "number": "(ix)",
+      "year": 2018,
+      "text": "A crane lifts a load of 6000 N through a vertical distance of 15 m in 30 s. What is the potential energy at the highest point of this operation?"
+    },
+    {
+      "section": "B",
+      "number": "(v)",
+      "year": 2017,
+      "text": "A horse pulls a cart horizontally with a force of 60 lb at an angle of $30^\\circ$ above the horizontal and moves along at a speed of 8 miles per hour. How much work does the horse do in 15 minute and what is the power output of the (1hp=550 ft-lb/s).(1mile=5280ft)."
+    },
+    {
+      "section": "B",
+      "number": "(vi)",
+      "year": 2017,
+      "text": "A water pump is needed to lift water through a height of 2.5 m at the rate of 500 gm/minute. What will be the minimum horsepower of the pump?"
+    },
+    {
+      "section": "B",
+      "number": "(ix)",
+      "year": 2017,
+      "text": "Prove that the gravitational field is a conservative field."
+    },
+    {
+      "section": "B",
+      "number": "(iii)",
+      "year": 2016,
+      "text": "A 80 kg man runs up a hill through a height of 3m in 2 sec. What is his average power output?"
+    },
+    {
+      "section": "B",
+      "number": "(v)",
+      "year": 2016,
+      "text": "An object moves along a straight line in a force field from (3.2,-6) to (1.-1.3,9)When a uniform force $\\overline{F} = 4i + j + 3k$ acts on it. Find the work done."
+    },
+    {
+      "section": "B",
+      "number": "(xi)",
+      "year": 2015,
+      "text": "Derive the work-energy equation."
+    },
+    {
+      "section": "C",
+      "number": "5. (b)",
+      "year": 2018,
+      "text": "State and prove the law of conservation of energy in the case of freely fall g body"
+    },
+    {
+      "section": "C",
+      "number": "4. (b)",
+      "year": 2017,
+      "text": "Derive an expression for the mass of the sun. What is conservative field? Prove that gravitational field is a conservative field."
+    },
+    {
+      "section": "B",
+      "number": "ii)",
+      "year": 2025,
+      "text": "A tank 4m long, 3m wide and 2m deep is filled completely with water. Calculate the pressure on the base of the (density of water = $1000kg/m^3$)."
+    },
+    {
+      "section": "B",
+      "number": "viii)",
+      "year": 2025,
+      "text": "A tank 4m long, 3m wide and 2m deep is filled to the brim with the paraffin of density = $800 kg/m^3$. Calculate the pressure on the base $(g = 10m/s^2)$"
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 2024,
+      "text": "The small piston of a hydraulic press has an area of $10cm^3$. If the applied force is 50N what must the area of the large piston to exert a presting force of 4800 N."
+    },
+    {
+      "section": "B",
+      "number": "xii)",
+      "year": 2024,
+      "text": "State Pascal's law. Give the working of hydraulic lift."
+    },
+    {
+      "section": "B",
+      "number": "iv)",
+      "year": 2025,
+      "text": "Derive equation of continuity."
+    },
+    {
+      "section": "B",
+      "number": "x)",
+      "year": 2024,
+      "text": "Calculate the viscous drag on a drop of oil of 1mm radius falling through air at its terminal velocity. (viscosity of air = $1.8 \\times 10^{-5}$ pass density of oil = $850 g/m^3$)."
+    },
+    {
+      "section": "B",
+      "number": "iv)",
+      "year": 2024,
+      "text": "Calculate the viscous drag on a drop of oil of 0.1mm radius falling through air at its terminal velocity. (viscosity of air $1.8 \\times 10^5 Pa-s$, density of oil = $850 kg/m^3$)."
+    },
+    {
+      "section": "C",
+      "number": "5. a)",
+      "year": 2025,
+      "text": "State Bernoulli's theorem. Write its assumptions and derive its mathematical expression."
+    },
+    {
+      "section": "C",
+      "number": "3. a)",
+      "year": 2024,
+      "text": "What is Bernoulli's principle? Derive Bernoulli's equation for steady, incompressible, non-viscous and irrational flow of fluid."
+    },
+    {
+      "section": "B",
+      "number": "iii)",
+      "year": 2025,
+      "text": "A proton of charge $1.6 \\times 10^{-19}C$ is situated in a uniform electric field of intensity 1200 V/m. Find force on it."
+    },
+    {
+      "section": "B",
+      "number": "ix)",
+      "year": 2025,
+      "text": "Define electric field intensity and electric potential. Prove that $E = -\\frac{\\Delta V}{\\Delta r}$."
+    },
+    {
+      "section": "B",
+      "number": "xii)",
+      "year": 2025,
+      "text": "Define Electric Flux. Prove that the net electric flux through a closed surface is equal to $\\frac{1}{\\epsilon_0}$ time the total charge enclosed in the surface."
+    },
+    {
+      "section": "B",
+      "number": "xiv)",
+      "year": 2025,
+      "text": "Calculate the value of one of the two equal charges if they repel one another with a force of 0.15 N, when situated 40 cm apart in a vacuum. (Coulomb's constant for vacuum is $9 \\times 10^9 N.m^2/C^2$)"
+    },
+    {
+      "section": "B",
+      "number": "ii)",
+      "year": 2024,
+      "text": "How far apart must two protons be if the magnitude of the electrostatic force acting on either one due to the other is equal to the magnitude of the weight of a proton on earth's surface. $(m = 1.67 \\times 10^{-27}kg, q = 1.6 \\times 10^{-19}C)$"
+    },
+    {
+      "section": "B",
+      "number": "v)",
+      "year": 2024,
+      "text": "Define Electric flux, give its SI unit. Under what condition the electric flux through a surface will be: (a) maximum (b) minimum"
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 2024,
+      "text": "Define electric potential difference (V) and electric field intensity (E). Derive relation $E = \\frac{\\Delta V}{\\Delta r}$"
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 2024,
+      "text": "A charge particle of charge $2 \\times 10^{-9}C$, in an electric field between two parallel metal plates 4 cm apart, is acted upon by a force of $10^{-4}N$ a) What is the intensity of the electric field? b) What is potential difference between the plates."
+    },
+    {
+      "section": "B",
+      "number": "(x)",
+      "year": 2023,
+      "text": "Two unequal point charges repel each other by a force of 10 Newton's when they are 10 cm apart. Find the force which they exert on each other when they are 1 cm apart. If the magnitude of one point charge is $-4.25 \\times 10^{-6}C$, find the magnitude of the other."
+    },
+    {
+      "section": "B",
+      "number": "(ii)",
+      "year": 2022,
+      "text": "Define potential gradient. Derive mathematical relation between electric field intensity and potential difference."
+    },
+    {
+      "section": "B",
+      "number": "(ii)",
+      "year": 2021,
+      "text": "Explain Electric flux. Under hat condition is the flux through a surface (i)Zero (ii)Maximum?"
+    },
+    {
+      "section": "B",
+      "number": "(xv)",
+      "year": 2015,
+      "text": "Derive the relation between the Electric intensity and Electric potential."
+    },
+    {
+      "section": "C",
+      "number": "3. b)",
+      "year": 2025,
+      "text": "What is an electric dipole? Derive the expression for electric field intensity due to electric dipole at a point which is at a perpendicular distance y from the centre of the dipole."
+    },
+    {
+      "section": "C",
+      "number": "4. a)",
+      "year": 2024,
+      "text": "What is an electric dipole? Derive the expression for electric field intensity due to an electric dipole at a point which is at a perpendicular distance 'y' from the centre of the dipole."
+    },
+    {
+      "section": "B",
+      "number": "iv)",
+      "year": 2025,
+      "text": "A parallel plate capacitor has plates each of area $0.02 m^2$ separated by a dielectric material having relative permittivity $\\epsilon_r$ of 4. Calculate the capacitance of the capacitor. $(\\epsilon_0 = 0.85 \\times 10^{-12} \\frac{C^2}{N.m^2})$"
+    },
+    {
+      "section": "B",
+      "number": "v)",
+      "year": 2025,
+      "text": "How energy is stored in a capacitor? Derive mathematical expression for the energy stored in capacitor."
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 2025,
+      "text": "Derive an expression for the equivalent capacitance of three unequal capacitors connected in series OR parallel."
+    },
+    {
+      "section": "B",
+      "number": "viii)",
+      "year": 2024,
+      "text": "A proton of mass $1.67 \\times 10^{-27}kg$ and charge $1.6 \\times 10^{-19}C$ is to be held motionless between two horizontal parallel plates. The potential difference applied between plates is $1.02 \\times 10^{-8}$ volts. Calculate the distance between plates."
+    },
+    {
+      "section": "B",
+      "number": "2. (ix)",
+      "year": 2023,
+      "text": "Two capacitors of $2\\mu F$ and $4\\mu F$ are connected in series to 40 volt Battery. Calculate the charge on these capacitors and potential difference across each."
+    },
+    {
+      "section": "B",
+      "number": "2(i)",
+      "year": 2022,
+      "text": "A particle of mass $1.67 \\times 10^{-27}kg$ and charge $1.6 \\times 10^{-19}C$ is to be held motionless between two horizontal parallel plates, the voltage applied between the plates is $14.32 \\times 10^{-9}$ volt. Calculate the distance between the plates."
+    },
+    {
+      "section": "B",
+      "number": "(ix)",
+      "year": 2019,
+      "text": "An $\\alpha$-particle of charge $3.2 \\times 10^{-19}C$ and mass $6.68 \\times 10^{-27}kg$ is held motionless between two horizontal parallel plates separated by $10cm$. Find the potential difference between the plates."
+    },
+    {
+      "section": "B",
+      "number": "(xv)",
+      "year": 2018,
+      "text": "Derive the expression for the equivalent capacitance when 3capacitors are connected in series or in parallel."
+    },
+    {
+      "section": "C",
+      "number": "3. b)",
+      "year": 2025,
+      "text": "Define capacitance of a capacitor. Derive expression for the capacitance of a parallel plate capacitor for following cases: i) with free space between the plates ii) with a dielectric between the plates"
+    },
+    {
+      "section": "C",
+      "number": "4. b)",
+      "year": 2024,
+      "text": "Define capacitance of a capacitor. Derive mathematical relations for capacitance of parallel plate capacitor when; (i) air is present between its plates (ii) A dielectric slab is present between its plate"
+    },
+    {
+      "section": "C",
+      "number": "4 a)",
+      "year": 2017,
+      "text": "What is meant by the capacitance of a capacitor? Derive an expression for the capacitance of a parallel plate capacitor in the presence of air is dielectric between its plates."
+    },
+    {
+      "section": "C",
+      "number": "5. (a)",
+      "year": 2016,
+      "text": "Explain the term capacitance of a capacitor and give its S.I. unit. Derive the expressions for the capacitance of a parallel plate capacitor with (i)Free space between the plates."
+    },
+    {
+      "section": "B",
+      "number": "(xii)",
+      "year": 2017,
+      "text": "The resistance of a platinum resistance thermometer is 200 ohms at $0^\\circ C$ and 257.6 ohms when immersed in a hot bath. what is the temperature of the bath $(a=0.00392/^\\circ C)$"
+    },
+    {
+      "section": "B",
+      "number": "(iv)",
+      "year": 2016,
+      "text": "Find the resistance at $100^\\circ C$ of a Silver wire, 1 mm in diameter and 1000 cm long."
+    },
+    {
+      "section": "B",
+      "number": "(xii)",
+      "year": 2016,
+      "text": "How does the temperature affect the resistance of a conductor? Derive an expression for the resistance of the conductor at $t^\\circ C$"
+    },
+    {
+      "section": "B",
+      "number": "(vii)",
+      "year": 2015,
+      "text": "A 50 ohm resistor is to be wound from a platinum wire 0.1 mm in diameter. How much wire is needed?"
+    },
+    {
+      "section": "B",
+      "number": "viii)",
+      "year": 2025,
+      "text": "Prove that the motion of projection of a particle describing circular motion with constant angular \"ω\" is simple harmonic on one of the diameter of the circle."
+    },
+    {
+      "section": "B",
+      "number": "x)",
+      "year": 2025,
+      "text": "A body of mass 5 gram oscillating as a simple pendulum. Calculate the time period of the pendulum, if its length is 1.2m."
+    },
+    {
+      "section": "B",
+      "number": "viii)",
+      "year": 2024,
+      "text": "A block is kept on a horizontal table. The table is undergoing simple harmonic motion of frequency 3Hz in a horizontal plane. The coefficient of static friction between the block and the table is 0.72. Find the maximum amplitude of the table at which the block does not slip on this table."
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 2023,
+      "text": "Prove that a simple pendulum execute simple harmonic motion."
+    },
+    {
+      "section": "B",
+      "number": "2. v)",
+      "year": 2021,
+      "text": "What is simple pendulum? Prove that the motion of simple pendulum is simple harmonic when it oscillate with small amplitude."
+    },
+    {
+      "section": "B",
+      "number": "(vii)",
+      "year": 2019,
+      "text": "A mass at the end of spring oscillates with a period of 0.4 sec. Find the acceleration when the displacement is 6cm."
+    },
+    {
+      "section": "B",
+      "number": "(vi)",
+      "year": 2018,
+      "text": "A 15 kg block is suspended by a spring of spring constant $5 \\times 10^3 N/m$. Calculate the frequency of vibration of the block displaced from its equilibrium position and then released."
+    },
+    {
+      "section": "B",
+      "number": "(xiv)",
+      "year": 2017,
+      "text": "Prove that the projection of a particle moving in a circle with constant angular velocity, performs simple harmonic motion along one of the diameters of the circle."
+    },
+    {
+      "section": "B",
+      "number": "(xiii)",
+      "year": 2017,
+      "text": "Prove that the motion of simple pendulum is simple harmonic when it is given small displacement."
+    },
+    {
+      "section": "B",
+      "number": "(xiv)",
+      "year": 2016,
+      "text": "A body hanging from a spring is set into motion and the period of oscillation is found to be 0.5 sec. After the body has come to rest, it is removed. How much shorter will the spring be when it comes to rest."
+    },
+    {
+      "section": "C",
+      "number": "3. b)",
+      "year": 2018,
+      "text": "Define Simple Harmonic Motion. A particle is moving in a circle with constant speed. Prove that its projection performs Simple Harmonic Motion (SHM) along one of the diameter of the circle."
+    },
+    {
+      "section": "C",
+      "number": "5. a)",
+      "year": 2017,
+      "text": "Define simple harmonic motion. Using the expression of instantaneous velocity $v = \\sqrt{\\frac{K}{m}}\\sqrt{x_0^2 - x^2}$ of a body executing S.H.M. prove that the total energy of the body is constant."
+    },
+    {
+      "section": "C",
+      "number": "3. b)",
+      "year": 2016,
+      "text": "Define simple Harmonic motion, \"A particle is moving in a circle with constant speed, prove that its projection execute simple harmonic mouton on one of the diameter of the circle."
+    },
+    {
+      "section": "C",
+      "number": "5. (a)",
+      "year": 2015,
+      "text": "A particle is in a state of uniform circular motion. Show that its projection along one of its diameters executes simple harmonic motion."
+    },
+    {
+      "section": "C",
+      "number": "3. (b)",
+      "year": 2015,
+      "text": "What is a simple pendulum? Prove that motion of a simple pendulum is simple harmonic. Derive the expression for its time period."
+    },
+    {
+      "section": "B",
+      "number": "xiv)",
+      "year": 2023,
+      "text": "A train sounds its whistle with a frequency of: $200Hz$. A stationary observer measures this frequency as $219Hz$. Find the speed of train (Speed of sound is $340m/s$)"
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 2022,
+      "text": "A car has been sounding a $4kHz$ tone. What frequency will be detected by a stationary listener as the car approaches him at $50km/h$? (speed of sound in air $= 1200km/h$)"
+    },
+    {
+      "section": "B",
+      "number": "xiv)",
+      "year": 2021,
+      "text": "Write Newton's formula for the speed of sound in air. What correction did Laplace made in it? Also give the corrected formula."
+    },
+    {
+      "section": "B",
+      "number": "ix)",
+      "year": 2020,
+      "text": "If the speed of sound in air at $27^\\circ C$ is $345m/s$. Find the speed at $127^\\circ C$"
+    },
+    {
+      "section": "B",
+      "number": "xiii)",
+      "year": 2019,
+      "text": "A source of sound and listener are moving towards each other with velocities $0.5$ and $0.2$ times the speed of sound respectively. If the source is emitting $2kHz$ tone, calculate the frequency heard by the listener. (Speed of sound $= 340m/s$)"
+    },
+    {
+      "section": "C",
+      "number": "5. b)",
+      "year": 2025,
+      "text": "Explain Newton's formula for the speed of sound in air. Why the speed of sound in air from Newton's formula was not in good agreement with the experimental value? How did Laplace correct it? Explain."
+    },
+    {
+      "section": "C",
+      "number": "5. b)",
+      "year": 2025,
+      "text": "What is Doppler Effect? Derive mathematical expression for apparent frequency heard by listener when: i) Listener moves towards stationary source ii) Source moves towards stationary listener"
+    },
+    {
+      "section": "C",
+      "number": "4. b)",
+      "year": 2024,
+      "text": "What is stationary waves? Stationary waves are establish in the stretched string, derive the expressions for the frequencies if the sting is vibrating in: i) one loop ii) two loops iii) three loops iv) n loops"
+    },
+    {
+      "section": "C",
+      "number": "4. b)",
+      "year": 2023,
+      "text": "Describe Doppler's Effect. Derive formula for the following: i) source moves towards the listener at rest. ii) listener moves away from stationary source. Diagrams are necessary."
+    },
+    {
+      "section": "C",
+      "number": "5. (b)",
+      "year": 2022,
+      "text": "How standing waves are produced in a stretched string? Derive an expression for frequencies when such a string vibrates in one loop, two loops and two loops."
+    },
+    {
+      "section": "C",
+      "number": "3. b)",
+      "year": 2019,
+      "text": "Explain Newton's formula for the speed of sound. What corrections did the Laplace made in Newton's formula? Also give the corrected formula."
+    },
+    {
+      "section": "C",
+      "number": "3. (b)",
+      "year": 2018,
+      "text": "What is Doppler's effect? Derive expressions for the apparent frequency of sound heard by the listener when: (i) The listener moves towards the stationary source. (ii) The source moves away from the stationary listener."
+    },
+    {
+      "section": "C",
+      "number": "4. (a)",
+      "year": 2017,
+      "text": "What is Doppler effect? Derive expression for the apparent frequency heard by the listener when: (i) The listener moves towards the stationary source. (ii) The source moves towards the stationary listener."
+    },
+    {
+      "section": "C",
+      "number": "4. (a)",
+      "year": 2016,
+      "text": "Define Longitudinal Waves & Transverse waves. Derive the expressions for the frequency of a stretched string vibrating in (i) One loop (ii) Two loops (iii) three loops."
+    },
+    {
+      "section": "B",
+      "number": "5. b)",
+      "year": 2025,
+      "text": "Define interference of light. Derive expression for positions of dark and bright fringes in Young's double slit experiment. Also derive expression for fringe spacing:"
+    },
+    {
+      "section": "B",
+      "number": "xi)",
+      "year": 2025,
+      "text": "What is meant by interference of light? Write three conditions of interference of light."
+    },
+    {
+      "section": "B",
+      "number": "1x)",
+      "year": 2024,
+      "text": "Derive Bragg's equation for X- ray diffraction."
+    },
+    {
+      "section": "B",
+      "number": "x)",
+      "year": 2024,
+      "text": "How many lines per centimeter are there in a grating which gives $1^{st}$ order spectrum at an angle of $30^\\circ$ when the wavelength of light is $6 \\times 10^{-5} cm$"
+    },
+    {
+      "section": "B",
+      "number": "iv)",
+      "year": 2023,
+      "text": "Interference fringes were produced by two slits $0.25 mm$ apart, on a screen $150 mm$ from the slits. If eight fringes occupy $2.62 mm$. What is the wavelength of light used?"
+    },
+    {
+      "section": "B",
+      "number": "(xii)",
+      "year": 2023,
+      "text": "Why the central ring of Newton's ring is dark? State the reason."
+    },
+    {
+      "section": "B",
+      "number": "2. ii)",
+      "year": 2022,
+      "text": "How far apart are the diffracting planes in a NaCl crystal for which X- rays of wavelength $1.54 \\mathring{A}$ make a glancing angle of $15^\\circ - 54^\\circ$ in 1st order?"
+    },
+    {
+      "section": "B",
+      "number": "(v)",
+      "year": 2021,
+      "text": "271 Fringes are passed through a reference point when a moveable mirror of Michelson's interferometer is moved by 0.08 mm/ Find the wavelength of light used in $\\mathring{A}$?"
+    },
+    {
+      "section": "B",
+      "number": "(xii)",
+      "year": 2020,
+      "text": "A diffraction grating produces $3^{rd}$ order spectrum of light of wavelength $7000 \\mathring{A}$ at an angle of $30^\\circ$ from the normal. What is the grating element? Calculate the number of lines of grating per cm."
+    },
+    {
+      "section": "B",
+      "number": "(viii)",
+      "year": 2019,
+      "text": "What is diffraction of light?"
+    },
+    {
+      "section": "B",
+      "number": "(vi)",
+      "year": 2018,
+      "text": "If the radius of the $5^{th}$ dark Newton's ring is $3 mm$ when light of wavelength $5.89 \\times 10^{-7} m$ is used, what will be the radius of curvature of the lower surface of the lens used."
+    },
+    {
+      "section": "B",
+      "number": "(xi)",
+      "year": 2017,
+      "text": "a diffraction grating produces $3^{rd}$ order spectrum of light of wavelength $7 \\times 10^{-7} m$ at an angle of $30^\\circ$ from the normal. What is its grating element? Calculate the number of lines per mm."
+    },
+    {
+      "section": "B",
+      "number": "(xv)",
+      "year": 2016,
+      "text": "In a double slit experiment, the separation of the slit is $1.9 mm$ and the fringe spacing is $0.31 mm$, at a distance of $1 m$ from the slits. Find the wavelength of light."
+    },
+    {
+      "section": "B",
+      "number": "(xi)",
+      "year": 2015,
+      "text": "What are the necessary conditions to observe the interference of light? Differentiate between interference and diffraction."
+    },
+    {
+      "section": "B",
+      "number": "(xv)",
+      "year": 2014,
+      "text": "A parallel beam of X-rays is diffracted by rock salt crystal. The $1^{st}$ order maximum being obtained when the glancing angle of incidence is 6 degree and 5 minutes, the distance between the atomic planes of crystal is $2.18 \\times 10^{-10} m$. Calculate the wavelength of radiation."
+    },
+    {
+      "section": "C",
+      "number": "5. a)",
+      "year": 2025,
+      "text": "What is diffraction of light? How a diffraction gating is used to determine the wavelength of monochromatic light. Derive the relevant mathematical expression."
+    },
+    {
+      "section": "C",
+      "number": "5. b)",
+      "year": 2025,
+      "text": "What are Newton's rings? Explain the process of their formation? Derive the expressions for the radius of nth bright and dark rings."
+    },
+    {
+      "section": "C",
+      "number": "3. b)",
+      "year": 2024,
+      "text": "How Newton's Rings are formed, explain? Also with the help of diagram, derive a formula for $N^{th}$ bright rings. What happens to the size of rings if radius of curvature of lens is reduced?"
+    },
+    {
+      "section": "C",
+      "number": "4. (a)",
+      "year": 2023,
+      "text": "Describe Young's double slit experiment. Derive the formula for fringe spacing."
+    },
+    {
+      "section": "C",
+      "number": "4. a)",
+      "year": 2022,
+      "text": "What is diffraction grating? How it is used to determine wavelength of monochromatic light. Derive necessary formula."
+    },
+    {
+      "section": "C",
+      "number": "4. (a)",
+      "year": 2021,
+      "text": "How are Newton's ring formed? Derive an expression for the radius of nth bright ring."
+    },
+    {
+      "section": "C",
+      "number": "3. (b)",
+      "year": 2019,
+      "text": "What is a diffraction grating and greeting elements? How is diffraction grating used to determine the wavelength of monochromatic light? Derive the relevant mathematical expression."
+    },
+    {
+      "section": "C",
+      "number": "5. (b)",
+      "year": 2018,
+      "text": "Give the quantitative description of Young's double slit experiment. Derive an expression for fringe spacing."
+    },
+    {
+      "section": "C",
+      "number": "3. (b)",
+      "year": 2017,
+      "text": "What are Newton's rings? Derive the expression for the radius of nth bright ring."
+    },
+    {
+      "section": "C",
+      "number": "5. (a)",
+      "year": 2016,
+      "text": "Explain the Young's Double Slits experiment and derive formula for fringe spacing."
+    }
+  ]
+}
