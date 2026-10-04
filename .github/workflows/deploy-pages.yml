@@ -1,5 +1,4 @@
 name: Deploy Paperloom to GitHub Pages
-# Public production deployment
 on:
   push:
     branches: [main, feature/native-ocr-json-question-bank]
