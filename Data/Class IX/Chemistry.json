@@ -1,0 +1,2530 @@
+{
+  "subject": "Chemistry",
+  "class": "IX",
+  "questions": [
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "For the reaction $2\\mathrm{HI}_{(g)} \\rightleftharpoons \\mathrm{H_2}_{(g)}+\\mathrm{I_2}_{(g)}$, $K_c=1\\times10^{-4}$. At a given temperature, $[\\mathrm{HI}]=2\\times10^{-5}\\,\\mathrm{mol\\,dm^{-3}}$, $[\\mathrm{H_2}]=1\\times10^{-5}\\,\\mathrm{mol\\,dm^{-3}}$, and $[\\mathrm{I_2}]=1\\times10^{-5}\\,\\mathrm{mol\\,dm^{-3}}$. Predict the direction of the reaction."
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write three characteristics of the equilibrium constant $K_c$."
+    },
+    {
+      "chapter": "1",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "State the law of mass action, apply it to the reversible reaction $a\\mathrm{A}+b\\mathrm{B}\\rightleftharpoons c\\mathrm{C}+d\\mathrm{D}$, and derive the expression for the equilibrium constant."
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define chemical equilibrium with an example."
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is chemical equilibrium dynamic?"
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "When writing an equation, how is a reversible reaction distinguished from an irreversible reaction?"
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write an equilibrium equation having monoatomic carbon and a molecule of oxygen as reactants and carbon monoxide as product."
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Outline the characteristics of a reversible reaction."
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Distinguish between reversible and irreversible reactions."
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "State the law of mass action. How is active mass represented?"
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why may an equilibrium constant have a unit or no unit? Justify with an example."
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How can the direction of a reaction be predicted if $K_c$ is known?"
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the equilibrium-constant expressions for the given reactions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{N_2}+2\\mathrm{O_2}\\rightleftharpoons2\\mathrm{NO_2}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{N_2}+3\\mathrm{H_2}\\rightleftharpoons2\\mathrm{NH_3}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{H_2}+\\mathrm{Br_2}\\rightleftharpoons2\\mathrm{HBr}$"
+        }
+      ]
+    },
+    {
+      "chapter": "1",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe dynamic equilibrium with two examples."
+    },
+    {
+      "chapter": "1",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "State the law of mass action and derive an expression for the equilibrium constant."
+    },
+    {
+      "chapter": "1",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the characteristics of the equilibrium constant."
+    },
+    {
+      "chapter": "1",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain how comparison of $K_c$ and $Q_c$ predicts the following stages of a reaction.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Net reaction proceeds in the forward direction."
+        },
+        {
+          "label": "(ii)",
+          "text": "Net reaction proceeds in the reverse direction."
+        }
+      ]
+    },
+    {
+      "chapter": "1",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Predict which system at equilibrium contains the maximum amount of product and which contains the maximum amount of reactant.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$2\\mathrm{CO_2}_{(g)}\\rightleftharpoons2\\mathrm{CO}_{(g)}+\\mathrm{O_2}_{(g)}$, $K_c(927^\\circ\\mathrm{C})=3.1\\times10^{18}$."
+        },
+        {
+          "label": "(ii)",
+          "text": "$2\\mathrm{O_3}_{(g)}\\rightleftharpoons3\\mathrm{O_2}_{(g)}$, $K_c(298\\,\\mathrm{K})=5.9\\times10^{35}$."
+        }
+      ]
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Dinitrogen tetroxide, $\\mathrm{N_2O_4}$, decomposes reversibly into nitrogen dioxide, $\\mathrm{NO_2}$. Derive the equilibrium-constant expression for the decomposition and interpret the unit of $K_c$ for the balanced reversible reaction."
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "At $500\\,\\mathrm{K}$ in a closed container, the concentrations of $\\mathrm{PCl_5}$, $\\mathrm{PCl_3}$, and $\\mathrm{Cl_2}$ are $0.8\\times10^{-3}$, $1.2\\times10^{-3}$, and $1.2\\times10^{-3}\\,\\mathrm{mol\\,dm^{-3}}$, respectively. Calculate $K_c$ for the reaction, including its unit."
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "For $2\\mathrm{HI}_{(g)}\\rightleftharpoons\\mathrm{H_2}_{(g)}+\\mathrm{I_2}_{(g)}$, $K_c=1\\times10^{-4}$. If $[\\mathrm{HI}]=2\\times10^{-5}$, $[\\mathrm{H_2}]=1\\times10^{-5}$, and $[\\mathrm{I_2}]=1\\times10^{-5}\\,\\mathrm{mol\\,dm^{-3}}$, predict the direction of the reaction."
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Find $\\mathrm{pH}$, $\\mathrm{pOH}$, $[\\mathrm{OH^-}]$, and $[\\mathrm{H^+}]$ of a $2.46\\times10^{-9}\\,\\mathrm{M}$ $\\mathrm{KOH}$ solution."
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Write one use of each salt.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Hydrated calcium sulphate."
+        },
+        {
+          "label": "(ii)",
+          "text": "Iron(II) sulphate heptahydrate."
+        },
+        {
+          "label": "(iii)",
+          "text": "Potassium permanganate."
+        }
+      ]
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Describe briefly the two types of buffer solutions, with examples."
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Elaborate the Arrhenius concept of acids and bases with suitable examples."
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "A solution of $\\mathrm{HCl}$ has a $\\mathrm{pH}$ of $2.3$. Calculate its $\\mathrm{pOH}$ and $[\\mathrm{H^+}]$."
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What are the limitations of Arrhenius theory?"
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write three uses of salts."
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Find $\\mathrm{pH}$, $\\mathrm{pOH}$, $[\\mathrm{OH^-}]$, and $[\\mathrm{H^+}]$ of a $2.46\\times10^{-9}\\,\\mathrm{M}$ $\\mathrm{KOH}$ solution."
+    },
+    {
+      "chapter": "2",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "State three theories of acids and bases, give an example and one limitation of each, and complete the conjugate acid–base reactions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{H_2SO_4}+\\mathrm{H_2O}\\rightleftharpoons\\_+\\_$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{HCl}+\\mathrm{NH_3}\\rightleftharpoons\\_+\\_$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{CH_3COOH}+\\mathrm{H_2O}\\rightleftharpoons\\_+\\_$"
+        }
+      ]
+    },
+    {
+      "chapter": "2",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What are salts? Explain their preparation by the action of an acid, giving a representative balanced chemical equation for each.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Metal hydroxide."
+        },
+        {
+          "label": "(ii)",
+          "text": "Metal carbonate."
+        },
+        {
+          "label": "(iii)",
+          "text": "Metal oxide."
+        }
+      ]
+    },
+    {
+      "chapter": "2",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What are salts? Explain their preparation by the action of an acid, giving a representative chemical equation for each.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Metal hydroxide."
+        },
+        {
+          "label": "(ii)",
+          "text": "Metal carbonate."
+        },
+        {
+          "label": "(iii)",
+          "text": "Metal oxide."
+        }
+      ]
+    },
+    {
+      "chapter": "2",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define buffers. What is their composition, and how are they utilized?"
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Discuss the properties of acids and bases."
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Elaborate the Arrhenius concept of acids and bases with a suitable example."
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the Brønsted–Lowry acid–base theory?"
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are conjugate acid–base pairs? Explain with examples."
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Classify each solution as acidic, basic, or neutral.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$[\\mathrm{H^+}]=1\\times10^{-4}\\,\\mathrm{mol\\,dm^{-3}}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$[\\mathrm{H^+}]=1\\times10^{-11}\\,\\mathrm{mol\\,dm^{-3}}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$[\\mathrm{OH^-}]=1\\times10^{-9}\\,\\mathrm{mol\\,dm^{-3}}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$[\\mathrm{OH^-}]=1\\times10^{-3}\\,\\mathrm{mol\\,dm^{-3}}$"
+        }
+      ]
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Elaborate the ionization equation of water."
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define the following terms.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "pH."
+        },
+        {
+          "label": "(ii)",
+          "text": "Indicator."
+        },
+        {
+          "label": "(iii)",
+          "text": "Neutralization."
+        },
+        {
+          "label": "(iv)",
+          "text": "Titration."
+        }
+      ]
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define buffers. What is their composition? Discuss their importance in daily life."
+    },
+    {
+      "chapter": "2",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe salts, their preparation, and their types."
+    },
+    {
+      "chapter": "2",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain in detail how water ionization is related to the pH of a solution."
+    },
+    {
+      "chapter": "2",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Discuss how solutions in an aqueous system exhibit increasing acidity or basicity on the basis of $\\mathrm{H^+}$ and $\\mathrm{OH^-}$."
+    },
+    {
+      "chapter": "2",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the balancing of neutralization reactions with examples."
+    },
+    {
+      "chapter": "2",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the uses of salts in daily life."
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Calculate the pH of a $5\\,\\mathrm{M}$ $\\mathrm{NaOH}$ solution."
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A solution of $\\mathrm{H_2SO_4}$ has a pH of $1.05$. Calculate its pOH and $[\\mathrm{H^+}]$."
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "The hydrogen-ion concentration of a solution is $1\\times10^{-6}\\,\\mathrm{mol\\,dm^{-3}}$. What is its pH?"
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define organic chemistry and write two general characteristics of organic compounds."
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Draw the structural formulae of the following compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "2,3-dimethylpentane."
+        },
+        {
+          "label": "(ii)",
+          "text": "3-ethyl-1-hexene."
+        },
+        {
+          "label": "(iii)",
+          "text": "Pentyne."
+        }
+      ]
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Draw the structural formulae of the following hydrocarbons.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "2,3-dimethylpentane."
+        },
+        {
+          "label": "(ii)",
+          "text": "3-ethyl-1-hexene."
+        },
+        {
+          "label": "(iii)",
+          "text": "2-butyne."
+        }
+      ]
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "State the vital force theory and explain how Friedrich Wöhler disproved it."
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is meant by the vital force theory?"
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write the molecular, structural, and condensed formulae of the following compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Methane."
+        },
+        {
+          "label": "(ii)",
+          "text": "Ethane."
+        },
+        {
+          "label": "(iii)",
+          "text": "Propane."
+        }
+      ]
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Write any three uses of ethylene."
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": null,
+      "text": "Complete and balance the following combustion equations.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{CH_4}+\\mathrm{O_2}\\rightarrow$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{C_2H_4}+\\mathrm{O_2}\\rightarrow$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{C_2H_2}+\\mathrm{O_2}\\rightarrow$"
+        }
+      ]
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Define the following terms.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Homologous series."
+        },
+        {
+          "label": "(ii)",
+          "text": "Isomerism."
+        },
+        {
+          "label": "(iii)",
+          "text": "Functional group."
+        },
+        {
+          "label": "(iv)",
+          "text": "Aromatic compounds."
+        }
+      ]
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define the following terms.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Homologous series."
+        },
+        {
+          "label": "(ii)",
+          "text": "Functional group."
+        },
+        {
+          "label": "(iii)",
+          "text": "Isomerism."
+        }
+      ]
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "A hydrocarbon contains six carbon atoms. Write its molecular formula if it is:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "An alkane."
+        },
+        {
+          "label": "(ii)",
+          "text": "An alkene."
+        },
+        {
+          "label": "(iii)",
+          "text": "An alkyne."
+        }
+      ]
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define the following terms.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Homologous series."
+        },
+        {
+          "label": "(ii)",
+          "text": "Cracking."
+        },
+        {
+          "label": "(iii)",
+          "text": "Isomerism."
+        }
+      ]
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Write the names and formulae of the functional groups in the following compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Ethyl alcohol."
+        },
+        {
+          "label": "(ii)",
+          "text": "Acetic acid."
+        },
+        {
+          "label": "(iii)",
+          "text": "Propyl iodide."
+        }
+      ]
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Define petroleum refining and name two of its fractions."
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Define the following terms.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Functional group."
+        },
+        {
+          "label": "(ii)",
+          "text": "Homologous series."
+        },
+        {
+          "label": "(iii)",
+          "text": "Isomerism."
+        }
+      ]
+    },
+    {
+      "chapter": "3",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Differentiate between saturated and unsaturated hydrocarbons."
+    },
+    {
+      "chapter": "3",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What are hydrocarbons? Explain their classification in detail and draw structural diagrams."
+    },
+    {
+      "chapter": "3",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Define the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Hydrocarbons."
+        },
+        {
+          "label": "(ii)",
+          "text": "Aliphatic hydrocarbons."
+        },
+        {
+          "label": "(iii)",
+          "text": "Alicyclic hydrocarbons."
+        },
+        {
+          "label": "(iv)",
+          "text": "Aromatic hydrocarbons."
+        }
+      ]
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define the vital force theory."
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain how petroleum is a source of organic compounds."
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define a functional group. Write the functional groups that contain carbon, hydrogen, and oxygen."
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define alkyl radicals with suitable examples."
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a homologous series? Name some common homologous series."
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Identify the functional groups in the following compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{CH_3CHO}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{CH_3CH_2CH_2OH}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{CH_3COCH_3}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{CH_3COOH}$"
+        },
+        {
+          "label": "(v)",
+          "text": "$\\mathrm{CH_2{=}CHCH_3}$"
+        }
+      ]
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the condensed structural formulae of pentane and octane."
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is catenation? Give any two examples of catenation of carbon atoms."
+    },
+    {
+      "chapter": "3",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Give the important characteristics of organic compounds."
+    },
+    {
+      "chapter": "3",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Differentiate between saturated and unsaturated hydrocarbons."
+    },
+    {
+      "chapter": "3",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "What are the main sources of organic compounds? Discuss coal, petroleum, and natural gas in particular."
+    },
+    {
+      "chapter": "3",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the uses of organic compounds."
+    },
+    {
+      "chapter": "3",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Name the alkenes and alkynes having the following formulae.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{C_2H_4}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{C_3H_4}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{C_3H_6}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{C_6H_{12}}$"
+        },
+        {
+          "label": "(v)",
+          "text": "$\\mathrm{C_2H_6}$"
+        },
+        {
+          "label": "(vi)",
+          "text": "$\\mathrm{C_8H_{16}}$"
+        },
+        {
+          "label": "(vii)",
+          "text": "$\\mathrm{C_7H_{12}}$"
+        },
+        {
+          "label": "(viii)",
+          "text": "$\\mathrm{C_6H_{10}}$"
+        }
+      ]
+    },
+    {
+      "chapter": "3",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Define nomenclature and describe the IUPAC nomenclature rules for alkynes."
+    },
+    {
+      "chapter": "3",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "What is meant by the diversity and magnitude of organic compounds?"
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What are carbohydrates? Differentiate between aldoses and ketoses."
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Write one use of each of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Yeast."
+        },
+        {
+          "label": "(ii)",
+          "text": "Cellulose."
+        },
+        {
+          "label": "(iii)",
+          "text": "Amylose."
+        }
+      ]
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "How is vegetable oil converted into standard fat (ghee)?"
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Aldose."
+        },
+        {
+          "label": "(ii)",
+          "text": "Ketose."
+        },
+        {
+          "label": "(iii)",
+          "text": "Saccharides."
+        }
+      ]
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Elaborate amino acids as monomers or building blocks of proteins."
+    },
+    {
+      "chapter": "4",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What are amino acids? Describe the formation of a dipeptide through a peptide linkage between two amino-acid units, with a structural equation."
+    },
+    {
+      "chapter": "4",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What are carbohydrates? Classify them into three types on the basis of hydrolysis, giving one example and source for each."
+    },
+    {
+      "chapter": "4",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Distinguish between fat-soluble and water-soluble vitamins."
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are proteins?"
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define the importance of deoxyribonucleic acid (DNA)."
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Differentiate between fats and oils."
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are polysaccharides? How are monosaccharides produced from polysaccharides?"
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a peptide bond? How is it formed? Explain dipeptides and tripeptides."
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Enumerate the important uses of lipids."
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are amino acids? Give their general structure."
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is vitamin D? Give its sources and importance."
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Distinguish between fat-soluble and water-soluble vitamins."
+    },
+    {
+      "chapter": "4",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "What are carbohydrates? Explain their sources and uses."
+    },
+    {
+      "chapter": "4",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "What are lipids? Write their sources and uses."
+    },
+    {
+      "chapter": "4",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe vitamins and their types."
+    },
+    {
+      "chapter": "4",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe nucleic acids, RNA, and DNA in detail."
+    },
+    {
+      "chapter": "4",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Justify that deficiencies of different vitamins cause harm in human beings."
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What are the three spreading factors of pollution? Describe them."
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is acid rain, and how does it demolish monuments?"
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is the atmosphere? List its five major layers."
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Write any three adverse impacts of global warming."
+    },
+    {
+      "chapter": "5",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Elaborate the greenhouse effect (global warming)."
+    },
+    {
+      "chapter": "5",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Describe how ozone depletion occurs in the stratosphere due to chlorofluorocarbons (CFCs), and state any three harmful impacts of ozone depletion."
+    },
+    {
+      "chapter": "5",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Describe global warming."
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "List major air pollutants and their sources."
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the effects of some air pollutants on human health."
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What causes acid rain?"
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Justify that the greenhouse effect leads to global warming."
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "List the layers of the atmosphere."
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the effects of acid rain."
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Justify that a change in altitude changes atmospheric temperature."
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are primary and secondary air pollutants?"
+    },
+    {
+      "chapter": "5",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Define the atmosphere and explain its composition."
+    },
+    {
+      "chapter": "5",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Differentiate between the stratosphere and troposphere."
+    },
+    {
+      "chapter": "5",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe how different air pollutants affect the environment and human health."
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Write three physical properties of water."
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "How can temporary hardness of water be removed by Clark's method?"
+    },
+    {
+      "chapter": "6",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Describe any six water-borne diseases."
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the composition of water."
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define hard and soft water."
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe water pollutants."
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How can temporary hardness of water be removed?"
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "List diseases caused by polluted drinking water."
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Differentiate between hard and soft water."
+    },
+    {
+      "chapter": "6",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the methods for removing permanent hardness of water."
+    },
+    {
+      "chapter": "6",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe industrial water pollutants."
+    },
+    {
+      "chapter": "6",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Justify that water is a solvent."
+    },
+    {
+      "chapter": "6",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the disadvantages of hard water."
+    },
+    {
+      "chapter": "6",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain water-borne diseases in detail."
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": null,
+      "text": "A flask contains a $0.25\\,\\mathrm{M}$ $\\mathrm{NaOH}$ solution. What mass of $\\mathrm{NaOH}$ is present per $\\mathrm{dm^3}$ of solution?"
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": null,
+      "text": "What volume of $0.5\\,\\mathrm{M}$ acid is needed to neutralize $200\\,\\mathrm{mL}$ of $4\\,\\mathrm{M}$ base?"
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": null,
+      "text": "A mineral-water bottle contains $28\\,\\mathrm{mg}$ of calcium in $100\\,\\mathrm{cm^3}$ of solution. What is the concentration in $\\mathrm{g\\,dm^{-3}}$?"
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": null,
+      "text": "A solution of $20\\,\\mathrm{cm^3}$ alcohol is dissolved in $80\\,\\mathrm{cm^3}$ water. Calculate the concentration $(v/v)$ of the solution."
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": null,
+      "text": "How much sodium hydroxide, $\\mathrm{NaOH}$, is required to prepare $400\\,\\mathrm{cm^3}$ of a $0.3\\,\\mathrm{M}$ solution?"
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Error."
+        },
+        {
+          "label": "(ii)",
+          "text": "Precision."
+        },
+        {
+          "label": "(iii)",
+          "text": "Accuracy."
+        }
+      ]
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Titration."
+        },
+        {
+          "label": "(ii)",
+          "text": "Titrant."
+        },
+        {
+          "label": "(iii)",
+          "text": "Analyte."
+        }
+      ]
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is quantitative analysis? Also define the following terms.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Error."
+        },
+        {
+          "label": "(ii)",
+          "text": "Systematic error."
+        },
+        {
+          "label": "(iii)",
+          "text": "Random error."
+        },
+        {
+          "label": "(iv)",
+          "text": "Accuracy."
+        },
+        {
+          "label": "(v)",
+          "text": "Precision."
+        }
+      ]
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is high-performance liquid chromatography (HPLC)? Explain it."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Which methods are faster: classical or instrumental?"
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How would you compare analytical techniques with one another?"
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Give examples of errors related to daily life."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is quantitative analysis?"
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is potentiometric analysis used in advanced instrumental methods?"
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How do scientists use infrared spectroscopy in quality control across industries?"
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "List the applications of conductometry."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Distinguish between the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Quantitative analysis and qualitative analysis."
+        },
+        {
+          "label": "(ii)",
+          "text": "Titrimetric analysis and gravimetric analysis."
+        }
+      ]
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Prove that instrumental analytical methods are more effective than classical analytical methods."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe gas chromatography in detail."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Justify that electrochemical methods depend upon electrochemical cells."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Name the materials required for preparing a soft drink."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Draw a flow sheet for soap preparation."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write a few points about society, technology, and science."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define petroleum. Describe its fractional distillation, name any five fractions distilled from petroleum with their hydrocarbons, and illustrate with a labelled diagram."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is meant by the origin of pharma? Elaborate any five beneficial impacts of the pharmaceutical industry on society."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Explain the preparation of sugar from sugarcane."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define the saponification process."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain that $\\mathrm{NaOH}$ or $\\mathrm{KOH}$ is used in soap preparation."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "List the raw materials needed for sugar preparation."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the components of soft drinks."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define petroleum."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Justify that petroleum is “black gold.”"
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe petroleum fractions in detail."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the importance of the pharmaceutical industry."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe soap preparation with a flow-sheet diagram."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Draw the stepwise preparation of soft drinks in a flow-sheet diagram."
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Why are carbon compounds more numerous than silicon compounds?"
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Why does temperature increase at higher altitudes in the stratosphere?"
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Why is the top of a mountain cooler than sea level?"
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Why is water considered a universal solvent?"
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Why is petroleum called “black gold”?"
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Why are alkanes called saturated hydrocarbons?"
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define organic chemistry."
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define biochemistry."
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define environmental chemistry."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is a redox reaction? Give an example with an equation and identify the oxidizing and reducing agents."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define oxidizing and reducing agents. Identify them in $\\mathrm{Zn}+\\mathrm{Cl_2}\\rightarrow\\mathrm{ZnCl_2}$."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "State Faraday's first law of electrolysis and explain it."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "A current of $5\\,\\mathrm{A}$ is passed through an electrolytic solution of copper sulphate for one hour. Find the mass of copper deposited at the cathode. The electrochemical equivalent of copper is $0.000329\\,\\mathrm{g\\,C^{-1}}$."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "State Faraday's first and second laws of electrolysis."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Write three differences between oxidation and reduction."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define electrolysis and state two uses."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "What is an alloy? Name two copper alloys and give their compositions."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Define oxidation in three different ways, giving one suitable example for each."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Define the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Electrochemical equivalent."
+        },
+        {
+          "label": "(ii)",
+          "text": "Faraday."
+        }
+      ]
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Describe the construction of a dry cell with a diagram and explain its working using chemical equations."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define electroplating. Describe tin-plating an iron spoon using ionic equations, and draw a labelled diagram."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Explain corrosion of iron and describe any four methods for preventing it."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "What is electroplating? Explain how a steel spoon can be chromium-plated using electrode reactions, and draw a labelled diagram of the electrolytic cell."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Explain, with illustrations, electrolytes and non-electrolytes and how they are classified."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "State Faraday's first and second laws of electrolysis. Calculate the amount of silver deposited at the cathode when a current of $10\\,\\mathrm{A}$ is passed for $50$ minutes through silver-nitrate solution."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What is electroplating? Explain how to electroplate an iron spoon with nickel, and draw a labelled diagram."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Calculate the amount of silver deposited at the cathode when a current of $10\\,\\mathrm{A}$ is passed for one hour through $\\mathrm{AgNO_3}$ solution. Use $Z_{\\mathrm{Ag}}=0.001118\\,\\mathrm{g\\,C^{-1}}$."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define oxidation and reduction reactions with examples."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why do ionic compounds conduct electricity only in molten or aqueous form?"
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is an electrolytic cell? Explain with a diagram."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define oxidizing and reducing agents with examples."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "For each equation, identify the oxidizing agent, reducing agent, substance oxidized, and substance reduced.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{Zn}+\\mathrm{Cl_2}\\rightarrow\\mathrm{ZnCl_2}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{Br_2}+\\mathrm{H_2S}\\rightarrow2\\mathrm{HBr}+\\mathrm{S}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$2\\mathrm{Ca}+\\mathrm{O_2}\\rightarrow2\\mathrm{CaO}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$2\\mathrm{Li}+\\mathrm{S}\\rightarrow\\mathrm{Li_2S}$"
+        }
+      ]
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Identify the alloys formed by the following components.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{Cu-Zn}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{Cu-Al-Mg-Ni}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{Cu-Zn-Sn}$"
+        }
+      ]
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe a dry cell with a diagram."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a battery? Explain how a lead-storage battery works."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain electrolysis in an electrolytic cell."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "What is an alloy? Explain its classification with examples."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "What is rusting? How can it be prevented?"
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "What is electroplating? Explain how a steel object can be plated with tin, zinc, and silver."
+    },
+    {
+      "chapter": "7",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "State and explain Faraday’s first and second laws of electrolysis."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define halogens."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Write three characteristics of halogens."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Classify the following elements as metals, non-metals, or metalloids.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{C}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{Ca}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{Sb}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{S}$"
+        },
+        {
+          "label": "(v)",
+          "text": "$\\mathrm{Sr}$"
+        },
+        {
+          "label": "(vi)",
+          "text": "$\\mathrm{Si}$"
+        },
+        {
+          "label": "(vii)",
+          "text": "$\\mathrm{K}$"
+        },
+        {
+          "label": "(viii)",
+          "text": "$\\mathrm{P}$"
+        },
+        {
+          "label": "(ix)",
+          "text": "$\\mathrm{Ba}$"
+        },
+        {
+          "label": "(x)",
+          "text": "$\\mathrm{Ge}$"
+        }
+      ]
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are alkali metals? Write their names and symbols."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are alkaline-earth metals? Write their names and symbols."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are halogens? Write their names and symbols."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the names and symbols of any three metalloids."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define cations and anions, with examples."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain why alkali metals do not exist free in nature."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the inertness of noble metals."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write names and symbols of some noble metals."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the electronegative character of non-metals."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the importance of silver."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the importance of gold."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the experiment used to test chloride and iodide ions."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the electropositive character of metals."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the position of magnesium in the periodic table and its importance."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the position of sodium in the periodic table and its importance."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Arrange the following halogen acids in increasing order of acidic strength: $\\mathrm{HBr}$, $\\mathrm{HCl}$, $\\mathrm{HI}$, $\\mathrm{HF}$."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the electronegative character of non-metals."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Differentiate between sodium and iron as soft and hard metals."
+    },
+    {
+      "chapter": "8",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Discuss the reactivity of halogens."
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define a free radical."
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define solubility."
+    },
+    {
+      "chapter": "8",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define an alloy."
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define periodicity and electronegativity."
+    },
+    {
+      "chapter": "7",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define electrolysis."
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define the Tyndall effect."
+    },
+    {
+      "chapter": "1",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define valency."
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define electronegativity."
+    },
+    {
+      "chapter": "2",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "How does an electron differ from a neutron?"
+    },
+    {
+      "chapter": "5",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Why is the rate of diffusion of gases more rapid than that of liquids?"
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Why is a fluoride ion not considered a neon atom?"
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Why do noble gases not react with other elements under ordinary conditions?"
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Why are most ionic compounds found in the solid state?"
+    },
+    {
+      "chapter": "4",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Why do alkali metals form cations easily?"
+    },
+    {
+      "chapter": "6",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Why does gasoline not dissolve in water?"
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Why are alkali metals not found free in nature?"
+    },
+    {
+      "chapter": "3",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Why does the ionization energy of elements increase from left to right across a period of the periodic table?"
+    }
+  ]
+}

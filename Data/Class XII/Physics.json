@@ -1,0 +1,1572 @@
+{
+  "subject": "Physics",
+  "class": "XII",
+  "questions": [
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Calculate the root mean square speed of a hydrogen gas molecule at $0^\\circ\\mathrm{C}$ and $1\\,\\mathrm{atm}$ pressure. Assume hydrogen gas is an ideal gas with density $8.99\\times10^{-2}\\,\\mathrm{kg\\,m^{-3}}$. Given $1\\,\\mathrm{atm}=1.01\\times10^5\\,\\mathrm{N\\,m^{-2}}$."
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Calculate the temperature at which the root mean square speed of a nitrogen molecule is $3300\\,\\mathrm{m\\,s^{-1}}$."
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Calculate the temperature at which the root mean square speed of hydrogen molecules is $3300\\,\\mathrm{m\\,s^{-1}}$. Give your answer in degrees Celsius. The mass of a hydrogen molecule is $3.32\\times10^{-27}\\,\\mathrm{kg}$."
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "On the basis of the kinetic molecular theory of gases, show that $\\frac{1}{2}m\\overline{v^2}=\\frac{3}{2}kT$."
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "State the basic assumptions of the kinetic molecular theory of gases. Derive the equation for the pressure of an ideal gas, where $P=\\frac{1}{3}\\rho\\overline{v^2}$ and $\\rho$ represents the density of the gas."
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Derive a relation for the pressure of an ideal gas in terms of its density and mean square speed."
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Derive an expression for the pressure of an ideal gas in terms of its density and mean square speed."
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Derive the pressure formula of an ideal gas using kinetic molecular theory."
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Derive an expression for the pressure of an ideal gas in terms of its density and mean square speed."
+    },
+    {
+      "chapter": "First Law of Thermodynamics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Derive the mathematical expression $C_p-C_v=R$."
+    },
+    {
+      "chapter": "First Law of Thermodynamics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "A system undergoes a thermodynamic process in which the pressure is kept constant at $15\\,\\mathrm{kPa}$. If the volume increases from $0.05\\,\\mathrm{m^3}$ to $0.08\\,\\mathrm{m^3}$ and the change in internal energy is $150\\,\\mathrm{J}$, calculate the heat added to the system."
+    },
+    {
+      "chapter": "First Law of Thermodynamics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "How much heat is required to raise the temperature of $1\\,\\mathrm{kg}$ of lead from $30^\\circ\\mathrm{C}$ to $105^\\circ\\mathrm{C}$? The specific heat of lead is $0.128\\,\\mathrm{J\\,kg^{-1}\\,K^{-1}}$."
+    },
+    {
+      "chapter": "First Law of Thermodynamics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define specific heat and molar specific heat, and derive the relation between them."
+    },
+    {
+      "chapter": "First Law of Thermodynamics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "How much heat is required to raise the temperature of $1\\,\\mathrm{kg}$ of lead from $25^\\circ\\mathrm{C}$ to $100^\\circ\\mathrm{C}$? The specific heat of lead is $128\\,\\mathrm{J\\,kg^{-1}\\,K^{-1}}$."
+    },
+    {
+      "chapter": "First Law of Thermodynamics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define heat capacity and specific heat, and prove that $C_p=R+C_v$."
+    },
+    {
+      "chapter": "First Law of Thermodynamics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "A system absorbs $1147\\,\\mathrm{J}$ of heat, loses $233\\,\\mathrm{J}$ of heat by conduction to the surroundings, and delivers $614\\,\\mathrm{J}$ of work. Calculate the change in the internal energy of the system."
+    },
+    {
+      "chapter": "First Law of Thermodynamics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "State the first law of thermodynamics and explain the following on its basis.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Isobaric process"
+        },
+        {
+          "label": "(ii)",
+          "text": "Isochoric process"
+        },
+        {
+          "label": "(iii)",
+          "text": "Isothermal process"
+        },
+        {
+          "label": "(iv)",
+          "text": "Adiabatic process"
+        }
+      ]
+    },
+    {
+      "chapter": "First Law of Thermodynamics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Show that the difference between the molar specific heat capacity at constant pressure and the molar specific heat capacity at constant volume for an ideal gas is equal to the universal gas constant."
+    },
+    {
+      "chapter": "First Law of Thermodynamics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "State the first law of thermodynamics and explain the following on its basis.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Isobaric process"
+        },
+        {
+          "label": "(ii)",
+          "text": "Isothermal process"
+        }
+      ]
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "A heat engine performs $200\\,\\mathrm{J}$ of work in each cycle and has an efficiency of $20\\%$. For each cycle of operation, how much heat is absorbed and how much heat is expelled?",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Heat absorbed"
+        },
+        {
+          "label": "(ii)",
+          "text": "Heat expelled"
+        }
+      ]
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "The difference in temperature between the hot and cold bodies is $800^\\circ\\mathrm{C}$. If the engine is $35\\%$ efficient, find the temperatures of the hot and cold bodies."
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "A Carnot engine works between $800^\\circ\\mathrm{C}$ and $400^\\circ\\mathrm{C}$. If the source temperature is increased by $50^\\circ\\mathrm{C}$ or the sink temperature is decreased by $50^\\circ\\mathrm{C}$, which change will cause greater efficiency?"
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "A system absorbs $1147\\,\\mathrm{J}$ of heat, loses $233\\,\\mathrm{J}$ of heat by conduction to the surroundings, and delivers $614\\,\\mathrm{J}$ of work. Calculate the change in the internal energy of the system."
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Write the two statements of the second law of thermodynamics and prove their equivalence."
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "The high-temperature reservoir of a Carnot engine is at $200^\\circ\\mathrm{C}$ and the efficiency is $35\\%$. By how many degrees should the temperature of the cold reservoir be decreased to increase the efficiency to $45\\%$, if the high-temperature reservoir remains constant?"
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "A heat engine performs $200\\,\\mathrm{J}$ of work in each cycle and has an efficiency of $30\\%$.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "How much heat is absorbed in each cycle?"
+        },
+        {
+          "label": "(ii)",
+          "text": "How much heat is expelled in each cycle?"
+        }
+      ]
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is a Carnot engine? Describe the process of a Carnot cycle and derive the mathematical expression for its efficiency."
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is a Carnot engine? Describe its construction and working, and derive the expression for its efficiency."
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "What is a Carnot engine? Derive an expression for the efficiency of a Carnot engine."
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is a Carnot engine? Give its construction and working. Also derive mathematical expressions for its efficiency."
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Describe the Carnot cycle and derive an expression for the efficiency of a Carnot heat engine."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "A galvanometer has a resistance of $50\\,\\Omega$ and gives full-scale deflection at $4\\,\\mathrm{mA}$. A voltmeter is made by connecting a $5\\,\\mathrm{k\\Omega}$ resistor in series. Calculate the maximum voltage that can be measured using this voltmeter."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define magnetic flux. Under what condition will the magnetic flux be maximum?"
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "A moving-coil galvanometer has a resistance of $50\\,\\Omega$ and gives full-scale deflection at $4\\,\\mathrm{mA}$. A voltmeter is made using this galvanometer with a $5\\,\\mathrm{k\\Omega}$ resistance. Find the maximum voltage that can be measured with this voltmeter."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "A solenoid with 400 turns has a cross-sectional area of $4\\,\\mathrm{cm^2}$. A current of $2\\,\\mathrm{A}$ produces $B=0.5\\,\\mathrm{T}$. How large an emf is produced if the current is turned off in $0.1\\,\\mathrm{s}$? What is its self-inductance?",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Induced emf"
+        },
+        {
+          "label": "(ii)",
+          "text": "Self-inductance"
+        }
+      ]
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "A voltmeter measuring up to $150\\,\\mathrm{V}$ has a total resistance of $15000\\,\\Omega$. What additional resistance must be connected to increase its range to $450\\,\\mathrm{V}$?"
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Derive an expression for the force experienced by a current-carrying conductor in a uniform magnetic field."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "An iron-core solenoid with 400 turns has a cross-sectional area of $4.0\\,\\mathrm{cm^2}$. A current of $2.0\\,\\mathrm{A}$ produces $B=0.2\\,\\mathrm{Wb\\,m^{-2}}$. What emf is produced if the current is turned off in $0.1\\,\\mathrm{s}$? What is its self-inductance?",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Induced emf"
+        },
+        {
+          "label": "(ii)",
+          "text": "Self-inductance"
+        }
+      ]
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "What current is required to produce a magnetic field of $37.2\\,\\mathrm{T}$ at a distance of $2\\,\\mathrm{cm}$ from a long straight current-carrying wire? Use $\\mu_0=4\\pi\\times10^{-7}\\,\\mathrm{Wb\\,A^{-1}\\,m^{-1}}$."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "A $400\\,\\mathrm{V}$ voltmeter has a total resistance of $40000\\,\\Omega$. What additional series resistance must be connected to increase its range to $750\\,\\mathrm{V}$?"
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "A galvanometer has a resistance of $50\\,\\Omega$ and gives full-scale deflection when a current of $500\\,\\mu\\mathrm{A}$ flows in it. How can it be converted into an ammeter of range $15\\,\\mathrm{A}$ and a voltmeter of range $300\\,\\mathrm{V}$?",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Ammeter conversion"
+        },
+        {
+          "label": "(ii)",
+          "text": "Voltmeter conversion"
+        }
+      ]
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "How can a galvanometer be converted into a voltmeter? Derive the relevant mathematical expression."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "How can a galvanometer be converted into an ammeter? Derive the relevant expression."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Derive an expression for the force experienced by a current-carrying conductor in a uniform magnetic field."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "An iron-core solenoid with 600 turns has a cross-sectional area of $2.0\\,\\mathrm{cm^2}$. A current of $4.0\\,\\mathrm{A}$ produces $B=0.4\\,\\mathrm{Wb\\,m^{-2}}$. What is its self-inductance?"
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "How is a galvanometer converted into a voltmeter? Give the related mathematical expression."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "A proton of charge $1.6\\times10^{-19}\\,\\mathrm{C}$ and mass $1.67\\times10^{-27}\\,\\mathrm{kg}$ is accelerated by a potential difference of $6\\times10^5\\,\\mathrm{V}$. It then enters perpendicularly into a magnetic field of intensity $0.5\\,\\mathrm{T}$. Find the radius of the circular path of the proton."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Derive an expression for the force experienced by a current-carrying conductor in a uniform magnetic field."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "A galvanometer whose resistance is $60\\,\\Omega$ gives full-scale deflection for a potential difference of $100\\,\\mathrm{mV}$ across its terminals. What shunt resistance must be connected to convert it into an ammeter of $5\\,\\mathrm{A}$ range?"
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "State Ampere's law. Derive an expression for the magnetic field of induction $B$ due to current passing through a long solenoid or toroid."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "State Ampere's law. Using Ampere's law, derive the expression for the magnetic field inside a current-carrying solenoid or toroid."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "With the help of a diagram, describe the construction and working of a moving-coil galvanometer. Show that the current flowing through it is directly proportional to deflection."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "State Ampere's law. Using Ampere's law, derive an expression for the magnetic field of induction inside a current-carrying solenoid or toroid."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Explain the functions of the various parts of a moving-coil galvanometer and prove that the current flowing is directly proportional to the angle of twist of the suspension strip."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "State Ampere's law. Derive the expression for the magnetic field of induction inside a current-carrying solenoid or toroid."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "State Ampere's law. Apply it to find the magnetic field of induction inside a solenoid."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Describe the construction and working of a moving-coil galvanometer. Show that the deflection produced in the galvanometer is directly proportional to the current."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "What is a galvanometer? Prove that the current passing through the coil of a galvanometer is directly proportional to the angle of deflection of the coil."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "State Ampere's law. Derive the expression for the magnetic field of induction $B$ inside a current-carrying solenoid."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Describe the construction and working of a moving-coil galvanometer. Also show that the deflection produced in the coil is proportional to the current passing through it."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "State Ampere's law. Use it to derive the relation for the magnetic field of induction $B$ at any point inside a current-carrying toroid."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Explain the functions of the various parts of a moving-coil galvanometer and prove that the current flowing is directly proportional to the angle of twist of the suspension."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Describe the construction and working of a moving-coil galvanometer with the help of a neat diagram. Show that the current $I$ is directly proportional to the deflection $\\theta$."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "State Ampere's law. Using it, derive an expression for the magnetic field of induction inside a long current-carrying solenoid."
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Describe the method for determining the charge-to-mass ratio $e/m$ of an electron. Derive the relevant mathematical expression."
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is the name of the emf induced in a straight conductor moving with uniform velocity in a magnetic field?"
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "A conductor of length $0.4\\,\\mathrm{m}$ moves with a velocity of $5\\,\\mathrm{m\\,s^{-1}}$ perpendicular to a magnetic field of $0.3\\,\\mathrm{T}$. Calculate the motional emf induced in the conductor."
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is meant by eddy current? How are eddy currents produced?"
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define mutual inductance and prove that $N_2\\phi_2=MI_1$."
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "An alternating-current generator operates at $79\\,\\mathrm{Hz}$. The area of the coil is $500\\,\\mathrm{cm^2}$. Calculate the number of turns in the coil when a magnetic field of induction $0.06\\,\\mathrm{T}$ produces a maximum potential difference of $149\\,\\mathrm{V}$."
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "A coil of 400 turns in an AC generator, having an area of $0.1\\,\\mathrm{m^2}$, rotates in a magnetic field of $50\\,\\mathrm{T}$. To generate a maximum voltage of $220\\,\\mathrm{V}$, how fast must the coil be rotated? Express your answer in revolutions per second."
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "An alternating-current generator operates at $79\\,\\mathrm{Hz}$. The area of the coil is $500\\,\\mathrm{cm^2}$. Calculate the number of turns in the coil when a magnetic field of induction $0.06\\,\\mathrm{T}$ produces a maximum potential difference of $149\\,\\mathrm{V}$."
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "An emf of $45\\,\\mathrm{mV}$ is induced in a coil of 500 turns when the current in a neighboring coil changes from $15\\,\\mathrm{A}$ to $4\\,\\mathrm{A}$ in $0.2\\,\\mathrm{s}$.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "What is the mutual inductance of the coils?"
+        },
+        {
+          "label": "(ii)",
+          "text": "What is the rate of change of flux in the second coil?"
+        }
+      ]
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define an AC generator. Describe its principle and working. Derive the expression for the alternating emf."
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is a transformer? On what principle does it work? With the help of a diagram, give its construction and working. Derive expressions for its efficiency and turns ratio."
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "State Ampere's law. Derive the expression for the magnetic field of induction inside a current-carrying solenoid or toroid."
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "What is a transformer? On what principle does it work? Derive the mathematical relationship between emf and number of turns in the coils."
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "What is a transformer? Write its types. With the help of a clear diagram, give its construction and working, and derive the relevant expression."
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "State Faraday's laws of electromagnetic induction. Explain mutual induction and derive an expression for mutual inductance."
+    },
+    {
+      "chapter": "AC Circuits",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "In an RLC series circuit, $R=50\\,\\Omega$, $L=0.1\\,\\mathrm{H}$, and $C=50\\,\\mu\\mathrm{F}$. Calculate its resonance frequency."
+    },
+    {
+      "chapter": "AC Circuits",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "In an RLC series circuit, $R=50\\,\\Omega$, $L=0.1\\,\\mathrm{H}$, and $C=50\\,\\mu\\mathrm{F}$. Calculate its resonance frequency."
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is an electron-hole pair in a semiconductor, and how is it produced?"
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define rectification. Name the different types of rectifier. With the help of a circuit diagram, give the working of any one rectifier."
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is a p-n junction? Explain the formation of the potential barrier in a p-n junction."
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is meant by rectification? How does a semiconductor diode work as a half-wave rectifier?"
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "What is a semiconductor diode? Describe the working of a full-wave rectifier using a semiconductor diode with the help of a circuit diagram."
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "With the help of a diagram, give the normal working of an npn transistor."
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What is meant by rectification? How does a semiconductor diode work as a half-wave rectifier?"
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is a transistor? Why is it so called? Show diagrammatically the battery connections to pnp and npn transistors for normal working."
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Describe the function of a p-n junction as a half-wave rectifier."
+    },
+    {
+      "chapter": "Digital Electronics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Draw the circuit symbols of OR and AND gates, and write their truth tables for two inputs."
+    },
+    {
+      "chapter": "Digital Electronics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Draw the truth table for an OR gate with three inputs."
+    },
+    {
+      "chapter": "Relativity",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Prove that the speed of a moving rod at which its relative length is equal to half of its proper length is $\\frac{\\sqrt{3}}{2}c$."
+    },
+    {
+      "chapter": "Relativity",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Write the two postulates of the special theory of relativity. Discuss any two consequences."
+    },
+    {
+      "chapter": "Relativity",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "At what speed is a particle moving if its mass is equal to three times its rest mass?"
+    },
+    {
+      "chapter": "Relativity",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Find the speed at which the mass of a particle will be doubled."
+    },
+    {
+      "chapter": "Relativity",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Find the velocity and momentum of a particle whose rest mass is $m_0$ and whose kinetic energy is equal to its rest-mass energy."
+    },
+    {
+      "chapter": "Relativity",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Find the velocity and momentum of a particle whose rest mass is $m_0$ and whose kinetic energy is equal to twice its rest-mass energy."
+    },
+    {
+      "chapter": "Relativity",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Write the principle of relativity and the two postulates of the special theory of relativity."
+    },
+    {
+      "chapter": "Relativity",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "What is the relativistic velocity of a particle whose kinetic energy is twice its rest-mass energy?"
+    },
+    {
+      "chapter": "Relativity",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Write the postulates of the special theory of relativity. Explain any two of its results."
+    },
+    {
+      "chapter": "Relativity",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What are inertial and non-inertial frames of reference? Write the postulates of the special theory of relativity and give its consequences."
+    },
+    {
+      "chapter": "Relativity",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "State the basic postulates of the special theory of relativity. Explain the four important results arrived at by Einstein on the basis of this theory."
+    },
+    {
+      "chapter": "Relativity",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What are inertial and non-inertial frames of reference? Also give the consequences of the special theory of relativity."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "State the laws governing black-body radiation. Also write their mathematical expressions."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Calculate the wavelength of X-rays if the energy of a photon emitted by the X-rays machine is $1.9878\\times10^{-13}\\,\\mathrm{J}$."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Sodium light of wavelength $5.893\\times10^{-7}\\,\\mathrm{m}$ falls on a photocell. A negative stopping potential of $0.30\\,\\mathrm{V}$ is needed to stop the electrons from reaching the collector. Find the work function of the plate material in joules and electron-volts. Use $c=3\\times10^8\\,\\mathrm{m\\,s^{-1}}$, $h=6.634\\times10^{-34}\\,\\mathrm{J\\,s}$, and $e=1.6\\times10^{-19}\\,\\mathrm{C}$."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is meant by pair production and annihilation of matter? Also write their equations."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "X-rays of wavelength $2.64\\times10^{-10}\\,\\mathrm{m}$ are used in a Compton-scattering process. Find the fractional change in wavelength for a scattering angle of $120^\\circ$."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "In a photoelectric experiment, a stopping potential of $1.25\\,\\mathrm{V}$ is needed. Find the maximum kinetic energy and maximum speed of the photoelectron. Use $e=1.6\\times10^{-19}\\,\\mathrm{C}$ and $m_e=9.1\\times10^{-31}\\,\\mathrm{kg}$."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "A sodium surface is illuminated with light of wavelength $3\\times10^{-7}\\,\\mathrm{m}$. If the work function of sodium is $2.46\\,\\mathrm{eV}$, find the kinetic energy of the photoelectrons and the cut-off wavelength. Use $h=6.63\\times10^{-34}\\,\\mathrm{J\\,s}$, $c=3\\times10^8\\,\\mathrm{m\\,s^{-1}}$, and $1\\,\\mathrm{eV}=1.6\\times10^{-19}\\,\\mathrm{J}$."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is a perfect black body? State Max Planck's assumptions for explaining black-body radiation, and write Planck's law of black-body radiation."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "X-rays of wavelength $3.64\\times10^{-10}\\,\\mathrm{m}$ are used in a Compton-scattering process. Find the fractional change in wavelength for a scattering angle of $120^\\circ$. Use $h=6.63\\times10^{-34}\\,\\mathrm{J\\,s}$, $m_e=9.1\\times10^{-31}\\,\\mathrm{kg}$, and $c=3\\times10^8\\,\\mathrm{m\\,s^{-1}}$."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "A photon of wavelength $0.004\\,\\text{Å}$ in the vicinity of a heavy nucleus produces an electron-positron pair. Find the kinetic energy of each particle of the pair in MeV, if the kinetic energy of the positron is twice that of the electron. Use $m_0c^2=8.19\\times10^{-14}\\,\\mathrm{J}$, $h=6.63\\times10^{-34}\\,\\mathrm{J\\,s}$, and $c=3\\times10^8\\,\\mathrm{m\\,s^{-1}}$."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "A sodium surface is illuminated with light of wavelength $3\\times10^{-7}\\,\\mathrm{m}$. Find the kinetic energy of the emitted photoelectron and the cut-off wavelength of sodium. The work function of sodium is $2.46\\,\\mathrm{eV}$."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is the photoelectric effect? Define the following terms and derive Einstein's photoelectric equation.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Work function"
+        },
+        {
+          "label": "(ii)",
+          "text": "Stopping potential"
+        },
+        {
+          "label": "(iii)",
+          "text": "Threshold frequency"
+        }
+      ]
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What are X-rays? How are they produced? Describe the two types of X-ray spectra."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is the photoelectric effect? Derive Einstein's photoelectric equation on the basis of quantum theory in terms of frequency and wavelength."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is the Compton effect? Derive an expression for the Compton shift in wavelength."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is the photoelectric effect? Explain its important results. Derive Einstein's photoelectric equation."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Explain the Compton effect and obtain an expression for the increase in the wavelength of the scattered photon."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is the photoelectric effect? Define the following terms, and derive Einstein's photoelectric equation in terms of frequency as well as wavelength.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Threshold frequency"
+        },
+        {
+          "label": "(ii)",
+          "text": "Work function"
+        },
+        {
+          "label": "(iii)",
+          "text": "Saturation current"
+        },
+        {
+          "label": "(iv)",
+          "text": "Stopping potential"
+        }
+      ]
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Explain the Compton effect. Derive an expression for the shift in wavelength of the scattered photon."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "What is the Compton effect? Derive an expression for the Compton shift in wavelength."
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "What is the photoelectric effect? Explain its important results. Also derive Einstein's photoelectric equation."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is meant by LASER? Define metastable state or population inversion."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "How does a He-Ne laser work?"
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "How much energy is needed to ionize a hydrogen atom originally in the ground state? Use $h=6.63\\times10^{-34}\\,\\mathrm{J\\,s}$, $c=3\\times10^8\\,\\mathrm{m\\,s^{-1}}$, and $R_H=1.097\\times10^7\\,\\mathrm{m^{-1}}$."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is LASER? What is meant by metastable state, population inversion, and optical pumping?"
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Find the shortest and longest wavelengths of emitted photons in the hydrogen spectrum in the Paschen series."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "A hydrogen atom in the ground state is excited by absorbing a photon of $12.15\\,\\mathrm{eV}$. Find the quantum number of the excited state."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Light of wavelength $486.3\\,\\mathrm{nm}$ is emitted by a hydrogen atom in the Balmer series. What transition of the hydrogen atom is responsible for this radiation? Use $R_H=1.097\\times10^7\\,\\mathrm{m^{-1}}$."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is the wavelength of the third spectral line of the Paschen series in the hydrogen atom? Use $R_H=1.097\\times10^7\\,\\mathrm{m^{-1}}$."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What minimum energy is required to excite a hydrogen atom from $n=1$ to $n=3$? Use $R_H=1.097\\times10^7\\,\\mathrm{m^{-1}}$."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "How much energy is needed to ionize a hydrogen atom originally in the ground state? Use $h=6.63\\times10^{-34}\\,\\mathrm{J\\,s}$, $c=3\\times10^8\\,\\mathrm{m\\,s^{-1}}$, and $R_H=1.097\\times10^7\\,\\mathrm{m^{-1}}$."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is meant by the terms laser, metastable state, and population inversion?"
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Find the shortest and longest wavelengths of emitted photons in the hydrogen spectrum in the Paschen series."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Find the shortest wavelength of a photon emitted in the Balmer series and determine its energy in eV. Use $R_H=1.097\\times10^7\\,\\mathrm{m^{-1}}$."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Give the postulates of Bohr's atomic theory. Derive the expression for the radius of the $n$th orbit of the hydrogen atom."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Using $r_n=\\frac{n^2(4\\pi\\varepsilon_0 h^2)}{me^2}$, derive expressions for the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "The energy of an electron in the $n$th orbit of the hydrogen atom"
+        },
+        {
+          "label": "(ii)",
+          "text": "The wavelength of photons emitted in the hydrogen spectrum"
+        }
+      ]
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Derive an expression for the total energy of the electron in the $n$th orbit of a hydrogen atom."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "State the basic postulates of Bohr's theory of atomic structure. Derive an expression for the radius of the $n$th orbit of a hydrogen atom."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Give the postulates of Bohr's atomic theory. Derive expressions for the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Radius of the $n$th orbit of the hydrogen atom"
+        },
+        {
+          "label": "(ii)",
+          "text": "Total energy of the electron in the $n$th orbit of the hydrogen atom"
+        }
+      ]
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "State the basic postulates of Bohr's atomic theory of the hydrogen atom. Derive the expression for the radius of the $n$th orbit, and hence show that the ratio of the radius of the third orbit to that of the second orbit is $2.25$."
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Using Bohr's atomic theory and $r_n=\\frac{h^2n^2}{Kme^2}$, derive expressions for the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "The energy of an electron in the $n$th orbit of the hydrogen atom"
+        },
+        {
+          "label": "(ii)",
+          "text": "The wavelength of photons emitted in the hydrogen spectrum"
+        }
+      ]
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "State the basic postulates of Bohr's theory of atomic structure. Derive the expression for the radius of the $n$th orbit of a hydrogen atom."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "The $^{32}_{15}\\mathrm{P}$ isotope of phosphorus has a half-life of $14.28$ days. Find its decay constant."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "State the law of radioactive decay and write its mathematical expression."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "State the law of radioactive decay and give its formula. What is meant by activity $A$ and relative activity?"
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Find the binding energy of $^{7}_{3}\\mathrm{Li}$. Use the mass of $^{7}_{3}\\mathrm{Li}$ as $7.0160\\,\\mathrm{u}$, proton mass $1.0073\\,\\mathrm{u}$, and neutron mass $1.0087\\,\\mathrm{u}$."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define a fission reaction. What is the difference between controlled and uncontrolled fission reactions?"
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Find the binding energy of $^{126}_{52}\\mathrm{Te}$. Use $m_p=1.0078\\,\\mathrm{u}$, $m_n=1.0086\\,\\mathrm{u}$, $m_{\\mathrm{Te}}=125.9033\\,\\mathrm{u}$, and $1\\,\\mathrm{u}=931.5\\,\\mathrm{MeV}$."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Write the basic equations representing the change in a parent nucleus after alpha, positive beta $\\beta^+$, negative beta $\\beta^-$, and gamma emission."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Find the $Q$-value of the reaction $^{239}_{94}\\mathrm{Pu}\\rightarrow{}^{4}_{2}\\mathrm{He}+{}^{235}_{92}\\mathrm{U}+Q$, if the masses are $m(^{239}_{94}\\mathrm{Pu})=239.0522\\,\\mathrm{u}$, $m(^{235}_{92}\\mathrm{U})=235.0439\\,\\mathrm{u}$, and $m(^{4}_{2}\\mathrm{He})=4.0026\\,\\mathrm{u}$."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "The half-life of $^{210}_{84}\\mathrm{Po}$ is 140 days. By what percent does its activity decrease per week?"
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "The number of atoms per gram of $^{226}_{88}\\mathrm{Ra}$ is $2.666\\times10^{21}$, and it decays with a half-life of 1622 years. Find the decay constant and activity of the sample."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Why is it more difficult to start a fusion reaction than a fission reaction?"
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "The number of atoms per gram of $^{226}_{88}\\mathrm{Ra}$ is $2.666\\times10^{21}$, and it decays with a half-life of 1622 years. Find the decay constant and activity of the sample. Use $1\\,\\mathrm{year}=3.15\\times10^7\\,\\mathrm{s}$."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Describe the radioactive decay law. Give the relevant mathematical expression."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Find the $Q$-value of the reaction $^{239}_{94}\\mathrm{Pu}\\rightarrow{}^{4}_{2}\\mathrm{He}+{}^{235}_{92}\\mathrm{U}+Q$. The isotopic masses are $239.0522\\,\\mathrm{u}$ for plutonium, $235.0439\\,\\mathrm{u}$ for uranium, and $4.0026\\,\\mathrm{u}$ for the alpha particle."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "The half-life of $^{210}_{84}\\mathrm{Po}$ is 140 days. By what percent will its activity decrease per hour?"
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "A deuteron of mass $3.3431\\times10^{-27}\\,\\mathrm{kg}$ is formed when a proton of mass $1.6724\\times10^{-27}\\,\\mathrm{kg}$ and a neutron of mass $1.6748\\times10^{-27}\\,\\mathrm{kg}$ combine. Calculate the mass defect and binding energy in MeV."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "A sodium surface is shown with light of wavelength $3\\times10^{21}$ and it decays with a half-life of 1622 years. Find the activity and decay constant of the sample."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "The number of atoms per gram of $^{226}_{88}\\mathrm{Ra}$ is $2.666\\times10^{21}$, and it decays with a half-life of 1622 years. Find the activity and decay constant of the sample."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Find the binding energy and packing fraction in MeV of $^{126}_{52}\\mathrm{Te}$, given $m_p=1.0078\\,\\mathrm{u}$, $m_n=1.0086\\,\\mathrm{u}$, $m_{\\mathrm{Te}}=125.9033\\,\\mathrm{u}$, and $1\\,\\mathrm{u}=931.5\\,\\mathrm{MeV}$."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Find the binding energy and packing fraction (binding energy per nucleon) of $^{126}_{52}\\mathrm{Te}$. Given $m_p=1.0078\\,\\mathrm{u}$, $m_n=1.0086\\,\\mathrm{u}$, $m_{\\mathrm{Te}}=125.9033\\,\\mathrm{u}$, and $1\\,\\mathrm{u}=931.5\\,\\mathrm{MeV}$."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is a mass spectrograph? Explain its construction, principle, and working. Derive its relevant mathematical expression."
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define radioactivity. Explain the law of radioactive decay. Write equations for the changes in parent nuclei during $\\alpha$, $\\beta$, and $\\gamma$ decay."
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Give the construction and working of a Geiger counter."
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Write a note on the Wilson cloud chamber."
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Give the construction and working of a Wilson cloud chamber."
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Describe the construction and working of a Wilson cloud chamber."
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Name a device for making the path of ionizing particles and rays visible, and describe its working."
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Give the construction and working of a Wilson cloud chamber."
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is a Wilson cloud chamber or Geiger counter? Explain the construction and working of any one."
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Give the construction and working of a Geiger counter."
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Give the construction and working of a Geiger-Muller counter."
+    }
+  ]
+}

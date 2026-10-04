@@ -1,0 +1,2762 @@
+{
+  "subject": "Physics",
+  "class": "IX",
+  "questions": [
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define density. Also write its formula and SI unit."
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define fundamental and derived quantities. Also write three examples of each."
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define density with its formula and unit. Also write methods for measuring density."
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define the following branches of physics.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Atomic physics"
+        },
+        {
+          "label": "(ii)",
+          "text": "Nuclear physics"
+        },
+        {
+          "label": "(iii)",
+          "text": "Plasma physics"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Define physics and write two ways in which it is important in daily life."
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Write two contributions of each scientist.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Yaqoob Al-Kindi"
+        },
+        {
+          "label": "(ii)",
+          "text": "Ibn al-Haitham"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "The radius of a hydrogen atom is $0.53\\times10^{-10}\\,\\mathrm{m}$. Convert it into kilometres, millimetres, micrometres, and nanometres."
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define physics and write the names of any four of its branches."
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Name and define the branches of physics concerned with solid materials, nuclei and atoms, and astronomical bodies."
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Write the SI units of the following physical quantities.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Torque"
+        },
+        {
+          "label": "(ii)",
+          "text": "Weight"
+        },
+        {
+          "label": "(iii)",
+          "text": "Power"
+        },
+        {
+          "label": "(iv)",
+          "text": "Stress"
+        },
+        {
+          "label": "(v)",
+          "text": "Length"
+        },
+        {
+          "label": "(vi)",
+          "text": "Frequency"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the SI unit and state whether each item is a fundamental or derived quantity.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Ampere"
+        },
+        {
+          "label": "(ii)",
+          "text": "Volume"
+        },
+        {
+          "label": "(iii)",
+          "text": "Time"
+        },
+        {
+          "label": "(iv)",
+          "text": "Temperature"
+        },
+        {
+          "label": "(v)",
+          "text": "Force"
+        },
+        {
+          "label": "(vi)",
+          "text": "Density"
+        },
+        {
+          "label": "(vii)",
+          "text": "Velocity"
+        },
+        {
+          "label": "(viii)",
+          "text": "Acceleration"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Convert the following values.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$230\\,\\mathrm{cm}$ to metres"
+        },
+        {
+          "label": "(ii)",
+          "text": "$250\\,\\mathrm{g}$ to kilograms"
+        },
+        {
+          "label": "(iii)",
+          "text": "$0.5\\,\\mathrm{s}$ to milliseconds"
+        },
+        {
+          "label": "(iv)",
+          "text": "$0.8\\,\\mathrm{m}$ to millimetres"
+        },
+        {
+          "label": "(v)",
+          "text": "$350\\,\\mathrm{ms}$ to seconds"
+        },
+        {
+          "label": "(vi)",
+          "text": "$1.2\\,\\mathrm{kg}$ to grams"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "An engineer measures the width of an aluminium sheet with a Vernier caliper as shown in the figure.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "What is the measured width of the aluminium sheet?"
+        },
+        {
+          "label": "(ii)",
+          "text": "Which gives the more precise measurement: a Vernier caliper, screw gauge, or metre rule?"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "A pendulum swings from $X$ to $Y$ and back to $X$ again.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Which is the most accurate way to measure the time for one oscillation with a stopwatch: record the time for 10 oscillations and multiply by 10; record the time for 10 oscillations and divide by 10; record the time for one oscillation; or record the time from $X$ to $Y$ and double it?"
+        },
+        {
+          "label": "(ii)",
+          "text": "Suggest an instrument for measuring the time period more accurately."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the correct metric prefix or prefixed unit in each blank.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$75000\\,\\mathrm{m}=750\\,\\_\\_\\_$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\frac{2}{1000}\\,\\mathrm{s}=1\\,\\_\\_\\_$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\frac{1}{1000000}\\,\\mathrm{g}=1\\,\\_\\_\\_$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$1000000000\\,\\mathrm{m}=1\\,\\_\\_\\_$"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the following values in standard and scientific notation.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "The radius of the first orbit of hydrogen is $r=0.53\\,\\text{\\AA}$."
+        },
+        {
+          "label": "(ii)",
+          "text": "One light-year is $262800000000\\,\\mathrm{m}$."
+        },
+        {
+          "label": "(iii)",
+          "text": "Vacuum pressure is $2.7\\times10^{-4}\\,\\mathrm{torr}$."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A measuring cylinder contains $500\\,\\mathrm{cm^3}$ of water. A stone of mass $20\\,\\mathrm{g}$ is immersed and the water level rises to $800\\,\\mathrm{cm^3}$. Which statement is correct?",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "The difference between the readings gives the density of the stone."
+        },
+        {
+          "label": "(ii)",
+          "text": "The difference between the readings gives the volume of the stone."
+        },
+        {
+          "label": "(iii)",
+          "text": "The final reading gives the density of the stone."
+        },
+        {
+          "label": "(iv)",
+          "text": "The final reading gives the volume of the stone."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "State the number of significant figures in each value.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "980"
+        },
+        {
+          "label": "(ii)",
+          "text": "91.60"
+        },
+        {
+          "label": "(iii)",
+          "text": "10010.100"
+        },
+        {
+          "label": "(iv)",
+          "text": "0.0086"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A wooden piece is made into different shapes. Take the length $l$ and radius $r$ as $2\\,\\mathrm{m}$. Calculate its volume as each of the following shapes.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Sphere"
+        },
+        {
+          "label": "(ii)",
+          "text": "Cube"
+        },
+        {
+          "label": "(iii)",
+          "text": "Cylinder"
+        },
+        {
+          "label": "(iv)",
+          "text": "Pyramid"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Find the density of the wooden sphere and cube if the mass of the wood is $1\\,\\mathrm{kg}$. Is there any change in density due to shape?"
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Write any three differences between scalar and vector quantities."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "A ball falls from a height of $90\\,\\mathrm{m}$. How much time will it take to reach the ground?"
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "A bus starts from rest and travels along a straight path. Its velocity becomes $15\\,\\mathrm{m\\,s^{-1}}$ in $5\\,\\mathrm{s}$. Calculate its acceleration."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write any three differences between translatory motion and vibratory motion."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "A bus moves at $15\\,\\mathrm{m\\,s^{-1}}$ and accelerates at $5\\,\\mathrm{m\\,s^{-2}}$. Find its final velocity after $6\\,\\mathrm{s}$."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "A ball is dropped from a height of $70\\,\\mathrm{m}$. How much time will it take to strike the ground? Take $g=10\\,\\mathrm{m\\,s^{-2}}$."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "A car starts from rest, and after $20\\,\\mathrm{s}$ its velocity becomes $108\\,\\mathrm{km\\,h^{-1}}$. Find its acceleration."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "A ball is dropped from a tower and reaches the ground in $10\\,\\mathrm{s}$. Calculate the height of the tower and the velocity with which the ball hits the ground."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "A ball is dropped from a height of $122.5\\,\\mathrm{m}$. How much time will it take to reach the ground?"
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "A car starts from rest and attains a velocity of $20\\,\\mathrm{m\\,s^{-1}}$ in $5\\,\\mathrm{s}$. Find the distance covered."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "A ball is dropped from a tower and reaches the ground in $10\\,\\mathrm{s}$. Calculate the height of the tower. Take $g=10\\,\\mathrm{m\\,s^{-2}}$."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "A car moves with uniform acceleration and attains a velocity of $108\\,\\mathrm{km\\,h^{-1}}$ in $5\\,\\mathrm{min}$. Find its acceleration."
+    },
+    {
+      "chapter": 2,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is meant by relative motion? Derive the second equation of motion."
+    },
+    {
+      "chapter": 2,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is kinematics? Derive $2aS=v_f^2-v_i^2$."
+    },
+    {
+      "chapter": 2,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Explain the term $v_i$ and derive $S=v_it+\\frac{1}{2}at^2$."
+    },
+    {
+      "chapter": 2,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define uniform velocity and derive $S=v_it+\\frac{1}{2}at^2$."
+    },
+    {
+      "chapter": 2,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "What do the symbols $v_i$ and $v_f$ represent? Derive $v_f^2=v_i^2+2aS$."
+    },
+    {
+      "chapter": 2,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Derive $S=v_it+\\frac{1}{2}at^2$."
+    },
+    {
+      "chapter": 2,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Derive $2aS=v_f^2-v_i^2$."
+    },
+    {
+      "chapter": 2,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Derive the second equation of motion in five steps."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define rest and motion."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is meant by relative motion?"
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define speed and velocity."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the difference between distance and displacement?"
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define acceleration."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define scalar and vector quantities."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How are vector quantities represented graphically?"
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define motion under gravity."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is gravity taken as negative for an object moving upward?"
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Calculate the acceleration of a bus that speeds up from $20\\,\\mathrm{m\\,s^{-1}}$ to $40\\,\\mathrm{m\\,s^{-1}}$ in $8\\,\\mathrm{s}$."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A bus moves at $15\\,\\mathrm{m\\,s^{-1}}$ and accelerates at $5\\,\\mathrm{m\\,s^{-2}}$. Find its final velocity after $6\\,\\mathrm{s}$."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A car starts from rest with an acceleration of $5\\,\\mathrm{m\\,s^{-2}}$. Find the time required to travel $50\\,\\mathrm{m}$."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A ball is dropped from a height of $50\\,\\mathrm{m}$. What will be its velocity just before touching the ground?"
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A body is thrown vertically upward with a velocity of $50\\,\\mathrm{m\\,s^{-1}}$. Calculate the maximum height it can reach."
+    },
+    {
+      "chapter": 2,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A ball falls from a height of $70\\,\\mathrm{m}$. How much time will it take to reach the ground?"
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "A gun of mass $6\\,\\mathrm{kg}$ fires a bullet of mass $40\\,\\mathrm{g}$ at $100\\,\\mathrm{m\\,s^{-1}}$. Calculate the recoil velocity of the gun."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "State Newton's second law of motion and derive its equation."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "A car moves on a circular highway of radius $100\\,\\mathrm{m}$. Its mass is $600\\,\\mathrm{kg}$ and its velocity is $72\\,\\mathrm{km\\,h^{-1}}$. Find the centripetal force exerted by the car."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is momentum? Write its formula and SI unit."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "A force of $3400\\,\\mathrm{N}$ is applied to a body of mass $85000\\,\\mathrm{g}$. Find the acceleration produced."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "State Newton's second law of motion and derive $F=ma$."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Write Newton's three laws of motion."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Determine the acceleration of a car of mass $900\\,\\mathrm{kg}$ when a net force of $2700\\,\\mathrm{N}$ acts on it."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "At what speed must an object travel in a circle of radius $3\\,\\mathrm{m}$ to experience a centripetal acceleration of $12\\,\\mathrm{m\\,s^{-2}}$?"
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "State Newton's second law of motion and derive $F=ma$."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "State Newton's second law of motion and derive $F=ma$."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "State Newton's laws of motion."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "A car moves on a circular track of radius $30\\,\\mathrm{m}$ at a constant speed of $20\\,\\mathrm{m\\,s^{-1}}$. Find its centripetal acceleration."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Write three points of comparison between weight and mass."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "A $2\\,\\mathrm{m}$ long string is used to whirl a $100\\,\\mathrm{g}$ stone in a horizontal circle at $2\\,\\mathrm{m\\,s^{-1}}$. Find the tension in the string."
+    },
+    {
+      "chapter": 3,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define momentum and write its SI unit. State and prove the law of conservation of momentum."
+    },
+    {
+      "chapter": 3,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Write two advantages and two disadvantages of friction. Also write two methods of reducing friction."
+    },
+    {
+      "chapter": 3,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Write two advantages and two disadvantages of friction."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define momentum and write its SI unit."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "When a freely falling object moves toward Earth due to Earth's pull, does Earth also move toward the object due to reaction? Explain."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is a wire fence fitted to a batsman's helmet, and how does it prevent injuries?"
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "State Newton's first law of motion and give common examples. Also list common observations caused by inertia."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define Newton's second law of motion."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Show the relationship between applied force and the acceleration produced in a body."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Give at least three clear differences between mass and weight."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Answer the following about circular motion.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Define the forces acting on an object in circular motion."
+        },
+        {
+          "label": "(ii)",
+          "text": "Draw a figure showing the directions of centripetal force, centrifugal force, and velocity of an object on a circular path."
+        },
+        {
+          "label": "(iii)",
+          "text": "List purposeful everyday uses of a centrifuge."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is frictional force? Explain with two examples from daily life."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How does an anti-lock braking system prevent the risk of sliding? List four uses of rolling friction in everyday life."
+    },
+    {
+      "chapter": 3,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the following phenomena in relation to dynamics.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "An air-filled balloon is released."
+        },
+        {
+          "label": "(ii)",
+          "text": "Riding a bicycle requires continuous pedalling."
+        },
+        {
+          "label": "(iii)",
+          "text": "A biker rides in a death well."
+        },
+        {
+          "label": "(iv)",
+          "text": "You feel a pullback whenever you pull your school bag or another heavy object."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Find the momentum of a body of mass $6\\,\\mathrm{kg}$ moving at $25\\,\\mathrm{m\\,s^{-1}}$."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "What will be the velocity if the momentum becomes $200\\,\\mathrm{N\\,s}$?"
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A body of mass $10\\,\\mathrm{kg}$ moves at $10\\,\\mathrm{m\\,s^{-1}}$. A force acts for $5\\,\\mathrm{s}$ and reduces its velocity to $2\\,\\mathrm{m\\,s^{-1}}$. Find its momentum before and after the force acts."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Solve the following related force-and-acceleration problems.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "A force of $3400\\,\\mathrm{N}$ is applied to a body of mass $850\\,\\mathrm{kg}$. Find the acceleration produced."
+        },
+        {
+          "label": "(ii)",
+          "text": "How much force should be applied to a body of mass $425\\,\\mathrm{kg}$ to produce the same acceleration as in part (a)?"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Find the mass of a body accelerated by a force of $200\\,\\mathrm{N}$ that speeds it up to $36\\,\\mathrm{m\\,s^{-1}}$."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "What should be the acceleration of the same body if the applied force changes to $280\\,\\mathrm{N}$?"
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "An empty car has a mass of $1200\\,\\mathrm{kg}$. Its engine can produce an acceleration of $4\\,\\mathrm{m\\,s^{-2}}$. If $300\\,\\mathrm{kg}$ of passengers and luggage is added, what acceleration will the same engine produce?"
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "An object has mass $60\\,\\mathrm{kg}$. Find its weight on Earth, the Moon, and Mars. Take $g_E=9.8\\,\\mathrm{m\\,s^{-2}}$, $g_M=1.6\\,\\mathrm{m\\,s^{-2}}$, and $g_{Mars}=3.7\\,\\mathrm{m\\,s^{-2}}$."
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A car moves on a circular highway of radius $1000\\,\\mathrm{m}$. Its mass is $600\\,\\mathrm{kg}$ and its velocity is $72\\,\\mathrm{km\\,h^{-1}}$.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Find the centripetal force exerted by the car."
+        },
+        {
+          "label": "(ii)",
+          "text": "Find the centripetal acceleration of the car."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A $15\\,\\mathrm{kg}$ block on a wet, slippery floor is pulled with a string and spring balance that reads $3\\,\\mathrm{N}$. Find the coefficient of friction using $F_s=\\mu mg$."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is meant by resolution of a vector? Resolve a vector into perpendicular components."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define torque. Write its formula and unit."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "A man pushes a trolley on horizontal ground with a force of $100\\,\\mathrm{N}$ at an angle of $60^\\circ$ to the ground. Find the horizontal and vertical components of the force."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write the three states of equilibrium."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Describe the three states of equilibrium with one example of each."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "A mechanic uses a double-arm spanner to turn a nut. He applies $15\\,\\mathrm{N}$ at each end and produces a torque of $60\\,\\mathrm{N\\,m}$. What is the length of the moment arm of the couple?"
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Find the two rectangular components of a $100\\,\\mathrm{N}$ force acting at $60^\\circ$ to the $x$-axis. Take $\\cos60^\\circ=0.5$ and $\\sin60^\\circ=0.866$."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "A force acts at $60^\\circ$ to the $x$-axis. If its $x$-component is $50\\,\\mathrm{N}$, find the resultant force and its $y$-component. Take $\\sin60^\\circ=0.866$ and $\\cos60^\\circ=0.5$."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Write the three states of equilibrium."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "With the help of diagrams, define the negative of a vector and the resultant vector."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Using the rectangular components of a vector, derive $F=\\sqrt{F_x^2+F_y^2}$."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define equilibrium and state its two conditions."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Using the graphical method, add two vectors $\\vec A$ and $\\vec B$."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Prove that the moment of a couple equals the product of one force and the arm of the couple."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "A $5\\,\\mathrm{m}$ beam is pivoted into a wall. A force of $100\\,\\mathrm{N}$ is applied vertically at its far end. Find the torque produced."
+    },
+    {
+      "chapter": 4,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Explain two types of equilibrium with examples based on the state of a body. Also explain the two conditions of equilibrium in detail."
+    },
+    {
+      "chapter": 4,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define equilibrium. Explain its types and its two conditions."
+    },
+    {
+      "chapter": 4,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Which process is the reverse of resolution of a force? Define it and prove $F=\\sqrt{F_x^2+F_y^2}$ and $\\theta=\\tan^{-1}\\!\\left(\\frac{F_y}{F_x}\\right)$."
+    },
+    {
+      "chapter": 4,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Define resolution of a vector. Explain how to resolve a vector into rectangular components."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define like and unlike forces."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the head-to-tail rule for vector addition of forces."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How can a force be resolved into perpendicular components? Find its horizontal and vertical components."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How can a force be determined from its rectangular components?"
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "The horizontal and vertical components of a force are $4\\,\\mathrm{N}$ and $3\\,\\mathrm{N}$, respectively. Find the resultant force and its direction."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is meant by moment of force?"
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "State the principle of moments."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define centre of mass or centre of gravity. How can it be determined?"
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define a couple as a pair of forces tending to produce torque."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "State the two conditions necessary for an object to be in equilibrium."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Two like parallel forces of $15\\,\\mathrm{N}$ each act on a body. Find their resultant."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Two unlike parallel forces of $10\\,\\mathrm{N}$ each act along the same line. Find their resultant."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Three forces act as follows: $12\\,\\mathrm{N}$ along the $x$-axis, $8\\,\\mathrm{N}$ at $45^\\circ$ to the $x$-axis, and $8\\,\\mathrm{N}$ along the $y$-axis.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Find their resultant."
+        },
+        {
+          "label": "(ii)",
+          "text": "Find the direction of the resultant."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A gardener pushes a lawnmower with a force of $80\\,\\mathrm{N}$ at an angle of $40^\\circ$ to the ground.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Find the horizontal component."
+        },
+        {
+          "label": "(ii)",
+          "text": "Find the vertical component."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A spanner of length $0.3\\,\\mathrm{m}$ can produce a torque of $300\\,\\mathrm{N\\,m}$.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Determine the force applied."
+        },
+        {
+          "label": "(ii)",
+          "text": "What should be the spanner's length if the torque is increased to $500\\,\\mathrm{N\\,m}$ with the same force?"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A uniform metre rule supported at its centre is balanced by forces of $12\\,\\mathrm{N}$ and $20\\,\\mathrm{N}$.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "If the $20\\,\\mathrm{N}$ force is placed $3\\,\\mathrm{m}$ from the pivot, find the position of the $12\\,\\mathrm{N}$ force on the other side."
+        },
+        {
+          "label": "(ii)",
+          "text": "If the $20\\,\\mathrm{N}$ force is moved to $4\\,\\mathrm{cm}$ from the pivot, find the force that replaces the $12\\,\\mathrm{N}$ force."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A mechanic uses a double-arm spanner and applies $15\\,\\mathrm{N}$ at each end to produce $60\\,\\mathrm{N\\,m}$ of torque. Find the length of the moment arm of the couple."
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "With the same spanner, how much force is required to produce a torque of $80\\,\\mathrm{N\\,m}$?"
+    },
+    {
+      "chapter": 4,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A uniform metre rule is balanced at the $30\\,\\mathrm{cm}$ mark when a load of $0.80\\,\\mathrm{N}$ is hung at the zero mark.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "At what point on the rule is its centre of gravity?"
+        },
+        {
+          "label": "(ii)",
+          "text": "Calculate the weight of the rule."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define pressure and write two factors that affect it."
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "State and explain Hooke's law."
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is elasticity? State Hooke's law and write its mathematical expression."
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Calculate the spring constant of a spring that extends $3.5\\,\\mathrm{cm}$ when a load of $14\\,\\mathrm{N}$ is hung from its end."
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define pressure. On what factors does pressure depend?"
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "A spring has spring constant $k=30\\,\\mathrm{N\\,m^{-1}}$. What load is required to produce an extension of $4\\,\\mathrm{m}$?"
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Find the pressure exerted by a $450\\,\\mathrm{N}$ woman putting all her weight on one heel of area $2\\,\\mathrm{cm}\\times2\\,\\mathrm{cm}$."
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Name the law stating that pressure applied to a liquid is transmitted equally in all directions, and describe one application of this law."
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define pressure and write its formula and SI unit."
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Explain Hooke's law as applied to a helical spring."
+    },
+    {
+      "chapter": 5,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Describe the construction and working of a hydraulic machine with the help of a diagram."
+    },
+    {
+      "chapter": 5,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "State Pascal's law. Describe the construction and working of a hydraulic lift with the help of a diagram."
+    },
+    {
+      "chapter": 5,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define Pascal's law and explain one application with a diagram."
+    },
+    {
+      "chapter": 5,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Describe four examples showing surface tension."
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "State Hooke's law."
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define pressure."
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the SI unit of pressure."
+    },
+    {
+      "chapter": 5,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Why does pressure increase as you dig deeper? Explain in detail.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Pressure exerted by a boy's thumb on the head of a thumbtack."
+        },
+        {
+          "label": "(ii)",
+          "text": "Pressure exerted by the tip of the thumbtack on wood."
+        },
+        {
+          "label": "(iii)",
+          "text": "What conclusion follows from parts (a) and (b)?"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Calculate the spring constant of a spring that extends $3.5\\,\\mathrm{cm}$ when a load of $14\\,\\mathrm{N}$ is hung from its end."
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "The table gives load and spring-extension data: $(0,0)$, $(2,80)$, $(4,83)$, $(6,86)$, $(8,89)$, $(10,92)$, and $(12,93)$, with load in newtons and extension in centimetres.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Calculate the spring constant $k$."
+        },
+        {
+          "label": "(ii)",
+          "text": "Determine the maximum force for which Hooke's law is applicable."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A boy presses a thumbtack into wood with a force of $20\\,\\mathrm{N}$. The head area is $1\\,\\mathrm{cm^2}$ and the tip area is $0.01\\,\\mathrm{cm^2}$.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Calculate the pressure exerted by the boy's thumb on the head."
+        },
+        {
+          "label": "(ii)",
+          "text": "Calculate the pressure exerted by the tip on the wood."
+        },
+        {
+          "label": "(iii)",
+          "text": "What conclusion follows from the two answers?"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A hydraulic system has small- and large-piston cross-sectional areas of $0.005\\,\\mathrm{m^2}$ and $0.1\\,\\mathrm{m^2}$, respectively. A force of $20\\,\\mathrm{N}$ is applied to the small piston.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Calculate the pressure transmitted through the hydraulic fluid."
+        },
+        {
+          "label": "(ii)",
+          "text": "Calculate the force at the large piston."
+        },
+        {
+          "label": "(iii)",
+          "text": "Discuss the distances travelled by the small and large pistons."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Fatima's weight is $900\\,\\mathrm{N}$ on Earth's surface. What will her weight be on the Moon's surface?"
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "A planet has four times Earth's mass and twice Earth's radius. If $g=10\\,\\mathrm{m\\,s^{-2}}$ on Earth, what is the planet's surface gravitational acceleration?"
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write any three characteristics of gravitational force."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Amna weighs $200\\,\\mathrm{N}$ at Earth's surface. Find her mass."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Calculate the orbital velocity of an artificial satellite moving around Earth if Earth's radius is $6\\times10^6\\,\\mathrm{m}$ and $g=10\\,\\mathrm{m\\,s^{-2}}$."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Compute the gravitational force of attraction between two boys of masses $50\\,\\mathrm{kg}$ and $40\\,\\mathrm{kg}$ separated by $2\\,\\mathrm{m}$."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define orbital velocity and derive $v=\\sqrt{\\frac{GM_e}{R}}$."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Write approximate values for the masses of our galaxy, Earth, and the Moon."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Using two bodies, express the law of universal gravitation mathematically in three steps."
+    },
+    {
+      "chapter": 6,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "State Newton's law of gravitation. How can it be used to derive the formula for Earth's mass?"
+    },
+    {
+      "chapter": 6,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Calculate Earth's mass using Newton's law of gravitation."
+    },
+    {
+      "chapter": 6,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "State the law of universal gravitation and prove $M_e=\\frac{gR_e^2}{G}$."
+    },
+    {
+      "chapter": 6,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "State Newton's law of gravitation and derive the formula for Earth's mass."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why do we not feel gravitational attraction from objects around us? Define a gravitational field with an example."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write any three characteristics of gravitational force and define gravitational field strength."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "State and explain Newton's law of gravitation. Define field force."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why does an object's weight not remain the same everywhere on Earth? Why is the unit of weight the newton?"
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define weight and write its equation."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain why your weight decreases at high altitudes without dieting. If a scale reads $55\\,\\mathrm{kg}$, is that a measure of weight? If not, what physical quantity does it show?"
+    },
+    {
+      "chapter": 6,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Calculate Earth's mass using Newton's law of gravitation."
+    },
+    {
+      "chapter": 6,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "If $M_E$ is Earth's mass, $R_E$ its radius, and $G$ the universal gravitational constant, find the acceleration due to gravity $g$ on Earth's surface and at Earth's centre."
+    },
+    {
+      "chapter": 6,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Evaluate acceleration due to gravity in terms of $M_E$, $R_E$, and $G$ at the following distances.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Twice Earth's radius."
+        },
+        {
+          "label": "(ii)",
+          "text": "One-half Earth's radius."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Name any one natural satellite."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the names of four types of orbit. Define critical velocity and communication satellite."
+    },
+    {
+      "chapter": 6,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Derive the expression for satellite motion, $v=\\sqrt{\\frac{GM}{R+h}}$."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Differentiate between natural and artificial satellites. Name the parameters used to characterize orbits."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Urwa and Ayesha stand $50\\,\\mathrm{m}$ apart. Urwa has mass $60\\,\\mathrm{kg}$ and Ayesha has mass $70\\,\\mathrm{kg}$. Determine the gravitational attraction between them."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Rani's weight is $450\\,\\mathrm{N}$ at Earth's surface. Find her mass."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Naveera's weight is $700\\,\\mathrm{N}$ on Earth's surface. What will her weight be on the Moon's surface?"
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A planet has four times Earth's mass and twice Earth's radius. If $g=10\\,\\mathrm{m\\,s^{-2}}$ on Earth, calculate the planet's gravitational acceleration."
+    },
+    {
+      "chapter": 6,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Calculate the speed of a satellite orbiting Earth at an altitude of $400\\,\\mathrm{km}$ above Earth's surface."
+    },
+    {
+      "chapter": 7,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "A cylinder contains $120\\,\\mathrm{cm^3}$ of air at $140\\,\\mathrm{kPa}$. What is its volume if the pressure is increased to $840\\,\\mathrm{kPa}$?"
+    },
+    {
+      "chapter": 7,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "A cylinder contains $60\\,\\mathrm{cm^3}$ of air at $140\\,\\mathrm{kPa}$. What is its volume if the pressure is increased to $200\\,\\mathrm{kPa}$?"
+    },
+    {
+      "chapter": 7,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "A cylinder contains $75\\,\\mathrm{cm^3}$ of air at $120\\,\\mathrm{kPa}$. What is its volume if the pressure is increased to $360\\,\\mathrm{kPa}$ while temperature remains constant?"
+    },
+    {
+      "chapter": 7,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Which variables completely describe the behaviour of a gas according to kinetic molecular theory? Explain any one of them."
+    },
+    {
+      "chapter": 7,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "State and explain Boyle's law. Write one application."
+    },
+    {
+      "chapter": 7,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Which variables completely describe the behaviour of a gas according to kinetic molecular theory? Explain any one of them."
+    },
+    {
+      "chapter": 7,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Answer the following about states of matter.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Particles are free to move, have fixed volume, and take the shape of their container. Which state is described?"
+        },
+        {
+          "label": "(ii)",
+          "text": "Write a similar description of the particles in a solid."
+        },
+        {
+          "label": "(iii)",
+          "text": "Write any two properties of a solid."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Answer the following using the kinetic model of matter.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Why is the kinetic model of matter called kinetic?"
+        },
+        {
+          "label": "(ii)",
+          "text": "In which state are molecules widely separated?"
+        },
+        {
+          "label": "(iii)",
+          "text": "In which state are molecules most closely packed?"
+        },
+        {
+          "label": "(iv)",
+          "text": "In which state can molecules move freely at high speed?"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Using kinetic molecular theory, explain why we can walk through air and swim through water but cannot walk through a solid wall. Also state which state has minimum molecular kinetic energy and which is highly incompressible."
+    },
+    {
+      "chapter": 7,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "A gas in a sealed test tube is cooled. Describe what happens to each of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Size of the molecules."
+        },
+        {
+          "label": "(ii)",
+          "text": "Speed of molecular motion."
+        },
+        {
+          "label": "(iii)",
+          "text": "Number of molecules."
+        },
+        {
+          "label": "(iv)",
+          "text": "Pressure inside the tube."
+        },
+        {
+          "label": "(v)",
+          "text": "State of the gas."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "An inflated car tyre is treated as having constant volume. Use kinetic molecular theory to answer the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "How does the air exert pressure on the tyre walls?"
+        },
+        {
+          "label": "(ii)",
+          "text": "Why is the pressure the same at all points on the inner wall?"
+        },
+        {
+          "label": "(iii)",
+          "text": "If twice as many molecules are pumped in at constant temperature, why is the pressure expected to double?"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe what happens to molecular motion when a gas cools and when a liquid cools."
+    },
+    {
+      "chapter": 7,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "The pressure on $9\\,\\mathrm{cm^3}$ of oxygen is doubled at fixed temperature. What will its volume become?"
+    },
+    {
+      "chapter": 7,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A container holds $30\\,\\mathrm{m^3}$ of air at $150000\\,\\mathrm{Pa}$. Its volume changes to $10\\,\\mathrm{m^3}$ by decreasing the load on the piston. What pressure will the gas have if temperature remains constant?"
+    },
+    {
+      "chapter": 7,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Air at $760\\,\\mathrm{mm\\,Hg}$ is trapped behind a movable piston. The volume increases slowly from $100\\,\\mathrm{dm^3}$ to $150\\,\\mathrm{dm^3}$ at constant temperature. What is the final pressure?"
+    },
+    {
+      "chapter": 7,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "The pressure on $9\\,\\mathrm{cm^3}$ of oxygen is doubled at fixed temperature. What will its volume become?"
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is wind energy? Write two applications."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Calculate the power of a machine that performs $1800\\,\\mathrm{J}$ of work in $30\\,\\mathrm{min}$."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is potential energy? Derive $PE=mgh$."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is the kinetic energy of a $50\\,\\mathrm{kg}$ body riding a bike at $2\\,\\mathrm{m\\,s^{-1}}$?"
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "A machine is $50\\%$ efficient and its output is $100\\,\\mathrm{J}$. Calculate its input."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Write three applications of wind energy."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Calculate the power of a machine that performs $900\\,\\mathrm{J}$ of work in $30\\,\\mathrm{min}$."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Define kinetic energy and derive $KE=\\frac{1}{2}mv^2$."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Find the kinetic energy of a $2000\\,\\mathrm{kg}$ car travelling at $90\\,\\mathrm{km\\,h^{-1}}$."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define power and derive $P=Fv$."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "With what constant velocity can a $1960\\,\\mathrm{W}$ motor raise a mass of $100\\,\\mathrm{kg}$?"
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Describe the interconversion of kinetic and potential energy."
+    },
+    {
+      "chapter": 8,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "State the law of conservation of energy. Also explain any five renewable energy sources."
+    },
+    {
+      "chapter": 8,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define kinetic and potential energy and derive the equation for gravitational potential energy, $PE=mgh$."
+    },
+    {
+      "chapter": 8,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Define potential and kinetic energy and derive $PE=mgh$ and $KE=\\frac{1}{2}mv^2$."
+    },
+    {
+      "chapter": 8,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Define kinetic and potential energy and derive $KE=\\frac{1}{2}mv^2$."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define work and derive $W=Fd\\cos\\theta$."
+    },
+    {
+      "chapter": 8,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Define kinetic energy and derive its equation."
+    },
+    {
+      "chapter": 8,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Define potential energy and derive $PE=mgh$."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is fossil-fuel energy called non-renewable? Define solar energy and explain its importance in Pakistan."
+    },
+    {
+      "chapter": 8,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Write notes on tidal energy and geothermal energy."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is wind energy? Write any three applications."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Answer the following about nuclear and solar energy.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Name one radioactive element used as a source of nuclear energy."
+        },
+        {
+          "label": "(ii)",
+          "text": "Name one device that converts solar energy into heat energy."
+        },
+        {
+          "label": "(iii)",
+          "text": "Name two devices that convert solar energy into electrical energy."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Write a note on renewable energy sources."
+    },
+    {
+      "chapter": 8,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Write a note on non-renewable energy sources."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the difference between renewable and non-renewable energy sources?"
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Classify the following into renewable and non-renewable energy sources in a table.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Uranium"
+        },
+        {
+          "label": "(ii)",
+          "text": "Solar"
+        },
+        {
+          "label": "(iii)",
+          "text": "Coal"
+        },
+        {
+          "label": "(iv)",
+          "text": "Wind"
+        },
+        {
+          "label": "(v)",
+          "text": "Natural gas"
+        },
+        {
+          "label": "(vi)",
+          "text": "Tidal"
+        },
+        {
+          "label": "(vii)",
+          "text": "Biomass"
+        },
+        {
+          "label": "(viii)",
+          "text": "Hydroelectricity"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write a note on efficiency."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define power."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define the watt."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the names of any two larger units of power."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "How much work is required to move a body $20\\,\\mathrm{m}$ horizontally with a force of $30\\,\\mathrm{N}$ acting at $60^\\circ$ to the horizontal?"
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "How much work is done if a crate moves $50\\,\\mathrm{m}$ under a force of $30\\,\\mathrm{N}$ applied along the surface?"
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "What work is done by Usman if he carries a $100\\,\\mathrm{N}$ bar from $A$ to $B$ and then back to $A$?"
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the kinetic energy of a $50\\,\\mathrm{kg}$ boy riding a bike at $2\\,\\mathrm{m\\,s^{-1}}$?"
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A $10\\,\\mathrm{kg}$ LED screen is lifted onto a cupboard $2\\,\\mathrm{m}$ high. Calculate its stored potential energy."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Calculate the potential energy of $3\\,\\mathrm{kg}$ of water raised to a tank on a $4\\,\\mathrm{m}$-high roof. Take $g=10\\,\\mathrm{m\\,s^{-2}}$."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Calculate the efficiency of a machine that consumes $200\\,\\mathrm{J}$ of energy and performs $50\\,\\mathrm{J}$ of work."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A machine is $70\\%$ efficient and produces $100\\,\\mathrm{J}$. Calculate its input."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Which machine is more efficient: machine $A$, which outputs $200\\,\\mathrm{J}$ after consuming $400\\,\\mathrm{J}$, or machine $B$, which outputs $300\\,\\mathrm{J}$ after consuming $450\\,\\mathrm{J}$?"
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A bulb dissipates $600\\,\\mathrm{J}$ in $50\\,\\mathrm{min}$. Find its power."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Solve the following power questions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Convert $20\\,\\mathrm{W}$ into horsepower."
+        },
+        {
+          "label": "(ii)",
+          "text": "Calculate the power of a machine that does $40\\,\\mathrm{J}$ of work in $10\\,\\mathrm{s}$."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A student of weight $400\\,\\mathrm{N}$ takes $5\\,\\mathrm{s}$ to climb an obstacle $2\\,\\mathrm{m}$ high. Calculate the power consumed."
+    },
+    {
+      "chapter": 8,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A machine consumes $250\\,\\mathrm{J}$ of energy per hour. What is its power?"
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "How much heat is required to raise $50\\,\\mathrm{g}$ of water from $40^\\circ\\mathrm{C}$ to $70^\\circ\\mathrm{C}$? The specific heat capacity of water is $4200\\,\\mathrm{J\\,kg^{-1}\\,K^{-1}}$."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Write three differences between boiling and evaporation."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "A $2\\,\\mathrm{kg}$ copper sample requires $2050\\,\\mathrm{J}$ to raise its temperature by $10^\\circ\\mathrm{C}$. Calculate its heat capacity."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "How much heat is required to raise $50\\,\\mathrm{g}$ of water from $40^\\circ\\mathrm{C}$ to $70^\\circ\\mathrm{C}$? The specific heat capacity of water is $4200\\,\\mathrm{J\\,kg^{-1}\\,K^{-1}}$."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Find the heat required to raise $100\\,\\mathrm{g}$ of water from $10^\\circ\\mathrm{C}$ to $60^\\circ\\mathrm{C}$. Take $c=4200\\,\\mathrm{J\\,kg^{-1}\\,^{\\circ}C^{-1}}$."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Write three differences between heat and temperature."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "A steel rod is $10\\,\\mathrm{m}$ long at $25^\\circ\\mathrm{C}$. Calculate the increase in length when heated to $35^\\circ\\mathrm{C}$."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is a bimetallic strip? Name two applications."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "A steel rod is $10\\,\\mathrm{m}$ long at $25^\\circ\\mathrm{C}$. Calculate the increase in length when heated to $35^\\circ\\mathrm{C}$."
+    },
+    {
+      "chapter": 9,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define specific heat capacity, latent heat of vaporization, and latent heat of fusion. Also write three benefits of water's high specific heat capacity."
+    },
+    {
+      "chapter": 9,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define thermal expansion and derive $\\Delta L=\\alpha L\\Delta T$."
+    },
+    {
+      "chapter": 9,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define evaporation and state the factors affecting surface evaporation."
+    },
+    {
+      "chapter": 9,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define linear expansion and volumetric expansion, and derive $\\Delta L=\\alpha L\\Delta T$."
+    },
+    {
+      "chapter": 9,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Define the coefficients of linear and volumetric expansion. Derive $L_2=L_1(1+\\alpha\\Delta T)$."
+    },
+    {
+      "chapter": 9,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Define the coefficient of linear expansion and derive $L_2=L_1(1+\\alpha\\Delta T)$."
+    },
+    {
+      "chapter": 9,
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Derive $\\beta=3\\alpha$."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define heat and write its SI unit. Why does heat flow from a hot body to a cold body?"
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the three temperature scales and their main uses. Differentiate between heat and temperature."
+    },
+    {
+      "chapter": 9,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain specific heat capacity. How would you determine the specific heat of a solid?"
+    },
+    {
+      "chapter": 9,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the effects of water's large specific heat capacity with examples from daily life."
+    },
+    {
+      "chapter": 9,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Define heat of fusion with the help of an experiment."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Differentiate between heat of fusion and heat of vaporization."
+    },
+    {
+      "chapter": 9,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Demonstrate heat of fusion and heat of vaporization using a heating-ice graph."
+    },
+    {
+      "chapter": 9,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain in detail why evaporation causes cooling."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Differentiate between evaporation and boiling."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write any four factors that influence surface evaporation."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the freezing and boiling points of the following substances.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Acetic acid"
+        },
+        {
+          "label": "(ii)",
+          "text": "Benzene"
+        },
+        {
+          "label": "(iii)",
+          "text": "Chloroform"
+        },
+        {
+          "label": "(iv)",
+          "text": "Water"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why do solids increase in size on heating? Explain."
+    },
+    {
+      "chapter": 9,
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Draw and properly label a diagram showing the real and apparent expansion of a liquid. Why are small gaps left at the joints of railway tracks? Explain the phenomenon involved."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Convert $30^\\circ\\mathrm{C}$ to kelvin and degrees Fahrenheit."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Convert $212^\\circ\\mathrm{F}$ to degrees Celsius and kelvin."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "How much heat is required to boil $3\\,\\mathrm{kg}$ of water initially at $10^\\circ\\mathrm{C}$?"
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A $2\\,\\mathrm{kg}$ copper sample requires $2050\\,\\mathrm{J}$ to raise its temperature by $10^\\circ\\mathrm{C}$. Calculate its heat capacity."
+    },
+    {
+      "chapter": 9,
+      "section": "B",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "An iron block of volume $3\\,\\mathrm{m^3}$ is heated from $25^\\circ\\mathrm{C}$ to $100^\\circ\\mathrm{C}$. If the coefficient of linear expansion is $11\\times10^{-6}\\,^{\\circ}\\mathrm{C^{-1}}$, find its new volume."
+    }
+  ]
+}

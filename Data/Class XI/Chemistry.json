@@ -1,0 +1,1840 @@
+{
+  "subject": "Chemistry",
+  "class": "XI",
+  "questions": [
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Calculate the volume of $CO_2$ at $25^\\circ C$ and $780\\,\\text{torr}$ when $12.45\\,\\text{g}$ of marble is heated: $CaCO_3 \\rightarrow CaO + CO_2$.",
+      "parts": [
+        {
+          "label": "(or)",
+          "text": "$200\\,\\text{g}$ of $K_2Cr_2O_7$ reacts with $200\\,\\text{g}$ of concentrated $H_2SO_4$. For $K_2Cr_2O_7+4H_2SO_4\\rightarrow K_2SO_4+Cr_2(SO_4)_3+4H_2O+3[O]$, calculate the mass of atomic oxygen produced and the mass of reactant left unreacted."
+        }
+      ]
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Chlorine is produced industrially by electrolysis of aqueous $NaCl$: $2NaCl+2H_2O\\rightarrow Cl_2+H_2+2NaOH$. Calculate the volume of $Cl_2$ at STP produced from $58.5\\,\\text{g}$ of $NaCl$ and the total number of $Cl_2$ molecules produced."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "$53.5\\,\\text{g}$ of aluminium is burnt with $22.4\\,\\text{g}$ of oxygen: $4Al+3O_2\\rightarrow2Al_2O_3$. Identify the limiting reactant and calculate the mass of $Al_2O_3$ produced."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "$AlCl_3$ is produced at $500^\\circ C$: $2Al+3Cl_2\\rightarrow2AlCl_3$. When $160\\,\\text{g}$ of aluminium reacts with excess chlorine, $650\\,\\text{g}$ of $AlCl_3$ is obtained. Calculate the theoretical yield and percentage yield."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Combustion of ethene is represented by $C_2H_4+3O_2\\rightarrow2CO_2+2H_2O$. If a mixture containing $2.8\\,\\text{g}$ $C_2H_4$ and $6.4\\,\\text{g}$ $O_2$ is ignited, identify the limiting reactant and determine the mass of $CO_2$ formed."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Calculate the volume of $CO_2$ produced at $25^\\circ C$ and $740\\,\\text{torr}$ by combustion of $8\\,\\text{g}$ of $CH_4$: $CH_4+2O_2\\rightarrow CO_2+2H_2O$."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "If $53.5\\,\\text{g}$ of $NH_4Cl$ is heated with $Ca(OH)_2$, how many grams of $NH_3$ are produced? Also find the volume of $NH_3$ at STP: $2NH_4Cl+Ca(OH)_2\\rightarrow2NH_3+CaCl_2+2H_2O$."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Zinc reacts with dilute $H_2SO_4$: $Zn+H_2SO_4\\rightarrow ZnSO_4+H_2$. Calculate the mass of $ZnSO_4$, the volume of $H_2$ at STP, and the number of $H_2$ molecules produced by reacting $163.5\\,\\text{g}$ of $Zn$."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Find the mass of $CH_3OH$ produced when $356\\,\\text{g}$ of $CO$ is mixed with $65.0\\,\\text{g}$ of $H_2$: $CO+2H_2\\rightarrow CH_3OH$."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Simplify using the rules of significant figures: $\\frac{92\\times751\\times173}{760\\times297}$."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "$10\\,\\text{g}$ of $H_2SO_4$ is dissolved in excess water and dissociates completely. Calculate the number of molecules in $10\\,\\text{g}$ of $H_2SO_4$ and the number of positive ions."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define limiting reactant."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "The empirical formula of a compound is $CO_2H$. A $1.8\\,\\text{g}$ sample in the gaseous state occupies $448\\,\\text{cm}^3$ at STP. Find its molecular formula."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "$ZnCl_2$ is prepared by $Zn+2HCl\\rightarrow ZnCl_2+H_2$. If $6.54\\,\\text{g}$ of $Zn$ reacts with $73\\,\\text{g}$ of $HCl$, find the limiting reactant and mass of $ZnCl_2$ produced."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "A substance has mass $18.8865\\,\\text{g}$ and volume $7.9\\,\\text{cm}^3$. Calculate its density using significant figures and rounding rules."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "Calculate the volume of nitrogen produced by heating $800\\,\\text{g}$ of ammonia at $21^\\circ C$ and $823\\,\\text{torr}$: $2NH_3\\rightleftharpoons N_2+3H_2$."
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "C",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "Combustion of $0.5\\,\\text{g}$ of a hydrocarbon produced $1.515\\,\\text{g}$ $CO_2$ and $0.77\\,\\text{g}$ $H_2O$. If its molecular mass is $58\\,\\text{amu}$, determine its molecular formula."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "State Pauli's exclusion principle and write the electronic configurations of $Ca^{2+}(Z=20)$, $Br^-(Z=35)$, and $Ag(Z=47)$."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "State Hund's rule and write the electronic configurations of $Cr(Z=24)$, $Sr^{2+}(Z=38)$, and $S^{2-}(Z=16)$."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "State Pauli's exclusion principle and write the electronic configurations of $Cl^-(Z=17)$, $Ca^{2+}(Z=20)$, and $Cu(Z=29)$."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "State the $(n+l)$ rule and write the electronic configurations of $Mo(Z=42)$, $S(Z=16)$, and $Sr^{2+}(Z=38)$."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "State Pauli's exclusion principle and write the electronic configurations of $Ca^{2+}(Z=20)$, $Cr(Z=24)$, and $Br(Z=35)$."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "State the $(n+l)$ rule and write the electronic configurations of $Cu(Z=29)$, $Sr^{2+}(Z=38)$, and $O^{2-}(Z=16)$."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "State Pauli's exclusion principle and write the electronic configurations of $Ca^{2+}(Z=20)$, $Br^-(Z=35)$, and $Cr(Z=24)$."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is radioactivity? Why is it limited to heavy elements? Write the properties of alpha particles."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Write the electronic configurations of $Cu^+(Z=29)$ and $Br^-(Z=35)$; using the $n+l$ rule, arrange $4d$, $7s$, and $4f$ energy levels in ascending order of energy."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Write the electronic configurations of $Cu(Z=29)$ and $Ag(Z=47)$. Identify the rule or principle violated in each given electronic configuration: $1s^2 2s^3$; $2s^2 2p^6 3s^2$; $1s^2 2s^2 3s^2 2p^6$; $1s^2 2s^2 2p_x^2$."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "Write the electronic configurations of $Cr(Z=24)$ and $Mo(Z=42)$. Explain Rutherford’s atomic model and its conclusion."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What are X-rays? How are they produced? Give any four properties of X-rays, and derive an expression for the energy of electrons in the $n^{\\text{th}}$ orbit according to Bohr’s model when $r=\\frac{\\varepsilon_0 n^2h^2}{Z\\pi me^2}$."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Write the postulates of Bohr's atomic model. Starting from $\\Delta E=E_2-E_1$, derive an expression for the wave number of radiation emitted by an electron."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write the four main postulates of Bohr's atomic theory. Derive $r_n=\\frac{a_0n^2}{Z}$ for the radius of the $n^{\\text{th}}$ orbit of a hydrogen atom."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Write the postulates of Bohr's atomic theory and derive an expression for the radius of the $n^{\\text{th}}$ orbit in hydrogen atom.",
+      "parts": [
+        {
+          "label": "(or)",
+          "text": "What is natural radioactivity? Write the properties of alpha and beta particles."
+        }
+      ]
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Starting from $\\Delta E=E_2-E_1$, derive the expression for the wave number for the hydrogen atom. Define radioactivity and describe the character of alpha and beta rays."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "State the postulates of Bohr's atomic theory and derive an expression for the energy of an electron in the $n^{\\text{th}}$ orbit when $r=\\frac{n^2h^2}{4\\pi^2mZe^2}$."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "State the postulates of Bohr's atomic model. Derive an expression for the frequency when an electron jumps from a higher orbit $n_2$ to a lower orbit $n_1$, given $E=\\frac{2\\pi^2Z^2e^4m}{n^2h^2}$. Also state Hund's rule and write the electronic configurations of $Cl^-(Z=17)$, $Cr(Z=17)$, and $Rb^+(Z=37)$."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Derive an expression for the radius of the $n^{\\text{th}}$ orbit of hydrogen using Bohr's model. Explain the origin of X-rays and the relationship between their wavelength and atomic number."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Give the defects of Rutherford's atomic theory and write the postulates of Bohr's atomic theory. How did Bohr's theory explain the line spectrum of hydrogen? Write the names and formulae of each series."
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "Starting from $\\Delta E=E_2-E_1$, derive the expression for the wave number for the hydrogen atom."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Draw the molecular orbital diagram of $O_2$, write its molecular-orbital configuration, and determine its bond order."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Draw the shapes of $BF_3$, $NH_3$, $CH_4$, and $H_2O$ on the basis of VSEPR theory."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define and explain orbital hybridization. Describe $sp^2$ hybridization in $C_2H_4$."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is a covalent bond? Explain the ionic character of a covalent bond."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Explain the ionic character of a covalent bond."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Draw the electronic structures of phosphorus oxychloride and nitromethane."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "State the main postulates of electron-pair repulsion theory and explain the shape of $NH_3$ according to this theory."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "Differentiate between sigma and pi bonds. What is electronegativity? Explain the ionic character of a covalent bond with its help."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Discuss the shapes of $BF_3$, $BeCl_2$, and $NH_3$ with the help of hybridization and VSEPR theory."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Write the postulates of the VSEPR model. State the shapes of $H_2O$ and $BF_3$ with the help of hybridization."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is hybridization? Write its types. $CH_4$, $NH_3$, and $H_2O$ have the same hybridization but different molecular structures; explain the reason."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Explain the structures of $BF_3$ and $NH_3$ on the basis of the electron-pair repulsion model and hybrid-orbital model."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Write the postulates of VSEPR theory. Explain the shapes of molecules having three bond pairs, two bond pairs, and two lone pairs."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Define orbital hybridization and explain the shape of ethene, $C_2H_4$, on the basis of hybridization. Explain the structures of $BeCl_2$ and $NH_3$ using the electron-pair repulsion and hybrid-orbital models."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Give the postulates of the electron-pair repulsion model and draw the molecular shapes of $BF_3$ and $H_2O$ on its basis."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define hybridization and write its types. Explain hybridization in ethane, $C_2H_6$, or ethene, $C_2H_4$. Draw and explain geometrical shapes for two bond pairs; three bond pairs and one lone pair; and two bond pairs and two lone pairs."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Explain the shapes of $H_2O$ and $BeCl_2$ on the basis of the electron-pair repulsion and hybrid-orbital models."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Define orbital hybridization and explain $sp^3$ hybridization with an example. Distinguish between atomic orbitals and molecular orbitals."
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "Explain the shapes of $BF_3$ and $H_2O$ on the basis of the hybrid-orbital and electron-pair repulsion models."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is an ideal gas? Derive the general gas equation.",
+      "parts": [
+        {
+          "label": "(or)",
+          "text": "Write the postulates of the kinetic molecular theory of gases."
+        }
+      ]
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "$255\\,\\text{cm}^3$ of oxygen is collected over water at $25^\\circ C$ and total pressure $785\\,\\text{torr}$. Find the mass of dry oxygen; vapour pressure of water at $25^\\circ C$ is $24\\,\\text{torr}$."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "One mole of $NH_3$ occupies $1\\,\\text{dm}^3$ at $25^\\circ C$. Treating $NH_3$ as a real gas, determine its pressure using $a=4.170\\,\\text{dm}^6\\,\\text{atm}\\,\\text{mol}^{-2}$ and $b=0.0371\\,\\text{dm}^3\\,\\text{mol}^{-1}$."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "A $100\\,\\text{cm}^3$ sample of hydrogen effuses four times as rapidly as $100\\,\\text{cm}^3$ of an unknown gas. Calculate the molecular mass of the unknown gas."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Derive van der Waals' equation for real gases by correcting volume and pressure."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "$40\\,\\text{dm}^3$ of hydrogen is collected over water at $23^\\circ C$ and $831\\,\\text{torr}$. Find the volume of dry gas at STP; vapour pressure of water at $23^\\circ C$ is $21\\,\\text{torr}$."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "State Graham's law of diffusion. The ratio of diffusion rates of gases A and B is $1.5:1$, and the relative molecular mass of A is $16$. Find the molecular mass of B."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is the fourth state of matter? State its occurrence, characteristics, and uses."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "What is an ideal gas? Derive the general gas equation."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Calculate the density of $SO_2$ in $\\text{g}\\,\\text{dm}^{-3}$ at $25^\\circ C$ and $300\\,\\text{torr}$."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Write the postulates of the kinetic molecular theory of gases."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "A $1.40\\,\\text{dm}^3$ sample of gas at $27^\\circ C$ and $900\\,\\text{torr}$ has mass $2.273\\,\\text{g}$. Calculate its molecular mass."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "A $500\\,\\text{cm}^3$ vessel contains $H_2$ at $400\\,\\text{torr}$ and another $1\\,\\text{dm}^3$ vessel contains $O_2$ at $600\\,\\text{torr}$. If the gases are transferred to an empty $2\\,\\text{dm}^3$ vessel, calculate the pressure of the mixture."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is an ideal gas? Derive the ideal gas equation."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "$100\\,\\text{g}$ of $KNO_3$ is heated to redness: $2KNO_3\\rightarrow2KNO_2+O_2$. Find the volume of oxygen liberated at $39^\\circ C$ and $765\\,\\text{torr}$."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Calculate the density of $SO_2$ in $\\text{g}\\,\\text{dm}^{-3}$ at $25^\\circ C$ and $300\\,\\text{torr}$."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What is an ideal gas? Derive the ideal gas equation."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "$CaCO_3\\xrightarrow{\\text{heat}}CaO+CO_2$. If $200\\,\\text{g}$ of $CaCO_3$ is strongly heated, what volume of $CO_2$ is obtained at $30^\\circ C$ and $1200\\,\\text{torr}$?"
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "A gaseous mixture of $H_2$ and $O_2$ at $60^\\circ C$ and total pressure $2.5\\,\\text{atm}$ contains $75$ moles $H_2$ and $25$ moles $O_2$. Find the partial pressure of each gas."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "State the relevant gas laws explaining why a balloon kept in a cold place at constant pressure shrinks and why doubling the pressure on a gas in an airtight cylinder at constant temperature halves its volume."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "What volume of $CO_2$, measured at $20^\\circ C$ and $720\\,\\text{torr}$, is produced by reaction of $200\\,\\text{g}$ $Na_2CO_3$ with $HCl$: $Na_2CO_3+2HCl\\rightarrow2NaCl+CO_2+H_2O$?"
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "$1100\\,\\text{mL}$ $CO_2$ at $500\\,\\text{torr}$, $1500\\,\\text{mL}$ $N_2$ at $400\\,\\text{torr}$, and $800\\,\\text{mL}$ $O_2$ at $600\\,\\text{torr}$ are placed in a $1000\\,\\text{mL}$ container. Find the partial pressure of each gas."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "$H_2$ effuses from a $1\\,\\text{dm}^3$ vessel in $10\\,\\text{s}$. Calculate the time for effusion of $O_2$ from a $20\\,\\text{dm}^3$ vessel."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "If $16\\,\\text{mL}$ of hydrogen diffuses in $30\\,\\text{s}$, what volume of $SO_2$ diffuses in the same time under similar conditions?"
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "A gaseous mixture contains $0.2$ mole $O_2$ and $0.3$ mole $CO_2$. If the partial pressure of oxygen is $60\\,\\text{torr}$, calculate the partial pressure of $CO_2$."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "Calculate the volume of nitrogen produced by heating $800\\,\\text{g}$ of ammonia at $21^\\circ C$ and $823\\,\\text{torr}$."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "What is an ideal gas? What causes real gases to deviate from ideal behaviour? State and explain Dalton’s law of partial pressures with its applications."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "State Boyle's, Charles's, and Avogadro's laws and derive the equation of state. Calculate the gas constant in two different units."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Write the postulates of the kinetic molecular theory of gases."
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "C",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "The density of a gas is $1.43\\,\\text{g}\\,\\text{dm}^{-3}$ at $608\\,\\text{torr}$ and $27^\\circ C$. Find its molecular mass."
+    },
+    {
+      "chapter": "5. State of Matter: Liquids",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Explain the properties of water based on hydrogen bonding and write the properties of crystalline solids.",
+      "parts": [
+        {
+          "label": "(or)",
+          "text": "Write a note on viscosity, surface tension, or London dispersion forces."
+        }
+      ]
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Explain the properties of water based on hydrogen bonding. Write the properties of crystalline solids."
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Give the characteristics of ionic and covalent solids. For $H_2+I_2\\rightleftharpoons2HI$, $K_c=55$ at $700^\\circ C$. Calculate equilibrium concentrations of reactants and products when the initial concentration of each reactant is $2.55\\,\\text{mol}\\,\\text{dm}^{-3}$."
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is a unit cell? Sketch a unit cell and label dimensions $a,b,c$ and angles $\\alpha,\\beta,\\gamma$. How do cubic and tetragonal systems differ?"
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Differentiate between isomorphism and polymorphism, and explain ionic crystals."
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is a unit cell? Sketch a unit cell and label dimensions $a,b,c$ and angles $\\alpha,\\beta,\\gamma$. How do cubic and tetragonal systems differ?"
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "State Le Chatelier's principle for Haber's process: $N_2+3H_2\\rightleftharpoons2NH_3$, $\\Delta H<0$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "The solubility of $Mg(OH)_2$ at $25^\\circ C$ is $4.6\\times10^{-3}\\,\\text{g}/100\\,\\text{cm}^3$. Calculate $K_{sp}$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define solubility product and write $K_{sp}$ expressions for $PbCl_2$, $Fe(OH)_3$, and $Ag_2SO_4$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define solubility. The solubility of $Mg(OH)_2$ at $25^\\circ C$ is $0.0046\\,\\text{g}\\,\\text{dm}^{-3}$. Calculate $K_{sp}$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "State and explain Le Chatelier's principle with reference to formation of $NH_3$ by Haber's process or $H_2SO_4$ by the contact process."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "$9.2\\,\\text{g}$ ethyl alcohol and $12\\,\\text{g}$ acetic acid are kept at constant temperature until equilibrium; $4.0\\,\\text{g}$ acid remains unused. Calculate $K_c$ for $CH_3COOH+C_2H_5OH\\rightleftharpoons CH_3COOC_2H_5+H_2O$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "State Le Chatelier's principle and give its applications in the manufacture of $SO_3$ by the contact process."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "For $2HI\\rightleftharpoons H_2+I_2$, $K_c=1.3\\times10^{-2}$. Given $[H_2]=0.5$, $[I_2]=1.5$, and $[HI]=5\\,\\text{mol}\\,\\text{dm}^{-3}$, predict the direction in which the reaction moves to reach equilibrium."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "State and explain the law of mass action. Derive the equilibrium expression for $mA+nB\\rightleftharpoons xC+yD$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "$4.6\\,\\text{g}$ ethyl alcohol and $6.0\\,\\text{g}$ acetic acid are kept at constant temperature until equilibrium; $2.0\\,\\text{g}$ acetic acid remains unused. Calculate $K_c$ for $CH_3COOH+C_2H_5OH\\rightleftharpoons CH_3COOC_2H_5+H_2O$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "State Le Chatelier's principle and apply it to manufacture of $SO_3$ by the contact process."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "$PCl_5$ decomposes at $250^\\circ C$: $PCl_5(g)\\rightleftharpoons PCl_3(g)+Cl_2(g)$. A $5.0\\,\\text{L}$ equilibrium mixture contains $3.84\\,\\text{g}$ $PCl_5$, $9.14\\,\\text{g}$ $PCl_3$, and $2.84\\,\\text{g}$ $Cl_2$. Evaluate $K_c$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define solubility. The solubility of $Mg(OH)_2$ at $25^\\circ C$ is $4.6\\times10^{-3}\\,\\text{g}/100\\,\\text{cm}^3$. Calculate $K_{sp}$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "For $N_2+3H_2\\rightarrow2NH_3$, an equilibrium mixture contains $0.25\\,M$ $N_2$ and $0.15\\,M$ $H_2$ at $25^\\circ C$. Given $K_c=9.6$ and volume $1\\,\\text{dm}^3$, calculate $[NH_3]$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Give the relationship between $K_p$ and $K_c$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "For $H_2+I_2\\rightarrow2HI$, equilibrium concentrations are $[H_2]=[I_2]=[HI]=4\\,\\text{mol}\\,\\text{dm}^{-3}$. Calculate the equilibrium constant and the initial concentrations of $H_2$ and $I_2$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Find the ionic concentrations of $Ag^+$ and $CrO_4^{2-}$ in saturated $Ag_2CrO_4$ at $25^\\circ C$, given $K_{sp}=1.9\\times10^{-12}\\,\\text{mol}^3\\,\\text{dm}^{-9}$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "$5.88$ moles $N_2$ and $16.2$ moles $O_2$ are mixed and heated at $2000^\\circ C$ until equilibrium; $11.28$ moles $NO$ form. Calculate the equilibrium constant for $N_2+O_2\\rightleftharpoons2NO$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "State the law of equilibrium and derive $K_c$ for $mA+nB\\rightleftharpoons xC+yD$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "State the law of mass action and derive $K_c$ for $aA+bB\\rightleftharpoons cC+dD$. Find the equilibrium constant when $2.94$ moles $I_2$ and $8.1$ moles $H_2$ are heated at $444^\\circ C$ and $5.64$ moles $HI$ form: $H_2+I_2\\rightleftharpoons2HI$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "State the law of mass action. Derive $K_c$ for $aA+bB\\rightleftharpoons cC+dD$ and give the relationship among $K_p$, $K_c$, and $K_x$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Give the characteristics of ionic and covalent solids. For $H_2+I_2\\rightleftharpoons2HI$, $K_c=55$ at $700^\\circ C$; calculate equilibrium concentrations when each reactant initially is $2.55\\,\\text{mol}\\,\\text{dm}^{-3}$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "C",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "One mole each of $N_2$ and $O_2$ is heated at $2000^\\circ C$ in a $10\\,\\text{dm}^3$ vessel. Calculate the equilibrium concentration of $NO$ for $N_2+O_2\\rightleftharpoons2NO$, given $K_c=0.1$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "State the law of mass action, derive $K_c$ for a general reversible reaction, and predict the extent of reaction."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "C",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Will $Cd(OH)_2$ precipitate from $0.02\\,M$ $CdCl_2$ at $pH=10$? $K_{sp}[Cd(OH)_2]=2.5\\times10^{-14}\\,\\text{mol}^2\\,\\text{dm}^{-6}$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "C",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Should $AgCl$ precipitate from a solution made by mixing $400\\,\\text{mL}$ of $0.1\\,M$ $NaCl$ and $600\\,\\text{mL}$ of $0.03\\,M$ $AgNO_3$? $K_{sp}(AgCl)=1.6\\times10^{-10}\\,\\text{mol}^2\\,\\text{dm}^{-6}$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "C",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "In an $AgBr$ solution, $[Ag^+]=1\\times10^{-6}\\,M$. Find the minimum $[Br^-]$ needed to precipitate $AgBr$, given $K_{sp}=4\\times10^{-13}$."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "State and explain the law of mass action and derive $K_c$ for a general reversible reaction."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "State Le Chatelier's principle and apply it to manufacture of $NH_3$ by Haber's process."
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "C",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "Calculate $K_{sp}$ of $PbCrO_4$ when its solubility is $1.0\\times10^{-3}\\,\\text{g}\\,\\text{dm}^{-3}$."
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Explain Lewis theory of acids and bases with an example."
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Explain buffer solutions and write their applications."
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Explain Brønsted–Lowry theory of acids and bases and explain a conjugate acid–base pair."
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define $pH$ and $pOH$ and write their formulae. Calculate the $pOH$ of $0.0025\\,M$ aqueous $HCl$ at $25^\\circ C$: $HCl\\rightarrow H^++Cl^-$."
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define $pH$. A solution has $pH=8.4$. Find its $pOH$, hydrogen-ion concentration, and hydroxyl-ion concentration."
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define $pH$ and $pOH$. Calculate the $pH$ and $pOH$ of nitric acid of concentration $2.0\\times10^{-2}\\,\\text{mol}\\,\\text{dm}^{-3}$."
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "An aqueous $0.3\\,M$ $Mg(OH)_2$ solution is $60\\%$ ionized. Calculate its $pH$."
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Define $pH$. Calculate the $pH$ of $0.002\\,M$ $NaOH$ at $25^\\circ C$."
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Explain the effects of reactant concentration and temperature on the rate of a chemical reaction."
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "For $2NO+Cl_2\\rightarrow2NOCl$ at $25^\\circ C$, use the initial-rate data to determine the rate law and order of reaction.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Exp. 1: $[NO]=0.1$, $[Cl_2]=0.1$, rate $=2.52\\times10^{-3}$."
+        },
+        {
+          "label": "(ii)",
+          "text": "Exp. 2: $[NO]=0.1$, $[Cl_2]=0.2$, rate $=5.04\\times10^{-3}$."
+        },
+        {
+          "label": "(iii)",
+          "text": "Exp. 3: $[NO]=0.2$, $[Cl_2]=0.1$, rate $=10.05\\times10^{-3}$; concentrations in $\\text{mol}\\,\\text{dm}^{-3}$ and rate in $\\text{mol}\\,\\text{dm}^{-3}\\,\\text{s}^{-1}$."
+        }
+      ]
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is order of reaction? The decomposition $2NO_2\\rightarrow2NO+O_2$ is second order. If $k=3.8\\times10^{-4}\\,\\text{dm}^3\\,\\text{mol}^{-1}\\,\\text{s}^{-1}$ and initial $[NO_2]=0.38\\,M$, calculate the initial rate."
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Write the rate law and determine the order for $A+B\\rightarrow AB$ from the data.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Exp. 1: $[A]=0.1M$, $[B]=0.1M$, rate $=2\\times10^{-3}M\\,s^{-1}$."
+        },
+        {
+          "label": "(ii)",
+          "text": "Exp. 2: $[A]=0.2M$, $[B]=0.1M$, rate $=8\\times10^{-3}M\\,s^{-1}$."
+        },
+        {
+          "label": "(iii)",
+          "text": "Exp. 3: $[A]=0.1M$, $[B]=0.2M$, rate $=4\\times10^{-3}M\\,s^{-1}$."
+        }
+      ]
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Discuss the effects of concentration and radiation on reaction rate."
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Define activation energy and give its relationship with reaction speed."
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Determine the order of $A+B\\rightarrow$ product from the data.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Exp. 1: $[A]=0.1$, $[B]=0.1$, rate $=1\\times10^{-3}M\\,s^{-1}$."
+        },
+        {
+          "label": "(ii)",
+          "text": "Exp. 2: $[A]=0.2$, $[B]=0.1$, rate $=4\\times10^{-3}M\\,s^{-1}$."
+        },
+        {
+          "label": "(iii)",
+          "text": "Exp. 3: $[A]=0.1$, $[B]=0.3$, rate $=3\\times10^{-3}M\\,s^{-1}$."
+        }
+      ]
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Determine the order of $A+B\\rightarrow$ product from the data.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Exp. 1: $[A]=0.1$, $[B]=0.1$, rate $=3.0\\times10^{-3}$."
+        },
+        {
+          "label": "(ii)",
+          "text": "Exp. 2: $[A]=0.2$, $[B]=0.1$, rate $=6.0\\times10^{-3}$."
+        },
+        {
+          "label": "(iii)",
+          "text": "Exp. 3: $[A]=0.1$, $[B]=0.3$, rate $=9.0\\times10^{-3}$; concentrations and rates in molar units."
+        }
+      ]
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "List the factors that affect reaction rate and discuss surface area and temperature."
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "For $2NO_2\\rightarrow2NO+O_2$, $k=1.8\\times10^{-3}\\,\\text{dm}^3\\,\\text{mol}^{-1}\\,\\text{s}^{-1}$. Write the rate expression; find the initial rate at $[NO_2]=0.75M$; and state what happens to $k$ when $[NO_2]$ is doubled."
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "For $2N_2O_5\\rightarrow4NO_2+O_2$, calculate $k$ when initial $[N_2O_5]=10.8\\,\\text{g}\\,\\text{dm}^{-3}$ and initial rate $=2.96\\times10^{-4}\\,\\text{mol}\\,\\text{dm}^{-3}\\,\\text{s}^{-1}$."
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "How are the nature and surface area of a reactant related to reaction rate?"
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "Define activation energy and give its relationship with reaction speed."
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "For $A\\rightarrow$ product, threshold energy is $40\\,\\text{kJ}\\,\\text{mol}^{-1}$ and average internal energy of reactants is $10\\,\\text{kJ}\\,\\text{mol}^{-1}$. Calculate activation energy."
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Describe the types of colloids and their properties. For $A+B\\rightarrow$ product, use the data to find the rate law and reaction order.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Exp. 1: $[A]=1.0\\times10^{-6}$, $[B]=9.0\\times10^{-6}$, rate $=1.98\\times10^{-4}$."
+        },
+        {
+          "label": "(ii)",
+          "text": "Exp. 2: $[A]=2.0\\times10^{-6}$, $[B]=9.0\\times10^{-6}$, rate $=3.96\\times10^{-4}$."
+        },
+        {
+          "label": "(iii)",
+          "text": "Exp. 3: $[A]=1.0\\times10^{-6}$, $[B]=3.0\\times10^{-6}$, rate $=6.6\\times10^{-5}$."
+        }
+      ]
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "C",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "For $F_2+2ClO_2\\rightarrow2FClO_2$, calculate the rate expression, order, and rate constant when $[F_2]=0.1\\,\\text{mol}\\,\\text{dm}^{-3}$, $[ClO_2]=0.01\\,\\text{mol}\\,\\text{dm}^{-3}$, and rate $=1.2\\times10^{-3}\\,\\text{mol}\\,\\text{dm}^{-3}\\,\\text{s}^{-1}$."
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "Predict the effects of temperature and pressure changes on $PCl_5\\rightleftharpoons PCl_3+Cl_2$ with $\\Delta H>0$ and $N_2+3H_2\\rightleftharpoons2NH_3$ with $\\Delta H<0$."
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "State Raoult's law and derive its mathematical expression."
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "A glucose solution contains $0.15$ mole glucose and $5.8$ moles water at $20^\\circ C$. Determine the lowering in vapour pressure if the vapour pressure of pure solvent at $20^\\circ C$ is $17.5\\,\\text{torr}$; assume an ideal solution."
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define colligative properties. Explain elevation of boiling point and depression of freezing point."
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "At $30^\\circ C$, vapour pressure of water is $31.6\\,\\text{torr}$. If $30\\,\\text{g}$ urea $(M=60)$ is dissolved in $180\\,\\text{g}$ water, calculate the lowering of vapour pressure."
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "State Raoult's law and derive it mathematically in three forms. How is it applied to a binary solution of miscible liquids?"
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "Calculate the molarity of a solution prepared by dissolving $4.5\\,\\text{g}$ $NaOH$ in $500\\,\\text{cm}^3$ water."
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Describe the types of colloids and their properties. For $A+B\\rightarrow$ product, use the supplied initial-rate data to find the rate law and order.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Exp. 1: $[A]=1.0\\times10^{-6}$, $[B]=9.0\\times10^{-6}$, rate $=1.98\\times10^{-4}$."
+        },
+        {
+          "label": "(ii)",
+          "text": "Exp. 2: $[A]=2.0\\times10^{-6}$, $[B]=9.0\\times10^{-6}$, rate $=3.96\\times10^{-4}$."
+        },
+        {
+          "label": "(iii)",
+          "text": "Exp. 3: $[A]=1.0\\times10^{-6}$, $[B]=3.0\\times10^{-6}$, rate $=6.6\\times10^{-5}$."
+        }
+      ]
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "C",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "$4.0\\,\\text{g}$ $NaOH$ is dissolved in $2.5\\,\\text{dm}^3$ solution. Find its molarity and $pH$."
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "C",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "$19.6\\,\\text{g}$ $H_2SO_4$ is dissolved in $50\\,\\text{cm}^3$ water. What mass of $NaOH$ should be dissolved in $250\\,\\text{cm}^3$ water to prepare a solution of the same molarity?"
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Calculate $\\Delta H_f^\\circ$ of $Fe_2O_3$ at $25^\\circ C$ using: $2Fe+\\frac32O_2\\rightarrow Fe_2O_3$; $H_2+\\frac12O_2\\rightarrow H_2O$, $\\Delta H=-286\\,\\text{kJ mol}^{-1}$; $Fe_2O_3+3H_2O\\rightarrow2Fe(OH)_3$, $\\Delta H=+289\\,\\text{kJ mol}^{-1}$; $Fe+3H_2O\\rightarrow Fe(OH)_3+\\frac32H_2$, $\\Delta H=+161\\,\\text{kJ mol}^{-1}$."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Calculate $\\Delta H_f^\\circ$ of $C_3H_8O_3$ using: $C+O_2\\rightarrow CO_2$, $\\Delta H_f^\\circ=-393.5\\,\\text{kJ mol}^{-1}$; $H_2+\\frac12O_2\\rightarrow H_2O$, $\\Delta H_f^\\circ=-285.8\\,\\text{kJ mol}^{-1}$; $C_3H_8O_3+\\frac72O_2\\rightarrow3CO_2+4H_2O$, $\\Delta H_c^\\circ=-1654.1\\,\\text{kJ mol}^{-1}$."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Calculate the heat of formation of benzene at $25^\\circ C$ using $C+O_2\\rightarrow CO_2$, $\\Delta H=-394\\,\\text{kJ mol}^{-1}$; $H_2+\\frac12O_2\\rightarrow H_2O$, $\\Delta H=-286\\,\\text{kJ mol}^{-1}$; $C_6H_6+\\frac{15}{2}O_2\\rightarrow6CO_2+3H_2O$, $\\Delta H=-3267\\,\\text{kJ mol}^{-1}$."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Calculate $\\Delta H_f$ for benzene from: $6C+3H_2\\rightarrow C_6H_6$; $H_2+\\frac12O_2\\rightarrow H_2O$, $\\Delta H=-286\\,\\text{kJ mol}^{-1}$; $C+O_2\\rightarrow CO_2$, $\\Delta H=-394\\,\\text{kJ mol}^{-1}$; $C_6H_6+\\frac{15}{2}O_2\\rightarrow6CO_2+3H_2O$, $\\Delta H=-3267\\,\\text{kJ mol}^{-1}$."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "State the first law of thermodynamics and show that $q_p=\\Delta H$ and $W=P\\Delta V$."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Calculate the heat of formation of $Fe_2O_3$ at $25^\\circ C$ from the supplied Hess-law data: $H_2+\\frac12O_2\\rightarrow H_2O$, $\\Delta H=-256\\,\\text{kJ mol}^{-1}$; $Fe_2O_3+3H_2O\\rightarrow2Fe(OH)_3$, $\\Delta H=+289\\,\\text{kJ mol}^{-1}$; $Fe+3H_2O\\rightarrow Fe(OH)_3+\\frac32H_2$, $\\Delta H=+161\\,\\text{kJ mol}^{-1}$."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "State and explain Hess's law of constant heat summation with applications."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "State the first law of thermodynamics and show that $q_v=\\Delta E$ and $q_p=\\Delta H$."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Calculate $\\Delta H_{25^\\circ C}$ of ethane from: $2C(s)+3H_2(g)\\rightarrow C_2H_6(g)$; $C(s)+O_2(g)\\rightarrow CO_2(g)$, $\\Delta H=-394\\,\\text{kJ mol}^{-1}$; $H_2(g)+\\frac12O_2(g)\\rightarrow H_2O(l)$, $\\Delta H=-286\\,\\text{kJ mol}^{-1}$; $C_2H_6(g)+\\frac72O_2(g)\\rightarrow2CO_2(g)+3H_2O(l)$, $\\Delta H=-1560\\,\\text{kJ mol}^{-1}$."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Calculate the heat of formation of benzene at $25^\\circ C$ from $C+O_2\\rightarrow CO_2$, $\\Delta H=-394\\,\\text{kJ}$; $H_2+\\frac12O_2\\rightarrow H_2O$, $\\Delta H=-286\\,\\text{kJ}$; $C_6H_6+\\frac{15}{2}O_2\\rightarrow6CO_2+3H_2O$, $\\Delta H=-3267\\,\\text{kJ}$."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "State and explain Hess's law of constant heat summation with examples."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Calculate the heat of formation of $M_2A$ from: $M+Y_2A\\rightarrow MAY+\\frac12Y_2$, $\\Delta H=-43.2\\,\\text{kJ mol}^{-1}$; $Y_2+\\frac12A_2\\rightarrow Y_2A$, $\\Delta H=-58.5\\,\\text{kJ mol}^{-1}$; $M_2A+YA_2\\rightarrow2MAY$, $\\Delta H=-63.2\\,\\text{kJ mol}^{-1}$."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "If $1800\\,\\text{cal}$ of heat is added to a system while it does $2800\\,\\text{cal}$ of work by expansion, find $\\Delta E$."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Calculate the heat of formation of $CH_3OH$ using $C+\\frac12O_2\\rightarrow CO$, $\\Delta H=-111\\,\\text{kJ mol}^{-1}$; $H_2+\\frac12O_2\\rightarrow H_2O$, $\\Delta H=-286\\,\\text{kJ mol}^{-1}$; $CH_3OH+O_2\\rightarrow CO+2H_2O$, $\\Delta H=-561\\,\\text{kJ mol}^{-1}$."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "$400\\,\\text{J}$ of heat is added to a gaseous system at constant pressure $101300\\,\\text{N m}^{-2}$ and its internal energy increases by $500\\,\\text{J}$. Calculate the volume change."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "Calculate the heat of formation for $4AX_3+5Y_2\\rightarrow4AY+6X_2Y$ using $\\frac12A_2+\\frac32X_2\\rightarrow AX_3$, $\\Delta H=-11.0\\,\\text{kJ mol}^{-1}$; $X_2+\\frac12Y_2\\rightarrow X_2Y$, $\\Delta H=-57.8\\,\\text{kJ mol}^{-1}$; $\\frac12A_2+\\frac12Y_2\\rightarrow AY$, $\\Delta H=+21.6\\,\\text{kJ mol}^{-1}$."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "State Hess's law and explain the Born–Haber cycle. Determine the lattice energy of $CsF$ using $\\Delta H_f^\\circ(CsF)=-553.5$, $\\Delta H_{sub}(Cs)=76.5$, bond/atomization enthalpy of $F=-328.2$, ionization enthalpy of $Cs=375.5$, and $\\Delta H_{diss}(F_2)=157\\,\\text{kJ mol}^{-1}$. Also derive $q_v=\\Delta E$ and $q_p=\\Delta H$ from the first law."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "State and explain the first law of thermodynamics. Show that $W=P\\Delta V$ and $\\Delta H=\\Delta E+P\\Delta V$."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Define thermochemistry. State and explain Hess's law of constant heat summation with applications."
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "State and explain the first law of thermodynamics and prove $q_p=\\Delta E+P\\Delta V=\\Delta H$."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What is electrolysis? Explain electrolysis of $CuCl_2$ solution and give the electrode reactions."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Balance any one equation by the ion-electron method: $I^-+Cr_2O_7^{2-}+H^+\\rightarrow Cr^{3+}+IO_3^-+H_2O$ (acidic medium); $Cr(OH)_3+SO_4^{2-}\\rightarrow CrO_4^{2-}+SO_3^{2-}$ (basic medium)."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Enumerate the rules for assigning oxidation numbers to elements."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Balance by the ion-electron method: $Fe^{3+}+Cr_2O_7^{2-}+H^+\\rightarrow Fe^{2+}+Cr^{3+}+H_2O$."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "Balance by the ion-electron method: $Cl_2+OH^-\\rightarrow ClO_3^-+H_2O$ and $HNO_3+H_2S\\rightarrow NO+S+H_2O$."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define corrosion. Balance by the ion-electron method: $Cr(OH)_3+SO_4^{2-}\\rightarrow CrO_4^{2-}+SO_3^{2-}$ (basic medium) and $Cr_2O_7^{2-}+I_2\\rightarrow Cr^{3+}+IO_3^-$ (acidic medium). Define a battery, explain the lead-storage battery, and determine the electrode potential of copper or zinc."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define oxidation and reduction by the modern electronic concept. Balance $Cr_2O_7^{2-}+Cl^-\\rightarrow Cr^{3+}+Cl_2$ (acidic medium) and $MnO_4^-+SO_3^{2-}\\rightarrow Mn^{2+}+SO_4^{2-}$ (basic medium). Define cell potential and standard electrode potential, and explain determination of the standard zinc electrode potential with a diagram and cell reactions."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define standard electrode potential. What is the standard hydrogen electrode, and how is the electrode potential of zinc determined? Balance any two: $Cr_2O_7^{2-}+I_2\\rightarrow Cr^{3+}+IO_3^-$ (acidic); $MnO_4^-+SO_3^{2-}\\rightarrow Mn^{2+}+SO_4^{2-}$ (acidic); $Br_2+OH^-\\rightarrow Br^-+BrO_3^-+H_2O$ (basic)."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Balance by the ion-electron method: $Cr_2O_7^{2-}+I_2\\rightarrow Cr^{3+}+IO_3^-$ (acidic medium) and $MnO_4^-+SO_3^{2-}\\rightarrow Mn^{2+}+SO_4^{2-}$ (basic medium). Write the postulates of Arrhenius theory of ionization and calculate oxidation numbers of $Cr$ in $Cr_2O_7^{2-}$, $S$ in $H_2S_2O_7$, and $N$ in $NH_4^+$."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is standard electrode potential? Explain how the electrode potential of copper is determined. Balance any one: $Cr(OH)_3+SO_4^{2-}\\rightarrow CrO_4^{2-}+SO_3^{2-}$ (basic) or $MnO_4^-+Cl^-\\rightarrow Mn^{2+}+Cl_2$ (acidic)."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What is electrode potential? Determine the electrode potential of zinc using a cell diagram. Balance any one by the ion-electron method: $HNO_3+H_2S\\rightarrow NO+S+H_2O$; $MnO_4^-+SO_3^{2-}+OH^-\\rightarrow Mn^{2+}+SO_4^{2-}$."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is electrolysis? Explain electrolysis of $CuCl_2$ and give all necessary electrode reactions."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define standard electrode potential and explain how the electrode potential of zinc is determined."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "What is standard electrode potential? Explain how the electrode potential of copper is determined."
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "What is electrolysis? Explain electrolysis of $CuCl_2$ solution with all necessary electrode reactions. Define electrode potential and standard electrode potential, and explain how the electrode potential of copper is determined."
+    },
+    {
+      "chapter": "Miscellaneous Definitions",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define any four of the listed terms.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Significant figure"
+        },
+        {
+          "label": "(ii)",
+          "text": "Rounding off data"
+        },
+        {
+          "label": "(iii)",
+          "text": "Bond energy"
+        },
+        {
+          "label": "(iv)",
+          "text": "Dipole moment"
+        }
+      ]
+    },
+    {
+      "chapter": "Miscellaneous Definitions",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define any four of the listed terms.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Stoichiometry"
+        },
+        {
+          "label": "(ii)",
+          "text": "Exponential notation"
+        },
+        {
+          "label": "(iii)",
+          "text": "Unit cell"
+        },
+        {
+          "label": "(iv)",
+          "text": "Latent heat of fusion"
+        },
+        {
+          "label": "(v)",
+          "text": "Energy of activation"
+        }
+      ]
+    },
+    {
+      "chapter": "Miscellaneous Definitions",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define any four of the listed terms.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Molar volume"
+        },
+        {
+          "label": "(ii)",
+          "text": "Limiting reactant"
+        },
+        {
+          "label": "(iii)",
+          "text": "Bond energy"
+        },
+        {
+          "label": "(iv)",
+          "text": "Dipole moment"
+        },
+        {
+          "label": "(v)",
+          "text": "Evaporation"
+        }
+      ]
+    },
+    {
+      "chapter": "Miscellaneous Definitions",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define the listed terms.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Avogadro's number"
+        },
+        {
+          "label": "(ii)",
+          "text": "Limiting reactant"
+        },
+        {
+          "label": "(iii)",
+          "text": "Heat of formation"
+        },
+        {
+          "label": "(iv)",
+          "text": "Rate expression"
+        }
+      ]
+    },
+    {
+      "chapter": "Miscellaneous Definitions",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Define the listed terms.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Significant figure"
+        },
+        {
+          "label": "(ii)",
+          "text": "Molar volume"
+        },
+        {
+          "label": "(iii)",
+          "text": "Viscosity"
+        },
+        {
+          "label": "(iv)",
+          "text": "Catalyst"
+        }
+      ]
+    },
+    {
+      "chapter": "Miscellaneous Definitions",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Define the listed terms.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Random error"
+        },
+        {
+          "label": "(ii)",
+          "text": "Exponential notation"
+        },
+        {
+          "label": "(iii)",
+          "text": "Heat of formation"
+        },
+        {
+          "label": "(iv)",
+          "text": "Rate expression"
+        }
+      ]
+    },
+    {
+      "chapter": "Miscellaneous Definitions",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Define the listed terms.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Stoichiometry"
+        },
+        {
+          "label": "(ii)",
+          "text": "Molar volume"
+        },
+        {
+          "label": "(iii)",
+          "text": "Activation energy"
+        },
+        {
+          "label": "(iv)",
+          "text": "Enthalpy"
+        }
+      ]
+    }
+  ]
+}
