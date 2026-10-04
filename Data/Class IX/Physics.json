@@ -1,0 +1,1704 @@
+{
+  "subject": "Physics",
+  "class": "IX",
+  "questions": [
+    {
+      "section": "B",
+      "number": "5",
+      "year": 2025,
+      "text": "Define density. Also write its formula and SI unit."
+    },
+    {
+      "section": "B",
+      "number": "2",
+      "year": 2024,
+      "text": "Define fundamental and derived quantities. Also write three examples of each."
+    },
+    {
+      "section": "B",
+      "number": "2",
+      "year": 2023,
+      "text": "Define density with formula and unit also write ways of measurement of density."
+    },
+    {
+      "section": "B",
+      "number": "2",
+      "year": 2022,
+      "text": "Define:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Nuclear Physics"
+        },
+        {
+          "label": "(ii)",
+          "text": "Atomic Physics"
+        },
+        {
+          "label": "(iii)",
+          "text": "Plasma Physics"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "3",
+      "year": 2021,
+      "text": "Define Physics and write its two importance in daily life."
+    },
+    {
+      "section": "B",
+      "number": "2",
+      "year": 2019,
+      "text": "Write down two contributions of each scientist:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Yaqoob Al-Kindi"
+        },
+        {
+          "label": "(ii)",
+          "text": "Ibn-Al-Haitham"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "10",
+      "year": 2018,
+      "text": "The radius of a Hydrogen atom is $0.53 \\times 10^{-10} m$. Convert it in kilometer, millimeter, micrometer and nanometer."
+    },
+    {
+      "section": "B",
+      "number": "2",
+      "year": 2017,
+      "text": "Define Physics and write the names of any of its four branches."
+    },
+    {
+      "section": "B",
+      "number": "2",
+      "year": 2015,
+      "text": "Name and define branches of physicals about solid martial, nucleus and atoms and astronomical bodies."
+    },
+    {
+      "section": "B",
+      "number": "3",
+      "year": 2015,
+      "text": "Write down the S.I. units of the following physical quantities.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Torque"
+        },
+        {
+          "label": "(ii)",
+          "text": "Weight"
+        },
+        {
+          "label": "(iii)",
+          "text": "Power"
+        },
+        {
+          "label": "(iv)",
+          "text": "Stress"
+        },
+        {
+          "label": "(v)",
+          "text": "Length"
+        },
+        {
+          "label": "(vi)",
+          "text": "Frequency"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "Q. 1",
+      "year": 0,
+      "text": "Write down the S.I. Units and types of the physical Quantities",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Ampere"
+        },
+        {
+          "label": "(ii)",
+          "text": "Volume"
+        },
+        {
+          "label": "(iii)",
+          "text": "Time"
+        },
+        {
+          "label": "(iv)",
+          "text": "Temperature"
+        },
+        {
+          "label": "(v)",
+          "text": "Force"
+        },
+        {
+          "label": "(vi)",
+          "text": "Density"
+        },
+        {
+          "label": "(vii)",
+          "text": "Velocity"
+        },
+        {
+          "label": "(viii)",
+          "text": "Acceleration"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "Convert the following values.",
+      "parts": [
+        {
+          "label": "a)",
+          "text": "$230\\text{ cm} = \\text{ m}$"
+        },
+        {
+          "label": "b)",
+          "text": "$250\\text{ g} = \\text{ kg}$"
+        },
+        {
+          "label": "c)",
+          "text": "$0.5\\text{ s} = \\text{ ms}$"
+        },
+        {
+          "label": "d)",
+          "text": "$0.8\\text{ m} = \\text{ mm}$"
+        },
+        {
+          "label": "e)",
+          "text": "$350\\text{ ms} = \\text{ s}$"
+        },
+        {
+          "label": "f",
+          "text": "$1.2\\text{ Kg} = \\text{ g}$"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "An engineer measures the width of an aluminum sheet using Vernier caliper as shown in figure.",
+      "parts": [
+        {
+          "label": "a)",
+          "text": "What is the measurement of the width of aluminum sheet."
+        },
+        {
+          "label": "b)",
+          "text": "Which gives more precise measurement Vernier caliper, Screw Gauge or meter rule?"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "A pendulum swings as shown if figure 1.30 from X to Y and back to X again",
+      "parts": [
+        {
+          "label": "i)",
+          "text": "What would be the most accurate way of measuring time for one oscillation? with the help of a Stop Watch. a) Record time for 10 oscillations and multiply by 10 b) Record time for 10 oscillation and divide by 10 c) Record time for one oscillation d) Record time from X to Y and double it"
+        },
+        {
+          "label": "ii)",
+          "text": "Suggest an instrument for measuring time period more accurately."
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "Q.5",
+      "year": 0,
+      "text": "write the correct prefix of notion",
+      "parts": [
+        {
+          "label": "a)",
+          "text": "$75000\\text{ m} = 750$"
+        },
+        {
+          "label": "b)",
+          "text": "$2 / 1000\\text{ sec} = 1$"
+        },
+        {
+          "label": "c)",
+          "text": "$1 / 1000000\\text{ g} = 1$"
+        },
+        {
+          "label": "d)",
+          "text": "$1000000000\\text{ m} = 1$"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "Q.6",
+      "year": 0,
+      "text": "Write values in standard and scientific notation",
+      "parts": [
+        {
+          "label": "a)",
+          "text": "The radius of $1^{\\text{st}}$ orbit of Hydrogen atom is $r = 0.53\\text{ A}^0 =$"
+        },
+        {
+          "label": "b)",
+          "text": "1 light year is $2628000000000\\text{ m} =$"
+        },
+        {
+          "label": "c)",
+          "text": "Vacuum pressure $2.7\\times 10^{-4}$ torr $=$"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "Q.7",
+      "year": 0,
+      "text": "A measuring cylinder in a given figure is filled with 500cc water. A stone of mass 20g is immersed in to the cylinder such that, water level rises up to 800cc. Which statement is correct? a) The difference between the readings gives the density of stone. b) The difference between the readings gives volume of the stone c) The final reading gives the density of stone d) The final reading gives the volume of stone"
+    },
+    {
+      "section": "B",
+      "number": "Q.8",
+      "year": 0,
+      "text": "Write significant numbers in the following values.",
+      "parts": [
+        {
+          "label": "a)",
+          "text": "980 has Significant numbers."
+        },
+        {
+          "label": "b)",
+          "text": "91.60 has Significant numbers."
+        },
+        {
+          "label": "c)",
+          "text": "10010.100 has Significant numbers."
+        },
+        {
+          "label": "d)",
+          "text": "0.0086 has Significant numbers."
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "A wooden piece is made in different shapes take length $(1) =$ radius $(r) = 2m$ Calculate its volume as a: a) Sphere b) Cube c) Cylinder d) Pyramid"
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "Find the density of wood as sphere and cube if the mass of wood is 1kg. Is there any change in density due to shape?"
+    },
+    {
+      "section": "B",
+      "number": "7",
+      "year": 2025,
+      "text": "White any three differences between scalar quantity and vector quantity."
+    },
+    {
+      "section": "B",
+      "number": "11",
+      "year": 2025,
+      "text": "A ball falls down from top of height 90 meters. How much time the ball will take to reach the ground?"
+    },
+    {
+      "section": "B",
+      "number": "8",
+      "year": 2024,
+      "text": "A bus starts from rest and travels along a straight path its velocity becomes $15\\text{ ms}^{-1}$ in 5 seconds. Calculate acceleration of the bus."
+    },
+    {
+      "section": "B",
+      "number": "3",
+      "year": 2023,
+      "text": "Write down any three difference between Translatory motion and vibratory motion."
+    },
+    {
+      "section": "B",
+      "number": "13",
+      "year": 2023,
+      "text": "A bus is moving on a road with $15\\text{ ms}^{-1}$ and its accelerates at $5\\text{ ms}^{-1}$ and its accelerates at $5\\text{ ms}^{-2}$. Find the final velocity of the bus after 6 seconds."
+    },
+    {
+      "section": "B",
+      "number": "8",
+      "year": 2022,
+      "text": "A ball is dropped from the top of the height of 70m. How much time, the hall will take to strike the ground? $(g = 10\\text{ ms}^{-2})$"
+    },
+    {
+      "section": "B",
+      "number": "8",
+      "year": 2021,
+      "text": "A car starts from rest and after 20 seconds its velocity becomes 108 km/h. Find the acceleration of, ue car."
+    },
+    {
+      "section": "B",
+      "number": "15",
+      "year": 2019,
+      "text": "A ball is dropped from a tower it reach the ground in 10 seconds. Calculate the height of the tower and the velocity with which it hits the ground."
+    },
+    {
+      "section": "B",
+      "number": "11",
+      "year": 2018,
+      "text": "A ball is dropped form a height of 122.5m. How much time will it take to reach the ground?"
+    },
+    {
+      "section": "B",
+      "number": "5",
+      "year": 2017,
+      "text": "A car starting from rest attains a velocity of $20\\text{ ms}^{-1}$ in 5 seconds. Find the distance covered by the car."
+    },
+    {
+      "section": "B",
+      "number": "3",
+      "year": 2016,
+      "text": "A ball is dropped form a tower, it reaches the ground in 10 seconds Calculate the height of the tower. (Take $g=10\\text{ m/s}^2$)"
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 0,
+      "text": "A car is moving with uniform acceleration and attains the velocity of 108 $kmh^{-1}$ in 5 minutes. Find acceleration of the car."
+    },
+    {
+      "section": "C",
+      "number": "16",
+      "year": 2025,
+      "text": "What do you mean by relative motion? Derive second equation of motion."
+    },
+    {
+      "section": "C",
+      "number": "14",
+      "year": 2024,
+      "text": "What is Kinematics? Derive the equation $2aS = v_f^2 - v_i^2$"
+    },
+    {
+      "section": "C",
+      "number": "14",
+      "year": 2023,
+      "text": "Explain term “$V_i$” and derive the equation $S = v_i t + \\frac{1}{2} at^2$"
+    },
+    {
+      "section": "C",
+      "number": "14",
+      "year": 2022,
+      "text": "Define uniform velocity and derive the equation $S = v_i t + \\frac{1}{2} at^2$"
+    },
+    {
+      "section": "C",
+      "number": "12",
+      "year": 2021,
+      "text": "What do the symbol “$V_i$” and “$V_f$” represent? And also derive the equation $V_f^2 = V_i^2 + 2aS$"
+    },
+    {
+      "section": "C",
+      "number": "23",
+      "year": 2017,
+      "text": "(a) Derive the equation: $S = V_i t + \\frac{1}{2} at^2$"
+    },
+    {
+      "section": "C",
+      "number": "24",
+      "year": 2016,
+      "text": "(a) Derive the equation $2aS = V_f^2 - V_i^2$"
+    },
+    {
+      "section": "C",
+      "number": "25",
+      "year": 2015,
+      "text": "(a) Derive second equation of motion in five Steps."
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "a) Define rest and motion. b) What is meant by relative motion."
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "a) Define speed and velocity b) What is difference between distance and displacement. c) Define acceleration"
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "a) Define scalar and vector quantities? b) How represent vector quantities are represented graphically?"
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "a) Define motion under gravity? b) Why gravity is taken negative for an object moving in upward direction?"
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "Calculate the acceleration of a bus that speed up from $20\\text{ ms}^{-1}$ to $40\\text{ ms}^{-1}$ in 8 seconds."
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "A bus is moving on a road with $15\\text{ ms}^{-1}$ and it accelerates at $5\\text{ ms}^{-2}$. Find the final velocity of bus after 6 seconds."
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "A car starts moving from rest with an acceleration of $5\\text{ ms}^{-1}$. Find out the time to travel 50m distance."
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "A ball is dropped from a height of 50m. What will be its velocity before touching ground?"
+    },
+    {
+      "section": "B",
+      "number": "Q.5",
+      "year": 0,
+      "text": "If a body is thrown up ward with vertical velocity $50\\text{ ms}^{-1}$. Calculate"
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "Define momentum with SI unit?"
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "When a free falling object moves towards earth due to pull of earth on it. Does earth also move towards that object due to reaction? Explain."
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "a) Why a wire fence is designed in the helmet of batsman? b) How does it prevent from injuries?"
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "a) State the Newton's first law of motion. Give some common examples? b) Enlist some common observations that are caused by the property of inertia?"
+    },
+    {
+      "section": "B",
+      "number": "Q.5",
+      "year": 0,
+      "text": "Define Newton's second law of motion."
+    },
+    {
+      "section": "B",
+      "number": "Q.6",
+      "year": 0,
+      "text": "Show the relationship between applied force and the acceleration produced in the body?"
+    },
+    {
+      "section": "B",
+      "number": "Q.7",
+      "year": 0,
+      "text": "Enumerate at least three clear differences between mass and weight?"
+    },
+    {
+      "section": "B",
+      "number": "Q.8",
+      "year": 0,
+      "text": "a) Define the forces acting on an object in circular motion? b) Draw a figure showing the direction of centripetal force, centrifugal force and velocity of an object along a circular path. c) List down some purposeful uses of centrifuge that human are benefitting everyday."
+    },
+    {
+      "section": "B",
+      "number": "Q.9",
+      "year": 0,
+      "text": "What is force of friction? Explain with two examples from daily life."
+    },
+    {
+      "section": "B",
+      "number": "Q.10",
+      "year": 0,
+      "text": "a) How anti- lock braking system prevents the risk of sliding? b) Enlist any four uses of rolling friction in everyday life?"
+    },
+    {
+      "section": "B",
+      "number": "Q.11",
+      "year": 0,
+      "text": "Explore the following phenomenon in relation with dynamics"
+    },
+    {
+      "section": "B",
+      "number": "Q.12",
+      "year": 0,
+      "text": "a) When an air filled balloon is released. b) Riding a bicycle needs continuous paddling. c) The biker ridding in the death well. d) You always feel a pullback whenever you pull on your school bag or some heavier object."
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "Find the moment of body of mass $6\\text{ kg}$ moving with a velocity of $25\\text{ ms}^{-1}$"
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "What will be the velocity if the momentum becomes $200\\text{ Ns}$"
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "A body of mass $10\\text{ kg}$ is moving with velocity of $10\\text{ ms}^{-1}$. A force acts for 5 seconds to reduce its velocity to $2\\text{ ms}^{-1}$. Find the momentum of body before and after application of the force on it."
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "(a) A force of $3400\\text{ N}$ is applied on a body of mass is $850\\text{ kg}$, find the acceleration produced by the force? (b) How much force should be applied on a body of mass $425\\text{ kg}$ to produce acceleration same as calculated in part a."
+    },
+    {
+      "section": "B",
+      "number": "Q.5",
+      "year": 0,
+      "text": "Find the mass of a body which is accelerated by applying a force of $200\\text{ N}$, that speeds up it to $36\\text{ ms}^{-1}$."
+    },
+    {
+      "section": "B",
+      "number": "Q.6",
+      "year": 0,
+      "text": "What should be the acceleration of the same body if the applied force changes to 280N."
+    },
+    {
+      "section": "B",
+      "number": "Q.7",
+      "year": 0,
+      "text": "An empty car has 1200 kg mass. Its engine can produce acceleration of $4\\text{ ms}^{-2}$. If 300 kg load is added to mass by passengers and luggage. What acceleration the same engine will produce?"
+    },
+    {
+      "section": "B",
+      "number": "Q.8",
+      "year": 0,
+      "text": "The mass of an object is 60 kg, find its weight on (i) Earth (ii) Moon (iii) Mars assume the acceleration due to gravity on Earth $= 9.8\\text{ ms}^{-2}$ on Moon $= 1.6\\text{ ms}^{-2}$ and on Mars $= 3.7\\text{ ms}^{-2}$"
+    },
+    {
+      "section": "B",
+      "number": "Q.9",
+      "year": 0,
+      "text": "A car is running on a circular part of highway having about 1000m radius. The mass of car is 600kg and its velocity is 72 km/h. Find (i) Centripetal force exerted by the car. (ii) Centripetal acceleration of car."
+    },
+    {
+      "section": "B",
+      "number": "Q.10",
+      "year": 0,
+      "text": "A block is placed on a wet slippery floor. The mass of block is 15 kg. When it is pulled through a string and spring balance, it shows force equal to 3 N. Find the coefficient of friction. $(F_s = \\mu mg)$"
+    },
+    {
+      "section": "B",
+      "number": "2",
+      "year": 2025,
+      "text": "What do you mean by resolution of a vector? Also split the vector into its perpendicular components."
+    },
+    {
+      "section": "B",
+      "number": "7",
+      "year": 2024,
+      "text": "Define torque. Write down its formula and unit."
+    },
+    {
+      "section": "B",
+      "number": "13",
+      "year": 2024,
+      "text": "A man is pushing a Trolley for a horizontal ground with a force of 100N making an angle of $60^\\circ$ with ground. Find the horizontal and vertical components of the force."
+    },
+    {
+      "section": "B",
+      "number": "5",
+      "year": 2023,
+      "text": "Write three state of equilibrium."
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 2022,
+      "text": "Describe three states of equilibrium with one example of each."
+    },
+    {
+      "section": "B",
+      "number": "9",
+      "year": 2021,
+      "text": "A mechanic uses a double arm spanner to turn a nut. He applies a force of 15N at each end of the spanner and produces a torque of 60Nm. What is the length of the moment arm of the couple?"
+    },
+    {
+      "section": "B",
+      "number": "7",
+      "year": 2021,
+      "text": "Find the two rectangular components of a force of 100 N which is acting at an angle of $60^\\circ$ with x-axis. $(\\text{Cos}60^\\circ = 0.5, \\text{Sin} 60^\\circ = 0.866)$"
+    },
+    {
+      "section": "B",
+      "number": "13",
+      "year": 2019,
+      "text": "A force is acting at an angle $60^\\circ$ with x-axis. If the x-component of the force is 50 Newton. Find resultant force and y-component of the force. $(\\text{Sin} 60^\\circ=0.866, \\text{Cos}60^\\circ=0.5)$"
+    },
+    {
+      "section": "B",
+      "number": "7",
+      "year": 2017,
+      "text": "Write three states of equilibrium."
+    },
+    {
+      "section": "B",
+      "number": "18",
+      "year": 2016,
+      "text": "With the help of diagram define negative of a vector and resultant vector."
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2016,
+      "text": "With the help of rectangular components of a vector derive the equation for the resultant vector $F = \\sqrt{F_x^2 + F_y^2}$"
+    },
+    {
+      "section": "B",
+      "number": "20",
+      "year": 2015,
+      "text": "Define equilibrium and state two conditions of equilibrium."
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2015,
+      "text": "With the help of Graphical method add two Vectors A and B."
+    },
+    {
+      "section": "B",
+      "number": "7",
+      "year": 2014,
+      "text": "Prove that Moment of the couple is equal to the product of one of the forces and arm of couple."
+    },
+    {
+      "section": "B",
+      "number": "8",
+      "year": 2014,
+      "text": "A 5m long beam pivoted into a wall a force of 100 N is applied vertically at the Far end of beam. Find the Torque produced"
+    },
+    {
+      "section": "C",
+      "number": "18",
+      "year": 2025,
+      "text": "Explain two types of equilibrium with examples on the basis of state of a body. Also write two conditions of equilibrium in detail."
+    },
+    {
+      "section": "C",
+      "number": "15",
+      "year": 2024,
+      "text": "Define equilibrium. Explain its types and two conditions."
+    },
+    {
+      "section": "C",
+      "number": "15",
+      "year": 2023,
+      "text": "Which process is the reverse of resolution of a force? Define it also prove that $F = \\sqrt{F_x^2 + F_y^2}$ and $\\theta = \\tan^{-1} \\frac{F_y}{F_x}$"
+    },
+    {
+      "section": "C",
+      "number": "18",
+      "year": 2018,
+      "text": "(b) Define resolution of a vector. Explain the method to resolve a vector into its rectangular components."
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "Define like and unlike forces."
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "Describe the head to tail rule of vector addition of forces."
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "How a force can be resolved in to its perpendicular components? i) Find its horizontal component ii) Find its vertical component"
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "a) How can you determine a force from its rectangular components? b) Horizontal and vertical components of a force are 4 N and 3 N respectively. Find (i) Resultant force (ii) Direction of resultant"
+    },
+    {
+      "section": "B",
+      "number": "Q.5",
+      "year": 0,
+      "text": "What do you mean by moment of force?"
+    },
+    {
+      "section": "B",
+      "number": "Q.6",
+      "year": 0,
+      "text": "State the principle of moment"
+    },
+    {
+      "section": "B",
+      "number": "Q.7",
+      "year": 0,
+      "text": "a) Define Center of mass or Center of gravity. b) How will you determine the Center of mass or Center of gravity?"
+    },
+    {
+      "section": "B",
+      "number": "Q.8",
+      "year": 0,
+      "text": "Define couple as a pair of forces tending to produce torque"
+    },
+    {
+      "section": "B",
+      "number": "Q.9",
+      "year": 0,
+      "text": "State two conditions necessary for an object to be in equilibrium."
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "A pair of like parallel forces 15N each are acting on a body. Find their resultant."
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "Two unlike parallel forces 10 N each acting along same line. Find their resultant."
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "Three forces 12 N along x-axis, 8 N making an o angle of 45 with x- axis and 8 N along y-axis. i) Find their resultant ii) Find the direction of resultant"
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "A gardener is driving a lawnmower with a force o of 80 N that makes an angle of 40 with the ground. i) Find its horizontal component ii) Find its vertical component"
+    },
+    {
+      "section": "B",
+      "number": "Q.5",
+      "year": 0,
+      "text": "A spanner of 0.3 m length can produce a torque of 300Nm. i) determine the force applied on it ii) What should be the length of the spanner if torque is to be increased to 500Nm with same applied force"
+    },
+    {
+      "section": "B",
+      "number": "Q.6",
+      "year": 0,
+      "text": "A uniform meter rule is supported at its center is balanced by two forces 12 N and 20 N i) If 20 N force is placed at a distance of 3m from pivot find the position of 12 N force on the other side of pivot ii) if the 20N force is moved to 4cm from pivot then find force to replace 12N force."
+    },
+    {
+      "section": "B",
+      "number": "Q.7",
+      "year": 0,
+      "text": "A mechanic uses a double arm spanner to turn a nut. He applies a force of 15 N at each end of the spanner and produces a torque of 60 Nm. What is the length of the moment arm of the couple?"
+    },
+    {
+      "section": "B",
+      "number": "Q.8",
+      "year": 0,
+      "text": "If he wants to produce a torque of 80Nm with same spanner then how much force he should apply?"
+    },
+    {
+      "section": "B",
+      "number": "Q.9",
+      "year": 0,
+      "text": "A uniform metre rule is balanced at the 30 cm mark when a load of 0.80 N is hung at the zero mark. i) At what point on the rule is the Centre of gravity of the rule? ii) Calculate the weight of the rule"
+    },
+    {
+      "section": "B",
+      "number": "3",
+      "year": 2025,
+      "text": "Define pressure. Write dawn two factors affecting pressure."
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 2024,
+      "text": "State and explain Hook's law."
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2024,
+      "text": "What do you mean by elasticity? State Hook's Law and write its mathematical expression."
+    },
+    {
+      "section": "B",
+      "number": "10",
+      "year": 2024,
+      "text": "Calculate the spring constant which extends by a distance or 3.5 cm when a load of 14N hung ham its end."
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2023,
+      "text": "Define pressure on what factors does the pressure depend?"
+    },
+    {
+      "section": "B",
+      "number": "10",
+      "year": 2022,
+      "text": "A spring has spring constant $K = 30\\text{ Nm}^{-1}$. What load is required to produce an extension of 4m?"
+    },
+    {
+      "section": "B",
+      "number": "10",
+      "year": 2021,
+      "text": "Find the pressure exerted by a 450 N woman putting all her weight onto one heel of area $2\\text{cm} \\times 2\\text{cm}$."
+    },
+    {
+      "section": "B",
+      "number": "8",
+      "year": 2018,
+      "text": "Write the name of the law, which states “When a pressure is applied to a liquid it is transmitted equally in all directions.” Describe any one application of this law.”"
+    },
+    {
+      "section": "B",
+      "number": "14",
+      "year": 2017,
+      "text": "Define pressure. Write its formula and S.I. unit."
+    },
+    {
+      "section": "B",
+      "number": "12",
+      "year": 2015,
+      "text": "Explain Hook's Low applied to Helical Spring."
+    },
+    {
+      "section": "C",
+      "number": "16",
+      "year": 2023,
+      "text": "Describe the construction and working of hydraulic machine with the help of diagram."
+    },
+    {
+      "section": "C",
+      "number": "14",
+      "year": 2021,
+      "text": "State Pascal's law. Describe construction and working of a hydraulic lift with the help of a diagram."
+    },
+    {
+      "section": "C",
+      "number": "24",
+      "year": 2016,
+      "text": "(b)Define Pascal's law and explain any one of its application by diagram."
+    },
+    {
+      "section": "C",
+      "number": "24",
+      "year": 2015,
+      "text": "(c) Describe four examples showing surface tension."
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "State Hooke's law."
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "Define the term pressure."
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "Write down the S.I unit of pressure."
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "Why does pressure increases as you dig deeper; Explain in detail. a) The pressure exerted by boy's thumb on the head of thumbback. b) The pressure of the tip of the thumbback on the wood. c) What conclusion can be drawn from answers of part (a) and (b)?"
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "Calculate the spring constant for a spring which extends by a distance of 3.5cm when a load of 14N is hung from its end."
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "In the given Table shows the results of an experiment to stretch a spring. Load (N): 0.0, 2.0, 4.0, 6.0, 8.0, 10.0, 12.0; Extension (cm): 0.0, 8.0, 8.3, 8.6, 8.9, 9.2, 9.3 a) Calculate the spring constant k. b) Show maximum force at which Hooke's law is applicable."
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "A boy is pressing a thumbtack into a piece of wood with a force of 20 N. The surface area of head of thumbtack is $1\\text{cm}^2$ and the cross-section area of the tip of the thumbtack is $0.01\\text{cm}^2$. Calculate a) The pressure exerted by boy's thumb on the head of thumbtack. b) The pressure of the tip of the thumbtack on the wood. c) What conclusion can be drawn from answers of part (a) and (b)?"
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "In The Figure shows a basic hydraulic system that has small and large pistons of cross section area of $0.005\\text{ m}^2$ and $0.1\\text{ m}^2$ respectively. A force of 20N is applied to small piston. Calculate a) The pressure transmitted into hydraulic fluid. b) The force at large piston. c) Discuss the distance travelled by small and large pistons."
+    },
+    {
+      "section": "B",
+      "number": "13",
+      "year": 2025,
+      "text": "Fatima's weight is 900N on the Earth's surface. What will be her weight at the surface of moon?"
+    },
+    {
+      "section": "B",
+      "number": "11",
+      "year": 2024,
+      "text": "A planet has mass tour times of earth and radius two time that of earth. If the value of \"g\" on the surface of earth is $10\\text{ m}^{-2}$ What will be its acceleration due to gravity on the planet?"
+    },
+    {
+      "section": "B",
+      "number": "7",
+      "year": 2023,
+      "text": "Write down any three characteristics of the Gravitational force."
+    },
+    {
+      "section": "B",
+      "number": "12",
+      "year": 2022,
+      "text": "If weight of Amna is 200N at the surface of the earth. Find mass of amna."
+    },
+    {
+      "section": "B",
+      "number": "12",
+      "year": 2021,
+      "text": "Calculate the orbital velocity of artificial satellite required moving around the earth if radius of earth is $6 \\times 10^6\\text{ m}$ and the value of \"g\" is $10\\text{ m/s}^2$"
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 2019,
+      "text": "Compute the gravitational force of attraction between two boys of masses $50\\text{ kg}$ and $40\\text{ kg}$ respectively apart from each other by $2\\text{ m}$."
+    },
+    {
+      "section": "B",
+      "number": "22",
+      "year": 2019,
+      "text": "Define orbital velocity and derive the formula $V = \\sqrt{\\frac{GM_e}{R}}$"
+    },
+    {
+      "section": "B",
+      "number": "3",
+      "year": 2018,
+      "text": "Write the approximate value of mass of our galaxy, earth and moon,"
+    },
+    {
+      "section": "B",
+      "number": "8",
+      "year": 2015,
+      "text": "With the help of two bodies mathematically express the law of universal gravitation in three steps."
+    },
+    {
+      "section": "C",
+      "number": "14",
+      "year": 2019,
+      "text": "State Newton's law of gravitation. How can this law be used to derive the formula for calculating the mass of earth?"
+    },
+    {
+      "section": "C",
+      "number": "17",
+      "year": 2018,
+      "text": "Calculate the mass of earth by using Newton's law of gravitation."
+    },
+    {
+      "section": "C",
+      "number": "20",
+      "year": 2018,
+      "text": "(b) State the Law of Universal Gradation. Prove that $M_e = \\frac{gR_e^2}{G}$"
+    },
+    {
+      "section": "C",
+      "number": "23",
+      "year": 2016,
+      "text": "(b) State Newton's Law of gravitation and derive the formula for mass of earth with its help."
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "a) Why we do not feel the gravitational force of attraction from the objects around us? b) Define Gravitational field with an example."
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "a) Write down any three characteristics of Gravitational force? b) Define gravitational field strength."
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "a) State & explain Newton's law of gravitation? b) Define 'field force'."
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "a) Why weight of an object does not remain same every where on Earth? b) Why the unit of weight is Newton? Explain."
+    },
+    {
+      "section": "B",
+      "number": "Q.5",
+      "year": 0,
+      "text": "Define weight and write down its equation?"
+    },
+    {
+      "section": "B",
+      "number": "Q.6",
+      "year": 0,
+      "text": "a) Your weight decreases as you go up at high altitudes, without dieting. Explain. b) If you step on a scale and it gives reading 55kg, is that a measure of your weight. If not then which physical quantity it shows?"
+    },
+    {
+      "section": "B",
+      "number": "Q.7",
+      "year": 0,
+      "text": "Calculate the mass of Earth by using Newton's law of gravitation."
+    },
+    {
+      "section": "B",
+      "number": "Q.8",
+      "year": 0,
+      "text": "If \"Me\" is the mass of Earth, \"Re\" radius of Earth, \"G\" is universal gravitational constant, then find acceleration due to gravity \"g\"; i) On the surface of Earth. ii) At the centre of Earth."
+    },
+    {
+      "section": "B",
+      "number": "Q.9",
+      "year": 0,
+      "text": "Evaluate the acceleration due to gravity in terms of mass of Earth \"Me\", radius of Earth \"Re\" and universal gravitational constant \"G\"; i) At a distance, twice the Earth's radius. ii) At a distance, one half the Earth's radius."
+    },
+    {
+      "section": "B",
+      "number": "Q.10",
+      "year": 0,
+      "text": "Write the name of any one natural satellite."
+    },
+    {
+      "section": "B",
+      "number": "Q.11",
+      "year": 0,
+      "text": "a) Write down the names of four different types of orbit. b) Define the terms i) Critical Velocity. ii) Communication Satellite."
+    },
+    {
+      "section": "B",
+      "number": "Q.12",
+      "year": 0,
+      "text": "Derive the expression for the motion of a satellite. $v = \\sqrt{\\frac{GM}{R+h}}$"
+    },
+    {
+      "section": "B",
+      "number": "Q.13",
+      "year": 0,
+      "text": "a) Differentiate between the natural satellite and artificial satellite. b) Name the parameters on the basis of which orbits are characterized."
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "Determine the gravitational force of attraction between Urwa and Ayesha standing at a distance of 50m apart. The mass of Urwa is 60kg and that of Ayesha is 70kg."
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "Weight of Rani is 450N at the surface of Earth. Find her mass?"
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "Weight of Naveera is 700N on the Earth's surface. What will be Naveera's weight at the surface of Moon?"
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "A planet has mass four times of Earth and radius two times that of Earth. If the value of \"g\" on the surface of Earth is $10\\text{ ms}^{-2}$. Calculate acceleration due to gravity on the planet."
+    },
+    {
+      "section": "B",
+      "number": "Q.5",
+      "year": 0,
+      "text": "Calculate the speed of a satellite which orbits the Earth at an altitude of 400 kilometers above Earth's surface."
+    },
+    {
+      "section": "B",
+      "number": "9",
+      "year": 2025,
+      "text": "A cylinder contains $120\\text{cm}^3$ of air at pressure of 140kPa. What will be its volume if the pressure on it is increase to $840\\text{kPa}$?"
+    },
+    {
+      "section": "B",
+      "number": "8",
+      "year": 2024,
+      "text": "A cylinder contains $60\\text{cm}^3$ of air at a pressure of 140kpa. What will its volume be if the pressure on it is increased to $200\\text{kPa}$?"
+    },
+    {
+      "section": "B",
+      "number": "11",
+      "year": 2023,
+      "text": "A cylinder contains $75\\text{cm}^3$ of air at a pressure of 120kPa. What will be its volume if the pressure on it, is increased to 360 kPa? While its temperature remains constant."
+    },
+    {
+      "section": "C",
+      "number": "17",
+      "year": 2025,
+      "text": "Which variables describe completely the behavior of a gas on the basis of kinetic molecular theory (KMT)? Explain any one of them."
+    },
+    {
+      "section": "C",
+      "number": "16",
+      "year": 2024,
+      "text": "State and explain Boyle's Law. Write its one application."
+    },
+    {
+      "section": "C",
+      "number": "17",
+      "year": 2023,
+      "text": "Which variables describe completely behavior of a gas on the basic of Kinetic Molecular Theory (KMT)? Explain any one of them."
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "a) \"The particles are free to move within the material, has a fixed volume but takes up the shape of its container\", which state of matter is being described here? b) Write a similar description of the particles that make up a solid. c) Write down any two properties of a solid."
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "a) Why the kinetic model of matter is called kinetic? b) In which state of matter the molecules are widely separated? c) In which state of matter the molecules are most closely packed? d) In which state of matter molecules can move freely at high speed?"
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "a) By using kinetic molecular theory explain why we can walk through air, swim through water but can not walk through a solid wall. b) In which state of matter do the molecules have minimum kinetic energy? c) Which state of matter is highly incompressible?"
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "A sample of a gas is in a sealed test tube is cooled. Describe what happens to: a) The size of the molecules. b) The speed at which molecules move. c) The number of the molecules. d) The pressure inside the tube. e) The state of the gas."
+    },
+    {
+      "section": "B",
+      "number": "Q.5",
+      "year": 0,
+      "text": "An inflated car tyre is considered to have a constant volume, regardless of any changes in temperature or pressure. Use the kinetic molecular theory of gases to answer the following: a) How does air in the tyre exert a pressure on the walls of the tyre? b) Why is the pressure the same at all points on the inside wall of the tyre? c) More air is pumped into the tyre while the temperature is kept constant until there are twice as many molecules as before. Explain why you would expect the pressure to be doubled."
+    },
+    {
+      "section": "B",
+      "number": "Q.6",
+      "year": 0,
+      "text": "Describe the following: a) What happens to the motion of the molecules of a gas when it cools down? b) What happens to the motion of a liquid when it cools down?"
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "The pressure on $9\\text{cm}^3$ of oxygen gas is doubled at a fixed temperature. What will its volume become?"
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "A container holds $30\\text{m}^3$ of air at a pressure of $150000\\text{Pa}$. If the volume changed to $10\\text{m}^3$ by decreasing load on the piston. What will the pressure of the gas become? Assume that its temperature remains constant."
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "Air at atmospheric pressure of $760\\text{mm}$ of Hg is trapped inside a container available with a moveable piston. When the piston is pulled out slowly so that the volume is increased from $100\\text{dm}^3$ to $150\\text{dm}^3$, the temperature remaining constant. What will be the pressure of the air becomes?"
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2025,
+      "text": "What is wind energy? Write down its two applications."
+    },
+    {
+      "section": "B",
+      "number": "10",
+      "year": 2025,
+      "text": "Calculate the power of a machine. If the machine performs 1800 Joules of work in 30 minutes."
+    },
+    {
+      "section": "B",
+      "number": "5",
+      "year": 2024,
+      "text": "What is potential energy? Derive $P.E = mgh$"
+    },
+    {
+      "section": "B",
+      "number": "12",
+      "year": 2024,
+      "text": "What will be the kinetic energy of a boy of mass 50kg driving a bike with the velocity of $2\\text{ ms}^{-1}$"
+    },
+    {
+      "section": "B",
+      "number": "9",
+      "year": 2023,
+      "text": "If the efficiency of a machine is 50% and its output is 1001 then calculate its input."
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2022,
+      "text": "Write down three applications of wind energy."
+    },
+    {
+      "section": "B",
+      "number": "12",
+      "year": 2022,
+      "text": "Calculate the power of a machine. If the machine performs 900 Joules of work in 30 minutes."
+    },
+    {
+      "section": "B",
+      "number": "13",
+      "year": 2021,
+      "text": "Define Kinetic energy and derive its equation. $K.E = \\frac{1}{2} mv^2$"
+    },
+    {
+      "section": "B",
+      "number": "16",
+      "year": 2017,
+      "text": "What is the Kinetic Energy (K.E.) of 2000 Kg car travelling at a velocity of 90 km/h?"
+    },
+    {
+      "section": "B",
+      "number": "9",
+      "year": 2016,
+      "text": "Define Power and derive the equation $P = FV$"
+    },
+    {
+      "section": "B",
+      "number": "13",
+      "year": 2016,
+      "text": "With what constant velocity can a 1960 watt motor raise a mass of 100 kg?"
+    },
+    {
+      "section": "B",
+      "number": "10",
+      "year": 2015,
+      "text": "Describe inter conversion of kinetic and potential energy."
+    },
+    {
+      "section": "C",
+      "number": "18",
+      "year": 2023,
+      "text": "State law of conservation of energy. Also explain any five renewable energy sources."
+    },
+    {
+      "section": "C",
+      "number": "16",
+      "year": 2022,
+      "text": "Define Kinetic energy and Potential energy and derive equation for gravitational potential energy $P.E = mgh$."
+    },
+    {
+      "section": "C",
+      "number": "20",
+      "year": 2019,
+      "text": "(a) Define Potential and Kinetic Energy, Also derive their equations: $P.E = mgh$ and $K.E = \\frac{1}{2} mv^2$"
+    },
+    {
+      "section": "C",
+      "number": "18",
+      "year": 2018,
+      "text": "(a) Define K.E, and P.E. Derive the equation $K.E = \\frac{1}{2} mv^2$"
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "a) Define work? b) Derive the equation; work = $Fd \\cos\\theta$."
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "a) Define Kinetic energy b) Derive the equation."
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "a) Define Potential Energy b) Derive the equation. $PE = mgh$"
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "a) Why fossil fuel energy is called nonrenewable source? b) Define solar energy and its importance in Pakistan?"
+    },
+    {
+      "section": "B",
+      "number": "Q.5",
+      "year": 0,
+      "text": "Write notes on Tidal energy and Geothermal energy."
+    },
+    {
+      "section": "B",
+      "number": "Q.6",
+      "year": 0,
+      "text": "a) What is wing energy? b) Write any three applications of wind energy?"
+    },
+    {
+      "section": "B",
+      "number": "Q.7",
+      "year": 0,
+      "text": "a) Write the name of any one radioactive element which is used as source of nuclear energy. b) Write the names of any one device that can convert solar energy into heat energy. c) Write the names of any two devices that can convert solar energy into electrical energy."
+    },
+    {
+      "section": "B",
+      "number": "Q.8",
+      "year": 0,
+      "text": "Write a note on renewable energy sources?"
+    },
+    {
+      "section": "B",
+      "number": "Q.9",
+      "year": 0,
+      "text": "Write a note on non- renewable energy sources?"
+    },
+    {
+      "section": "B",
+      "number": "Q.10",
+      "year": 0,
+      "text": "What is the difference between renewable of nonrenewable energy sources?"
+    },
+    {
+      "section": "B",
+      "number": "Q.11",
+      "year": 0,
+      "text": "Make a table of renewable and non- renewable energy sources from the following: Uranium, Solar, Coal, Wind, Natural gas, Tidal, Biomass, Hydroelectricity."
+    },
+    {
+      "section": "B",
+      "number": "Q.12",
+      "year": 0,
+      "text": "Write a note on efficiency."
+    },
+    {
+      "section": "B",
+      "number": "Q.13",
+      "year": 0,
+      "text": "Define power."
+    },
+    {
+      "section": "B",
+      "number": "Q.14",
+      "year": 0,
+      "text": "Define Watt."
+    },
+    {
+      "section": "B",
+      "number": "Q.15",
+      "year": 0,
+      "text": "Write down the names of any two larger units of power."
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "How much work is needed to move horizontally a body 20m by a force of 30N, the angle between the body and the horizontal surface is $60^\\circ$? when a force of 30N is applied along the surface."
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "What is the work done by Usman? If a bar of weight 100 N is brought by him from A to B, then brought back to A."
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "What will be the Kinetic energy of a boy of mass 50kg driving a bike with velocity of $2\\text{ ms}^{-1}$."
+    },
+    {
+      "section": "B",
+      "number": "Q.5",
+      "year": 0,
+      "text": "a) If LED screen of mass 10kg is lifted up and kept it on a cupboard of height 2m. Calculate the potential energy stored in the LED screen."
+    },
+    {
+      "section": "B",
+      "number": "Q.6",
+      "year": 0,
+      "text": "Calculate the potential energy of 3kg water raised to the tank at the roof of a home 4m high. (Assume $g = 10\\text{ ms}^{-2}$)"
+    },
+    {
+      "section": "B",
+      "number": "Q.7",
+      "year": 0,
+      "text": "Calculate the efficiency of a machine which consumes 200 J of energy and performs 50J of work."
+    },
+    {
+      "section": "B",
+      "number": "Q.8",
+      "year": 0,
+      "text": "If the efficiency of a machine is 70% and its output is 100 J then calculate its input."
+    },
+    {
+      "section": "B",
+      "number": "Q.9",
+      "year": 0,
+      "text": "Which machine is more efficient, machine \"A\" which has an output of 200J after consuming 400J of energy or machine \"B\" which has an output of 300J after consuming 450J of energy?"
+    },
+    {
+      "section": "B",
+      "number": "Q.10",
+      "year": 0,
+      "text": "The energy of 600J dissipated by a bulb in 50 minutes. Find the power of the bulb."
+    },
+    {
+      "section": "B",
+      "number": "Q.11",
+      "year": 0,
+      "text": "a) Convert 20watt into horse power. b) Calculate the power of a machine, if it does 40 Joules of work in 10 sec."
+    },
+    {
+      "section": "B",
+      "number": "Q.12",
+      "year": 0,
+      "text": "A student of weight 400N takes 5 sec to climb up an obstacle of height 2m. Calculate the power consumed?"
+    },
+    {
+      "section": "B",
+      "number": "Q.13",
+      "year": 0,
+      "text": "If a machine consumes 250J of energy per hour then what will be its power?"
+    },
+    {
+      "section": "B",
+      "number": "12",
+      "year": 2025,
+      "text": "How much heat energy will be required to raise the temperature of 50g of water from $40^\\circ C$ to $70^\\circ C$? Where is Specific heat of water is $4200\\text{ J/kg}^{-1}\\text{K}^{-1}$"
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 2024,
+      "text": "Write down three difference between Boiling Paint and Evaporation."
+    },
+    {
+      "section": "B",
+      "number": "10",
+      "year": 2023,
+      "text": "2Kg of copper requires 20501 of heat to raise its temperature through $10^\\circ C$. Calculate the heat capacity of the sample."
+    },
+    {
+      "section": "B",
+      "number": "13",
+      "year": 2022,
+      "text": "How much heat energy will be required to raise the temperature of 50 g of water from $40^\\circ C$ to $70^\\circ C$? Specific heat of water is $4200\\text{ J/kg}^{-1}\\text{K}^{-1}$"
+    },
+    {
+      "section": "B",
+      "number": "14",
+      "year": 2019,
+      "text": "Find the amount of heat required to raise the temperature of 100 gm of water from $10^\\circ C$ to $60^\\circ C$. (Sp. Heat of water=$4200\\text{ J/Kg}^\\circ C$)"
+    },
+    {
+      "section": "B",
+      "number": "2",
+      "year": 2017,
+      "text": "Write down three differences between heat and temperature."
+    },
+    {
+      "section": "B",
+      "number": "9",
+      "year": 2017,
+      "text": "A steel rod has a length of 10 meters at a temperature of $25^\\circ C$. Calculate the increase in length if it is heated to $35^\\circ C$."
+    },
+    {
+      "section": "B",
+      "number": "15",
+      "year": 2017,
+      "text": "What is Bimetallic Strip? Write the names of its two applications"
+    },
+    {
+      "section": "B",
+      "number": "13",
+      "year": 2015,
+      "text": "A steel rod has a length of 10m at a temperature of $25^\\circ C$ calculate the increase in length if it is heated to $35^\\circ C$"
+    },
+    {
+      "section": "C",
+      "number": "19",
+      "year": 2025,
+      "text": "Define the following: (i) Specific Heat capacity (ii) Latent heat of vaporization (iii) Latent heat of fusion Also write three benefits of high specific heat capacity of water."
+    },
+    {
+      "section": "C",
+      "number": "18",
+      "year": 2024,
+      "text": "Define Thermal expansion. Derive $\\Delta L = \\alpha L \\Delta T$"
+    },
+    {
+      "section": "C",
+      "number": "19",
+      "year": 2023,
+      "text": "Define evaporation. Also write down factors affecting surface evaporation process."
+    },
+    {
+      "section": "C",
+      "number": "15",
+      "year": 2022,
+      "text": "Define linear expansion and volumetric expansion and derive the equation $\\Delta L = \\alpha L \\Delta T$"
+    },
+    {
+      "section": "C",
+      "number": "15",
+      "year": 2021,
+      "text": "Define co-efficient of linear expansion and co-efficient of volumetric expansion. Derive the equation: $L_2 = L_1(1 + \\alpha \\Delta T)$"
+    },
+    {
+      "section": "C",
+      "number": "19",
+      "year": 2018,
+      "text": "(a) Define co-efficient of linear expansion and derive the relation $L_2 = L_1[1 + \\alpha \\Delta T]$"
+    },
+    {
+      "section": "C",
+      "number": "23",
+      "year": 2018,
+      "text": "(a) Derive the equation; $\\beta = 3\\alpha$"
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "a) Define Heat and write its SI unit. b) Why does heat flows from hot body to cold body?"
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "a) Explain three different scales of temperature along with their main uses. b) Differentiate between heat and temperature."
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "a) Explain specific heat capacity. b) How would you find the specific heat of a solid?"
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "Explain the effects of large specific heat of water with examples from our daily life."
+    },
+    {
+      "section": "B",
+      "number": "Q.5",
+      "year": 0,
+      "text": "Define heat of fusion with the help of an experiment."
+    },
+    {
+      "section": "B",
+      "number": "Q.6",
+      "year": 0,
+      "text": "Differentiate between heat of fusion and heat of vaporization"
+    },
+    {
+      "section": "B",
+      "number": "Q.7",
+      "year": 0,
+      "text": "Demonstrate heat of fusion and heat of vaporization by the help of heating ice graph."
+    },
+    {
+      "section": "B",
+      "number": "Q.8",
+      "year": 0,
+      "text": "Explain in detail, why evaporation causes cooling?"
+    },
+    {
+      "section": "B",
+      "number": "Q.9",
+      "year": 0,
+      "text": "Differentiate between evaporation and boiling."
+    },
+    {
+      "section": "B",
+      "number": "Q.10",
+      "year": 0,
+      "text": "Write any four factors that influence the surface evaporation."
+    },
+    {
+      "section": "B",
+      "number": "Q.11",
+      "year": 0,
+      "text": "Write down the freezing and boiling points of following i) Acetic acid ii) Benzene iii) Chloroform iv) Water"
+    },
+    {
+      "section": "B",
+      "number": "Q.12",
+      "year": 0,
+      "text": "Why solids increases in size on heating? Explain."
+    },
+    {
+      "section": "B",
+      "number": "Q.13",
+      "year": 0,
+      "text": "a) Draw the diagram, showing real and apparent expansion of liquid. Label the diagram properly. b) Why small gaps are left at the joints of sections of railway tracks? Explain the phenomenon involved in it."
+    },
+    {
+      "section": "B",
+      "number": "Q.1",
+      "year": 0,
+      "text": "Convert $30^\\circ C$ into Kelvin and Fahrenheit Scale."
+    },
+    {
+      "section": "B",
+      "number": "Q.2",
+      "year": 0,
+      "text": "Convert $212^\\circ F$ into Celsius and Kelvin."
+    },
+    {
+      "section": "B",
+      "number": "Q.3",
+      "year": 0,
+      "text": "How much heat is required to boil $3\\text{kg}$ water which is initially $10^\\circ C$?"
+    },
+    {
+      "section": "B",
+      "number": "Q.4",
+      "year": 0,
+      "text": "2kg of copper requires 2050J of heat to raise its temperature through $10^\\circ C$. Calculate the heat capacity of the sample."
+    },
+    {
+      "section": "B",
+      "number": "Q.5",
+      "year": 0,
+      "text": "An iron block of volume $3\\text{m}^3$ is heated, so that its temperature changes from $25^\\circ C$ to $100^\\circ C$. If the coefficient of linear expansion of iron is $11\\times 10^{-6}\\text{ }^\\circ C^{-1}$. What will be the new volume of the iron block after heating?"
+    }
+  ]
+}
