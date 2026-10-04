@@ -1,0 +1,444 @@
+{
+  "subject": "Mathematics",
+  "class": "XI",
+  "questions": [
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2025,
+      "text": "Separate the real and imaginary parts of $(\\sqrt{2} + i)^{-2}$."
+    },
+    {
+      "section": "B",
+      "number": "2. (i)",
+      "year": 2025,
+      "text": "Find the real and imaginary parts of $(1-\\sqrt{5}i)^{-1}$."
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2024,
+      "text": "Solve the following complex equation. $(x,y)(2,3) = (-4,7)$"
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2024,
+      "text": "Find the real and imaginary parts of the $(1-t) (2-t)$"
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2023,
+      "text": "Solve the quadratic equation: $z^2 - 4z + 5 = 0$ by completing the squares where z is a complex number."
+    },
+    {
+      "section": "C",
+      "number": "3",
+      "year": 2025,
+      "text": "Use Gauss- Jordan method to solve the system of linear equation: $x + 5y + 2z = 9, x + y + 7z = 6, -3y + 4z = -2$ EXAMPLE: TOPIC 2.6.4 part (iv)"
+    },
+    {
+      "section": "C",
+      "number": "3",
+      "year": 2024,
+      "text": "Solve the non-homogenous system of linear equations using Gauss I limitation method: $-x + y + z = 0, x + 2y = ., -3x + 2y - z = -2$"
+    },
+    {
+      "section": "C",
+      "number": "3",
+      "year": 2024,
+      "text": "Use Gauss, Jordan method to solve the system of linear equations: $2x + 2y - z = 4, x - 2y + z = 2, x + y = 0$"
+    },
+    {
+      "section": "C",
+      "number": "3",
+      "year": 2023,
+      "text": "Solve the following non-homogenous system of linear equations using Gauss Jordan - Method. $x - y + 4z = 4$ $2x + 2y - z = 2$ $3x - 2y + 3z = -3$"
+    },
+    {
+      "section": "B",
+      "number": "iv)",
+      "year": 2025,
+      "text": "Find the angle between the vectors $3i + 5j - 3k$ and $i - 4j + k$."
+    },
+    {
+      "section": "B",
+      "number": "iv)",
+      "year": 2025,
+      "text": "For what value of $\\lambda$ if the vector $i + j + 2k$, $\\lambda i - j + k$ and $3i - 2j - k$ are coplanar."
+    },
+    {
+      "section": "B",
+      "number": "iv)",
+      "year": 2024,
+      "text": "Calculate the projection of b along a when $a = i - 2j + 3k$ and $b = 3i - j - 5k$"
+    },
+    {
+      "section": "B",
+      "number": "iv)",
+      "year": 2024,
+      "text": "If $\\alpha, \\beta, \\gamma$ are the direction angles of a vector then show $\\sin^2\\alpha + \\sin^2\\beta + \\sin^2\\gamma = 2$."
+    },
+    {
+      "section": "B",
+      "number": "iv)",
+      "year": 2023,
+      "text": "Find $\\lambda$ if the vectors $i + j + 2k$, $\\lambda i - j + k$ and $3i - 2j - k$ are coplanar."
+    },
+    {
+      "section": "C",
+      "number": "4",
+      "year": 2025,
+      "text": "In a parallelogram ABCD, X is the mid point of AB and Y divides BC in 1:2. Show that if Z divides DX in 6:1, then it also divides AY in 3:4."
+    },
+    {
+      "section": "C",
+      "number": "4",
+      "year": 2025,
+      "text": "A.B.C are the points of $\\vec{a}, \\vec{b}$ and $\\overline{2a} - \\vec{b}$ respectively. D divides $\\overline{AC}$ in 2:3 and E divides BD in 4:1. Find the position vector of $\\overline{E}$"
+    },
+    {
+      "section": "B",
+      "number": "v)",
+      "year": 0,
+      "text": "Insert three arithmetic means between 3 and 11."
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 0,
+      "text": "In a G.P. $a_3 = 12$ and $a_9 = 384$. Find the nth term."
+    },
+    {
+      "section": "B",
+      "number": "v)",
+      "year": 0,
+      "text": "Find the 13th term of an A.P. where first term and the common difference are 3 and -4 respectively. Also write its first four terms."
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 0,
+      "text": "Find the 8th term of the H.P. 4, 2, 4/5, 5/15"
+    },
+    {
+      "section": "B",
+      "number": "v)",
+      "year": 0,
+      "text": "Find Arithmetic, Geometric and Harmonic means between 1 and 9. Also verify that $AH = G^2$"
+    },
+    {
+      "section": "B",
+      "number": "v)",
+      "year": 0,
+      "text": "Find three consecutive numbers in G.P whose sum is 39 and their product is 729."
+    },
+    {
+      "section": "B",
+      "number": "v)",
+      "year": 0,
+      "text": "Find n so that $x^{n+5}+y^{n-5}$ and $x^{n+4}+y^{n+4}$ may be A.M between x and y."
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 0,
+      "text": "If the $3^{rd}$ term and the $7^{th}$ term of a H.P are $\\frac{2}{9}$ and $\\frac{2}{25}$ respectively, find the sequence."
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 0,
+      "text": "If the $p^{th}$ term of a H.P is q, the $q^{th}$ term is p, then the $(p + q)^{th}$ term is $\\frac{pq}{p + q}$."
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 2025,
+      "text": "Find the sum of the series $\\Sigma_{k=2}^{\\infty} (\\frac{1}{k^2-1})$"
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 2025,
+      "text": "Find the sum of series $\\Sigma_{k=1}^{\\infty} (\\frac{1}{4k^2-1})$"
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 2024,
+      "text": "Find the sum of the series $3 + 6 + 21 + 96 + 471 + ......$ to n terms."
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 2024,
+      "text": "Sum the series $1 + 2.5 + 3.5^2 + 4.5^3 + ......$ to 30 terms."
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 2023,
+      "text": "Find the sum of the series $3 + 6 + 15 + 42 + 123 + ......$ to n terms."
+    },
+    {
+      "section": "B",
+      "number": "viii)",
+      "year": 2025,
+      "text": "If $P_3 = 12 P_3$ Find n."
+    },
+    {
+      "section": "B",
+      "number": "viii)",
+      "year": 2025,
+      "text": "There are 11 men and 9 women members of a club. How many communities of 8 members can be formed, having exactly five men?"
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 2024,
+      "text": "How many words can be formed by 3 vowels and 4 consonants out of 5 vowels and 7 consonants?"
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 2024,
+      "text": "(OR) How many arrangements can be formed using all the letters of the word 'MATHEMATICS'?"
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 2024,
+      "text": "How many distinct permutations of letters of the word 'ESSENTIAL' are possible?"
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 2023,
+      "text": "In how many ways can two English books, three chemistry books and four physics books be arranged on a shelf so that all the books of same subject are together?"
+    },
+    {
+      "section": "C",
+      "number": "5",
+      "year": 2025,
+      "text": "Two events A and B sure that $P(A) = 1/4, P(A/B) = 1/2$ and $P(B/A) = 2/3$ Find $P(A \\cap B)$ and $P(B)$."
+    },
+    {
+      "section": "C",
+      "number": "5",
+      "year": 2025,
+      "text": "The king, queens and jack of clubs are removed from a deck of 52 playing cards and then shuffled. A card is drawn from remaining cards. Find the probability of getting: (a) a queen (b) a club (c) 9 of red colour"
+    },
+    {
+      "section": "C",
+      "number": "5",
+      "year": 2024,
+      "text": "In a three child family, find the probability of: (a) Three boys (b) Exactly two boys (c) At least on girl"
+    },
+    {
+      "section": "C",
+      "number": "5",
+      "year": 2024,
+      "text": "The king, the queen and the jack of clubs are removed from a deck of 52 playing cards and the shuffled. A card is drawn from the remaining cards. Find the probability of getting: (i) A heart (ii) A Queen (iii) A Club"
+    },
+    {
+      "section": "C",
+      "number": "4",
+      "year": 2023,
+      "text": "A room has 3 lamps from a collection of 10 light bulbs of which 6 are no good, a person selects 3 at random and puts them in the sockets. What is the probability that he will light?"
+    },
+    {
+      "section": "B",
+      "number": "ix)",
+      "year": 2024,
+      "text": "Prove that by using principle of mathematical induction $(7^n - 4^n)$ divisible by 3."
+    },
+    {
+      "section": "B",
+      "number": "ix)",
+      "year": 2024,
+      "text": "---OR--- Prove that by using principle of mathematical induction. $1^3 + 2^3 + 3^3 + ... + n^3 = [\\frac{n(n+1)}{2}]^2$, for all natural numbers n."
+    },
+    {
+      "section": "B",
+      "number": "iv)",
+      "year": 2024,
+      "text": "The principle of mathematical induction, prove that $2 + 4 + 6 + \\dots + 2n = n(n + 1), \\forall n \\in \\mathbb{N}$ EXAMPLE:1, TOPIC 7.1.2"
+    },
+    {
+      "section": "B",
+      "number": "viii)",
+      "year": 2024,
+      "text": "Using the principle of mathematical induction for every positive integer n, prove that: $\\frac{1}{1.2} + \\frac{1}{2.3} + \\frac{1}{3.4} + \\dots + \\frac{1}{n(n+1)} = \\frac{n}{n+1}$"
+    },
+    {
+      "section": "B",
+      "number": "ix)",
+      "year": 2024,
+      "text": "Find the middle term in the expansion of $(\\frac{a}{b} + \\frac{b}{a})^{18}$"
+    },
+    {
+      "section": "B",
+      "number": "ix)",
+      "year": 2024,
+      "text": "(OR) Find the term independent of 'x' in $(2x + \\frac{1}{x^2})^9$"
+    },
+    {
+      "section": "B",
+      "number": "viii)",
+      "year": 2023,
+      "text": "Prove the preposition by mathematical induction for every positive integer n. $1 + 4 + 7 + \\dots + (3n - 2) = \\frac{n(3n - 1)}{2}$"
+    },
+    {
+      "section": "B",
+      "number": "ix)",
+      "year": 2023,
+      "text": "Find the middle term in the expansion of $(\\frac{a}{h} - \\frac{b}{a})^{18}$"
+    },
+    {
+      "section": "B",
+      "number": "ix)",
+      "year": 2023,
+      "text": "(OR) Use binomial theorem to find the value of $(19)^4$."
+    },
+    {
+      "section": "B",
+      "number": "viii)",
+      "year": 2022,
+      "text": "Prove the proposition by mathematical induction for every positive integer n : $2 + 4 + 6 + ... + 2n = n (n + 1)$ EXAMPLE:1, TOPIC 7.1.2"
+    },
+    {
+      "section": "B",
+      "number": "viii)",
+      "year": 2022,
+      "text": "(OR) Write in the simplified form the term independent of x in the expansion of"
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2024,
+      "text": "If $x = \\frac{1}{3} + \\frac{1.3}{3.6} + \\frac{1.3.5}{3.6.9} + \\dots$ then prove that $x^2 + 2x - 2 = 0$. EXAMPLE:2, TOPIC 7.3.4"
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2024,
+      "text": "If $x = \\frac{1}{3} + \\frac{1.3}{3.6} + \\frac{1.3.5}{3.6.9} + \\dots$ then prove that $x^2 - 2x - 2 = 0$."
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2024,
+      "text": "Use Binomial Theorem to show $1 + \\frac{1}{4} + \\frac{1-3}{4-6} + \\frac{1-3-5}{4-6-8} + ... = \\sqrt[4]{4}$"
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2024,
+      "text": "Use Binomial Theorem to show that $4x^2 - 2x - 1 = 0$ If $\\frac{1}{x} = \\frac{2}{5} + \\frac{1.3}{2!}(\\frac{2}{5})^2 + \\frac{1.3.5}{3!}(\\frac{2}{5})^3 + ...$"
+    },
+    {
+      "section": "B",
+      "number": "5",
+      "year": 2023,
+      "text": "If $\\frac{1}{x} = \\frac{2}{5} + \\frac{1-3}{2!}(\\frac{2}{5})^2 + \\frac{1-3-5}{3!}(\\frac{2}{5})^3 + ...$ then show that $4x^2 - 2x - 1 = 0$."
+    },
+    {
+      "section": "B",
+      "number": "x)",
+      "year": 2025,
+      "text": "Find inverse of f and determine and domain and range $f^{-1}$ for the real valued function $f(x) = \\frac{x-1}{x-3}, x \\neq 3$."
+    },
+    {
+      "section": "B",
+      "number": "x)",
+      "year": 2025,
+      "text": "Find the inverse of the real valued function defined by $f(x) = 5x + 7$ and verify it."
+    },
+    {
+      "section": "B",
+      "number": "x)",
+      "year": 2024,
+      "text": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be the function defined by $f(x) = \\sqrt{x + 7}; x \\geq -7$, find the value of $f^{-1}(x)$"
+    },
+    {
+      "section": "B",
+      "number": "xv)",
+      "year": 2024,
+      "text": "Find the point of intersection of the following functions graphically: $f(x) = x + 4$ and $g(x) = x^2 - 6x + 10$"
+    },
+    {
+      "section": "B",
+      "number": "x)",
+      "year": 2024,
+      "text": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be the function defined by $f(x) = -5x + 1$, find the value of $f^{-1}(0)$."
+    },
+    {
+      "section": "B",
+      "number": "xv)",
+      "year": 2024,
+      "text": "Find the equation of the graph of the function of the type $y = ax^2 + bx + c$ which crosses the x - axis at the points (-4,0) and (3,0) and also passes through the point (2, -4)."
+    },
+    {
+      "section": "B",
+      "number": "xi)",
+      "year": 2023,
+      "text": "Find the point of intersection of the function $f(x) = x + 4$ and $g(x) = x^2 - 6x + 10$ graphically."
+    },
+    {
+      "section": "C",
+      "number": "9",
+      "year": 2025,
+      "text": "Find the point of intersection of the functions $y = 2x + 1$ and $y = x^2 - 4x + 6, \\forall x \\in \\mathbb{R}$ graphically."
+    },
+    {
+      "section": "C",
+      "number": "9",
+      "year": 2025,
+      "text": "Find the points of intersection of the functions $y = f(x) = 2x + 1$ and $y = g(x) = x^2 - 4x + 6; \\forall x \\in \\mathbb{R}$ graphically. EXAMPLE:1, TOPIC 8.4.1 (b)"
+    },
+    {
+      "section": "C",
+      "number": "6",
+      "year": 2023,
+      "text": "If $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ is the function defined by $f(x) = 5x + 7$. Find $f^{-1}(x)$ and verify that $f^{-1}[f(x)] = x$. EXAMPLE:1, TOPIC 8.2.1"
+    },
+    {
+      "section": "B",
+      "number": "x)",
+      "year": 2023,
+      "text": "Solve the following linear programming problem by graphical method when $x \\leq 0, y \\geq 0$ maximize the objective function $Z(x,y) = 10x + 11y$, subject to constraints $2x + 3y \\leq 8; 6x + 3y \\leq 10$."
+    },
+    {
+      "section": "C",
+      "number": "8",
+      "year": 2024,
+      "text": "Solve the Linear programming by graphical method when $x \\geq 0$ and $y \\geq 0$ Maximize $Z(x, y) = 30x + 36y$ subject to: $4x + 2y + 12; 6x + 5y \\leq 20$"
+    },
+    {
+      "section": "C",
+      "number": "8",
+      "year": 2024,
+      "text": "Solve the linear programming problem when $x \\geq 0$ and $y \\geq 0$. Maximize $Z(x, y) = 30x + 36y$, subject to: $4x + 2y \\leq 12; 6x + 5y \\leq 20$"
+    },
+    {
+      "section": "B",
+      "number": "xi)",
+      "year": 2025,
+      "text": "Prove that: $\\frac{\\sin 6\\theta+\\sin 4\\theta}{\\cos 6\\theta+\\cos 4\\theta} = \\tan 5\\theta$."
+    },
+    {
+      "section": "B",
+      "number": "xi)",
+      "year": 2025,
+      "text": "Show that: $\\frac{\\sin 6\\theta+\\sin 4\\theta}{\\cos 6\\theta+\\cos 4\\theta} = \\tan 5\\theta$ (by using trigonometric identities)"
+    },
+    {
+      "section": "B",
+      "number": "xi)",
+      "year": 2024,
+      "text": "If $A + B + C = 180^\\circ$ then prove that $\\cos(\\frac{B+C}{2}) = \\sin\\frac{A}{2}$"
+    }
+  ]
+}
