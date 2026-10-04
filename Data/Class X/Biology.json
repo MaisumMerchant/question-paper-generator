@@ -1,0 +1,1536 @@
+{
+  "subject": "Biology",
+  "class": "X",
+  "questions": [
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is lung cancer?"
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Why is smoking dangerous for health? And how is it related with respiratory disorders?"
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "How is the asthma patient characterized?"
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Draw a neat and labelled diagram of the human respiratory system."
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Draw a neat and labelled diagram of the respiratory system of a human."
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why are the stomata generally open during daytime?"
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Which parts of the plant take in $CO_2$ and give out $O_2$, and take in $O_2$ and give out $CO_2$ during daytime?"
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why do we have to breathe through nostrils rather than the oral cavity?"
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Differentiate between breathing, gaseous exchange and respiration."
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why do we breathe deeply during or immediately after exercise?"
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is “oxygen debt”?"
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Distinguish between inspiration and expiration."
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How is asthma characterized?"
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Name five animals which use their body surface for gaseous exchange."
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "What measures would you take to avoid respiratory disorders?"
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Discuss the human respiratory system with the help of suitable illustrations."
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Prove with the help of an experiment that $CO_2$ is released during respiration."
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the process of ventilation in man."
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is smoking dangerous? How is it related with respiratory disorders?"
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What are three important aspects of homeostasis? Define any two of them."
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Write three characteristics of hydrophytes."
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Draw a neat and labelled diagram of L.S. of human skin."
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What are xerophyte plants?"
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define excretion in animals. Name the excretory organs of any three animals."
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Why is skin considered an excretory organ?"
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Draw a neat and labelled diagram of a human kidney or nephron."
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write down names of disorders of the kidney. Explain any two of them."
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Describe the urinary system of man with the help of a diagram."
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is homeostasis required?"
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why do plants remove liquid water instead of water vapours?"
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How do plants survive in saltish water?"
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What types of structures are present in the dermis to perform different functions?"
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Draw a neat and labelled diagram of a nephron."
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a kidney stone?"
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How does human skin maintain temperature in cold conditions?"
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "When is dialysis required?"
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is filtration at peritubular capillaries called ultrafiltration?"
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "How does skin work as a thermoregulatory organ?"
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the structure of a nephron within the L.S. of a kidney."
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the network of blood vessels in a nephron and their functions."
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe different disorders of kidneys and their treatment."
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is the role of cells of the islets of Langerhans?"
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is epilepsy?"
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write three differences between chemical and nervous coordination."
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Draw a neat and labelled diagram of the human eye."
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Describe in detail the structure of the human brain."
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Describe the structure and functions of the human ear or eye."
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define endocrine gland. Describe enzymes secreted from the pituitary and thyroid glands."
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define the endocrine system. Write down the names of three endocrine glands with one secretion of each."
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Draw a neat and labelled diagram of the human ear."
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What do you mean by feedback system?"
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is nervous coordination faster than chemical coordination?"
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the two coordination types is better and why?"
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How does reflex action work through a reflex arc?"
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is a driving licence not issued to a colour-blind person?"
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why does the thyroid gland swell up, and what is the name of the disease?"
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is “emergency hormone” and why is it named so?"
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are the possible reasons for paralysis?"
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is epilepsy?"
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Differentiate between chemical and nervous coordination."
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Write a note on the ear."
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Why does the intelligence level of persons differ from each other, even though the components of the brain are the same?"
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the endocrine system? Discuss the gland involved in regulation of blood glucose and explain how it regulates it."
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "What is diabetes mellitus? Explain some ways of its management."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What are the three main types of skeleton? Describe any one of them with an example."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Write three differences between bone and cartilage."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Describe any three functions of a joint."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write down three functions of the skeleton."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "What is rickets? Write its causes."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Draw a neat and labelled diagram of a hinge or ball-and-socket joint."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are the main functions of the skeleton?"
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Distinguish between bone and cartilage."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Locate the cartilages in different organs."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Enlist the names and numbers of bones present in the hind limb."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Locate the immovable joints in the human body."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is rickets? Give its causes."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Distinguish between ligament and tendon."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Locate the hinge joint in the human body."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What do you mean by biceps and triceps muscles?"
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Prove that the skeletal system is a dynamic system."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe flexion and extension in the human arm."
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain disorders of bones and their causes."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Draw a neat and labelled diagram of the T.S. of an angiospermic flower or the structure of a bean seed."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Differentiate between sexual and asexual reproduction."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Draw a neat and labelled diagram of an ovule."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Draw a neat and labelled diagram of an ovule."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Draw a neat and labelled diagram of an ovule."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Distinguish between sexual and asexual reproduction."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Draw a neat and labelled diagram of the reproductive system of a male rabbit."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Explain the difference between epigeal and hypogeal germination with the help of a diagram."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is fertilization? Describe any five differences between external fertilization and internal fertilization."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is meant by sexual and asexual reproduction? Describe any five differences."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Describe types of asexual reproduction in animals."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "What is germination? Write its necessary conditions and also describe epigeal and hypogeal germination."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Distinguish between asexual and sexual reproduction, and between epigeal and hypogeal germination."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How does a new plant develop from an already growing plant?"
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How do leaves develop into new plants?"
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Draw a neat and labelled diagram of the male gametophyte of an angiospermic plant."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "List the male reproductive organs of a rabbit, including glands."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are STDs?"
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is population control considered important for a prosperous society?"
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Draw the life cycle of an angiospermic plant."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe natural asexual reproduction in plants."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "What is pollination? Give the adaptive characteristics of wind- and insect-pollinated flowers."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the process of spermatogenesis."
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "What is germination? Give the conditions for germination and describe the different methods of germination."
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Describe variation and explain any two causes of it."
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Describe any three of the following terms:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Allele"
+        },
+        {
+          "label": "(ii)",
+          "text": "Dominant allele"
+        },
+        {
+          "label": "(iii)",
+          "text": "Homologous chromosomes"
+        },
+        {
+          "label": "(iv)",
+          "text": "Recessive allele"
+        }
+      ]
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Describe briefly the structure of DNA."
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write three causes of variation."
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Describe briefly the structure of DNA."
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define the following terms:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Homologous chromosome"
+        },
+        {
+          "label": "(ii)",
+          "text": "Allele"
+        },
+        {
+          "label": "(iii)",
+          "text": "Recessive allele"
+        }
+      ]
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "State Mendel's law of independent assortment. (No need to draw a checkerboard.)"
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a gene and how does it work?"
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define the following terms:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Homologous chromosome"
+        },
+        {
+          "label": "(ii)",
+          "text": "Heterologous chromosome"
+        },
+        {
+          "label": "(iii)",
+          "text": "Dominant allele"
+        },
+        {
+          "label": "(iv)",
+          "text": "Allele"
+        },
+        {
+          "label": "(v)",
+          "text": "Recessive allele"
+        },
+        {
+          "label": "(vi)",
+          "text": "Homozygous"
+        },
+        {
+          "label": "(vii)",
+          "text": "Heterozygous"
+        }
+      ]
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Which phenomenon of inheritance occurs where both factors are expressed in the heterozygous condition?"
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "List the factors involved in the theory of natural selection."
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Relate artificial selection with natural selection."
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the Watson and Crick model of DNA."
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe in detail how a gene is expressed."
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "State and explain Mendel’s law of segregation."
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the inheritance of a dihybrid cross by law."
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain Darwin’s theory of natural selection."
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Write the names of three mammals and three birds that are extinct or endangered in Pakistan."
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is pollution? How can water pollution be controlled?"
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Write a note on acid rain."
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write down three methods to control air pollution."
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "How does light affect an ecosystem?"
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "What is an algal bloom and how does it destroy life in an aquatic ecosystem?"
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define ecosystem and describe its biotic factors in detail."
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is water pollution? How can it be controlled?"
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define ecosystem. Describe its biotic components and their types."
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define pollution and its types. Write down the importance of pollution."
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Which is the first trophic level of an ecosystem, and how?"
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What do we mean by nitrogen fixation, and how does it occur in an ecosystem?"
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is interaction?"
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a pyramid of numbers?"
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the greenhouse effect?"
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is an algal bloom and how does it destroy life in an aquatic ecosystem?"
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What measures can be taken to control water pollution?"
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write down the names of some endangered mammals of Pakistan."
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Draw a diagram of the nitrogen cycle."
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the biotic factors of an ecosystem."
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the nitrogen cycle as a biogeochemical cycle in detail."
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "What is pollution? Describe different types of hazardous effects caused by air pollution."
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Describe the tools used in genetic engineering."
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is a fermenter? Write any two advantages of it."
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write down any three uses of fermentation."
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write down three uses of genetic engineering."
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define biotechnology. Explain its role in medicine and agriculture."
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What kinds of enzymes allow scientists to cut and paste pieces of DNA together to form recombinant DNA?"
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain how making human tissue plasminogen activator (t-PA) in Chinese hamster ovary (CHO) cells is an example of genetic engineering."
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How do organisms obtain energy? How does fermentation work?"
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What types of microorganisms cause fermentation to occur?"
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What food and non-food products are created by fermentation?"
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are some advantages and disadvantages of fermentation in food processing?"
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What factors can affect the fermentation process?"
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define biotechnology."
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is classical biotechnology?"
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is your justification for considering biotechnology an old technology?"
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the contribution of Louis Pasteur toward the development of classical biotechnology."
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are the different types of fermentation?"
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is lactic acid bacillus? Explain its role in the formation of curd."
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Name some fermented food products of Pakistan."
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Name four recombinant DNA products available on the market."
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "How does a vaccine work against a pathogen?"
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What are addictive drugs? Write any three names."
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Why do antibiotics not work against viral infections?"
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What are addictive drugs? Explain any two of them."
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a sedative used for?"
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is addiction considered a harmful condition?"
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How can drugs (medicines) be obtained from natural sources?"
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Is it possible to obtain drugs from animals? Name some of them."
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Do antibiotics have any harmful effects? If so, mention them."
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How does a vaccine work against a pathogen? Explain the process with the help of a diagram."
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "How do bacteria produce antibiotic resistance?"
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "C",
+      "type": "long",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the mode of vaccination."
+    },
+    {
+      "chapter": "Mixed (Chapters 3, 5 and 7)",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define the following terms:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Myopia (Chapter 3)"
+        },
+        {
+          "label": "(ii)",
+          "text": "Suckers (Chapter 5)"
+        },
+        {
+          "label": "(iii)",
+          "text": "Consumers (Chapter 7)"
+        }
+      ]
+    },
+    {
+      "chapter": "Mixed (Chapters 2, 5 and 6)",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define the following terms:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Filtration (Chapter 2)"
+        },
+        {
+          "label": "(ii)",
+          "text": "Binary fission (Chapter 5)"
+        },
+        {
+          "label": "(iii)",
+          "text": "Evolution (Chapter 6)"
+        }
+      ]
+    },
+    {
+      "chapter": "Miscellaneous",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Write three differences between a plant cell and an animal cell."
+    }
+  ]
+}
