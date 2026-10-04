@@ -1,0 +1,24 @@
+{
+  "files": [
+    "Class IX/Biology.json",
+    "Class IX/Chemistry.json",
+    "Class IX/Computer.json",
+    "Class IX/Maths.json",
+    "Class IX/Physics.json",
+    "Class X/Biology.json",
+    "Class X/Chemistry.json",
+    "Class X/Computer.json",
+    "Class X/Maths.json",
+    "Class X/Physics.json",
+    "Class XI/Biology.json",
+    "Class XI/Chemistry.json",
+    "Class XI/Computer.json",
+    "Class XI/Maths.json",
+    "Class XI/Physics.json",
+    "Class XII/Biology.json",
+    "Class XII/Chemistry.json",
+    "Class XII/Computer (Programming using C).json",
+    "Class XII/Maths.json",
+    "Class XII/Physics.json"
+  ]
+}

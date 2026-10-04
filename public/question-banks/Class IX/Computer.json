@@ -1,0 +1,498 @@
+{
+  "subject": "Computer",
+  "class": "IX",
+  "questions": [
+    {
+      "section": "B",
+      "number": "2",
+      "year": 2025,
+      "text": "Define Control Unit."
+    },
+    {
+      "section": "B",
+      "number": "3",
+      "year": 2025,
+      "text": "Define primary Memory (RAM and ROM)."
+    },
+    {
+      "section": "B",
+      "number": "11",
+      "year": 2025,
+      "text": "Write a note on Motherboard."
+    },
+    {
+      "section": "B",
+      "number": "13",
+      "year": 2025,
+      "text": "What is the difference between compiler and interpreter?"
+    },
+    {
+      "section": "B",
+      "number": "2",
+      "year": 2024,
+      "text": "Describe the first generation of Computer."
+    },
+    {
+      "section": "B",
+      "number": "3",
+      "year": 2024,
+      "text": "Classify computer according to the technology."
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 2024,
+      "text": "What are buses? Describe their types."
+    },
+    {
+      "section": "B",
+      "number": "9",
+      "year": 2024,
+      "text": "Differentiate between Compiler and Interpreter."
+    },
+    {
+      "section": "B",
+      "number": "12",
+      "year": 2024,
+      "text": "Define RAM and ROM."
+    },
+    {
+      "section": "B",
+      "number": "3",
+      "year": 2023,
+      "text": "Why are utility programs used in computer?"
+    },
+    {
+      "section": "B",
+      "number": "5",
+      "year": 2023,
+      "text": "What is the importance of wireless communication in the present era?"
+    },
+    {
+      "section": "B",
+      "number": "8",
+      "year": 2023,
+      "text": "What are the basic operations of a computer? Write all the operations."
+    },
+    {
+      "section": "B",
+      "number": "9",
+      "year": 2023,
+      "text": "Which calculating devices were invented in the mechanical era? Write about any three devices."
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 2022,
+      "text": "Differentiate between system software and application software."
+    },
+    {
+      "section": "B",
+      "number": "10",
+      "year": 2022,
+      "text": "Describe \"Artificial Intelligence\" with example."
+    },
+    {
+      "section": "B",
+      "number": "3",
+      "year": 2022,
+      "text": "Which Monitor will you prefer in your school; CRT or FPD? And why?"
+    },
+    {
+      "section": "B",
+      "number": "2",
+      "year": 2021,
+      "text": "Define computer hardware."
+    },
+    {
+      "section": "B",
+      "number": "3",
+      "year": 2021,
+      "text": "What are the basic operations of the computer?"
+    },
+    {
+      "section": "C",
+      "number": "14",
+      "year": 2025,
+      "text": "Define the types of computer according to technology."
+    },
+    {
+      "section": "C",
+      "number": "15",
+      "year": 2025,
+      "text": "Describe basic operations of computer."
+    },
+    {
+      "section": "C",
+      "number": "19",
+      "year": 2025,
+      "text": "What is computer software? Describe its types."
+    },
+    {
+      "section": "C",
+      "number": "14",
+      "year": 2024,
+      "text": "Define Control Unit anal Arithmetic logic Unit (ALU)"
+    },
+    {
+      "section": "C",
+      "number": "15",
+      "year": 2024,
+      "text": "Define software and its types"
+    },
+    {
+      "section": "C",
+      "number": "14",
+      "year": 2023,
+      "text": "Define the following components and where are these found in computer? (i) Arithmetic and Logic Unit (ii) Control Unit"
+    },
+    {
+      "section": "C",
+      "number": "15",
+      "year": 2023,
+      "text": "Define computer software and its types."
+    },
+    {
+      "section": "C",
+      "number": "19",
+      "year": 2023,
+      "text": "IT field provides different careers. Write about any four careers of IT field."
+    },
+    {
+      "section": "C",
+      "number": "15",
+      "year": 2022,
+      "text": "What are the basic operations of a computer system?"
+    },
+    {
+      "section": "C",
+      "number": "12",
+      "year": 2021,
+      "text": "Explain Microprocessor and its components."
+    },
+    {
+      "section": "B",
+      "number": "5",
+      "year": 2024,
+      "text": "Describe the functions of Operating System."
+    },
+    {
+      "section": "B",
+      "number": "5",
+      "year": 2022,
+      "text": "What is the difference between GUI and CLI"
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 2021,
+      "text": "Write any three functions of Operating System."
+    },
+    {
+      "section": "C",
+      "number": "17",
+      "year": 2023,
+      "text": "How an interface plays a vital role in computer? Write a command line interface and graphical user interface."
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 2025,
+      "text": "What is a Word Processor?"
+    },
+    {
+      "section": "B",
+      "number": "7",
+      "year": 2024,
+      "text": "Define Microsoft Word."
+    },
+    {
+      "section": "B",
+      "number": "8",
+      "year": 2024,
+      "text": "What is sorting?"
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2023,
+      "text": "How is a table of content created? How does it help a book reader?"
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2022,
+      "text": "Why do we use arrange group in page layout tab?"
+    },
+    {
+      "section": "B",
+      "number": "11",
+      "year": 2022,
+      "text": "What is the difference between table and View?"
+    },
+    {
+      "section": "B",
+      "number": "12",
+      "year": 2022,
+      "text": "Write steps that will multiply 37 by 15 using the formula bar in MS Excel."
+    },
+    {
+      "section": "B",
+      "number": "13",
+      "year": 2022,
+      "text": "Why do we use a watermark in a document? Give some examples of watermark."
+    },
+    {
+      "section": "B",
+      "number": "5",
+      "year": 2021,
+      "text": "Explain the importance of MS-Excel."
+    },
+    {
+      "section": "B",
+      "number": "7",
+      "year": 2024,
+      "text": "What is Modem?"
+    },
+    {
+      "section": "B",
+      "number": "8",
+      "year": 2024,
+      "text": "What do you know about Hub?"
+    },
+    {
+      "section": "B",
+      "number": "10",
+      "year": 2024,
+      "text": "What is Data Transmission Signals?"
+    },
+    {
+      "section": "B",
+      "number": "10",
+      "year": 2023,
+      "text": "Describe properties of a good communication system."
+    },
+    {
+      "section": "B",
+      "number": "2",
+      "year": 2022,
+      "text": "What do you mean by Computer Network? Write the name of different networks."
+    },
+    {
+      "section": "B",
+      "number": "7",
+      "year": 2022,
+      "text": "What is meant by transmission medium? Define guided and unguided media."
+    },
+    {
+      "section": "B",
+      "number": "10",
+      "year": 2021,
+      "text": "What do you mean by communication? Define any three components of communication system."
+    },
+    {
+      "section": "B",
+      "number": "11",
+      "year": 2021,
+      "text": "Differentiate between Digital signals and Analog signals."
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2020,
+      "text": "Write three differences between physical address and logical address."
+    },
+    {
+      "section": "C",
+      "number": "17",
+      "year": 2025,
+      "text": "Describe the different types of topology."
+    },
+    {
+      "section": "C",
+      "number": "16",
+      "year": 2024,
+      "text": "Describe topology and its types."
+    },
+    {
+      "section": "C",
+      "number": "17",
+      "year": 2024,
+      "text": "Define the following Networks: (i) LAN (ii) MAN (iii) WAN"
+    },
+    {
+      "section": "C",
+      "number": "18",
+      "year": 2024,
+      "text": "Write the functions of the following network devices. (i) Router (ii) Switch"
+    },
+    {
+      "section": "C",
+      "number": "19",
+      "year": 2024,
+      "text": "Differentiate between Data Rate and Baud Rate."
+    },
+    {
+      "section": "C",
+      "number": "16",
+      "year": 2022,
+      "text": "What are the different types of topology? Explain each."
+    },
+    {
+      "section": "C",
+      "number": "11",
+      "year": 2021,
+      "text": "Define Topology and explain its types."
+    },
+    {
+      "section": "C",
+      "number": "13",
+      "year": 2021,
+      "text": "Describe components used in the communication system."
+    },
+    {
+      "section": "B",
+      "number": "5",
+      "year": 2025,
+      "text": "Define Artificial Intelligence (AI)."
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2025,
+      "text": "What is meant by Hacking?"
+    },
+    {
+      "section": "B",
+      "number": "9",
+      "year": 2025,
+      "text": "Write any three precautions to avoid malware."
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2024,
+      "text": "Describe Artificial Intelligence (AI)."
+    },
+    {
+      "section": "B",
+      "number": "13",
+      "year": 2024,
+      "text": "What are Antivirus? Write few popular name, of it."
+    },
+    {
+      "section": "B",
+      "number": "11",
+      "year": 2023,
+      "text": "What is computer security?"
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 2022,
+      "text": "Write any three measures to prevent computer system from virus and malware."
+    },
+    {
+      "section": "B",
+      "number": "7",
+      "year": 2022,
+      "text": "Why is information accuracy important?"
+    },
+    {
+      "section": "B",
+      "number": "8",
+      "year": 2022,
+      "text": "Why is computer security important? Write any three reasons."
+    },
+    {
+      "section": "B",
+      "number": "7",
+      "year": 2021,
+      "text": "Why is computer security important? Write any two reasons."
+    },
+    {
+      "section": "B",
+      "number": "12",
+      "year": 2025,
+      "text": "Explain the following tags:"
+    },
+    {
+      "section": "B",
+      "number": "12",
+      "year": 2023,
+      "text": "Write the description of the following:"
+    },
+    {
+      "section": "B",
+      "number": "9",
+      "year": 2022,
+      "text": "How are image display in HTML page?"
+    },
+    {
+      "section": "B",
+      "number": "8",
+      "year": 2021,
+      "text": "Define Hypertext Markup Language (HTML)."
+    },
+    {
+      "section": "C",
+      "number": "16",
+      "year": 2025,
+      "text": "Write different types of websites."
+    },
+    {
+      "section": "C",
+      "number": "16",
+      "year": 2023,
+      "text": "Define the term website. Write any five websites name."
+    },
+    {
+      "section": "B",
+      "number": "13",
+      "year": 2023,
+      "text": "Write any three characteristics of database management system."
+    },
+    {
+      "section": "B",
+      "number": "2",
+      "year": 2022,
+      "text": "Write three benefits of using relationship in the Database."
+    },
+    {
+      "section": "B",
+      "number": "9",
+      "year": 2021,
+      "text": "What is meant by Database Management System?"
+    },
+    {
+      "section": "C",
+      "number": "18",
+      "year": 2025,
+      "text": "Define any three components of DBMS."
+    },
+    {
+      "section": "C",
+      "number": "18",
+      "year": 2023,
+      "text": "What is meant by database management system (DBMS)? Explain basic components of it."
+    },
+    {
+      "section": "C",
+      "number": "14",
+      "year": 2022,
+      "text": "Why is DBMS preferred over flat file system?"
+    },
+    {
+      "section": "C",
+      "number": "14",
+      "year": 2021,
+      "text": "Explain the basic components of DBMS."
+    },
+    {
+      "section": "B",
+      "number": "10",
+      "year": 2021,
+      "text": "Define any one of the following: (i) Data Communication (ii) Cyber Crime"
+    }
+  ]
+}

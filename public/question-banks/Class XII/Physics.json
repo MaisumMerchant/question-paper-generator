@@ -1,0 +1,588 @@
+{
+  "subject": "Physics",
+  "class": "XII",
+  "questions": [
+    {
+      "section": "B",
+      "number": "xi)",
+      "year": 2025,
+      "text": "Calculate the root mean square speed of hydrogen gas molecule at $0^\\circ C$ and 1 atm pressure. Assuming hydrogen gas is to be an ideal gas and having density $8.99 \\times 10^{-2} kg/m^3$. Given $1 atm = 1.01 \\times 10^3 N/m^2$"
+    },
+    {
+      "section": "B",
+      "number": "(vi)",
+      "year": 2023,
+      "text": "Calculate the temperature at which the root mean square speed of nitrogen molecule is $3300 ms^{-1}$."
+    },
+    {
+      "section": "B",
+      "number": "(iii)",
+      "year": 2017,
+      "text": "Calculate the temperature at which the root mean square speed of hydrogen molecules is $3300m/s$. Give your answer in degree Celsius $(3.32 \\times 10^{-27}kg)$"
+    },
+    {
+      "section": "B",
+      "number": "2(i)",
+      "year": 2015,
+      "text": "On the basis KMT of gases, show that $\\frac{1}{2}mv^2 = \\frac{3}{2}KT$."
+    },
+    {
+      "section": "C",
+      "number": "3. a)",
+      "year": 2025,
+      "text": "State the basic assumptions of kinetic molecular theory of gases. Derive the equation for pressure of an ideal gas, where $P = \\frac{1}{3}\\rho v^2$ and $\\rho$ represents the density of the gas."
+    },
+    {
+      "section": "C",
+      "number": "3. a)",
+      "year": 2025,
+      "text": "Derive a relation for the pressure of an ideal gas in terms of its density and mean square speed."
+    },
+    {
+      "section": "C",
+      "number": "3. a.",
+      "year": 2024,
+      "text": "Derive an expression for the pressure of an ideal gas in terms of its density and mean square speed."
+    },
+    {
+      "section": "C",
+      "number": "5. a)",
+      "year": 2022,
+      "text": "Derive pressure formula of an ideal gas using kinetic molecular theory."
+    },
+    {
+      "section": "C",
+      "number": "3 (a).",
+      "year": 2017,
+      "text": "Derive an expression for the pressure of an ideal gas in terms of its density and mean square speed."
+    },
+    {
+      "section": "B",
+      "number": "ix)",
+      "year": 2025,
+      "text": "Derive its mathematical expression $C_p - C_v = R$."
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 2025,
+      "text": "A system undergoes a thermodynamic process where the pressure is kept constant at 15kPa. If the volume increases from $0.05m^3$ to $0.08m^3$ and the change in internal energy is 150J. Calculate the heat added to the system."
+    },
+    {
+      "section": "B",
+      "number": "xi)",
+      "year": 2025,
+      "text": "How much heat will be required to raise the temperature of 1 kg of lead from $30^\\circ C$ to $105^\\circ C$? (specific heat of lead $= 0.128J/g^\\circ C$)"
+    },
+    {
+      "section": "B",
+      "number": "x)",
+      "year": 2025,
+      "text": "Define specific heat and molar specific heat and derive the relation between them."
+    },
+    {
+      "section": "B",
+      "number": "xiii)",
+      "year": 2024,
+      "text": "How much heat is required to raise the temperature of 1 kg lead from $25^\\circ C$ to $100^\\circ C$ (Specific heat of lead $= 128 J kg^{-1} K^{-1}$)"
+    },
+    {
+      "section": "B",
+      "number": "4. b)",
+      "year": 2024,
+      "text": "Define heat capacity and specific heat and prove that $C_p = R + C_v$."
+    },
+    {
+      "section": "B",
+      "number": "(vi)",
+      "year": 2018,
+      "text": "A system absorbs 1147 joules of heat, loses 233 joules of heat by conduction to the surroundings and delivers 614 joules of work. Calculate the change in the internal energy of the system."
+    },
+    {
+      "section": "C",
+      "number": "4. b)",
+      "year": 2023,
+      "text": "State the first law of thermodynamics and explain following on its basis: i) Isobaric Process ii) Isochoric Process iii) Isothermal Process iv) Adiabatic Process"
+    },
+    {
+      "section": "C",
+      "number": "3 (b).",
+      "year": 2018,
+      "text": "Show that the difference of molar specific heat capacity at constant pressure and molar specific heat capacity at constant volume for an ideal gas is equal to the universal gas constant."
+    },
+    {
+      "section": "C",
+      "number": "5 (a).",
+      "year": 2015,
+      "text": "State the first law of thermodynamics and explain on its basis. (i) Isobaric process (ii) Isothermal process."
+    },
+    {
+      "section": "B",
+      "number": "ii)",
+      "year": 2024,
+      "text": "A heat engine performs 200J of work in each cycle and has efficiency of 20 percent for each cycle of operation. How much heat is absorbed and how much heat is expelled?"
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 2024,
+      "text": "The difference of temperature between hot and cold body is $80^\\circ C$. If the engine is 35% efficient, find the temperatures of hot and cold bodies?"
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2022,
+      "text": "A Carnot engine works between $800^\\circ C$ and $400^\\circ C$, if source temperature is increased by $50^\\circ C$ or sink temperature is decreased by $50^\\circ C$, then which will cause greater efficiency."
+    },
+    {
+      "section": "B",
+      "number": "(vi)",
+      "year": 2018,
+      "text": "(vi) A system absorbs 1147 joules of heat, loses 233 joules of heat by conduction to the surroundings and delivers 614 joules of work. Calculate the change in the internal energy of the system."
+    },
+    {
+      "section": "B",
+      "number": "(xi)",
+      "year": 2018,
+      "text": "Write the two statements of the second law of thermodynamics and prove their equivalence."
+    },
+    {
+      "section": "B",
+      "number": "2(i)",
+      "year": 2016,
+      "text": "The high temperature reservoir of a Carnot engine is at $200^\\circ C$ and has an efficiency of 35% to increase the efficiency to 45% by how many degrees should the temperature of cold reservoir be decreased if the temperature of the high temperature reservoir remains constant?"
+    },
+    {
+      "section": "B",
+      "number": "(vi)",
+      "year": 2015,
+      "text": "A heat engine performs 200 J of work in each cycle and has an efficiency of 30 percent. For each cycle of operation, (a)how much heat is absorbed? (b) how much heat is expelled?"
+    },
+    {
+      "section": "C",
+      "number": "4. b)",
+      "year": 2025,
+      "text": "What is Carnot Engine? Describe the process of a Carnot cycle and derive mathematical expression for its efficiency."
+    },
+    {
+      "section": "C",
+      "number": "4. a)",
+      "year": 2025,
+      "text": "What is Carnot engine? Describe its construction and working & derive the expression for its efficiency."
+    },
+    {
+      "section": "C",
+      "number": "3. a)",
+      "year": 2021,
+      "text": "What is Carnot engine? Derive an expression for the efficiency of Carnot engine."
+    },
+    {
+      "section": "C",
+      "number": "3. (a)",
+      "year": 2019,
+      "text": "What is Carnot engine? Give its construction and working. Also derive mathematical expressions for its efficiency."
+    },
+    {
+      "section": "C",
+      "number": "5 (b).",
+      "year": 2016,
+      "text": "Describe Carnot cycle and derive an expression for the efficiency of Carnot heat engine."
+    },
+    {
+      "section": "B",
+      "number": "i)",
+      "year": 2025,
+      "text": "State the laws governing the black body radiations. Also write their mathematical expressions."
+    },
+    {
+      "section": "B",
+      "number": "iii)",
+      "year": 2025,
+      "text": "Calculate the wavelength of X-rays. If energy of a photon emitted by the X-rays machine is $1.9878 \\times 10^{-15}J$."
+    },
+    {
+      "section": "B",
+      "number": "iv)",
+      "year": 2024,
+      "text": "Sodium light of wavelength $5.893 \\times 10^{-7}m$ falls on a photocell. A negative stopping potential of 0.30 volt is needed to stop the electrons from reaching the collector. Find the work function of the material of the plate. Give answer in joule as well as in electron volt. $(c = 3 \\times 10^8 m/s, h = 6.634 \\times 10^{-34} J.s, e = 1.6 \\times 10^{-19}C)$"
+    },
+    {
+      "section": "B",
+      "number": "viii)",
+      "year": 2024,
+      "text": "What is meant by the terms Pair Production and Annihilation of matter? Also write their equations."
+    },
+    {
+      "section": "B",
+      "number": "(iii)",
+      "year": 2023,
+      "text": "X-rays of wavelength $2.64 \\times 10^{-10}m$ are used in Compton scattering process. Find the fractional change in wavelength for a scattering angle of $120^\\circ$."
+    },
+    {
+      "section": "B",
+      "number": "iii)",
+      "year": 2022,
+      "text": "In photo electric experiment, a stopping potential of 1.25 volt is needed. Find the maximum kinetic energy and maximum speed of photo electron. $e = 1.6 \\times 10^{-19}C; m_e = 9.1 \\times 10^{-31} kg$"
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 2021,
+      "text": "Sodium surface is shined with light of wavelength $3 \\times 10^{-7}m$. If the work function of Na is 2.46eV, Find the K.E of the photoelectrons and cut off wavelength. $2. h = 6.63 \\times 10^{-34} J.s, c = 3 \\times 10^8 m/s, 1eV = 1.6 \\times 10^{-19}J$."
+    },
+    {
+      "section": "B",
+      "number": "2. (xii)",
+      "year": 2019,
+      "text": "What is a perfect black body? What are Max Plank's assumptions to explain black body radiations? Also write Plank's law of black body radiation."
+    },
+    {
+      "section": "B",
+      "number": "(vi)",
+      "year": 2017,
+      "text": "X-rays of wavelength $3.64 \\times 10^{-10} m$ are used in Compton scattering process. Find the fractional change in wavelength for a scattering angle of $120^\\circ$ (Give $h = 6.63 \\times 10^{-34}J.s, m_e = 9.1 \\times 10^{-31}kg, c = 3 \\times 10^8$)"
+    },
+    {
+      "section": "B",
+      "number": "(xiv)",
+      "year": 2017,
+      "text": "A photon of wavelength $0.004 \\mathring{A}$ in the vicinity of a heavy nucleus produces an electron-positron pair. Find the kinetic energy of each particle of the pair in MeV, If the kinetic energy of positron is twice that of electron. $(m_e c^2 = 0.19 \\times 10^{-14} joules, h = 6.63 \\times 10^{-34} J.s and c = 3 \\times 10^8 m/s)$"
+    },
+    {
+      "section": "B",
+      "number": "(vi)",
+      "year": 2016,
+      "text": "Sodium surface is shown with light of wavelength $3 \\times 10^{-7}m$ Find the kinetic energy of the emitted photo electron and the cut-off wavelength of Sodium. Work function of sodium is 2.46 eV."
+    },
+    {
+      "section": "C",
+      "number": "4. a)",
+      "year": 2025,
+      "text": "What is photoelectric effect? Define the following terminologies. *work function *stopping potential *threshold frequency and derive Einstein's photoelectric equation."
+    },
+    {
+      "section": "C",
+      "number": "4. b)",
+      "year": 2025,
+      "text": "What are X-rays? How they are produced? Describe the two types of X-ray spectra."
+    },
+    {
+      "section": "C",
+      "number": "5. b)",
+      "year": 2024,
+      "text": "What is photoelectric effect? Derive Einstein's photoelectric equation on the basis of quantum theory in terms of frequency and wavelength."
+    },
+    {
+      "section": "C",
+      "number": "3. a)",
+      "year": 2024,
+      "text": "What is Compton effect? Derive an expression for the Compton shift in wavelength."
+    },
+    {
+      "section": "C",
+      "number": "3. a)",
+      "year": 2023,
+      "text": "What Photoelectric Effect? Explain its important results. Derive Einstein's photoelectric equation."
+    },
+    {
+      "section": "C",
+      "number": "3. b)",
+      "year": 2023,
+      "text": "Explain Compton Effect and obtain an expression for the increase in the wavelength of the scattered photon."
+    },
+    {
+      "section": "C",
+      "number": "4. (b)",
+      "year": 2022,
+      "text": "What is photoelectric effect? What is meant by the terms: (i)Threshold frequency (ii)Work function (iii)Saturation current (iv) Stopping potential Derive Einstein's photoelectric equation in terms of frequency as well as wavelength."
+    },
+    {
+      "section": "C",
+      "number": "5. (a)",
+      "year": 2019,
+      "text": "Explain Compton's effect. Derive an expression of shift in wavelength of scattered photon."
+    },
+    {
+      "section": "C",
+      "number": "3 (b).",
+      "year": 2018,
+      "text": "What is Compton effect? Derive an expression for the Compton shift in the wavelength."
+    },
+    {
+      "section": "C",
+      "number": "3 (b).",
+      "year": 2016,
+      "text": "What is Photoelectric effect? Explain its important results. Also derive Einstein's photo-electric equation."
+    },
+    {
+      "section": "B",
+      "number": "xiv)",
+      "year": 2025,
+      "text": "What is meant by LASER? Define metastable state OR population inversion."
+    },
+    {
+      "section": "B",
+      "number": "v)",
+      "year": 2025,
+      "text": "How He – Ne Laser works?"
+    },
+    {
+      "section": "B",
+      "number": "2. (vi)",
+      "year": 2024,
+      "text": "What is the wavelength of $3^{rd}$ spectral line of Paschen Series in hydrogen atom? $(R_H = 1.097 \\times 10^7 m^{-1})$"
+    },
+    {
+      "section": "B",
+      "number": "(vii)",
+      "year": 2024,
+      "text": "A photon of what minimum energy is required to excite a hydrogen atom from $n = 1$ to $n = 3$ $(R_H = 1.097 \\times 10^7 m^{-1})$"
+    },
+    {
+      "section": "B",
+      "number": "(viii)",
+      "year": 2024,
+      "text": "How much energy is needed to ionize a hydrogen atom originally in ground state? (Give $h = 6.63 \\times 10^{-34} J s, c = 3 \\times 10^8 m/s$ $R_H = 1.097 \\times 10^7 m)$"
+    },
+    {
+      "section": "B",
+      "number": "(xv)",
+      "year": 2024,
+      "text": "What is meant by the term Laser, metastable state and population inversion?"
+    },
+    {
+      "section": "B",
+      "number": "(vii)",
+      "year": 2016,
+      "text": "Find the shortest and longest wavelength of emitted photons in Hydrogen spectra in Pfund series."
+    },
+    {
+      "section": "B",
+      "number": "(xi)",
+      "year": 2015,
+      "text": "Find the shortest wavelength of photon emitted in the Balmer series and determine its energy in eV. $(R_H = 1.097 \\times 10^7 m^{-1})$"
+    },
+    {
+      "section": "C",
+      "number": "5. b",
+      "year": 2024,
+      "text": "Give the postulates of Bohr's atomic theory. Derive expression for radius of $n^{th}$ orbit of hydrogen atom."
+    },
+    {
+      "section": "C",
+      "number": "5. a)",
+      "year": 2023,
+      "text": "Derive the expression for the following when $r_n = n^2(\\frac{4\\pi\\epsilon_0h^2}{me^2})$ i) the energy of an electron in the nth orbit of hydrogen atom. ii) The wavelength of photons emitted in the hydrogen spectrum."
+    },
+    {
+      "section": "C",
+      "number": "4. b)",
+      "year": 2022,
+      "text": "Derive an expression for total energy of the electron in the nth orbit of a hydrogen atom."
+    },
+    {
+      "section": "C",
+      "number": "4 c)",
+      "year": 2021,
+      "text": "State the basic postulates of Bohr's theory of atomic structure. Derive an expression for the radius of the nth orbit of a hydrogen atom."
+    },
+    {
+      "section": "C",
+      "number": "5. (b)",
+      "year": 2019,
+      "text": "Give the postulates of Bohr's atomic theory. Derive expression for the (i) Radius of nth orbit of Hydrogen atom (ii) Total energy of electron in nth orbit of Hydrogen"
+    },
+    {
+      "section": "C",
+      "number": "4 (b).",
+      "year": 2018,
+      "text": "State the basic postulates of Bohr's atomic theory of Hydrogen atom. Derive the expression for the radius of the nth orbit of Hydrogen atom. Hence, show that the ratio of radius of the third orbit to that of the second orbit is 2.25"
+    },
+    {
+      "section": "C",
+      "number": "4 (b).",
+      "year": 2016,
+      "text": "Using Bohr's atomic theory. Derive expressions for the following: (i) The energy of an electron in the nth orbit of hydrogen atom. Given: $r_n = \\frac{n^2h^2\\epsilon_0}{\\pi m e^2}$ (ii) The wavelength of photons emitted in the hydrogen spectrum."
+    },
+    {
+      "section": "C",
+      "number": "4 (a).",
+      "year": 2015,
+      "text": "State the basic postulates of Bohr's theory of atomic structure. Derive the expression for the radius of nth orbit of a Hydrogen atom."
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2025,
+      "text": "The $_{15}P^{32}$ isotopes of phosphorus has a half-life of 14.28 days. Find its decay constant."
+    },
+    {
+      "section": "B",
+      "number": "x)",
+      "year": 2025,
+      "text": "State law of radioactive decay and write its mathematical expression."
+    },
+    {
+      "section": "B",
+      "number": "2. i)",
+      "year": 2025,
+      "text": "State law of radioactive decay also give its formula. What is meant by activity \"A\" and relative activity?"
+    },
+    {
+      "section": "B",
+      "number": "ix)",
+      "year": 2025,
+      "text": "Find the binding energy of $_{3}Li^{7}$ Given: *Mass of $_{3}Li^{7} = 7.0160u$ *Mass of proton $= 1.0073u$ *Mass of Neutron $= 1.0087u$"
+    },
+    {
+      "section": "B",
+      "number": "vi)",
+      "year": 2024,
+      "text": "Define fission reaction. What is the difference between controlled and uncontrolled fission reactions?"
+    },
+    {
+      "section": "B",
+      "number": "xiii)",
+      "year": 2024,
+      "text": "Find the binding energy of $_{52}Te^{126}$ $(m_p = 1.0078u, m_n = 1.0086u, m_{Te} = 125.9033u$ and $1u = 931.5MeV)$"
+    },
+    {
+      "section": "B",
+      "number": "x)",
+      "year": 2024,
+      "text": "Write the basic equations representing the change in a parent nucleus after alpha, positive beta $\\beta^+$, negative beta $\\beta^-$ and gamma emission."
+    },
+    {
+      "section": "B",
+      "number": "xii)",
+      "year": 2024,
+      "text": "Find the Q-value of the following reaction: $_{94}Pu^{239} \\rightarrow _{2}He^{4} + _{92}U^{235} + Q$, If the mass of $_{94}Pu^{239} = 239.0522u$, $_{92}U^{235} = 235.0439u$, $_{2}He^{4} = 4.0026u$"
+    },
+    {
+      "section": "B",
+      "number": "(v)",
+      "year": 2023,
+      "text": "The half-life of $_{84}Po^{210}$ is 140 days. By what percent does its activity will decrease per week?"
+    },
+    {
+      "section": "B",
+      "number": "xi)",
+      "year": 2022,
+      "text": "If the number of atoms per gram of $_{88}Ra^{226}$ is $2.666 \\times 10^{21}$ and it decays with the half life of 1622 year. Find decay constant and activity of the sample."
+    },
+    {
+      "section": "B",
+      "number": "vii)",
+      "year": 2021,
+      "text": "It is more difficult to start a fusion reaction than the fission reaction why?"
+    },
+    {
+      "section": "B",
+      "number": "2. (ii)",
+      "year": 2019,
+      "text": "If the number of atoms per gram of $_{88}Ra^{226}$ is $2.666 \\times 10^{21}$ and it decays with the half-life of 1622 years, find the decay constant and activity of the sample. $(1 Year = 3.15 \\times 10^7 s)$"
+    },
+    {
+      "section": "B",
+      "number": "2. (xi)",
+      "year": 2018,
+      "text": "Describe the radioactive decay law. Give the relevant mathematical expression."
+    },
+    {
+      "section": "B",
+      "number": "(iv)",
+      "year": 2018,
+      "text": "Find the Q-Value of the reaction: $_{94}Pu^{239} \\rightarrow _{2}He^{4} + _{92}U^{235} + Q$ The isotopic mass of Plutonium $= 239.0522 u$ The isotopic mass of Uranium $= 235.0439 u$ The isotopic mass of alpha particle $= 4.0026 u$"
+    },
+    {
+      "section": "B",
+      "number": "(vii)",
+      "year": 2017,
+      "text": "The half life of $_{84}Po^{210}$ is 140 days. By what percent will its activity decrease per hour?"
+    },
+    {
+      "section": "B",
+      "number": "(xi)",
+      "year": 2017,
+      "text": "A deuteron of mass $3.3431 \\times 10^{-27}kg$ is formed when a proton of mass $1.6724 \\times 10^{-27} kg$ and neutron of mass $1.6748 \\times 10^{-27}kg$ combine. Calculate the mass defect and binding energy in MeV."
+    },
+    {
+      "section": "B",
+      "number": "(x)",
+      "year": 2016,
+      "text": "Sodium surface is shown with light of wavelength $3 \\times 10^{-7}m$ and it decays with a half life of 1622 years. Find the activity and decay constant of the sample."
+    },
+    {
+      "section": "B",
+      "number": "(viii)",
+      "year": 2016,
+      "text": "The number of atoms per gram of $_{88}Ra^{226}$ is $2.666 \\times 10^{21}$ and it decays with a half life of 1622 years. Find the activity and decay constant of the sample."
+    },
+    {
+      "section": "B",
+      "number": "(iv)",
+      "year": 2016,
+      "text": "Find the binding energy and the packing fraction in MeV of $_{52}Te^{126}$ given that $m_p = 1.0078u, m_n = 1.0086u, m_{Te} = 125.9033u$ and $1u=931.5MeV$"
+    },
+    {
+      "section": "B",
+      "number": "(v)",
+      "year": 2015,
+      "text": "Find the Binding energy and Packing fraction (B.E. per nucleon) of $_{52}Te^{126}$. Given that $m_p = 1.0078U, m_n = 1.0086U, m_{Te} = 125.9033U$ $1U = 931.5 MeV$"
+    },
+    {
+      "section": "B",
+      "number": "(viii)",
+      "year": 2023,
+      "text": "Give the construction and working of Geiger Counter."
+    },
+    {
+      "section": "B",
+      "number": "iv)",
+      "year": 2022,
+      "text": "Write a note on Wilson Cloud Chamber."
+    },
+    {
+      "section": "B",
+      "number": "(ix)",
+      "year": 2021,
+      "text": "Give the construction and working of Wilson Cloud chamber."
+    },
+    {
+      "section": "B",
+      "number": "2. (v)",
+      "year": 2019,
+      "text": "Describe the construction and working ow Wilson cloud chamber."
+    },
+    {
+      "section": "B",
+      "number": "(ix)",
+      "year": 2017,
+      "text": "Name a device for making the path of ionizing particles and rays visible and describe its working."
+    },
+    {
+      "section": "B",
+      "number": "(xii)",
+      "year": 2015,
+      "text": "Give construction & working of Wilson cloud chamber."
+    },
+    {
+      "section": "C",
+      "number": "5.b)",
+      "year": 2024,
+      "text": "What is Wilson Cloud Chamber OR Geiger Counter? Explain construction and working of any one."
+    },
+    {
+      "section": "C",
+      "number": "4 (b).",
+      "year": 2018,
+      "text": "Give the construction and working of Geiger counter."
+    },
+    {
+      "section": "C",
+      "number": "5 (b)",
+      "year": 2016,
+      "text": "[OR 5.(b)] Give construction and working of Geiger Muller Counter."
+    }
+  ]
+}
