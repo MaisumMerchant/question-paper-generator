@@ -1,0 +1,638 @@
+{
+  "subject": "Mathematics",
+  "class": "IX",
+  "questions": [
+    {
+      "chapter": "Real and Complex Numbers",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "If $Z_1 = -4 + 6i$ and $Z_2 = 2\\frac{1}{2} - 2i$, then verify that: $\\overline{Z_1 - Z_2} = \\overline{Z_1} - \\overline{Z_2}$"
+    },
+    {
+      "chapter": "Real and Complex Numbers",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "If $Z_1 = 2 + 3i$ and $Z_2 = 4 + 2i$, then verify that: $\\overline{\\left(\\frac{Z_1}{Z_2}\\right)} = \\frac{\\overline{Z_1}}{\\overline{Z_2}}$"
+    },
+    {
+      "chapter": "Real and Complex Numbers",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "If $Z_1 = -4 + 6i$ and $Z_2 = 2\\frac{1}{2} - 2i$, then verify: $\\overline{Z_1 - Z_2} = \\overline{Z_1} - \\overline{Z_2}$"
+    },
+    {
+      "chapter": "Real and Complex Numbers",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "If $z_1 = 2 - 5i$ and $z_2 = 2 + 3i$, then verify that: $\\overline{z_1 z_2} = \\overline{z_1} \\cdot \\overline{z_2}$"
+    },
+    {
+      "chapter": "Logarithms",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Find the value of $25.753 \\times 0.5341 \\times 490.8$ by using logarithm."
+    },
+    {
+      "chapter": "Logarithms",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Find the value of $\\frac{99.87}{(18.369) \\times (10.785)}$ by using logarithm."
+    },
+    {
+      "chapter": "Logarithms",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Find the value by using logarithm: $\\frac{(26.62)^{1/2} \\times (87.19)^3}{\\sqrt{69.53}}$"
+    },
+    {
+      "chapter": "Logarithms",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Find the value of $\\frac{2391 \\times 30.72}{23.34}$ by using logarithm."
+    },
+    {
+      "chapter": "Algebraic Expression and Formulas",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Find the value of $125x^3 + y^3$, when $5x + y = 13$ and $xy = 10$."
+    },
+    {
+      "chapter": "Algebraic Expression and Formulas",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "If $x = 3 - 2\\sqrt{2}$, then find the value of $x^2 + \\frac{1}{x^2}$."
+    },
+    {
+      "chapter": "Algebraic Expression and Formulas",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Find the value of $216a^3 - 343b^3$, when $6a - 7b = 11$ and $ab = 8$."
+    },
+    {
+      "chapter": "Algebraic Expression and Formulas",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Find the value of $125x^3 + y^3$, when $5x + y = 13$ and $xy = 10$."
+    },
+    {
+      "chapter": "Factorization",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "For what value of $k$, $-2$ is a zero of the polynomial $P(x) = x^3 + x^2 - 14x - k$?"
+    },
+    {
+      "chapter": "Factorization",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "By using factor theorem, find the factors of $x^3 + 5x^2 - 4x - 20$."
+    },
+    {
+      "chapter": "Factorization",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Find the factors by using factor theorem: $x^3 - 6x^2 + 11x - 6$."
+    },
+    {
+      "chapter": "Factorization",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Find the factors by using factor theorem: $x^3 + x^2 - x - 1$."
+    },
+    {
+      "chapter": "Factorization",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Factorize any four of the following:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$r^2 + 9rs - 7rs - 63s^2$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$x^2y^2 - 0.1xy + 0.0025$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$3x^2 + 4x - 4$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$8x^3 + 36x^2 + 54x + 27$"
+        },
+        {
+          "label": "(v)",
+          "text": "$a^3b^3 + 27b^6$"
+        },
+        {
+          "label": "(vi)",
+          "text": "$4x^4 + 625$"
+        }
+      ]
+    },
+    {
+      "chapter": "Factorization",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Factorize any four of the following:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$169x^4 - (3t + 4)^2$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$7x + xz + 7z + z^2$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$8x^3 + 12x^2y + 6xy^2 + y^3$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$4x^4 + 1$"
+        },
+        {
+          "label": "(v)",
+          "text": "$42x^2 - 8x - 2$"
+        },
+        {
+          "label": "(vi)",
+          "text": "$a^6 - b^6$"
+        }
+      ]
+    },
+    {
+      "chapter": "Factorization",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Factorize any four of the following:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$9y^2z + 3xyz - 9xy^2 - 3x^2y$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$169x^4 - (3y + 4)^2$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$108x^4 - 256xz^3$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$x^2y^2z^2 + 2xyz - 24$"
+        },
+        {
+          "label": "(v)",
+          "text": "$64x^3 - 12x^2 + \\frac{3x}{4} - \\frac{1}{64}$"
+        }
+      ]
+    },
+    {
+      "chapter": "Factorization",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Factorize the following (Any three):",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$(2x + z)^2 - (2x - z)^2$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$b^4 + b^2 + 1$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$x^3 - 8y^3$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$9a^2b + 18ab^2 - 6ac - 12bc$"
+        },
+        {
+          "label": "(v)",
+          "text": "$10x^2 - 19xy + 6y^2$"
+        }
+      ]
+    },
+    {
+      "chapter": "Algebraic Manipulation",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "For what value of $q$ the expression $36x^4 + 36x^3 + 57x^2 + 24x + q$ will be a perfect square?"
+    },
+    {
+      "chapter": "Algebraic Manipulation",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "For what value of $p$ and $q$ the expression $x^4 + 8x^3 + 30x^2 + px + q$ will be a perfect square?"
+    },
+    {
+      "chapter": "Algebraic Manipulation",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What should be added to $4x^4 + 4x^3 + 17x^2 - 8x + 9$ to make it a perfect square?"
+    },
+    {
+      "chapter": "Algebraic Manipulation",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "For what value of $a$, the $36x^4 + 36x^3 + 57x^2 + 24x + a$ will be a perfect square?"
+    },
+    {
+      "chapter": "Linear Equation and Inequalities",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Find the solution set of the equation: $\\frac{\\sqrt{3y+12}}{7} = 3$"
+    },
+    {
+      "chapter": "Linear Equation and Inequalities",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Find the solution set of the following equation: $|\\frac{2x+3}{4}| + 2 = 7$"
+    },
+    {
+      "chapter": "Linear Equation and Inequalities",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Find the solution set of the following equation: $|\\frac{2x-3}{5}| - 12 = 5$"
+    },
+    {
+      "chapter": "Linear Equation and Inequalities",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Find the solution set of the equation: $|\\frac{2x+1}{3}| - 7 = 1$"
+    },
+    {
+      "chapter": "Linear Graphs and Their Applications",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Find the solution set of the following simultaneous equations by graphical method. (Find four ordered pairs for each equation): $2x + 2 = y$ and $y = x - 1$"
+    },
+    {
+      "chapter": "Linear Graphs and Their Applications",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Find the solution set of the following simultaneous equations by graphical method. (Find four ordered pairs for each equation): $2x = y + 5$ and $x = 2y + 1$"
+    },
+    {
+      "chapter": "Linear Graphs and Their Applications",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Find the solution set of the following simultaneous equations by graphical method. (Find four ordered pairs for each equation): $3x - y = 11$ and $x - 9 = 3y$"
+    },
+    {
+      "chapter": "Linear Graphs and Their Applications",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Find the solution set of the following equations graphically. (Find three ordered pairs for each equation): $2x = y + 5$ and $x = 2y + 1$"
+    },
+    {
+      "chapter": "Quadratic Equations",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Find the solution set by quadratic formula: $x^2 + x + 1 = 0$"
+    },
+    {
+      "chapter": "Quadratic Equations",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Solve by using quadratic formula: $2x^2 - 5x - 3 = 0$"
+    },
+    {
+      "chapter": "Quadratic Equations",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Solve by using quadratic formula: $9x^2 = 12x - 49$"
+    },
+    {
+      "chapter": "Quadratic Equations",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Find the solution set by using quadratic formula: $10x^2 + 19x - 15 = 0$"
+    },
+    {
+      "chapter": "Congruent Triangles",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "If two angles of a triangle are congruent, then the sides opposite to them are also congruent. Prove it."
+    },
+    {
+      "chapter": "Congruent Triangles",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "In any correspondence of two triangles, if one side and any two angles of one triangle are congruent to the corresponding side and angles of the other, the two triangles are congruent. Prove it."
+    },
+    {
+      "chapter": "Congruent Triangles",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "In any correspondence of two triangles, if one side and any two angles of one triangle are congruent to the corresponding side and angles of the other, the two triangles are congruent. Prove it."
+    },
+    {
+      "chapter": "Congruent Triangles",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "In a correspondence of two triangles, if three sides of one triangle are congruent to the corresponding three sides of the other, then the two triangles are congruent. Prove it."
+    },
+    {
+      "chapter": "Congruent Triangles",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "In any correspondence of two triangles, if one side and any two angles of one triangle are congruent to the corresponding sides and angles of the other, the two triangles are congruent. Prove it."
+    },
+    {
+      "chapter": "Parallelograms and Triangles",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "If two opposite sides of a quadrilateral are congruent and parallel, it is a parallelogram. Prove it."
+    },
+    {
+      "chapter": "Parallelograms and Triangles",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "If two opposite sides of a quadrilateral are congruent and parallel, it is a parallelogram. Prove it."
+    },
+    {
+      "chapter": "Parallelograms and Triangles",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "In a parallelogram, the opposite sides are congruent, the opposite angles are congruent, and the diagonals bisect each other. Prove it."
+    },
+    {
+      "chapter": "Parallelograms and Triangles",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "If two opposite sides of a quadrilateral are congruent and parallel, it is a parallelogram. Prove it."
+    },
+    {
+      "chapter": "Line Bisectors and Angles Bisectors",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "The right bisectors of the sides of a triangle are concurrent. Prove it."
+    },
+    {
+      "chapter": "Line Bisectors and Angles Bisectors",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Any point on the bisector of an angle is equidistant from its arms. Prove it."
+    },
+    {
+      "chapter": "Line Bisectors and Angles Bisectors",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "The right bisectors of the sides of a triangle are concurrent. Prove it."
+    },
+    {
+      "chapter": "Line Bisectors and Angles Bisectors",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Any point on the bisector of an angle is equidistant from its arms. Prove it."
+    },
+    {
+      "chapter": "Line Bisectors and Angles Bisectors",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Any point on the bisector of an angle is equidistant from its arms. Prove it."
+    },
+    {
+      "chapter": "Line Bisectors and Angles Bisectors",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Any point on the bisector of an angle is equidistant from its arms. Prove it."
+    },
+    {
+      "chapter": "Sides and Angles of a Triangle",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "If two angles of a triangle are unequal in measure, the side opposite to the greater angle is longer than the side opposite to the smaller angle. Prove it."
+    },
+    {
+      "chapter": "Sides and Angles of a Triangle",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "The sum of the length of any two sides of a triangle is greater than the length of the third side. Prove it."
+    },
+    {
+      "chapter": "Sides and Angles of a Triangle",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Prove that if two angles of a triangle are unequal in measure, the side opposite to the greater angle is longer than the side opposite to the smaller angle."
+    },
+    {
+      "chapter": "Practical Geometry-Triangle",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Construct a triangle $ABC$ in which $m\\overline{BC} = 6\\text{ cm}$, $m\\overline{AC} = 4\\text{ cm}$ and $m\\overline{AB} = 5\\text{ cm}$. Draw the bisectors of $\\angle A$ and $\\angle B$ (steps of construction are not required)."
+    },
+    {
+      "chapter": "Practical Geometry-Triangle",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Construct a triangle $PQR$ in which $m\\overline{PQ} = 5.7\\text{ cm}$, $m\\overline{QR} = 6.4\\text{ cm}$ and $m\\overline{PR} = 4.4\\text{ cm}$. Draw the altitude from vertex $Q$ and $R$."
+    },
+    {
+      "chapter": "Practical Geometry-Triangle",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Construct a $\\Delta ABC$ in which $m\\overline{BC} = 6\\text{ cm}$, $m\\overline{BC} = 4\\text{ cm}$ and $m\\overline{AB} = 5\\text{ cm}$. Draw the bisectors of angle $A$ and $B$."
+    },
+    {
+      "chapter": "Practical Geometry-Triangle",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Construct a $\\Delta PQR$, in which $m\\overline{PR} = m\\overline{QR} = 4.7\\text{ cm}$ and $m\\angle P = 55^\\circ$."
+    },
+    {
+      "chapter": "Theorems Related with Area",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Triangles on equal bases and equal altitudes are equal in area. Prove it."
+    },
+    {
+      "chapter": "Theorems Related with Area",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Triangles on equal bases and equal altitudes are equal in area. Prove it."
+    },
+    {
+      "chapter": "Projection of a Side of a Triangle",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "In any triangle, the square on the side opposite to an acute angle is equal to the sum of the squares on the sides containing that acute angle diminished by twice the rectangle contained by one of those sides and the projection on it of the other. Prove it."
+    },
+    {
+      "chapter": "Projection of a Side of a Triangle",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "In any triangle, the sum of squares on any two sides is equal to twice the square on half of the third side together with twice the square on the median which bisects the third side (Apollonius theorem). Prove it."
+    },
+    {
+      "chapter": "Projection of a Side of a Triangle",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "In an obtuse-angled triangle, the square on the side opposite to the obtuse angle is equal to the sum of the squares on the sides containing the obtuse angle together with twice the rectangle contained by one of the sides and the projection on it of the other. Prove it."
+    },
+    {
+      "chapter": "Introduction to Coordinate Geometry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Prove that the points $P(-3, -4)$, $Q(2, 6)$ and $R(0, 2)$ are collinear."
+    },
+    {
+      "chapter": "Introduction to Coordinate Geometry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "A circle has a diameter between the points $A(-3, 4)$ and $B(11, 6)$. Find the mid-point (centre) and radius of the circle."
+    },
+    {
+      "chapter": "Introduction to Coordinate Geometry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Show that the points $P(-3, -4)$, $Q(2, 6)$ and $R(0, 2)$ are collinear."
+    },
+    {
+      "chapter": "Introduction to Coordinate Geometry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Show that $A(2, 1)$, $B(5, 1)$ and $C(2, 6)$ are the vertices of a right angled triangle."
+    }
+  ]
+}
