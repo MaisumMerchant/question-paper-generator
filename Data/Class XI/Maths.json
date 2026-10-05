@@ -80,7 +80,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2024,
-      "text": "If $A=\\begin{bmatrix}-2&1&0\\\\-1&4&3\\\\0&0&5\\end{bmatrix}$, find $A^2-5A+4I$."
+      "text": "If $A=\\begin{bmatrix}-2&1&0\\\\-1&4&3\\\\0&8&5\\end{bmatrix}$, find $A^2-5A+4I$."
     },
     {
       "chapter": "Matrices and Determinants",
@@ -323,7 +323,7 @@
       "text": "If the $p^{\\text{th}}$ term of an H.P. is $q$ and the $q^{\\text{th}}$ term is $p$, prove that the $(p+q)^{\\text{th}}$ term is $\\frac{pq}{p+q}$."
     },
     {
-      "chapter": "Miscellaneous Series",
+      "chapter": "Miscellaneous and Series",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -331,7 +331,7 @@
       "text": "Find $\\displaystyle\\sum_{k=2}^{\\infty}\\frac{1}{k^2-1}$."
     },
     {
-      "chapter": "Miscellaneous Series",
+      "chapter": "Miscellaneous and Series",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -339,7 +339,7 @@
       "text": "Find $\\displaystyle\\sum_{k=1}^{\\infty}\\frac{1}{4k^2-1}$."
     },
     {
-      "chapter": "Miscellaneous Series",
+      "chapter": "Miscellaneous and Series",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -347,7 +347,7 @@
       "text": "Find the sum to $n$ terms of $3+6+21+96+471+\\cdots$."
     },
     {
-      "chapter": "Miscellaneous Series",
+      "chapter": "Miscellaneous and Series",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -355,7 +355,7 @@
       "text": "Find the sum of $1+2\\cdot5+3\\cdot5^2+4\\cdot5^3+\\cdots$ to $30$ terms."
     },
     {
-      "chapter": "Miscellaneous Series",
+      "chapter": "Miscellaneous and Series",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -490,7 +490,7 @@
       "type": "long",
       "source": "past_paper",
       "year": 2023,
-      "text": "A room has $3$ lamps selected at random from $10$ light bulbs, of which $6$ are good. The bulbs are put into the sockets. What is the probability that the room will light?"
+      "text": "A room has $3$ lamps selected at random from $10$ light bulbs, of which $6$ are no good. The bulbs are put into the sockets. What is the probability that the room will light?"
     },
     {
       "chapter": "Mathematical Induction and Binomial Theorem",
@@ -578,7 +578,15 @@
       "type": "long",
       "source": "past_paper",
       "year": 2024,
-      "text": "If $x=\\frac13+\\frac{1\\cdot3}{3\\cdot6}+\\frac{1\\cdot3\\cdot5}{3\\cdot6\\cdot9}+\\cdots$, prove that $x^2+2x-2=0$."
+      "text": "If $x=\\frac13+\\frac{1\\cdot3}{3\\cdot6}+\\frac{1\\cdot3\\cdot5}{3\\cdot6\\cdot9}+\\cdots$, prove that $x^2+2x-2=0$. (P.E.)"
+    },
+    {
+      "chapter": "Mathematical Induction and Binomial Theorem",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "If $x=\\frac13+\\frac{1\\cdot3}{3\\cdot6}+\\frac{1\\cdot3\\cdot5}{3\\cdot6\\cdot9}+\\cdots$, prove that $x^2+2x-2=0$. (S.G.)"
     },
     {
       "chapter": "Mathematical Induction and Binomial Theorem",
@@ -685,15 +693,15 @@
       "text": "If $f:\\mathbb R\\to\\mathbb R$ is defined by $f(x)=5x+7$, find $f^{-1}(x)$ and verify that $f^{-1}(f(x))=x$."
     },
     {
-      "chapter": "Linear Programming",
+      "chapter": "Linear Programming (LP)",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
       "year": 2023,
-      "text": "Solve graphically: for $x\\ge0$, $y\\ge0$, maximize $Z(x,y)=10x+11y$ subject to $2x+3y\\le8$ and $6x+3y\\le10$."
+      "text": "Solve graphically: for $x\\le0$, $y\\ge0$, maximize $Z(x,y)=10x+11y$ subject to $2x+3y\\le8$ and $6x+3y\\le10$."
     },
     {
-      "chapter": "Linear Programming",
+      "chapter": "Linear Programming (LP)",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -701,7 +709,7 @@
       "text": "Solve graphically: for $x\\ge0$, $y\\ge0$, maximize $Z(x,y)=30x+36y$ subject to $4x+2y\\le12$ and $6x+5y\\le20$."
     },
     {
-      "chapter": "Linear Programming",
+      "chapter": "Linear Programming (LP)",
       "section": "C",
       "type": "long",
       "source": "past_paper",
