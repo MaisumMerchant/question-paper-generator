@@ -3,2140 +3,2860 @@
   "class": "X",
   "questions": [
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "2",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define frequency of a wave. Derive relationship between wave speed, wave length and frequency."
+      "text": "Define frequency of a wave. Derive the relationship between wave speed, wavelength and frequency."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "4",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Define wave length and derive formula $\\lambda = V \\times T$"
+      "text": "Define wavelength and derive the formula $v=f\\lambda$."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "8",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "The waves moving in a pond have a wavelength of $1.6\\,\\mathrm{m}$ and a frequency of $0.80\\,\\mathrm{Hz}$. Calculate their speed."
+    },
+    {
+      "chapter": "General Waves Properties",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2018,
-      "text": "The wave moving in the pond have a water length 1.6m, and frequency of 0.80Hz. Calculate the speed of these water wave"
+      "text": "A piece of paper completes 600 vibrations in 60 seconds when waves pass over the surface of water. Find the time period and frequency of the paper, then calculate the wavelength if the wave speed is $2.5\\,\\mathrm{m\\,s^{-1}}$."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "17",
-      "year": 2018,
-      "text": "A piece of paper completes 600 vibrations in 60 seconds when some waves pass through the surface of water. Find the time-period and the frequency, the piece of paper. Calculate the wave length if the velocity of the waves is 2.5m/s."
-    },
-    {
-      "section": "B",
-      "number": "6",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Define wave length, time period and frequency"
+      "text": "Define wavelength, time period and frequency."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "21",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Calculate the length of second's pendulum. Taking \"g\" equal to $10\\text{ m/s}^2$. (Second's Pendulum has a time period of 2 seconds.)"
+      "text": "Calculate the length of a seconds pendulum, taking $g=10\\,\\mathrm{m\\,s^{-2}}$ and its time period as $2\\,\\mathrm{s}$."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "18",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2016,
-      "text": "Find the time period of a single pendulum whose length is 288cm."
+      "text": "Find the time period of a simple pendulum whose length is $288\\,\\mathrm{cm}$."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "15",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2015,
-      "text": "Find the time period of a simple pendulum whose length is 100cm."
+      "text": "Find the time period of a simple pendulum whose length is $100\\,\\mathrm{cm}$."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "4",
+      "type": "short",
+      "source": "past_paper",
       "year": 2014,
-      "text": "(OR). Prove that: $V = f\\lambda$"
+      "text": "Prove that $v=f\\lambda$."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "5",
+      "type": "short",
+      "source": "past_paper",
       "year": 2014,
-      "text": "Write down three differences between transverse and longitudinal waves."
+      "text": "Write three differences between transverse and longitudinal waves."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "22",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2014,
-      "text": "20Waves per second pass through a point on the surface of the pond. Calculate the wave length if the velocity of the wave is 3.5 m/s."
+      "text": "Twenty waves per second pass through a point on the surface of a pond. Calculate the wavelength if the wave velocity is $3.5\\,\\mathrm{m\\,s^{-1}}$."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "12",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2013,
-      "text": "Calculate the length of a Second's Pendulum"
+      "text": "Calculate the length of a seconds pendulum, taking $g=10\\,\\mathrm{m\\,s^{-2}}$."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "C",
-      "number": "14",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define Simple Harmonic Motion (SHM). Illustrate simple harmonic motion in ball and bowl system with diagram."
+      "text": "Define simple harmonic motion (SHM). Illustrate simple harmonic motion in a ball-and-bowl system with a diagram."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "C",
-      "number": "14",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is Simple Harmonic Motion? Prove that the motion of a simple pendulum is simple harmonic motion."
+      "text": "What is simple harmonic motion? Prove that the motion of a simple pendulum is simple harmonic motion."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "C",
-      "number": "20",
+      "type": "long",
+      "source": "past_paper",
       "year": 2019,
-      "text": "(b) Define Simple Harmonic motion and prove that the motion of a body attached to the end of spring execute simple harmonic motion."
+      "text": "Define simple harmonic motion and prove that a body attached to the end of a spring executes simple harmonic motion."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "C",
-      "number": "19",
+      "type": "long",
+      "source": "past_paper",
       "year": 2018,
-      "text": "(b) Define simple harmonic motion and prove that the motion of a simple pendulum is simple harmonic motion."
+      "text": "Define simple harmonic motion and prove that the motion of a simple pendulum is simple harmonic motion."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "C",
-      "number": "24",
+      "type": "long",
+      "source": "past_paper",
       "year": 2015,
-      "text": "(a) Define simple harmonic motion and describe its five important terms."
+      "text": "Define simple harmonic motion and describe its five important terms."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "Define the term transverse wave."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "Define the term longitudinal wave."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "Write a short note on the mechanical wave."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write a short note on mechanical waves."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "How can you say that mechanical waves are also material waves?"
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(v)",
-      "year": 0,
-      "text": "Waves are the means of energy transfer without matter. Justify this statement with the help of everyday life examples."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Waves transfer energy without matter. Justify this statement with everyday-life examples."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(vi)",
-      "year": 0,
-      "text": "Define the following terms of a wave: (a) amplitude (b) period (c) frequency (d) wavelength"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define amplitude, period, frequency and wavelength of a wave."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(vii)",
-      "year": 0,
-      "text": "Derive the formula of wave speed, $v = f\\lambda$"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Derive the wave-speed formula $v=f\\lambda$."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(viii)",
-      "year": 0,
-      "text": "What is a ripple tank, and explain its working?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a ripple tank, and how does it work?"
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(ix)",
-      "year": 0,
-      "text": "Define the wave front?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define wavefront."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(x)",
-      "year": 0,
-      "text": "Reference an experiment to explain the refraction of waves concerning the ripple tank."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe an experiment using a ripple tank to explain refraction of waves."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(xi)",
-      "year": 0,
-      "text": "What is the phenomenon of diffraction?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is diffraction?"
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(xii)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "What is simple harmonic motion?"
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(xiii)",
-      "year": 0,
-      "text": "What are the necessary conditions for a body to execute simple harmonic motion?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What conditions are necessary for a body to execute simple harmonic motion?"
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(xiv)",
-      "year": 0,
-      "text": "With the help of a diagram, explain SHM in the pendulum."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "With a diagram, explain SHM in a pendulum."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(xv)",
-      "year": 0,
-      "text": "The period of simple pendulum executing the formula gives SHM $T = 2\\pi \\sqrt{\\frac{L}{g}}$ What will be the effect of the period if there is an increase in its (a) length (b) mass."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "For a simple pendulum, $T=2\\pi\\sqrt{L/g}$. What is the effect on the period of increasing (a) length and (b) mass?"
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(xvi)",
-      "year": 0,
-      "text": "With the help of a diagram, explain SHM in the ball and bowl system."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "With a diagram, explain SHM in a ball-and-bowl system."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(xvii)",
-      "year": 0,
-      "text": "Why is the motion of a ball in the bowl executing SHM is maximum at its equilibrium position?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is the speed of a ball executing SHM in a bowl maximum at its equilibrium position?"
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(xviii)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "What are damped oscillations?"
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(xix)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "How does damping progressively reduce the amplitude of oscillation?"
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(xx)",
-      "year": 0,
-      "text": "A boy is swinging in the swing. Explain, why its amplitude reduces progressively with time."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "A body is swinging. Explain why its amplitude decreases progressively with time."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "What is the wavelength of a radio wave broadcasted by a radio station with a frequency of 1300 kHz? Where $1K = 10^3$, and the speed of the radio-wave is $3 \\times 10^8 \\text{ms}^{-1}$."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the wavelength of a radio wave broadcast at $1300\\,\\mathrm{kHz}$ if $1\\,\\mathrm{k}=10^3$ and the wave speed is $3\\times10^8\\,\\mathrm{m\\,s^{-1}}$?"
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "The waves moving in the pond have a wavelength of 1.6 m, and a frequency of 0.80 Hz. Calculate the speed of these water waves."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Pond waves have wavelength $1.6\\,\\mathrm{m}$ and frequency $0.80\\,\\mathrm{Hz}$. Calculate their speed."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "If 50 waves pass through a point in the rope in 10 seconds, what are the frequency and the period of the wave? If its wavelength is 8cm, calculate the wave speed. Explain the type of wave produced."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "If 50 waves pass a point on a rope in 10 seconds, find frequency and period. If wavelength is $8\\,\\mathrm{cm}$, calculate wave speed and identify the wave type."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
-      "text": "A slinky has produced a longitudinal wave. The wave travels at a speed of 40 cm/s and the frequency of the wave is 20 Hz. What is the minimum separation between the consecutive compressions?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A slinky produces a longitudinal wave of speed $40\\,\\mathrm{cm\\,s^{-1}}$ and frequency $20\\,\\mathrm{Hz}$. Find the minimum separation between consecutive compressions."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(v)",
-      "year": 0,
-      "text": "Suppose a student is generating waves in a slinky. The student's hand makes one complete forth and back oscillation in 0.40s. The wavelength in the slinky is 0.60m. For this wave, determine (a). Period and frequency (b). Wave speed"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A student generates waves in a slinky with period $0.40\\,\\mathrm{s}$ and wavelength $0.60\\,\\mathrm{m}$. Determine (a) period and frequency and (b) wave speed."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(vi)",
-      "year": 0,
-      "text": "If 80 compressions pass through a point in spring in 20 seconds. Calculate the frequency and the period? If two consecutive compressions are 8cm apart, calculate the wave speed."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "If 80 compressions pass a point in a spring in 20 seconds and consecutive compressions are $8\\,\\mathrm{cm}$ apart, calculate frequency, period and wave speed."
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(vii)",
-      "year": 0,
-      "text": "Waves on a swimming pool propagate at 0.90 m/s. if you splash the water at one end of the pool, observe the wave go to the opposite end, reflect, and return in 30.0 s. How far away is the other end of the pool?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Swimming-pool waves travel at $0.90\\,\\mathrm{m\\,s^{-1}}$, reach the opposite end, reflect and return in $30.0\\,\\mathrm{s}$. How far away is the other end?"
     },
     {
+      "chapter": "General Waves Properties",
       "section": "B",
-      "number": "(viii)",
-      "year": 0,
-      "text": "A simple oscillating pendulum has a length of 80.0 cm. Calculate its: (a). Period (b). Frequency When $g = 9.8 \\text{ ms}^{-2}$"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A simple pendulum has length $80.0\\,\\mathrm{cm}$. Calculate its (a) period and (b) frequency for $g=9.8\\,\\mathrm{m\\,s^{-2}}$."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "3",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Write down any three differences between musical sound and noise."
+      "text": "Write any three differences between musical sound and noise."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "8",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2025,
-      "text": "The speed of sound in air at $0^\\circ C$ is $331\\text{m/s}$. Find the speed of sound in air at the temperature of $54^\\circ C$."
+      "text": "The speed of sound in air at $0^\\circ\\mathrm{C}$ is $331\\,\\mathrm{m\\,s^{-1}}$. Find it at $54^\\circ\\mathrm{C}$."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "2",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Write down two factors on which speed of sound in air depends."
+      "text": "Write two factors on which the speed of sound in air depends."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "8",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2024,
-      "text": "A boy clapped his hands near a wall and heard the echo after 0.6 seconds. What is the distance of the wall from the boy? (speed of sound = 340 m/s)"
+      "text": "A boy claps near a wall and hears the echo after $0.6\\,\\mathrm{s}$. Find the distance to the wall if sound speed is $340\\,\\mathrm{m\\,s^{-1}}$."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "3",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Write one use of each of the following devices: (i) RADAR (ii) SONAR (iii) LIDAR"
+      "text": "Write one use each of RADAR, SONAR and LIDAR."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "9",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Calculate the speed of sound in air at $30^\\circ C$. Given that speed"
+      "text": "Calculate the speed of sound in air at $30^\\circ\\mathrm{C}$, given that its speed at $0^\\circ\\mathrm{C}$ is $331\\,\\mathrm{m\\,s^{-1}}$."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "1",
-      "year": 0,
-      "text": "When a sound wave of frequency 200 Hertz and wave length 300 cm passes through a medium calculate the velocity of the waves in the medium."
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "A sound wave of frequency $200\\,\\mathrm{Hz}$ and wavelength $300\\,\\mathrm{cm}$ passes through a medium. Calculate its velocity."
     },
     {
+      "chapter": "Sound",
       "section": "C",
-      "number": "25",
+      "type": "long",
+      "source": "past_paper",
       "year": 2017,
-      "text": "(c) Define Musical sound and write its three characteristics."
+      "text": "Define musical sound and write its three characteristics."
     },
     {
+      "chapter": "Sound",
       "section": "C",
-      "number": "24",
+      "type": "long",
+      "source": "past_paper",
       "year": 2012,
-      "text": "(c) Define the Loudness of Sound. Write three Factor s on which the loudness of sound depends."
+      "text": "Define loudness of sound and write three factors on which it depends."
     },
     {
+      "chapter": "Sound",
       "section": "C",
-      "number": "25",
-      "year": 0,
-      "text": "(c) Define the following: (iv) Pitch"
+      "type": "long",
+      "source": "past_paper",
+      "year": 2012,
+      "text": "Define pitch."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "How is the sound produced?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How is sound produced?"
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "With the help of a diagram, describe how compressions and rarefactions are produced in the air near a source of the sound."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "With a diagram, describe how compressions and rarefactions are produced in air near a sound source."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "Why are sound waves referred to as mechanical waves?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why are sound waves called mechanical waves?"
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
-      "text": "Sound requires a material medium for its propagation. Cite an experiment to prove this statement."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Sound requires a material medium for propagation. Cite an experiment proving this statement."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(vi)",
-      "year": 0,
-      "text": "Explain how noise is harmful to humans?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain how noise is harmful to humans."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(vii)",
-      "year": 0,
-      "text": "Define the quality or timbre of the sound."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define the quality or timbre of sound."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(viii)",
-      "year": 0,
-      "text": "Is it possible that two or more waves from different musical instruments combine to form a single wave?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Can waves from two or more musical instruments combine to form a single wave?"
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(ix)",
-      "year": 0,
-      "text": "Why is the speed of the sound greater in solids than in liquids or gases?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is sound faster in solids than in liquids or gases?"
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(x)",
-      "year": 0,
-      "text": "Explain the effect of the following factors on the speed of sound in the air. (a). Temperature (b). Humidity"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain how temperature and humidity affect the speed of sound in air."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(xi)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "Define echo."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(xii)",
-      "year": 0,
-      "text": "Explain the working and application of a sonar."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the working and application of SONAR."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(xiii)",
-      "year": 0,
-      "text": "How can defects in a metal block be detected using ultrasound? Explain with the help of a diagram."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How can defects in a metal block be detected using ultrasound? Explain with a diagram."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(xiv)",
-      "year": 0,
-      "text": "Define the following terms: (a). Infrasonic (b). The audible frequency range of hearing (c). Ultrasound"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define infrasonic sound, the audible frequency range, and ultrasound."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(xv)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "How is ultrasound used for cleaning?"
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(xvi)",
-      "year": 0,
-      "text": "Explain two applications of ultrasound that are used in hospitals for medical imaging."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain two hospital applications of ultrasound for medical imaging."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "Calculate the speed of sound in air at $50^\\circ C$ Given that speed of sound at $0^\\circ C$ is $331m/s$"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Calculate the speed of sound in air at $50^\\circ\\mathrm{C}$, given $331\\,\\mathrm{m\\,s^{-1}}$ at $0^\\circ\\mathrm{C}$."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "A person has an audible range from $20Hz$ to $20kHz$. What are the distinguishing wavelengths of sound waves in air corresponding to these two frequencies? Take the speed of sound in air as $340ms^{-1}$."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A person hears from $20\\,\\mathrm{Hz}$ to $20\\,\\mathrm{kHz}$. Find the corresponding wavelengths in air using $340\\,\\mathrm{m\\,s^{-1}}$."
     },
     {
+      "chapter": "Sound",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "A ship uses ultrasonic pulses to measure the depth of the submarine beneath the ship. A sound pulsing is transmitted into the sea, and the echo from the sea- bed is received after 40 ms. The speed of sound in seawater is 1480 m/s. Calculate the deepness of the submarine."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A ship sends an ultrasonic pulse to the seabed and receives the echo after $40\\,\\mathrm{ms}$. If sound speed in seawater is $1450\\,\\mathrm{m\\,s^{-1}}$, calculate the sea depth."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "9",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Calculate the frequency of ultraviolet light with the wave length of 193nm commonly used in laser eye surgery procedure."
+      "text": "Calculate the frequency of ultraviolet light of wavelength $193\\,\\mathrm{nm}$ used in laser eye surgery."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "3",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
       "text": "Write three uses of electromagnetic waves."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "9",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Calculate the frequency of radio waves of 3 m wavelength used in an MRI unit."
+      "text": "Calculate the frequency of radio waves of wavelength $3\\,\\mathrm{m}$ used in an MRI unit."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "2",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Write down three characteristics of electromagnetic waves."
+      "text": "Write three characteristics of electromagnetic waves."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "12",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Ruby laser emits the beam of red light having a wave length 694.3 nm. Calculate its frequency."
+      "text": "A ruby laser emits red light of wavelength $694.3\\,\\mathrm{nm}$. Calculate its frequency."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "6",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Describe briefly any four electromagnetic waves with their ranges."
+      "text": "Briefly describe any four electromagnetic waves with their ranges."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "Define dispersion of light."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "Describe the dispersion of light when passing through a glass prism."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe dispersion of light through a glass prism."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "Explain how the rainbow is produced on a rainy day?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain how a rainbow is produced on a rainy day."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
-      "text": "Explain how the colors are related to distinct frequency or wavelength?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain how colors relate to distinct frequencies or wavelengths."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "(v)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "What are electromagnetic waves?"
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "(vi)",
-      "year": 0,
-      "text": "List the main components of the electromagnetic spectrum in decreasing order of their wavelengths."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "List the main components of the electromagnetic spectrum in decreasing order of wavelength."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "(vii)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "Ultraviolet rays have a higher frequency than radio waves. Can UV rays travel faster in a vacuum?"
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "(viii)",
-      "year": 0,
-      "text": "Compare the properties of ultraviolet rays and radio signals. (a) Which one travels at a faster speed? (b) Which wave has a greater frequency? (c) Which wave has a greater wavelength?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Compare ultraviolet rays and radio signals in speed, frequency and wavelength."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "(ix)",
-      "year": 0,
-      "text": "What are the main sources of radio waves? b) What is the main advantage of using radio waves in communication?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are the main sources of radio waves, and what is the main advantage of radio waves in communication?"
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "(x)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "Why are microwaves preferred in satellite communication?"
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "(xi)",
-      "year": 0,
-      "text": "(a) What type of radiation is commonly used in remote controllers for household appliances? (b) How do the molecules emit infrared radiations? (c) How intruder alarms help security personnel visualize the thermal images."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What radiation is commonly used in household remote controls? How do molecules emit infrared radiation? How do intruder alarms help security personnel visualize thermal images?"
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "(xii)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "On what principle do optical fibers work?"
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "1",
-      "year": 0,
-      "text": "Electromagnetic radiation having a $15.0 - \\mu m$ wavelength is classified as infrared radiation. What is its frequency? Given that the speed of light is $3 \\times 10^8 \\text{ m/s}$."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Give daily-life applications of optical fibers in (a) telecommunication and (b) medicine."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "2",
-      "year": 0,
-      "text": "What is the frequency of the $193 - nm$ ultraviolet radiation used in laser eye surgery?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Electromagnetic radiation has wavelength $15.0\\,\\mu\\mathrm{m}$ and is infrared. Find its frequency using $c=3\\times10^8\\,\\mathrm{m\\,s^{-1}}$."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "3",
-      "year": 0,
-      "text": "Calculate the wavelength of $100 - MHz$ radio waves used in an MRI unit?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Find the frequency of $193\\,\\mathrm{nm}$ ultraviolet radiation used in laser eye surgery."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "4",
-      "year": 0,
-      "text": "The distance from earth to sun is $1.49 \\times 10^{11}$ meters. How long a radio pulse radiated from the sun takes to reach on the earth?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Calculate the wavelength of $100\\,\\mathrm{MHz}$ radio waves used in MRI."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "5",
-      "year": 0,
-      "text": "Distances in space are often measured in units of light-years, the distance light travels in one year. Find the distance in kilometers in a light-year?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Earth is $1.49\\times10^{11}\\,\\mathrm{m}$ from the Sun. How long does a radio pulse take to reach Earth?"
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "6",
-      "year": 0,
-      "text": "What is the frequency of green light with a wavelength of $5.5 \\times 10^7 \\text{ m}$?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A light-year is the distance light travels in one year. Find this distance in kilometers."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "7",
-      "year": 0,
-      "text": "A typical household microwave oven operates at a frequency of $2.45 - GHz$. What is the wavelength of this radiation?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Find the frequency of green light of wavelength $5.5\\times10^{-7}\\,\\mathrm{m}$."
     },
     {
+      "chapter": "Electromagnetic Spectrum",
       "section": "B",
-      "number": "10",
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A microwave oven operates at $2.45\\,\\mathrm{GHz}$. Find the wavelength."
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2025,
-      "text": "A concave lens whose focal length is 10cm. An object is placed 15cm away from it. Determine the position of image."
+      "text": "A concave lens has focal length $10\\,\\mathrm{cm}$ and an object is $15\\,\\mathrm{cm}$ away. Determine the image position."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "10",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2024,
-      "text": "A pin is positioned at a distance of 15 cm from a convex mirror whose focal length is 10 cm. Determine the position and nature of the image."
+      "text": "A pin is $15\\,\\mathrm{cm}$ from a convex mirror of focal length $10\\,\\mathrm{cm}$. Determine image position and nature."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "10",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2023,
-      "text": "A convex mirror used for rear view on a automobile has a radius of curvature 4.00m. If a bus is located at 5.00 m from the mirror. Find the image position and nature."
+      "text": "A convex automobile rear-view mirror has radius of curvature $4.00\\,\\mathrm{m}$. A bus is $5.00\\,\\mathrm{m}$ away. Find image position and nature."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "16",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2019,
-      "text": "The focal length of a Concave mirror is 15cm, where should an object be placed so as to get its real image magnified thrice (three)?"
+      "text": "A concave mirror has focal length $15\\,\\mathrm{cm}$. Where should an object be placed to obtain a real image magnified three times?"
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "16",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2018,
-      "text": "The focal length of a convex lens is 18cm. An object 5cm high is placed at a distance of 12cm from the lens. Determine the position, nature and the height of the image."
+      "text": "A convex lens has focal length $18\\,\\mathrm{cm}$. An object $5\\,\\mathrm{cm}$ high is $12\\,\\mathrm{cm}$ from it. Determine image position, nature and height."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "20",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Calculate the distance of object from a convex lens having a focal length of 15 cm if the magnification is 3 and the image is real."
+      "text": "Find the object distance for a convex lens of focal length $15\\,\\mathrm{cm}$ if magnification is 3 and the image is real."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "5",
+      "type": "short",
+      "source": "past_paper",
       "year": 2016,
-      "text": "Define Irregular reflection of light and also write two points of its importance."
+      "text": "Define irregular reflection of light and write two points of its importance."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "7",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2016,
-      "text": "The focal length of a concave mirror is 10 cm where should an object be placed so as to get its real image magnified 4 times."
+      "text": "A concave mirror has focal length $10\\,\\mathrm{cm}$. Where should an object be placed to obtain a real image magnified four times?"
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "17",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2015,
-      "text": "An object is placed 10cm from a convex lens of focal length 15cm. Find the position and magnification of the image."
+      "text": "An object is $10\\,\\mathrm{cm}$ from a convex lens of focal length $15\\,\\mathrm{cm}$. Find image position and magnification."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "13",
+      "type": "short",
+      "source": "past_paper",
       "year": 2014,
-      "text": "Show the image formation and characteristics by Convex Mirror with the help of ray diagram."
+      "text": "Show image formation and characteristics by a convex mirror using a ray diagram."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "14",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "A convex lens has focal length $20\\,\\mathrm{cm}$. If the image is twice the object size, find the object position."
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2014,
+      "text": "Using Snell's law, prove that a normally incident ray does not change direction at a boundary."
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2013,
-      "text": "The focal length of a convex lens is 20 cm. If the image formed by it twice in size, find the position of the object."
+      "text": "Write three characteristics of an image formed in a plane mirror."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "16",
+      "type": "short",
+      "source": "past_paper",
       "year": 2013,
-      "text": "With the help of Snell's law prove that there is no change in direction of refracted ray if the incident ray is perpendicular on the surface separating the two media."
+      "text": "Define reflection of light and state its two laws."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "13",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2013,
-      "text": "Write three characteristics of the image formed in a plane mirror."
+      "text": "Find the focal length of a convex lens if $p=5\\,\\mathrm{cm}$, $q=10\\,\\mathrm{cm}$ and the image is virtual."
     },
     {
-      "section": "B",
-      "number": "15",
-      "year": 2013,
-      "text": "Define ' Reflection of Light' State two Laws of Reflection of Light."
-    },
-    {
-      "section": "B",
-      "number": "14",
-      "year": 0,
-      "text": "Find the focal length of a convex lens if p=5cm, q=10cm and the image formed is virtual."
-    },
-    {
+      "chapter": "Geometrical Optics",
       "section": "C",
-      "number": "15",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Short sightedness (Myopia) and Long sightedness (Hyperopia) are two common vision defects. Explain their causes and how can they be corrected? Also draw diagrams."
+      "text": "Explain the causes and correction of myopia and hyperopia, with diagrams."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "C",
-      "number": "15",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Draw ray diagrams of a convex lens when object is placed at. (i) 2F (ii) Beyond 2F"
+      "text": "Draw ray diagrams for a convex lens when the object is at (i) $2F$ and (ii) beyond $2F$."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "C",
-      "number": "14",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What are short sightedness and long sightedness? How can these defects be corrected with the help of ray diagrams?"
+      "text": "What are myopia and hyperopia? Explain their correction using ray diagrams."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "C",
-      "number": "18",
+      "type": "long",
+      "source": "past_paper",
       "year": 2019,
-      "text": "(b) Name two main defects of Human Eye. Describe with the help of ray diagrams show the defects and their correction."
+      "text": "Name two main defects of the human eye and describe the defects and their correction with ray diagrams."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "C",
-      "number": "20",
+      "type": "long",
+      "source": "past_paper",
       "year": 2018,
-      "text": "(a) With the help of a ray diagram derive the mirror equation $\\frac{1}{f} = \\frac{1}{p} + \\frac{1}{q}$"
+      "text": "Using a ray diagram, derive the mirror equation $1/f=1/p+1/q$."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "C",
-      "number": "24",
+      "type": "long",
+      "source": "past_paper",
       "year": 2017,
-      "text": "(c) Write four uses of spherical mirrors."
+      "text": "Write four uses of spherical mirrors."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "C",
-      "number": "25",
+      "type": "long",
+      "source": "past_paper",
       "year": 2017,
-      "text": "(b) Draw a ray diagram of an astronomical Telescope and describe it's working."
+      "text": "Draw a ray diagram of an astronomical telescope and describe its working."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "C",
-      "number": "25",
+      "type": "long",
+      "source": "past_paper",
       "year": 2015,
-      "text": "(a) Derive Ray diagram of Compound Microscope and describe it's Working"
+      "text": "Draw the ray diagram of a compound microscope and describe its working."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "C",
-      "number": "25",
+      "type": "long",
+      "source": "past_paper",
       "year": 2015,
-      "text": "(b) With the help of diagram show and explain short sightedness and long sightedness and its correction."
+      "text": "Using diagrams, explain myopia and hyperopia and their correction."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "C",
-      "number": "25",
+      "type": "long",
+      "source": "past_paper",
       "year": 2015,
-      "text": "(c) Describe sigh convention for real and virtual image."
+      "text": "Describe the sign convention for real and virtual images."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "C",
-      "number": "23",
+      "type": "long",
+      "source": "past_paper",
       "year": 2014,
-      "text": "(c) With the help of prism, draw solar spectrum of dispersion of light."
+      "text": "Using a prism, draw the solar spectrum produced by dispersion."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "C",
-      "number": "24",
+      "type": "long",
+      "source": "past_paper",
       "year": 2014,
-      "text": "(c) Draw the diagram of defects of eyes. Describe short sightedness and long sightedness."
+      "text": "Draw diagrams of eye defects and describe myopia and hyperopia."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "C",
-      "number": "25",
-      "year": 2014,
-      "text": "(c) With the help figure write the four rules of reflection of rays of light by concave mirror."
+      "type": "long",
+      "source": "past_paper",
+      "year": 2013,
+      "text": "With a figure, write the four rules for reflection of rays by a concave mirror."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "C",
-      "number": "23",
-      "year": 2014,
-      "text": "(c) Draw a ray Diagram of a Compound Microscope and describe its working."
+      "type": "long",
+      "source": "past_paper",
+      "year": 2013,
+      "text": "Draw a ray diagram of a compound microscope and describe its working."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "(a) What do you understand by the term reflection of light? (b) Outline a diagram to illustrate reflection at a plane surface."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is reflection of light? Illustrate reflection at a plane surface with a diagram."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "Describe the following terms used in reflection: (a). Normal (b). The angle of incidence (c). The angle of reflection"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define normal, angle of incidence and angle of reflection."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "Express the laws of reflections."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "State the laws of reflection."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
-      "text": "Name the type of mirror used in the following situations. (a). Side/rearview mirror of a vehicle. (b). To locate the blind spots on roads of the hilly side. (c). Dentist minor. Support your answer with reason."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Name the mirror used as a vehicle rear-view mirror, at a hilly-road blind spot, and by a dentist; justify each."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(v)",
-      "year": 0,
-      "text": "(a) Define the refraction of light. (b). Outline the passage of light through a parallel-sided glass slab."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define refraction of light and illustrate passage through a parallel-sided glass slab."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(vi)",
-      "year": 0,
-      "text": "Define the following terms used in refraction: (a). The angle of incidence (b). The angle of refraction."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define angle of incidence and angle of refraction."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(vii)",
-      "year": 0,
-      "text": "Express the laws of refraction."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "State the laws of refraction."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(viii)",
-      "year": 0,
-      "text": "(a). What do you understand by the refractive index of a material? (b). Cite experimentation on how you can determine the refractive index of a parallel-sided glass slab? (c). Which physical quantity remains unaffected when refraction of light occurs"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define refractive index and describe an experiment to determine it for a parallel-sided glass slab."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(ix)",
-      "year": 0,
-      "text": "What is the glass prism?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Which physical quantity remains unchanged during refraction?"
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(x)",
-      "year": 0,
-      "text": "Describe the passage of monochromatic light rays through a glass prism."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a glass prism?"
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xi)",
-      "year": 0,
-      "text": "Suppose a ray of light approaches the surface of the prism. What happens when it enters the glass at the angle of? (a). $0^\\circ$ with the normal (b). $30^\\circ$ with the normal. Answer in terms of its change in the quantities of frequency, speed, wavelength, and direction."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the passage of monochromatic light through a glass prism."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xii)",
-      "year": 0,
-      "text": "What is the lens?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "For a light ray entering glass at (a) $0^\\circ$ and (b) $30^\\circ$ to the normal, state changes in frequency, speed, wavelength and direction."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xiii)",
-      "year": 0,
-      "text": "What happens if a light ray parallel to the principal axis enters a convex lens?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a lens?"
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xiv)",
-      "year": 0,
-      "text": "The convex lens is considered a converging lens. Explain why?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What happens when a ray parallel to the principal axis enters a convex lens?"
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xv)",
-      "year": 0,
-      "text": "Describe the power of a lens and its units."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is a convex lens called a converging lens?"
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xvi)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe lens power and its unit."
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "Define critical angle."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xvii)",
-      "year": 0,
-      "text": "What do you understand by the term total internal reflection?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is total internal reflection?"
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xviii)",
-      "year": 0,
-      "text": "State the conditions required for a total internal reflection."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "State the conditions for total internal reflection."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xix)",
-      "year": 0,
-      "text": "Give some practical examples of a total internal reflection in everyday'"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Give practical examples of total internal reflection in everyday life."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xx)",
-      "year": 0,
-      "text": "Determine the critical angle of light in a diamond? The refractive index of cue diamond is 2.41."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Find the critical angle of diamond if its refractive index is 2.41."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xii)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "What are optical fibers?"
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xiii)",
-      "year": 0,
-      "text": "Describe how total internal reflection is used in an endoscope?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How is total internal reflection used in an endoscope?"
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xii)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "Draw the ray diagram of a magnifying glass."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xiv)",
-      "year": 0,
-      "text": "How can you use a thin converging lens as a magnifying glass?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How is a thin converging lens used as a magnifying glass?"
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xv)",
-      "year": 0,
-      "text": "Give the magnification of magnifying glass."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Give the magnification of a magnifying glass."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xvi)",
-      "year": 0,
-      "text": "With the help of a ray diagram, give the magnifying powers of the following optical instruments: (a). simple microscope or magnifying glass (b). compound microscope (c). refracting telescope"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "With ray diagrams, give the magnifying powers of a simple microscope, compound microscope and refracting telescope."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xvii)",
-      "year": 0,
-      "text": "What is meant by the terms? (a). short- sight, and (b). long- sight"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define short sight and long sight."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xviii)",
-      "year": 0,
-      "text": "How can these defects be corrected? (a). short- sight, and (b). long- sight"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How are short sight and long sight corrected?"
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "(xix)",
-      "year": 0,
-      "text": "Why is a normal eye not able to see the objects put closer than 25 cm?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why can a normal eye not see objects closer than $25\\,\\mathrm{cm}$?"
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "1",
-      "year": 0,
-      "text": "A thumb pin is positioned at a distance of $15\\text{cm}$ from a convex minor of a focal length of $20cm$. Determine the position and nature of the image."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A thumb pin is $15\\,\\mathrm{cm}$ from a convex mirror of focal length $20\\,\\mathrm{cm}$. Determine image position and nature."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "2",
-      "year": 0,
-      "text": "An image of a specimen appears to be $11.5cm$ behind a concave mirror with a focal length of $13.5cm$. Find the specimen's distance from the mirror."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "An image appears $11.5\\,\\mathrm{cm}$ behind a concave mirror of focal length $13.5\\,\\mathrm{cm}$. Find object distance."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "3",
-      "year": 0,
-      "text": "A convex minor used for rear-view on an automobile has a radius of curvature of $4.00m$. If a bus is located at $5.00m$ from this mirror, find the image's position, nature, and size."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A convex rear-view mirror has radius $4.00\\,\\mathrm{m}$ and a bus is $5.00\\,\\mathrm{m}$ away. Find image position, nature and size."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "4",
-      "year": 0,
-      "text": "An object is placed $15cm$ away from a converging lens of a focal length of $10cm$. Determine the position, size, and nature of the image formed."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "An object is $15\\,\\mathrm{cm}$ from a converging lens of focal length $10\\,\\mathrm{cm}$. Determine image position, size and nature."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "5",
-      "year": 0,
-      "text": "A concave lens of focal length $20cm$ forms an image $15cm$ from the lens. Determine the power of a lens. Also, how far is the object positioned from the lens?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A concave lens of focal length $20\\,\\mathrm{cm}$ forms an image $15\\,\\mathrm{cm}$ from the lens. Determine lens power and object distance."
     },
     {
+      "chapter": "Geometrical Optics",
       "section": "B",
-      "number": "6",
-      "year": 0,
-      "text": "The angle of incidence for a ray of light from air to water interface is $40^\\circ$. If the ray travels through the water with a refractive index of 1 33 calculate the refraction."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A ray travels from air to water at incidence angle $40^\\circ$; water has refractive index 1.33. Calculate the angle of refraction."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "4",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Briefly state three methods of charging a body."
+    },
+    {
+      "chapter": "Electrostatics",
+      "section": "B",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "State briefly three methods for forming charges on a body."
+      "text": "Derive $1/C_e=1/C_1+1/C_2+1/C_3$ for capacitors in series."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "4",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Derive the equation: $\\frac{1}{c_e} = \\frac{1}{c_1} +\\frac{1}{c_2} +\\frac{1}{c_3}$"
+      "text": "A $3\\,\\mu\\mathrm{C}$ charge is placed in an electric field of intensity $3.42\\times10^{10}\\,\\mathrm{N\\,C^{-1}}$. Find the force."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "11",
-      "year": 2024,
-      "text": "If $3\\mu \\text{C}$ charge is placed in the electric field intensity $3.42\\times 10^{10}\\text{N / C},$ what will be the force on it?"
-    },
-    {
-      "section": "B",
-      "number": "11",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Two point charges $q_1 = 5\\mu \\text{c}$ and $q_2 = 3\\mu \\text{c}$ are placed at a distance of $5\\text{cm}$. What will be the Coulomb's force between them?"
+      "text": "Charges $q_1=5\\,\\mu\\mathrm{C}$ and $q_2=3\\,\\mu\\mathrm{C}$ are $5\\,\\mathrm{cm}$ apart. Find the Coulomb force."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "6",
-      "year": 2017,
-      "text": "State Coulomb's Law. Write down its equation. Mention the value of K in S.I. units."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "State Coulomb's law, write its equation and give the value of $k$ in SI units."
     },
     {
+      "chapter": "Electrostatics",
       "section": "C",
-      "number": "17",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "State Coulomb's law and derive the equation: $F = \\frac{1}{4\\pi\\epsilon_0}\\frac{q_1q_2}{r^2}$"
+      "text": "State Coulomb's law and derive $F=\\frac{1}{4\\pi\\epsilon_0}\\frac{q_1q_2}{r^2}$."
     },
     {
+      "chapter": "Electrostatics",
       "section": "C",
-      "number": "24",
+      "type": "long",
+      "source": "past_paper",
       "year": 2015,
-      "text": "(b)Describe Electrostatic induction in four steps with the use of two metal spheres."
+      "text": "Describe electrostatic induction in four steps using two metal spheres."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "Explain how electric charge can be generated and measured in very, simple experiments."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain with simple experiments how electric charge can be generated and measured."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "Explain how an electroscope is built and how it operates."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the construction and operation of an electroscope."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "State and explain the Coulomb's law."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "State and explain Coulomb's law."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "Define electric field and electric field intensity."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(v)",
-      "year": 0,
-      "text": "Describe the concept of electrostatic potential."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe electrostatic potential."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(vi)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "Describe potential difference as energy transfer per unit charge."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(vii)",
-      "year": 0,
-      "text": "Provide an example of when static electricity could cause harm, as well as the measures taken to prevent injury."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Give an example of harm from static electricity and measures to prevent injury."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(viii)",
-      "year": 0,
-      "text": "Describe how the capacitor works as a device that stores electrical charges."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe how a capacitor stores electric charge."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(ix)",
-      "year": 0,
-      "text": "Explain why it's important to know the effective capacitance of a number of capacitors connected in series and in parallel."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is effective capacitance important for capacitors connected in series and parallel?"
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(x)",
-      "year": 0,
-      "text": "Give some examples of where capacitors are used in different kinds of electrical devices."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Give examples of uses of capacitors in electrical devices."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(xi)",
-      "year": 0,
-      "text": "In what direction will a positively charged particles move in an electric field?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "In what direction does a positively charged particle move in an electric field?"
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(xii)",
-      "year": 0,
-      "text": "Does a series connection between capacitors always result in an equal amount of charge being stored in each capacitor?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Does a series connection of capacitors always store equal charge on each capacitor?"
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "What is the electric force of repulsion between two electrons at a distance of $1m$"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Find the electric repulsive force between two electrons $1\\,\\mathrm{m}$ apart."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "Two point charges $q_1 = 5\\mu \\text{C}$ and $q_2 = 3\\mu \\text{C}$ are placed at a distance of $5\\text{cm}$. What be the coulomb's force between them?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Charges $q_1=5\\,\\mu\\mathrm{C}$ and $q_2=3\\,\\mu\\mathrm{C}$ are $5\\,\\mathrm{cm}$ apart. Find the Coulomb force."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "If $2\\mu \\text{C}$ charge is placed in the field of $3.42\\times 10^{11}N / C$, what will be the force on it."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A $2\\,\\mu\\mathrm{C}$ charge is in an electric field of $3.42\\times10^{11}\\,\\mathrm{N\\,C^{-1}}$. Find the force."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
-      "text": "What is the charge on the capacitor, if a $40\\mu F$ capacitor has a potential of $6V$ across it?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Find the charge on a $40\\,\\mu\\mathrm{F}$ capacitor with $6\\,\\mathrm{V}$ across it."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(v)",
-      "year": 0,
-      "text": "The potential difference between two points is $100V$. If an unknown charge is moved between these points, the amount of work done is $500J$. Find the amount of charge."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A potential difference of $100\\,\\mathrm{V}$ does $500\\,\\mathrm{J}$ of work moving an unknown charge. Find the charge."
     },
     {
+      "chapter": "Electrostatics",
       "section": "B",
-      "number": "(vi)",
-      "year": 0,
-      "text": "Find the equivalent capacitance when a $4\\mu F$, $3\\mu F$ and $2\\mu F$ capacitor are co series."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Find the equivalent capacitance of $4\\,\\mu\\mathrm{F}$, $3\\,\\mu\\mathrm{F}$ and $2\\,\\mu\\mathrm{F}$ capacitors in series."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "5",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define electromotive force. Write its formula, S.I unit and CGS unit."
+      "text": "Define electromotive force. Write its formula, SI unit and CGS unit."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "11",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Calculate the potential difference of 150J of work done on a 75C charge."
+      "text": "Calculate the potential difference when $150\\,\\mathrm{J}$ of work is done on a $75\\,\\mathrm{C}$ charge."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "12",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2025,
-      "text": "If a current of 0.25A passes through a bulb for 20 minutes. How much electric charge will pass through the circuit during this time?"
+      "text": "A current of $0.25\\,\\mathrm{A}$ flows through a bulb for 20 minutes. Find the charge transferred."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "12",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2024,
-      "text": "9J of heat is produced each second in a $4\\Omega$ resistance. Find the potential difference across the resistor."
+      "text": "A $4\\,\\Omega$ resistor produces $9\\,\\mathrm{J}$ of heat each second. Find the potential difference."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "7",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "State the heat dissipation law and derive the equation: $H = I^2Rt$"
+      "text": "State the heat-dissipation law and derive $H=I^2Rt$."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "7",
-      "year": 2020,
-      "text": "State joule's law and derive equation. $H = I^2Rt$."
-    },
-    {
-      "section": "B",
-      "number": "17",
+      "type": "long",
+      "source": "past_paper",
       "year": 2019,
-      "text": "An electronic heater has a resistance of 20 Ohm, works at a potential difference of 220 volts. Find the current passing through the heater and the power."
+      "text": "State Joule's law and derive $H=I^2Rt$."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "13",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "A $20\\,\\Omega$ heater operates at $220\\,\\mathrm{V}$. Find its current and power."
+    },
+    {
+      "chapter": "Current Electricity",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2018,
-      "text": "Two resistance of $4\\Omega$ and $6 \\Omega$ are connected in parallel and then joined to a source having an e.m.f of 12 V. Find the value of equivalent resistance of the circuit and the total current flowing it the circuit."
+      "text": "Resistances $4\\,\\Omega$ and $6\\,\\Omega$ are in parallel across $12\\,\\mathrm{V}$. Find equivalent resistance and total current."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "13",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Find the resistance of an electric bulb if 0.60A current is passing through it and the potential difference across the bulb is 90V."
+      "text": "Find a bulb resistance if current is $0.60\\,\\mathrm{A}$ and potential difference is $90\\,\\mathrm{V}$."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "12",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2016,
-      "text": "Calculate the current of electric heater. if 1800 coulomb charge passes through it in 3 minutes."
+      "text": "Find heater current if $1800\\,\\mathrm{C}$ passes in 3 minutes."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "19",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2015,
-      "text": "A parallel circuit contains 80 (ohm) heater and 20 (ohm) element. What will be the current passing through the circuit if it is driven by a voltage source of 80 volts? Also find the equivalent resistance."
+      "text": "An $80\\,\\Omega$ heater and $20\\,\\Omega$ element are in parallel across $80\\,\\mathrm{V}$. Find total current and equivalent resistance."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "16",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2014,
-      "text": "Calculate the amount of work done in carrying a charge of $+2.5\\mu c$ from A to B. If A is at a potential of 60 V & B is at 10V."
+      "text": "Calculate work done carrying $+2.5\\,\\mu\\mathrm{C}$ from A at $60\\,\\mathrm{V}$ to B at $10\\,\\mathrm{V}$."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "18",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2013,
-      "text": "Three resistance of $3\\Omega,6 \\Omega$ and $12 \\Omega$ are connected in parallel with a source of 6volt. Find the current flowing through the circuit."
+      "text": "Resistances $3\\,\\Omega$, $6\\,\\Omega$ and $12\\,\\Omega$ are connected in parallel to $6\\,\\mathrm{V}$. Find circuit current."
     },
     {
+      "chapter": "Current Electricity",
       "section": "C",
-      "number": "18",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "State and explain Ohm's law also write any three limitations of this law."
+      "text": "State and explain Ohm's law and write any three limitations."
     },
     {
+      "chapter": "Current Electricity",
       "section": "C",
-      "number": "19",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "With the help of circuit diagram derive the formula for equivalent resistance of parallel combination of circuit. Also write three advantages of series combination."
+      "text": "Using a circuit diagram, derive the formula for equivalent resistance in parallel and write three advantages of series combination."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "Is it always the case that a series connection between capacitors will result in an equal amount of charge being stored in each capacitor?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Does a series connection of capacitors always store equal charge on each capacitor?"
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "Why should we connect the equipment in parallel rather than in series, and what are the benefits of this configuration?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why are appliances connected in parallel rather than series, and what are the benefits?"
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "Does a circuit need a potential difference in order for current to flow through it"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Does current require a potential difference to flow?"
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
-      "text": "It is impracticable to connect an electric blub and an electric heater in series. Why?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is it impractical to connect an electric bulb and heater in series?"
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(v)",
-      "year": 0,
-      "text": "When a fuse is used in a circuit, does it control the current or the potential difference?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Does a fuse control current or potential difference?"
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(vi)",
-      "year": 0,
-      "text": "Explain what you mean by the term \"conventional current\""
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain conventional current."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(vii)",
-      "year": 0,
-      "text": "Describe Ohm's law and its limitations"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe Ohm's law and its limitations."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(viii)",
-      "year": 0,
-      "text": "Determine the effective resistance of a number of resistances that are connected in either series or parallel by doing_ the appropriate calculations."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Determine effective resistance for series and parallel resistance combinations."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(ix)",
-      "year": 0,
-      "text": "Explain what influences the resistance of a metal conductor and how you measure? it."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What affects the resistance of a metal conductor, and how is it measured?"
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(x)",
-      "year": 0,
-      "text": "Explain Joule's law and the process of energy dissipation in a resistance."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain Joule's law and energy dissipation in a resistor."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(xi)",
-      "year": 0,
-      "text": "Explain the roles of the live, neutral and earth wires in a standard home electrical system."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the roles of live, neutral and earth wires in home wiring."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(xii)",
-      "year": 0,
-      "text": "Flow Does AC Work?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How does AC work?"
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(xiii)",
-      "year": 0,
-      "text": "Explain the risks associated with electrical current (damage insulation, overheating of cables, damp conditions)."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain electrical-current risks involving damaged insulation, overheated cables and damp conditions."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(xiv)",
-      "year": 0,
-      "text": "Explain how safety precautions are used in home electricity."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain home-electrical safety precautions."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(xv)",
-      "year": 0,
-      "text": "Describe the effects of an appliance-caused electrical shock on the human body."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe effects of appliance-caused electric shock on the human body."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(xvi)",
-      "year": 0,
-      "text": "Why the voltage used for the domestic supply much lower than the voltage at which the power is transmitted?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is domestic supply voltage much lower than power-transmission voltage?"
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "When the current in a pocket calculator is 0.0002A, how much charge flows even minute?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A calculator current is $0.0002\\,\\mathrm{A}$. How much charge flows each minute?"
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "Calculate the amount of current that an electric heater uses to heat a room in 5 minutes if the charges 2100C."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Find the current used by a heater in 5 minutes if charge is $2100\\,\\mathrm{C}$."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "A potential difference of $90V$ exists between two points. The amount of work done when an unknown charge is moved between the points is $450J$. Determine the charge amount"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A potential difference of $90\\,\\mathrm{V}$ does $450\\,\\mathrm{J}$ of work moving an unknown charge. Find the charge."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
-      "text": "Calculate the potential difference between two points A and B if it takes $9\\times 10^{-4}J$ of external work to move a charge of $+9\\mu C$ from A to B."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Find the potential difference if $9\\times10^{-4}\\,\\mathrm{J}$ moves $+9\\,\\mu\\mathrm{C}$ from A to B."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(v)",
-      "year": 0,
-      "text": "The potential difference applied to a portable radio terminal is .0 Volts. Determine the resistance of the radio when a current of $20mA$ flows through it."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A portable radio has an applied potential difference of $9.0\\,\\mathrm{V}$ and current $20\\,\\mathrm{mA}$. Find resistance."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(vi)",
-      "year": 0,
-      "text": "Resistances of $4\\Omega$, $6\\Omega$, and $12\\Omega$ are connected in parallel and then connected to a $6V$ cmf source. Determine the value of i. The circuit's equivalent resistance. ii. The total current flowing through the circuit. iii. The current that flows through each resistance."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Resistances $4\\,\\Omega$, $6\\,\\Omega$, and $12\\,\\Omega$ are in parallel across $6\\,\\mathrm{V}$. Find equivalent resistance, total current, and branch currents."
     },
     {
+      "chapter": "Current Electricity",
       "section": "B",
-      "number": "(vii)",
-      "year": 0,
-      "text": "A $220V$ circuit is used to power two 120 watt and 80 watt light bulbs. Which bulb has the greater resistance and which one has the higher current?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A $220\\,\\mathrm{V}$ circuit powers $120\\,\\mathrm{W}$ and $80\\,\\mathrm{W}$ bulbs. Which has greater resistance and which has greater current?"
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "13",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2025,
-      "text": "A 1.5m long wire carrying a current of 5A is placed at right angle in a magnetic field of strength 0.04T. Calculate the force exerted on the wire."
+      "text": "A $1.5\\,\\mathrm{m}$ wire carrying $5\\,\\mathrm{A}$ is perpendicular to a $0.04\\,\\mathrm{T}$ magnetic field. Calculate the force."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "6",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is transformer and on which principle it works?"
+      "text": "What is a transformer and on what principle does it work?"
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "13",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2024,
-      "text": "A wire carrying 2 Ampere current and has length of 150 cm between the poles of a magnet is kept at an angle of $30^\\circ$ to the uniform field of 0.8 T. Find the force acting on the wire."
+      "text": "A $150\\,\\mathrm{cm}$ wire carrying $2\\,\\mathrm{A}$ is at $30^\\circ$ to a $0.8\\,\\mathrm{T}$ field. Find the force."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "5",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Explain with diagram, How to change the magnetic field which causes induced emf in a circuit."
+      "text": "With a diagram, explain how changing a magnetic field induces emf in a circuit."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "13",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2023,
-      "text": "A transformer is needed to convert a main supply 220V supply into a 12V supply. If there are 2200 turns on the primary coil, then find the turns on the secondary coil."
+      "text": "A transformer converts $220\\,\\mathrm{V}$ to $12\\,\\mathrm{V}$. If the primary has 2200 turns, find secondary turns."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "20",
+      "type": "short",
+      "source": "past_paper",
       "year": 2015,
-      "text": "Write the name of three elements by which magnets are artificially made by their alloy and also write three modern uses of magnet."
+      "text": "Name three elements whose alloys make artificial magnets, and give three modern uses of magnets."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "19",
+      "type": "short",
+      "source": "past_paper",
       "year": 2014,
-      "text": "Define Electric Motor and write down two factors on which its speed depends."
+      "text": "Define an electric motor and state two factors affecting its speed."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "C",
-      "number": "16",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What is a Transformer? On what principle does it operate on? Describe its four practical applications in every-day life."
+      "text": "What is a transformer? State its operating principle and four everyday applications."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "C",
-      "number": "19",
-      "year": 0,
-      "text": "(a) What are simple electric motors? Write down its construction and working with diagram"
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What are simple electric motors? Describe construction and working with a diagram."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "C",
-      "number": "25",
-      "year": 0,
-      "text": "(b) Write four similarities of Static Electricity and magnetism."
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Write four similarities between static electricity and magnetism."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "A wire in a magnetic field generates voltage. To generate maximum voltage, move the wire in what direction relative to the field?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "In what direction should a wire move relative to a magnetic field to generate maximum voltage?"
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "Can a transformer operate on direct current?"
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "Demonstrate through an experiment how an electric current in a conductor magnetic field in its vicinity."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Demonstrate experimentally that current in a conductor creates a magnetic field nearby."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
-      "text": "Explain how a force works on a current- carrying conductor that is perpendicular to the magnetic field."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the force on a current-carrying conductor perpendicular to a magnetic field."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(v)",
-      "year": 0,
-      "text": "State that, a current carrying coil in a magnetic field will experience a torque."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain why a current-carrying coil in a magnetic field experiences torque."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(vi)",
-      "year": 0,
-      "text": "Describe an experiment that demonstrate the induction of e.m.f. in a circuit by a varying magnetic field."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe an experiment demonstrating induction of emf by a varying magnetic field."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(vii)",
-      "year": 0,
-      "text": "Give some examples of what could increase or decrease the strength of an induced e.m.f."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Give factors that increase or decrease induced emf."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(viii)",
-      "year": 0,
-      "text": "Explain that the direction of an induced e.m.f opposes the change causing it and relate this phenomenon to conservation of energy."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain how induced emf opposes the change causing it and relate this to conservation of energy."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(ix)",
-      "year": 0,
-      "text": "Explain how an A.C. generator works in its most simple form."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain how a simple AC generator works."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(x)",
-      "year": 0,
-      "text": "Explain the units of mutual induction and provide an example."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the unit of mutual induction and give an example."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(xi)",
-      "year": 0,
-      "text": "Recognize that a transformer is based on the concept of mutual induction between two coils."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain why a transformer is based on mutual induction between two coils."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(xii)",
-      "year": 0,
-      "text": "Explain what role transformers play in alternating current (AC) circuits."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the role of transformers in AC circuits."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(xiii)",
-      "year": 0,
-      "text": "Determine the function of transformers in the process of moving electrical current from the power plant to your home."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain transformer functions in transmitting electricity from a power plant to a home."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(xiv)",
-      "year": 0,
-      "text": "Compile a list of the numerous applications of transformers (step- up and step- down) that can be found in your home."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "List household applications of step-up and step-down transformers."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "A wire carrying 4A current and has length of 15 cm between the poles of a magnet is kept at an angle of $30^\\circ$ to the uniform field of $0.8 \\text{T}$. Find the force acting on the wire?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A $15\\,\\mathrm{cm}$ wire carrying $4\\,\\mathrm{A}$ is at $30^\\circ$ to a $0.8\\,\\mathrm{T}$ field. Find the force."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "A square loop of wire of side $2.0 \\text{cm}$ carries $2.0 \\text{A}$ of current. A uniform magnetic field of magnitude $0.7 \\text{T}$ makes an angle of $30^\\circ$ with the plane of the loop. What is the magnitude of torque on the loop?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A square loop of side $2.0\\,\\mathrm{cm}$ carries $2.0\\,\\mathrm{A}$. A $0.7\\,\\mathrm{T}$ field makes $30^\\circ$ with its plane. Find the torque."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "A transformer is needed to convert a mains $220 \\text{V}$ supply into a $12 \\text{V}$ supply. If there are $2200$ turns on the primary coil, then find the number of turns on the secondary coil."
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A transformer converts $220\\,\\mathrm{V}$ to $12\\,\\mathrm{V}$. If the primary has 2200 turns, find secondary turns."
     },
     {
+      "chapter": "Electromagnetism",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
-      "text": "A coil surrounding a long solenoid, the current in the solenoid is changing at a rate of $150 \\text{A} / \\text{s}$ and the mutual induction of the two coils is $5 \\times 10^5 \\text{H}$. Determine the emf induced in the surrounding coil?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "The current in a long solenoid changes at $150\\,\\mathrm{A\\,s^{-1}}$ and mutual inductance is $5\\times10^{-5}\\,\\mathrm{H}$. Find the induced emf in the surrounding coil."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "6",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Draw diagrams of 'AND' gate and 'NOR' gate showing output of two inputs."
+      "text": "Draw AND and NOR gate diagrams showing output for two inputs."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "7",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Write down any three differences between Analogue and Digital electronics."
+      "text": "Write three differences between analogue and digital electronics."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "6",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Define thermionic emission. How emission take place in tungsten filament?"
+      "text": "Define thermionic emission. How does it occur in a tungsten filament?"
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "C",
-      "number": "17",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "If an electron enters in a uniform magnetic field perpendicularly, explain with diagram the effects on the path of electron."
+      "text": "An electron enters a uniform magnetic field perpendicularly. Explain with a diagram the effect on its path."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "C",
-      "number": "16",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What do you mean by C.R.O? Write its working with the help of a diagram."
+      "text": "What is a cathode-ray oscilloscope (CRO)? Explain its working with a diagram."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "Give an example showing that the world is shifting from low-tech electrical appliances to high-tech electronic appliances"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Give an example showing the shift from low-tech electrical appliances to high-tech electronic appliances."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "Write any three advantages of Digital electronics (devices) over analogue electronics devices."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write three advantages of digital devices over analogue devices."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "Define the role of vacuum tube in electronics."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define the role of a vacuum tube in electronics."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
-      "text": "What is the function of a 'DAC'?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the function of a DAC?"
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(v)",
-      "year": 0,
-      "text": "What makes the cathode give off electrons?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What makes a cathode emit electrons?"
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(vi)",
-      "year": 0,
-      "text": "(a) Demonstrate the process of thermionic emission by diagram? (b) Will the process of thermionic emission still occurs, if air is in the tube"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Demonstrate thermionic emission with a diagram. Would it occur if air were present in the tube, and why is a vacuum used?"
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(vii)",
-      "year": 0,
-      "text": "Why instead of having vacuum in it?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write two properties of cathode rays."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(viii)",
-      "year": 0,
-      "text": "Write any two properties of cathode rays."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Do cathode-ray properties change if the gas in the tube changes?"
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(vix)",
-      "year": 0,
-      "text": "Will there be any change in the properties of cathode rays if the gas in tube is changed?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Do cathode-ray properties change if the cathode metal changes?"
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(x)",
-      "year": 0,
-      "text": "Will there be any change in the properties of cathode rays if the metal used cathode is changed?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Name two devices that use an electron beam."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xi)",
-      "year": 0,
-      "text": "Name any two devices that uses an electron beam?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Cathode rays led to the discovery of which particle?"
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xii)",
-      "year": 0,
-      "text": "Cathode rays lead the discovery of which particle?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain production of an electron beam by an electron gun."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xiii)",
-      "year": 0,
-      "text": "State and explain the phenomenon of the production of an electron beam by electron gun?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Does an electron beam change direction in an electric field? Explain."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xiv)",
-      "year": 0,
-      "text": "Is there any change occurs in the direction of an electron beam when it pass through an electric field. Explain?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How can an electron-gun beam be directed at a specific target?"
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xv)",
-      "year": 0,
-      "text": "How the beam of electron produced by the electron gun can be directed to specific target?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Show with a diagram the deflection of an electron beam by an electric field."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xvi)",
-      "year": 0,
-      "text": "Demonstrate by a diagram the deflection of electron beam by an electric field."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What happens to the energy and speed of an electron beam in a magnetic field?"
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xvii)",
-      "year": 0,
-      "text": "(a) What happens to the energy of electron beam when it passes through magnetic field? (b) Is there any change in the speed of electron beam as it passes through magnetic field."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Give three effects of magnetic-field deflection on an electron beam."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xviii)",
-      "year": 0,
-      "text": "Give any three effects of deflection of electron beam by a magnetic field."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain the functions of the fluorescent screen, cathode, anode and Y-plates of a CRO."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xix)",
-      "year": 0,
-      "text": "Explain the function of following parts of a cathode- ray oscilloscope (a) The fluorescent screen. (b) The cathode. (c) The anode. (d) The Y- plate."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain how an electron beam is produced inside an oscilloscope."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xx)",
-      "year": 0,
-      "text": "Explain how the beam of electrons is produced inside oscilloscope."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What accelerates electrons from cathode to anode?"
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xxi)",
-      "year": 0,
-      "text": "Explain what makes the electrons accelerate from the cathode anode?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain logic with an example."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xiii)",
-      "year": 0,
-      "text": "Explain the term \"LOGIC\" by giving a suitable example?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Name the component that implements logic in digital electronics. Is an intermediate state possible?"
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xiiii)",
-      "year": 0,
-      "text": "Name the component which implements logic in digital electronics."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Draw the symbol of a NAND gate."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xiv)",
-      "year": 0,
-      "text": "Explain is there any intermediate state possible?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Give the truth table for an AND gate."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xv)",
-      "year": 0,
-      "text": "Give the symbol of a NAND gate."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the logic operation of an inverter."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xvi)",
-      "year": 0,
-      "text": "Give the truth table for AND gate."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Give the truth table for an OR gate."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xvii)",
-      "year": 0,
-      "text": "(a) Describe the logic operation of an inverter?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Which two logic gates output 1 for inputs 1 and 0?"
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xviii)",
-      "year": 0,
-      "text": "Produce the truth table for an OR gate?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Draw the symbol of a NOR gate."
     },
     {
+      "chapter": "Introductory Electronics",
       "section": "B",
-      "number": "(xix)",
-      "year": 0,
-      "text": "Which two logic gates will give an output of 1 with inputs of 1 and 0?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Give the truth table for a NOR gate."
     },
     {
-      "section": "B",
-      "number": "(xxx)",
-      "year": 0,
-      "text": "Give the symbol of a NOR gate?"
-    },
-    {
-      "section": "B",
-      "number": "(xxi)",
-      "year": 0,
-      "text": "Give the truth table of a NOR gate?"
-    },
-    {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "C",
-      "number": "18",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What is meant by flow of information? Explain how light signals are transmitted through optical fibre?"
+      "text": "What is meant by flow of information? Explain how light signals are transmitted through optical fiber."
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "C",
-      "number": "17",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is information storage device? Name six information storage devices and describe use of any three."
+      "text": "What is an information storage device? Name six storage devices and describe the use of any three."
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "C",
-      "number": "16",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What is information technology? Also describe five components of computer based on information system."
+      "text": "What is information technology? Describe five components of a computer-based information system."
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "What is difference between data and information?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Differentiate data and information."
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "What do you understand by Information and (ICT)?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What do you understand by information and communication technology (ICT)?"
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "What are the components of information technology? Clearly indicate the function of each component."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "List the components of information technology and state the function of each."
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
-      "text": "Differentiate between the primary memory and the secondary memory."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Differentiate primary and secondary memory."
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(v)",
-      "year": 0,
-      "text": "Name different information storage devices and describe their uses."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Name information storage devices and describe their uses."
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(vi)",
-      "year": 0,
-      "text": "Explain briefly the transmission of radio waves through space."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Briefly explain radio-wave transmission through space."
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(vii)",
-      "year": 0,
-      "text": "How light signals are sent through optical fiber?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How are light signals sent through optical fiber?"
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(viii)",
-      "year": 0,
-      "text": "What is computer? What is the role of computer in everyday life?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a computer, and what is its role in everyday life?"
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(ix)",
-      "year": 0,
-      "text": "What is the difference between hardware and softwares? Name different softwares."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Differentiate hardware and software, and name types of software."
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(x)",
-      "year": 0,
-      "text": "What do you understand by the term word processing and data managing?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain word processing and data management."
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(xi)",
-      "year": 0,
-      "text": "What is Internet? Internet is a useful source of knowledge and information. Discuss."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the Internet? Discuss it as a useful source of knowledge and information."
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(xii)",
-      "year": 0,
+      "type": "short",
+      "source": "important_book",
+      "year": null,
       "text": "Discuss the role of information technology in school education."
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(xiii)",
-      "year": 0,
-      "text": "Why optical fiber is more useful tool for the communication process?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is optical fiber especially useful for communication?"
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(xiv)",
-      "year": 0,
-      "text": "Which is more reliable floppy disk or a hard disk?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Which is more reliable: floppy disk or hard disk?"
     },
     {
+      "chapter": "Information and Communication Technology (ICT)",
       "section": "B",
-      "number": "(xv)",
-      "year": 0,
-      "text": "What is the difference between RAM and ROM memories?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Differentiate RAM and ROM."
     },
     {
+      "chapter": "Atomic Structure",
       "section": "B",
-      "number": "7",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define atoms. Describe its two parts."
+      "text": "Define an atom and describe its two parts."
     },
     {
+      "chapter": "Atomic Structure",
       "section": "B",
-      "number": "5",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
       "text": "What are the main features of Rutherford's atomic model?"
     },
     {
+      "chapter": "Atomic Structure",
       "section": "C",
-      "number": "15",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Write Geiger and Morsden $\\alpha$ – scattering experiment and its results in detail."
+      "text": "Describe the Geiger-Marsden alpha-scattering experiment and its results in detail."
     },
     {
+      "chapter": "Atomic Structure",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "Which particles are found in the nucleus of an atom?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Which particles are found in an atomic nucleus?"
     },
     {
+      "chapter": "Atomic Structure",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "Describe the structure of an atom."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe atomic structure."
     },
     {
+      "chapter": "Atomic Structure",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "How does the number of protons in a nucleus distinguish one element from the other?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "How does proton number distinguish one element from another?"
     },
     {
+      "chapter": "Atomic Structure",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
-      "text": "Cite the Geiger Marsden experiment with the help of a diagram."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe the Geiger-Marsden experiment with a diagram."
     },
     {
+      "chapter": "Atomic Structure",
       "section": "B",
-      "number": "(v)",
-      "year": 0,
-      "text": "Give the Rutherford model of an atom."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Give Rutherford's model of the atom."
     },
     {
+      "chapter": "Atomic Structure",
       "section": "B",
-      "number": "(vi)",
-      "year": 0,
-      "text": "Why it was proposed that most atoms possess an empty space."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why was it proposed that most of an atom is empty space?"
     },
     {
+      "chapter": "Atomic Structure",
       "section": "B",
-      "number": "(vii)",
-      "year": 0,
-      "text": "Define Atomic number (Z)"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define atomic number $Z$."
     },
     {
+      "chapter": "Atomic Structure",
       "section": "B",
-      "number": "(viii)",
-      "year": 0,
-      "text": "Explain the symbolic representation of an atom of an element. Give an example."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain symbolic notation of an atom and give an example."
     },
     {
+      "chapter": "Atomic Structure",
       "section": "B",
-      "number": "(ix)",
-      "year": 0,
-      "text": "What is the isotope?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is an isotope?"
     },
     {
+      "chapter": "Atomic Structure",
       "section": "B",
-      "number": "(x)",
-      "year": 0,
-      "text": "Explain the isotope with an example."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Explain isotopes with an example."
     },
     {
+      "chapter": "Atomic Structure",
       "section": "B",
-      "number": "(xi)",
-      "year": 0,
-      "text": "Why are the chemical properties of an element's different isotopes identical?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why do isotopes of an element have identical chemical properties?"
     },
     {
+      "chapter": "Atomic Structure",
       "section": "B",
-      "number": "14",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "List the physical properties in which isotopes of an element differ."
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "Write three difference between $\\alpha$-rays and $\\beta$-rays."
+      "text": "Write three differences between alpha rays and beta rays."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "11",
+      "type": "short",
+      "source": "past_paper",
       "year": 2016,
-      "text": "Write two uses of radioisotopes in medicine and one use in industry."
+      "text": "Write two uses of radioisotopes in medicine and one in industry."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "16",
+      "type": "short",
+      "source": "past_paper",
       "year": 2016,
-      "text": "Write down three precaution to minimize the radiations hazards."
+      "text": "Write three precautions to minimize radiation hazards."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "17",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2016,
-      "text": "Half life of $_{53}I^{131}$ is 8 days. Find the amount of iodine left after 16 days from a sample of 100gm."
+      "text": "The half-life of iodine-131 is 8 days. Find the iodine remaining after 16 days from a $100\\,\\mathrm{g}$ sample."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "12",
+      "type": "short",
+      "source": "past_paper",
       "year": 2014,
-      "text": "Write down any three differences between alpha and beta rays."
+      "text": "Write three differences between alpha and beta rays."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "18",
+      "type": "short",
+      "source": "past_paper",
       "year": 2014,
       "text": "Describe any three laws of fusion."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "21",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2013,
-      "text": "The Half-life of Radium is 1600 years. Fin the amount of Radium left after 4800 years, if its mass is 60g."
+      "text": "Radium has a half-life of 1600 years. Find the amount remaining after 4800 years from an initial $60\\,\\mathrm{g}$."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "C",
-      "number": "19",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define nuclear fission and nuclear fusion reactions. Explain fission chain reaction in U - 235."
+      "text": "Define nuclear fission and fusion. Explain the fission chain reaction in uranium-235."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "C",
-      "number": "19",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is Radio activity? Write down any two common radiation hazards and six safety measures against radiations."
+      "text": "What is radioactivity? State two common radiation hazards and six safety measures."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "C",
-      "number": "18",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Define fission and fusion reactions, with their equations, Explain fission chain reaction with the help of diagram."
+      "text": "Define fission and fusion with equations and explain a fission chain reaction using a diagram."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "C",
-      "number": "23",
+      "type": "long",
+      "source": "past_paper",
       "year": 2015,
-      "text": "(a)What is Natural Radioactivity? Name three elements which emit powerful radiations and write the range of velocity of particles of negative rays emitted during radioactivity."
+      "text": "What is natural radioactivity? Name three strongly radioactive elements and state the velocity range of negative rays emitted during radioactivity."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "C",
-      "number": "24",
+      "type": "long",
+      "source": "past_paper",
       "year": 2014,
-      "text": "(a)Define Nuclear fission Reaction. Write down its equation and explain Chain Fission Reaction."
+      "text": "Define nuclear fission, write its equation and explain a chain fission reaction."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "C",
-      "number": "25",
+      "type": "long",
+      "source": "past_paper",
       "year": 2014,
-      "text": "(b)Draw the diagram of nuclear reactor and describe the importance of boron rod."
+      "text": "Draw a nuclear reactor and describe the importance of boron rods."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "Define the term radioactivity."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define radioactivity."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "What do you mean by the term stable nucleus?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a stable nucleus?"
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "Why are some elements radioactive, but some are not?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why are some elements radioactive while others are not?"
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
-      "text": "The uranium isotope $_{92}U^{238}$ with atomic mass (nucleon number) 238 and atomic number 92. (a) State the nucleon number. (b) Uranium-238 nuclide decays to form a thorium nuclide (symbol Th) emission of an alpha particle. State i. The proton number of an alpha particle, ii. The nucleon number of an alpha particle, iii. The proton number of thorium iv. The nucleon number of thorium isotopes formed. c) Complete the nuclear equation of the uranium decay."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "For uranium-238, state the nucleon number. If it emits an alpha particle to form thorium, find the alpha proton and nucleon numbers, thorium proton and nucleon numbers, and complete the decay equation."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(v)",
-      "year": 0,
-      "text": "A radioactive rock emits gamma rays. A demonstrator plans to experiment to show that the emission of gamma rays is random. (a) State the random nature of radioactive decay. (b) Describe what is meant by a gamma- ray i. State two safety measures that the researcher must take. ii. Describe how the experiment is performed."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "A radioactive rock emits gamma rays. State the random nature of radioactive decay, define gamma rays, give two safety measures, and describe an experiment showing random emission."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(vi)",
-      "year": 0,
-      "text": "The nuclide notation for two isotopes of carbon is $_6C^{12}$ and $_6C^{14}$ Carbon- 14 decays by beta emission to a stable isotope of nitrogen. a) Which nuclide of the carbon is? State with a reason. i. Stable isotope ii. Radioisotope"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "For carbon-12 and carbon-14, identify the stable isotope and radioisotope with reasons."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(vii)",
-      "year": 0,
-      "text": "What is meant by a beta particle?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a beta particle?"
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(viii)",
-      "year": 0,
-      "text": "Write the nuclear equation of carbon14 decay to a nitrogen- 14 by beta decay."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Write the beta-decay equation of carbon-14 to nitrogen-14."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(ix)",
-      "year": 0,
-      "text": "When a slow- moving neutron hits a $_{92}U^{235}$ nucleus, it splits into the nucleus of barium $_{56}Ba^{141}$ and the nucleus of krypton $_{36}Kr^{92}$ and emits three neutrons energy is released. $_0n^1 + _{92}U^{235}\\rightarrow _{92}U^{236}\\rightarrow _{56}Ba^{141} + _{36}Kr^{92} + 3_0n^1 + \\text{energy}$ (a) State name of the nuclear process. (b) Which of the two isotopes of U- 235 and U- 236 have a shorter half- life. (c) How can we make radioisotopes artificially? Describe a suitable example (d) For the given process, state its one application in our daily lives."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "A slow neutron causes $^{235}_{92}\\mathrm{U}$ to split into $^{141}_{56}\\mathrm{Ba}$ and $^{92}_{36}\\mathrm{Kr}$ plus three neutrons. Name the process, compare the half-lives of U-235 and U-236, explain artificial production of radioisotopes with an example, and state one application."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(x)",
-      "year": 0,
-      "text": "The reaction that takes place at the center of the sun can be represented as $2_1P^1 + 3_0n^1\\rightarrow_2He^4 + \\text{energy}$ (a) State the name of this type of reaction. (b) Also, define the reaction: (c) A Nuclear fusion reaction is a more reliable and sustainable energy source than nuclear fission chain reaction. Justify this statement with suitable arguments."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "The solar reaction $2{}^{1}_{1}\\mathrm{p}+3{}^{1}_{0}\\mathrm{n}\\rightarrow{}^{4}_{2}\\mathrm{He}+\\text{energy}$ is given. Name and define the reaction, and justify why fusion is more reliable and sustainable than a fission chain reaction."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(xi)",
-      "year": 0,
-      "text": "What do you understand by the half- life of a radioactive element?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define half-life of a radioactive element."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(xii)",
-      "year": 0,
-      "text": "When a Radium- 226 undergoes alpha decay, Radon- 222 is produced $_{88}Ra^{226}\\rightarrow _{86}Rn^{222} + _2He^4 + \\text{energy}$ Which of the nuclide is a (a). Parent nuclide (b). Daughter nuclide"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "In $^{226}_{88}\\mathrm{Ra}\\rightarrow{}^{222}_{86}\\mathrm{Rn}+{}^{4}_{2}\\mathrm{He}+\\text{energy}$, identify parent and daughter nuclides."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(xiii)",
-      "year": 0,
-      "text": "Define the terms (a). Parent nuclide (b). Daughter nuclide"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Define parent nuclide and daughter nuclide."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(xiv)",
-      "year": 0,
-      "text": "Describe uses of radioisotopes in (a) medicine (b) industry (c) agriculture"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Describe uses of radioisotopes in medicine, industry and agriculture."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(xv)",
-      "year": 0,
-      "text": "What are the common radiation hazards?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "What are common radiation hazards?"
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(xvi)",
-      "year": 0,
-      "text": "Why is an alpha source more harmful when lodged into the body?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is an alpha source more harmful when lodged inside the body?"
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(xvii)",
-      "year": 0,
-      "text": "Which type of radiation is more hazardous than other radiations? Explain why?"
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Which radiation is more hazardous than others, and why?"
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(xviii)",
-      "year": 0,
-      "text": "Describe briefly the safety measures that are taken against them."
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Briefly describe safety measures against radiation."
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(i)",
-      "year": 0,
-      "text": "A living plant contains approximately the same isotopic abundance of C- 14 as does atmospheric carbon dioxide. The observed rate of decay of C- 14 from a living plant is 15.3 disintegrations per minute per gram of carbon. How much disintegration per minute per gram of carbon will be measured from a 12900- year- old sample? (The half- life of C- 14 is 5730 years.)"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "Living plants have carbon-14 activity $15.3$ disintegrations per minute per gram. What activity will a 12,900-year-old sample have if the half-life is 5730 years?"
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(ii)",
-      "year": 0,
-      "text": "The smallest C- 14 activity that can be measured is about 0.20%. If C- 14 is used to date an object, the object must have died within how many years?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "The smallest measurable carbon-14 activity is about $0.20\\%$. Within how many years must an object have died for carbon dating?"
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(iii)",
-      "year": 0,
-      "text": "How long will it take for 25% of the C- 14 atoms in a sample of C- 14 to decay?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "How long will it take for $25\\%$ of carbon-14 atoms in a sample to decay?"
     },
     {
+      "chapter": "Nuclear Structure",
       "section": "B",
-      "number": "(iv)",
-      "year": 0,
-      "text": "The carbon- 14 decay rate of a sample obtained from a young tree is 0.296 disintegration per second per gram of the sample. Another wood sample prepared from an object recovered at an archaeological excavation gives a decay rate of 0.109 disintegration per second per gram of the sample. What is the age of the object?"
+      "type": "numerical",
+      "source": "important_book",
+      "year": null,
+      "text": "A young tree has carbon-14 activity $0.296$ disintegrations per second per gram; archaeological wood has $0.109$. Find the age of the object."
     }
   ]
 }

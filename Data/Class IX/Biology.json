@@ -3,7 +3,7 @@
   "class": "IX",
   "questions": [
     {
-      "chapter": 1,
+      "chapter": "Introduction to Biology",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -11,7 +11,7 @@
       "text": "Name and define the basic divisions of Biology."
     },
     {
-      "chapter": 1,
+      "chapter": "Introduction to Biology",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Introduction to Biology",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -41,7 +41,7 @@
       "text": "Draw a neat and labelled diagram of Amoeba."
     },
     {
-      "chapter": 1,
+      "chapter": "Introduction to Biology",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -49,7 +49,7 @@
       "text": "“Careers in Biology.” Describe any three fields of it."
     },
     {
-      "chapter": 1,
+      "chapter": "Introduction to Biology",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -57,7 +57,7 @@
       "text": "Write the contribution of any three Muslim scientists in the field of Biology."
     },
     {
-      "chapter": 1,
+      "chapter": "Introduction to Biology",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -65,7 +65,7 @@
       "text": "Write the translation of any two Quranic Ayah about plants and animals."
     },
     {
-      "chapter": 1,
+      "chapter": "Introduction to Biology",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Introduction to Biology",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -95,7 +95,7 @@
       "text": "Describe the relationship of Biology with any three branches of science."
     },
     {
-      "chapter": 1,
+      "chapter": "Introduction to Biology",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Introduction to Biology",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -125,7 +125,7 @@
       "text": "Make a flow chart showing different levels of organization in living things."
     },
     {
-      "chapter": 2,
+      "chapter": "Solving a Biological Problem",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -133,7 +133,7 @@
       "text": "Explain the term hypothesis with the help of an example."
     },
     {
-      "chapter": 2,
+      "chapter": "Solving a Biological Problem",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -141,7 +141,7 @@
       "text": "Write three differences between theory and law."
     },
     {
-      "chapter": 2,
+      "chapter": "Solving a Biological Problem",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -149,7 +149,7 @@
       "text": "Explain the biological method with the help of a flowchart."
     },
     {
-      "chapter": 3,
+      "chapter": "Biodiversity",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -157,7 +157,7 @@
       "text": "What is meant by homologous and analogous? Explain with examples."
     },
     {
-      "chapter": 3,
+      "chapter": "Biodiversity",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "chapter": 3,
+      "chapter": "Biodiversity",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -199,7 +199,7 @@
       "text": "Define conservation of biodiversity."
     },
     {
-      "chapter": 3,
+      "chapter": "Biodiversity",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -207,7 +207,7 @@
       "text": "Describe any three principles of classification."
     },
     {
-      "chapter": 3,
+      "chapter": "Biodiversity",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -215,7 +215,7 @@
       "text": "Describe any three causes of deforestation."
     },
     {
-      "chapter": 3,
+      "chapter": "Biodiversity",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -223,7 +223,7 @@
       "text": "Write down any three characteristics of kingdom Fungi."
     },
     {
-      "chapter": 3,
+      "chapter": "Biodiversity",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -231,7 +231,7 @@
       "text": "Define biodiversity and its importance."
     },
     {
-      "chapter": 3,
+      "chapter": "Biodiversity",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -239,7 +239,7 @@
       "text": "Define classification. Name its units and explain any one."
     },
     {
-      "chapter": 3,
+      "chapter": "Biodiversity",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -247,7 +247,7 @@
       "text": "Write three characteristics of members of Kingdom Monera (Prokaryotae)."
     },
     {
-      "chapter": 3,
+      "chapter": "Biodiversity",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -255,7 +255,7 @@
       "text": "Describe five-kingdom classification."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -263,7 +263,7 @@
       "text": "Draw a neat and labelled diagram of an animal or plant cell."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -271,7 +271,7 @@
       "text": "Draw a neat and labelled diagram of cardiac muscles."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -301,7 +301,7 @@
       "text": "Write a note on light microscope."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -309,7 +309,7 @@
       "text": "Write any three differences between light microscope and electron microscope."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -339,7 +339,7 @@
       "text": "Write three fundamental postulates of cell theory."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -347,7 +347,7 @@
       "text": "Draw a neat and labelled diagram of smooth muscles."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -355,7 +355,7 @@
       "text": "Define plastids and write their types."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -363,7 +363,7 @@
       "text": "Write a note on mitochondria."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -371,7 +371,7 @@
       "text": "Draw a neat and labelled diagram of an animal cell."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -379,7 +379,7 @@
       "text": "Define plastids and write two types of them."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -387,7 +387,7 @@
       "text": "Write three differences between prokaryotic cell and eukaryotic cell."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -417,7 +417,7 @@
       "text": "Draw a neat and labelled diagram of mitochondria."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -425,7 +425,7 @@
       "text": "Name different types of animal tissues and describe any one."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -433,7 +433,7 @@
       "text": "Write any three fundamental postulates of cell theory."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -441,7 +441,7 @@
       "text": "What are plant tissues? Write their types and define any two."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -449,7 +449,7 @@
       "text": "Draw a neat and labelled diagram of mitochondria."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -457,7 +457,7 @@
       "text": "What is tissue? Point out plant tissues with the help of a flow chart."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -465,7 +465,7 @@
       "text": "Define tissue. Explain muscle tissue and its types in detail."
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -473,7 +473,7 @@
       "text": "What are tissues? Name different types of plant tissues. Describe simple permanent tissues in detail. (Diagram is not necessary.)"
     },
     {
-      "chapter": 5,
+      "chapter": "Cell Cycle",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -481,7 +481,7 @@
       "text": "Define two basic ways of cell death in multicellular organisms."
     },
     {
-      "chapter": 5,
+      "chapter": "Cell Cycle",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -489,7 +489,7 @@
       "text": "Write different types of chromosomes with their diagrams."
     },
     {
-      "chapter": 5,
+      "chapter": "Cell Cycle",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -497,7 +497,7 @@
       "text": "Define mitosis."
     },
     {
-      "chapter": 5,
+      "chapter": "Cell Cycle",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -505,7 +505,7 @@
       "text": "Why is meiosis called reduction division?"
     },
     {
-      "chapter": 5,
+      "chapter": "Cell Cycle",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -513,7 +513,7 @@
       "text": "Define chromosome. Name its types."
     },
     {
-      "chapter": 5,
+      "chapter": "Cell Cycle",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -521,7 +521,7 @@
       "text": "What is mitosis? Name four stages of it and define any one."
     },
     {
-      "chapter": 5,
+      "chapter": "Cell Cycle",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -529,7 +529,7 @@
       "text": "Define mitosis, write its different stages, and explain any two of them."
     },
     {
-      "chapter": 5,
+      "chapter": "Cell Cycle",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -537,7 +537,7 @@
       "text": "Define meiosis. Explain prophase and draw a labelled diagram of it."
     },
     {
-      "chapter": 5,
+      "chapter": "Cell Cycle",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -545,7 +545,7 @@
       "text": "Define mitosis. Name and define different stages of it with a diagram of each."
     },
     {
-      "chapter": 6,
+      "chapter": "Enzymes",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -553,7 +553,7 @@
       "text": "Define enzyme. Write any two uses of enzymes."
     },
     {
-      "chapter": 6,
+      "chapter": "Enzymes",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -561,7 +561,7 @@
       "text": "Define enzyme. Write any four characteristics of it."
     },
     {
-      "chapter": 7,
+      "chapter": "Bioenergetics",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -569,7 +569,7 @@
       "text": "What is photosynthesis? Explain it with a chemical equation."
     },
     {
-      "chapter": 7,
+      "chapter": "Bioenergetics",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -577,7 +577,7 @@
       "text": "Write three differences between light reaction and dark reaction."
     },
     {
-      "chapter": 7,
+      "chapter": "Bioenergetics",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -585,7 +585,7 @@
       "text": "What is photosynthesis? Define light-dependent reaction (light reaction) and light-independent reaction (dark reactions)."
     },
     {
-      "chapter": 7,
+      "chapter": "Bioenergetics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -593,7 +593,7 @@
       "text": "Write any six differences between respiration and photosynthesis in plants."
     },
     {
-      "chapter": 7,
+      "chapter": "Bioenergetics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -601,7 +601,7 @@
       "text": "Write any six differences between respiration and photosynthesis in plants."
     },
     {
-      "chapter": 7,
+      "chapter": "Bioenergetics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -609,7 +609,7 @@
       "text": "Define respiration. Write aerobic and anaerobic respiration with chemical equations."
     },
     {
-      "chapter": 7,
+      "chapter": "Bioenergetics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -617,7 +617,7 @@
       "text": "Define respiration. Describe the usage of respiration energy in the body of an organism."
     },
     {
-      "chapter": 7,
+      "chapter": "Bioenergetics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -625,7 +625,7 @@
       "text": "Define respiration and explain anaerobic respiration and aerobic respiration. Also write a chemical equation for each."
     },
     {
-      "chapter": 8,
+      "chapter": "Nutrition",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -647,7 +647,7 @@
       ]
     },
     {
-      "chapter": 8,
+      "chapter": "Nutrition",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -655,7 +655,7 @@
       "text": "Write any three effects of malnutrition on humans."
     },
     {
-      "chapter": 8,
+      "chapter": "Nutrition",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -677,7 +677,7 @@
       ]
     },
     {
-      "chapter": 8,
+      "chapter": "Nutrition",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -685,7 +685,7 @@
       "text": "Define heterotrophic nutrition and explain its types."
     },
     {
-      "chapter": 8,
+      "chapter": "Nutrition",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -693,7 +693,7 @@
       "text": "Define vitamin and explain its two types."
     },
     {
-      "chapter": 8,
+      "chapter": "Nutrition",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -701,7 +701,7 @@
       "text": "Write any three effects of malnutrition on humans."
     },
     {
-      "chapter": 8,
+      "chapter": "Nutrition",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -723,7 +723,7 @@
       ]
     },
     {
-      "chapter": 8,
+      "chapter": "Nutrition",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -731,7 +731,7 @@
       "text": "Draw a neat and labelled diagram of the human alimentary canal."
     },
     {
-      "chapter": 8,
+      "chapter": "Nutrition",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -739,7 +739,7 @@
       "text": "What are the major components of human food? Describe any two components."
     },
     {
-      "chapter": 8,
+      "chapter": "Nutrition",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -747,7 +747,7 @@
       "text": "Draw a neat and labelled diagram of the human alimentary canal."
     },
     {
-      "chapter": 8,
+      "chapter": "Nutrition",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -755,7 +755,7 @@
       "text": "Define autotrophic nutrition and heterotrophic nutrition. Explain different methods of heterotrophic nutrition in plants."
     },
     {
-      "chapter": 8,
+      "chapter": "Nutrition",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -763,7 +763,7 @@
       "text": "Draw a neat and labelled diagram of the digestive system of man (human alimentary canal)."
     },
     {
-      "chapter": 9,
+      "chapter": "Transport",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -771,7 +771,7 @@
       "text": "Define pulmonary circuit and systemic circuit."
     },
     {
-      "chapter": 9,
+      "chapter": "Transport",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -779,7 +779,7 @@
       "text": "What is the role of root in transportation of water and minerals?"
     },
     {
-      "chapter": 9,
+      "chapter": "Transport",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -801,7 +801,7 @@
       ]
     },
     {
-      "chapter": 9,
+      "chapter": "Transport",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -809,7 +809,7 @@
       "text": "Explain arteries, veins and capillaries."
     },
     {
-      "chapter": 9,
+      "chapter": "Transport",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -817,7 +817,7 @@
       "text": "Draw a neat and labelled diagram of the internal structure of the human heart."
     },
     {
-      "chapter": 9,
+      "chapter": "Transport",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -825,7 +825,7 @@
       "text": "Write the names of two blood diseases. Describe their symptoms and causes."
     },
     {
-      "chapter": 9,
+      "chapter": "Transport",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -833,7 +833,7 @@
       "text": "Draw a neat and labelled diagram of the internal structure of the human heart."
     },
     {
-      "chapter": 9,
+      "chapter": "Transport",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -841,7 +841,7 @@
       "text": "What is blood? Explain the main components of blood with a diagram."
     },
     {
-      "chapter": 9,
+      "chapter": "Transport",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -849,7 +849,7 @@
       "text": "Define transpiration and explain factors which affect its rate."
     },
     {
-      "chapter": 9,
+      "chapter": "Transport",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -857,7 +857,7 @@
       "text": "Draw a neat and labelled diagram of the internal structure of the human heart."
     },
     {
-      "chapter": 8,
+      "chapter": "Nutrition",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -871,7 +871,7 @@
       ]
     },
     {
-      "chapter": 8,
+      "chapter": "Nutrition",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -885,7 +885,7 @@
       ]
     },
     {
-      "chapter": 9,
+      "chapter": "Transport",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -899,7 +899,7 @@
       ]
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -913,7 +913,7 @@
       ]
     },
     {
-      "chapter": 4,
+      "chapter": "Cells and Tissues",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -927,7 +927,7 @@
       ]
     },
     {
-      "chapter": 6,
+      "chapter": "Enzymes",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -941,7 +941,7 @@
       ]
     },
     {
-      "chapter": 2,
+      "chapter": "Solving a Biological Problem",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -949,7 +949,7 @@
       "text": "Differentiate between law and theory."
     },
     {
-      "chapter": 1,
+      "chapter": "Introduction to Biology",
       "section": "B",
       "type": "short",
       "source": "past_paper",

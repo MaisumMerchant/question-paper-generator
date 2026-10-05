@@ -3,7 +3,7 @@
   "class": "IX",
   "questions": [
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -11,7 +11,7 @@
       "text": "Define density. Also write its formula and SI unit."
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -19,7 +19,7 @@
       "text": "Define fundamental and derived quantities. Also write three examples of each."
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -27,7 +27,7 @@
       "text": "Define density with its formula and unit. Also write methods for measuring density."
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -57,7 +57,7 @@
       "text": "Define physics and write two ways in which it is important in daily life."
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -83,7 +83,7 @@
       "text": "The radius of a hydrogen atom is $0.53\\times10^{-10}\\,\\mathrm{m}$. Convert it into kilometres, millimetres, micrometres, and nanometres."
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -91,7 +91,7 @@
       "text": "Define physics and write the names of any four of its branches."
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -99,7 +99,7 @@
       "text": "Name and define the branches of physics concerned with solid materials, nuclei and atoms, and astronomical bodies."
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -345,7 +345,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -371,7 +371,7 @@
       ]
     },
     {
-      "chapter": 1,
+      "chapter": "Physical Quantities and Measurement",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -379,7 +379,7 @@
       "text": "Find the density of the wooden sphere and cube if the mass of the wood is $1\\,\\mathrm{kg}$. Is there any change in density due to shape?"
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -387,7 +387,7 @@
       "text": "Write any three differences between scalar and vector quantities."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -395,7 +395,7 @@
       "text": "A ball falls from a height of $90\\,\\mathrm{m}$. How much time will it take to reach the ground?"
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -403,7 +403,7 @@
       "text": "A bus starts from rest and travels along a straight path. Its velocity becomes $15\\,\\mathrm{m\\,s^{-1}}$ in $5\\,\\mathrm{s}$. Calculate its acceleration."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -411,7 +411,7 @@
       "text": "Write any three differences between translatory motion and vibratory motion."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -419,7 +419,7 @@
       "text": "A bus moves at $15\\,\\mathrm{m\\,s^{-1}}$ and accelerates at $5\\,\\mathrm{m\\,s^{-2}}$. Find its final velocity after $6\\,\\mathrm{s}$."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -427,7 +427,7 @@
       "text": "A ball is dropped from a height of $70\\,\\mathrm{m}$. How much time will it take to strike the ground? Take $g=10\\,\\mathrm{m\\,s^{-2}}$."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -435,7 +435,7 @@
       "text": "A car starts from rest, and after $20\\,\\mathrm{s}$ its velocity becomes $108\\,\\mathrm{km\\,h^{-1}}$. Find its acceleration."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -443,7 +443,7 @@
       "text": "A ball is dropped from a tower and reaches the ground in $10\\,\\mathrm{s}$. Calculate the height of the tower and the velocity with which the ball hits the ground."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -451,7 +451,7 @@
       "text": "A ball is dropped from a height of $122.5\\,\\mathrm{m}$. How much time will it take to reach the ground?"
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -459,7 +459,7 @@
       "text": "A car starts from rest and attains a velocity of $20\\,\\mathrm{m\\,s^{-1}}$ in $5\\,\\mathrm{s}$. Find the distance covered."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -467,7 +467,7 @@
       "text": "A ball is dropped from a tower and reaches the ground in $10\\,\\mathrm{s}$. Calculate the height of the tower. Take $g=10\\,\\mathrm{m\\,s^{-2}}$."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -475,7 +475,7 @@
       "text": "A car moves with uniform acceleration and attains a velocity of $108\\,\\mathrm{km\\,h^{-1}}$ in $5\\,\\mathrm{min}$. Find its acceleration."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -483,7 +483,7 @@
       "text": "What is meant by relative motion? Derive the second equation of motion."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -491,7 +491,7 @@
       "text": "What is kinematics? Derive $2aS=v_f^2-v_i^2$."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -499,7 +499,7 @@
       "text": "Explain the term $v_i$ and derive $S=v_it+\\frac{1}{2}at^2$."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -507,7 +507,7 @@
       "text": "Define uniform velocity and derive $S=v_it+\\frac{1}{2}at^2$."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -515,7 +515,7 @@
       "text": "What do the symbols $v_i$ and $v_f$ represent? Derive $v_f^2=v_i^2+2aS$."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -523,7 +523,7 @@
       "text": "Derive $S=v_it+\\frac{1}{2}at^2$."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -531,7 +531,7 @@
       "text": "Derive $2aS=v_f^2-v_i^2$."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -539,7 +539,7 @@
       "text": "Derive the second equation of motion in five steps."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -547,7 +547,7 @@
       "text": "Define rest and motion."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -555,7 +555,7 @@
       "text": "What is meant by relative motion?"
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -563,7 +563,7 @@
       "text": "Define speed and velocity."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -571,7 +571,7 @@
       "text": "What is the difference between distance and displacement?"
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -579,7 +579,7 @@
       "text": "Define acceleration."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -587,7 +587,7 @@
       "text": "Define scalar and vector quantities."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -595,7 +595,7 @@
       "text": "How are vector quantities represented graphically?"
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -603,7 +603,7 @@
       "text": "Define motion under gravity."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -611,7 +611,7 @@
       "text": "Why is gravity taken as negative for an object moving upward?"
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -619,7 +619,7 @@
       "text": "Calculate the acceleration of a bus that speeds up from $20\\,\\mathrm{m\\,s^{-1}}$ to $40\\,\\mathrm{m\\,s^{-1}}$ in $8\\,\\mathrm{s}$."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -627,7 +627,7 @@
       "text": "A bus moves at $15\\,\\mathrm{m\\,s^{-1}}$ and accelerates at $5\\,\\mathrm{m\\,s^{-2}}$. Find its final velocity after $6\\,\\mathrm{s}$."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -635,7 +635,7 @@
       "text": "A car starts from rest with an acceleration of $5\\,\\mathrm{m\\,s^{-2}}$. Find the time required to travel $50\\,\\mathrm{m}$."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -643,7 +643,7 @@
       "text": "A ball is dropped from a height of $50\\,\\mathrm{m}$. What will be its velocity just before touching the ground?"
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -651,7 +651,7 @@
       "text": "A body is thrown vertically upward with a velocity of $50\\,\\mathrm{m\\,s^{-1}}$. Calculate the maximum height it can reach."
     },
     {
-      "chapter": 2,
+      "chapter": "Kinematics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -659,7 +659,7 @@
       "text": "A ball falls from a height of $70\\,\\mathrm{m}$. How much time will it take to reach the ground?"
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -667,7 +667,7 @@
       "text": "A gun of mass $6\\,\\mathrm{kg}$ fires a bullet of mass $40\\,\\mathrm{g}$ at $100\\,\\mathrm{m\\,s^{-1}}$. Calculate the recoil velocity of the gun."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -675,7 +675,7 @@
       "text": "State Newton's second law of motion and derive its equation."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -683,7 +683,7 @@
       "text": "A car moves on a circular highway of radius $100\\,\\mathrm{m}$. Its mass is $600\\,\\mathrm{kg}$ and its velocity is $72\\,\\mathrm{km\\,h^{-1}}$. Find the centripetal force exerted by the car."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -691,7 +691,7 @@
       "text": "What is momentum? Write its formula and SI unit."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -699,7 +699,7 @@
       "text": "A force of $3400\\,\\mathrm{N}$ is applied to a body of mass $85000\\,\\mathrm{g}$. Find the acceleration produced."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -707,7 +707,7 @@
       "text": "State Newton's second law of motion and derive $F=ma$."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -715,7 +715,7 @@
       "text": "Write Newton's three laws of motion."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -723,7 +723,7 @@
       "text": "Determine the acceleration of a car of mass $900\\,\\mathrm{kg}$ when a net force of $2700\\,\\mathrm{N}$ acts on it."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -731,7 +731,7 @@
       "text": "At what speed must an object travel in a circle of radius $3\\,\\mathrm{m}$ to experience a centripetal acceleration of $12\\,\\mathrm{m\\,s^{-2}}$?"
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -739,7 +739,7 @@
       "text": "State Newton's second law of motion and derive $F=ma$."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -747,7 +747,7 @@
       "text": "State Newton's second law of motion and derive $F=ma$."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -755,7 +755,7 @@
       "text": "State Newton's laws of motion."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -763,7 +763,7 @@
       "text": "A car moves on a circular track of radius $30\\,\\mathrm{m}$ at a constant speed of $20\\,\\mathrm{m\\,s^{-1}}$. Find its centripetal acceleration."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -771,7 +771,7 @@
       "text": "Write three points of comparison between weight and mass."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -779,7 +779,7 @@
       "text": "A $2\\,\\mathrm{m}$ long string is used to whirl a $100\\,\\mathrm{g}$ stone in a horizontal circle at $2\\,\\mathrm{m\\,s^{-1}}$. Find the tension in the string."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -787,7 +787,7 @@
       "text": "Define momentum and write its SI unit. State and prove the law of conservation of momentum."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -795,7 +795,7 @@
       "text": "Write two advantages and two disadvantages of friction. Also write two methods of reducing friction."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -803,7 +803,7 @@
       "text": "Write two advantages and two disadvantages of friction."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -811,7 +811,7 @@
       "text": "Define momentum and write its SI unit."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -819,7 +819,7 @@
       "text": "When a freely falling object moves toward Earth due to Earth's pull, does Earth also move toward the object due to reaction? Explain."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -827,7 +827,7 @@
       "text": "Why is a wire fence fitted to a batsman's helmet, and how does it prevent injuries?"
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -835,7 +835,7 @@
       "text": "State Newton's first law of motion and give common examples. Also list common observations caused by inertia."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -843,7 +843,7 @@
       "text": "Define Newton's second law of motion."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -851,7 +851,7 @@
       "text": "Show the relationship between applied force and the acceleration produced in a body."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -859,7 +859,7 @@
       "text": "Give at least three clear differences between mass and weight."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -881,7 +881,7 @@
       ]
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -889,7 +889,7 @@
       "text": "What is frictional force? Explain with two examples from daily life."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -897,7 +897,7 @@
       "text": "How does an anti-lock braking system prevent the risk of sliding? List four uses of rolling friction in everyday life."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -923,7 +923,7 @@
       ]
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -931,7 +931,7 @@
       "text": "Find the momentum of a body of mass $6\\,\\mathrm{kg}$ moving at $25\\,\\mathrm{m\\,s^{-1}}$."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -939,7 +939,7 @@
       "text": "What will be the velocity if the momentum becomes $200\\,\\mathrm{N\\,s}$?"
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -947,7 +947,7 @@
       "text": "A body of mass $10\\,\\mathrm{kg}$ moves at $10\\,\\mathrm{m\\,s^{-1}}$. A force acts for $5\\,\\mathrm{s}$ and reduces its velocity to $2\\,\\mathrm{m\\,s^{-1}}$. Find its momentum before and after the force acts."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -965,7 +965,7 @@
       ]
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -973,7 +973,7 @@
       "text": "Find the mass of a body accelerated by a force of $200\\,\\mathrm{N}$ that speeds it up to $36\\,\\mathrm{m\\,s^{-1}}$."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -981,7 +981,7 @@
       "text": "What should be the acceleration of the same body if the applied force changes to $280\\,\\mathrm{N}$?"
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -989,7 +989,7 @@
       "text": "An empty car has a mass of $1200\\,\\mathrm{kg}$. Its engine can produce an acceleration of $4\\,\\mathrm{m\\,s^{-2}}$. If $300\\,\\mathrm{kg}$ of passengers and luggage is added, what acceleration will the same engine produce?"
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -997,7 +997,7 @@
       "text": "An object has mass $60\\,\\mathrm{kg}$. Find its weight on Earth, the Moon, and Mars. Take $g_E=9.8\\,\\mathrm{m\\,s^{-2}}$, $g_M=1.6\\,\\mathrm{m\\,s^{-2}}$, and $g_{Mars}=3.7\\,\\mathrm{m\\,s^{-2}}$."
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1015,7 +1015,7 @@
       ]
     },
     {
-      "chapter": 3,
+      "chapter": "Dynamics",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1023,7 +1023,7 @@
       "text": "A $15\\,\\mathrm{kg}$ block on a wet, slippery floor is pulled with a string and spring balance that reads $3\\,\\mathrm{N}$. Find the coefficient of friction using $F_s=\\mu mg$."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1031,7 +1031,7 @@
       "text": "What is meant by resolution of a vector? Resolve a vector into perpendicular components."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1039,7 +1039,7 @@
       "text": "Define torque. Write its formula and unit."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1047,7 +1047,7 @@
       "text": "A man pushes a trolley on horizontal ground with a force of $100\\,\\mathrm{N}$ at an angle of $60^\\circ$ to the ground. Find the horizontal and vertical components of the force."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1055,7 +1055,7 @@
       "text": "Write the three states of equilibrium."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1063,7 +1063,7 @@
       "text": "Describe the three states of equilibrium with one example of each."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1071,7 +1071,7 @@
       "text": "A mechanic uses a double-arm spanner to turn a nut. He applies $15\\,\\mathrm{N}$ at each end and produces a torque of $60\\,\\mathrm{N\\,m}$. What is the length of the moment arm of the couple?"
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1079,7 +1079,7 @@
       "text": "Find the two rectangular components of a $100\\,\\mathrm{N}$ force acting at $60^\\circ$ to the $x$-axis. Take $\\cos60^\\circ=0.5$ and $\\sin60^\\circ=0.866$."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1087,7 +1087,7 @@
       "text": "A force acts at $60^\\circ$ to the $x$-axis. If its $x$-component is $50\\,\\mathrm{N}$, find the resultant force and its $y$-component. Take $\\sin60^\\circ=0.866$ and $\\cos60^\\circ=0.5$."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1095,7 +1095,7 @@
       "text": "Write the three states of equilibrium."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1103,7 +1103,7 @@
       "text": "With the help of diagrams, define the negative of a vector and the resultant vector."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -1111,7 +1111,7 @@
       "text": "Using the rectangular components of a vector, derive $F=\\sqrt{F_x^2+F_y^2}$."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1119,7 +1119,7 @@
       "text": "Define equilibrium and state its two conditions."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -1127,7 +1127,7 @@
       "text": "Using the graphical method, add two vectors $\\vec A$ and $\\vec B$."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -1135,7 +1135,7 @@
       "text": "Prove that the moment of a couple equals the product of one force and the arm of the couple."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1143,7 +1143,7 @@
       "text": "A $5\\,\\mathrm{m}$ beam is pivoted into a wall. A force of $100\\,\\mathrm{N}$ is applied vertically at its far end. Find the torque produced."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1151,7 +1151,7 @@
       "text": "Explain two types of equilibrium with examples based on the state of a body. Also explain the two conditions of equilibrium in detail."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1159,7 +1159,7 @@
       "text": "Define equilibrium. Explain its types and its two conditions."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1167,7 +1167,7 @@
       "text": "Which process is the reverse of resolution of a force? Define it and prove $F=\\sqrt{F_x^2+F_y^2}$ and $\\theta=\\tan^{-1}\\!\\left(\\frac{F_y}{F_x}\\right)$."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1175,7 +1175,7 @@
       "text": "Define resolution of a vector. Explain how to resolve a vector into rectangular components."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1183,7 +1183,7 @@
       "text": "Define like and unlike forces."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1191,7 +1191,7 @@
       "text": "Describe the head-to-tail rule for vector addition of forces."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1199,7 +1199,7 @@
       "text": "How can a force be resolved into perpendicular components? Find its horizontal and vertical components."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1207,7 +1207,7 @@
       "text": "How can a force be determined from its rectangular components?"
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1215,7 +1215,7 @@
       "text": "The horizontal and vertical components of a force are $4\\,\\mathrm{N}$ and $3\\,\\mathrm{N}$, respectively. Find the resultant force and its direction."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1223,7 +1223,7 @@
       "text": "What is meant by moment of force?"
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1231,7 +1231,7 @@
       "text": "State the principle of moments."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1239,7 +1239,7 @@
       "text": "Define centre of mass or centre of gravity. How can it be determined?"
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1247,7 +1247,7 @@
       "text": "Define a couple as a pair of forces tending to produce torque."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1255,7 +1255,7 @@
       "text": "State the two conditions necessary for an object to be in equilibrium."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1263,7 +1263,7 @@
       "text": "Two like parallel forces of $15\\,\\mathrm{N}$ each act on a body. Find their resultant."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1271,7 +1271,7 @@
       "text": "Two unlike parallel forces of $10\\,\\mathrm{N}$ each act along the same line. Find their resultant."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1289,7 +1289,7 @@
       ]
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1307,7 +1307,7 @@
       ]
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1325,7 +1325,7 @@
       ]
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1343,7 +1343,7 @@
       ]
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1351,7 +1351,7 @@
       "text": "A mechanic uses a double-arm spanner and applies $15\\,\\mathrm{N}$ at each end to produce $60\\,\\mathrm{N\\,m}$ of torque. Find the length of the moment arm of the couple."
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1359,7 +1359,7 @@
       "text": "With the same spanner, how much force is required to produce a torque of $80\\,\\mathrm{N\\,m}$?"
     },
     {
-      "chapter": 4,
+      "chapter": "Turning Effect of Forces",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1377,7 +1377,7 @@
       ]
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1385,7 +1385,7 @@
       "text": "Define pressure and write two factors that affect it."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1393,7 +1393,7 @@
       "text": "State and explain Hooke's law."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -1401,7 +1401,7 @@
       "text": "What is elasticity? State Hooke's law and write its mathematical expression."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1409,7 +1409,7 @@
       "text": "Calculate the spring constant of a spring that extends $3.5\\,\\mathrm{cm}$ when a load of $14\\,\\mathrm{N}$ is hung from its end."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1417,7 +1417,7 @@
       "text": "Define pressure. On what factors does pressure depend?"
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1425,7 +1425,7 @@
       "text": "A spring has spring constant $k=30\\,\\mathrm{N\\,m^{-1}}$. What load is required to produce an extension of $4\\,\\mathrm{m}$?"
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1433,7 +1433,7 @@
       "text": "Find the pressure exerted by a $450\\,\\mathrm{N}$ woman putting all her weight on one heel of area $2\\,\\mathrm{cm}\\times2\\,\\mathrm{cm}$."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1441,7 +1441,7 @@
       "text": "Name the law stating that pressure applied to a liquid is transmitted equally in all directions, and describe one application of this law."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1449,7 +1449,7 @@
       "text": "Define pressure and write its formula and SI unit."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -1457,7 +1457,7 @@
       "text": "Explain Hooke's law as applied to a helical spring."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1465,7 +1465,7 @@
       "text": "Describe the construction and working of a hydraulic machine with the help of a diagram."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1473,7 +1473,7 @@
       "text": "State Pascal's law. Describe the construction and working of a hydraulic lift with the help of a diagram."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1481,7 +1481,7 @@
       "text": "Define Pascal's law and explain one application with a diagram."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1489,7 +1489,7 @@
       "text": "Describe four examples showing surface tension."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1497,7 +1497,7 @@
       "text": "State Hooke's law."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1505,7 +1505,7 @@
       "text": "Define pressure."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1513,7 +1513,7 @@
       "text": "Write the SI unit of pressure."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -1535,7 +1535,7 @@
       ]
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1543,7 +1543,7 @@
       "text": "Calculate the spring constant of a spring that extends $3.5\\,\\mathrm{cm}$ when a load of $14\\,\\mathrm{N}$ is hung from its end."
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1561,7 +1561,7 @@
       ]
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1583,7 +1583,7 @@
       ]
     },
     {
-      "chapter": 5,
+      "chapter": "Forces and Matter",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1605,7 +1605,7 @@
       ]
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1613,7 +1613,7 @@
       "text": "Fatima's weight is $900\\,\\mathrm{N}$ on Earth's surface. What will her weight be on the Moon's surface?"
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1621,7 +1621,7 @@
       "text": "A planet has four times Earth's mass and twice Earth's radius. If $g=10\\,\\mathrm{m\\,s^{-2}}$ on Earth, what is the planet's surface gravitational acceleration?"
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1629,7 +1629,7 @@
       "text": "Write any three characteristics of gravitational force."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1637,7 +1637,7 @@
       "text": "Amna weighs $200\\,\\mathrm{N}$ at Earth's surface. Find her mass."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1645,7 +1645,7 @@
       "text": "Calculate the orbital velocity of an artificial satellite moving around Earth if Earth's radius is $6\\times10^6\\,\\mathrm{m}$ and $g=10\\,\\mathrm{m\\,s^{-2}}$."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1653,7 +1653,7 @@
       "text": "Compute the gravitational force of attraction between two boys of masses $50\\,\\mathrm{kg}$ and $40\\,\\mathrm{kg}$ separated by $2\\,\\mathrm{m}$."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -1661,7 +1661,7 @@
       "text": "Define orbital velocity and derive $v=\\sqrt{\\frac{GM_e}{R}}$."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1669,7 +1669,7 @@
       "text": "Write approximate values for the masses of our galaxy, Earth, and the Moon."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -1677,7 +1677,7 @@
       "text": "Using two bodies, express the law of universal gravitation mathematically in three steps."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1685,7 +1685,7 @@
       "text": "State Newton's law of gravitation. How can it be used to derive the formula for Earth's mass?"
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1693,7 +1693,7 @@
       "text": "Calculate Earth's mass using Newton's law of gravitation."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1701,7 +1701,7 @@
       "text": "State the law of universal gravitation and prove $M_e=\\frac{gR_e^2}{G}$."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1709,7 +1709,7 @@
       "text": "State Newton's law of gravitation and derive the formula for Earth's mass."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1717,7 +1717,7 @@
       "text": "Why do we not feel gravitational attraction from objects around us? Define a gravitational field with an example."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1725,7 +1725,7 @@
       "text": "Write any three characteristics of gravitational force and define gravitational field strength."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1733,7 +1733,7 @@
       "text": "State and explain Newton's law of gravitation. Define field force."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1741,7 +1741,7 @@
       "text": "Why does an object's weight not remain the same everywhere on Earth? Why is the unit of weight the newton?"
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1749,7 +1749,7 @@
       "text": "Define weight and write its equation."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1757,7 +1757,7 @@
       "text": "Explain why your weight decreases at high altitudes without dieting. If a scale reads $55\\,\\mathrm{kg}$, is that a measure of weight? If not, what physical quantity does it show?"
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -1765,7 +1765,7 @@
       "text": "Calculate Earth's mass using Newton's law of gravitation."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -1773,7 +1773,7 @@
       "text": "If $M_E$ is Earth's mass, $R_E$ its radius, and $G$ the universal gravitational constant, find the acceleration due to gravity $g$ on Earth's surface and at Earth's centre."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -1791,7 +1791,7 @@
       ]
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1799,7 +1799,7 @@
       "text": "Name any one natural satellite."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1807,7 +1807,7 @@
       "text": "Write the names of four types of orbit. Define critical velocity and communication satellite."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -1815,7 +1815,7 @@
       "text": "Derive the expression for satellite motion, $v=\\sqrt{\\frac{GM}{R+h}}$."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1823,7 +1823,7 @@
       "text": "Differentiate between natural and artificial satellites. Name the parameters used to characterize orbits."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1831,7 +1831,7 @@
       "text": "Urwa and Ayesha stand $50\\,\\mathrm{m}$ apart. Urwa has mass $60\\,\\mathrm{kg}$ and Ayesha has mass $70\\,\\mathrm{kg}$. Determine the gravitational attraction between them."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1839,7 +1839,7 @@
       "text": "Rani's weight is $450\\,\\mathrm{N}$ at Earth's surface. Find her mass."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1847,7 +1847,7 @@
       "text": "Naveera's weight is $700\\,\\mathrm{N}$ on Earth's surface. What will her weight be on the Moon's surface?"
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1855,7 +1855,7 @@
       "text": "A planet has four times Earth's mass and twice Earth's radius. If $g=10\\,\\mathrm{m\\,s^{-2}}$ on Earth, calculate the planet's gravitational acceleration."
     },
     {
-      "chapter": 6,
+      "chapter": "Gravitation",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -1863,7 +1863,7 @@
       "text": "Calculate the speed of a satellite orbiting Earth at an altitude of $400\\,\\mathrm{km}$ above Earth's surface."
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1871,7 +1871,7 @@
       "text": "A cylinder contains $120\\,\\mathrm{cm^3}$ of air at $140\\,\\mathrm{kPa}$. What is its volume if the pressure is increased to $840\\,\\mathrm{kPa}$?"
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1879,7 +1879,7 @@
       "text": "A cylinder contains $60\\,\\mathrm{cm^3}$ of air at $140\\,\\mathrm{kPa}$. What is its volume if the pressure is increased to $200\\,\\mathrm{kPa}$?"
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -1887,7 +1887,7 @@
       "text": "A cylinder contains $75\\,\\mathrm{cm^3}$ of air at $120\\,\\mathrm{kPa}$. What is its volume if the pressure is increased to $360\\,\\mathrm{kPa}$ while temperature remains constant?"
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1895,7 +1895,7 @@
       "text": "Which variables completely describe the behaviour of a gas according to kinetic molecular theory? Explain any one of them."
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1903,7 +1903,7 @@
       "text": "State and explain Boyle's law. Write one application."
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -1911,7 +1911,7 @@
       "text": "Which variables completely describe the behaviour of a gas according to kinetic molecular theory? Explain any one of them."
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1933,7 +1933,7 @@
       ]
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -1959,7 +1959,7 @@
       ]
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -1967,7 +1967,7 @@
       "text": "Using kinetic molecular theory, explain why we can walk through air and swim through water but cannot walk through a solid wall. Also state which state has minimum molecular kinetic energy and which is highly incompressible."
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -1997,7 +1997,7 @@
       ]
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -2019,7 +2019,7 @@
       ]
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2027,7 +2027,7 @@
       "text": "Describe what happens to molecular motion when a gas cools and when a liquid cools."
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2035,7 +2035,7 @@
       "text": "The pressure on $9\\,\\mathrm{cm^3}$ of oxygen is doubled at fixed temperature. What will its volume become?"
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2043,7 +2043,7 @@
       "text": "A container holds $30\\,\\mathrm{m^3}$ of air at $150000\\,\\mathrm{Pa}$. Its volume changes to $10\\,\\mathrm{m^3}$ by decreasing the load on the piston. What pressure will the gas have if temperature remains constant?"
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2051,7 +2051,7 @@
       "text": "Air at $760\\,\\mathrm{mm\\,Hg}$ is trapped behind a movable piston. The volume increases slowly from $100\\,\\mathrm{dm^3}$ to $150\\,\\mathrm{dm^3}$ at constant temperature. What is the final pressure?"
     },
     {
-      "chapter": 7,
+      "chapter": "Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2059,7 +2059,7 @@
       "text": "The pressure on $9\\,\\mathrm{cm^3}$ of oxygen is doubled at fixed temperature. What will its volume become?"
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -2067,7 +2067,7 @@
       "text": "What is wind energy? Write two applications."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -2075,7 +2075,7 @@
       "text": "Calculate the power of a machine that performs $1800\\,\\mathrm{J}$ of work in $30\\,\\mathrm{min}$."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -2083,7 +2083,7 @@
       "text": "What is potential energy? Derive $PE=mgh$."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -2091,7 +2091,7 @@
       "text": "What is the kinetic energy of a $50\\,\\mathrm{kg}$ body riding a bike at $2\\,\\mathrm{m\\,s^{-1}}$?"
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -2099,7 +2099,7 @@
       "text": "A machine is $50\\%$ efficient and its output is $100\\,\\mathrm{J}$. Calculate its input."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -2107,7 +2107,7 @@
       "text": "Write three applications of wind energy."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -2115,7 +2115,7 @@
       "text": "Calculate the power of a machine that performs $900\\,\\mathrm{J}$ of work in $30\\,\\mathrm{min}$."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -2123,7 +2123,7 @@
       "text": "Define kinetic energy and derive $KE=\\frac{1}{2}mv^2$."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -2131,7 +2131,7 @@
       "text": "Find the kinetic energy of a $2000\\,\\mathrm{kg}$ car travelling at $90\\,\\mathrm{km\\,h^{-1}}$."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -2139,7 +2139,7 @@
       "text": "Define power and derive $P=Fv$."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -2147,7 +2147,7 @@
       "text": "With what constant velocity can a $1960\\,\\mathrm{W}$ motor raise a mass of $100\\,\\mathrm{kg}$?"
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "long",
       "source": "past_paper",
@@ -2155,7 +2155,7 @@
       "text": "Describe the interconversion of kinetic and potential energy."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -2163,7 +2163,7 @@
       "text": "State the law of conservation of energy. Also explain any five renewable energy sources."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -2171,7 +2171,7 @@
       "text": "Define kinetic and potential energy and derive the equation for gravitational potential energy, $PE=mgh$."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -2179,7 +2179,7 @@
       "text": "Define potential and kinetic energy and derive $PE=mgh$ and $KE=\\frac{1}{2}mv^2$."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -2187,7 +2187,7 @@
       "text": "Define kinetic and potential energy and derive $KE=\\frac{1}{2}mv^2$."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2195,7 +2195,7 @@
       "text": "Define work and derive $W=Fd\\cos\\theta$."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -2203,7 +2203,7 @@
       "text": "Define kinetic energy and derive its equation."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -2211,7 +2211,7 @@
       "text": "Define potential energy and derive $PE=mgh$."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2219,7 +2219,7 @@
       "text": "Why is fossil-fuel energy called non-renewable? Define solar energy and explain its importance in Pakistan."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -2227,7 +2227,7 @@
       "text": "Write notes on tidal energy and geothermal energy."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2235,7 +2235,7 @@
       "text": "What is wind energy? Write any three applications."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2257,7 +2257,7 @@
       ]
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -2265,7 +2265,7 @@
       "text": "Write a note on renewable energy sources."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -2273,7 +2273,7 @@
       "text": "Write a note on non-renewable energy sources."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2281,7 +2281,7 @@
       "text": "What is the difference between renewable and non-renewable energy sources?"
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2323,7 +2323,7 @@
       ]
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2331,7 +2331,7 @@
       "text": "Write a note on efficiency."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2339,7 +2339,7 @@
       "text": "Define power."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2347,7 +2347,7 @@
       "text": "Define the watt."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2355,7 +2355,7 @@
       "text": "Write the names of any two larger units of power."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2363,7 +2363,7 @@
       "text": "How much work is required to move a body $20\\,\\mathrm{m}$ horizontally with a force of $30\\,\\mathrm{N}$ acting at $60^\\circ$ to the horizontal?"
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2371,7 +2371,7 @@
       "text": "How much work is done if a crate moves $50\\,\\mathrm{m}$ under a force of $30\\,\\mathrm{N}$ applied along the surface?"
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2379,7 +2379,7 @@
       "text": "What work is done by Usman if he carries a $100\\,\\mathrm{N}$ bar from $A$ to $B$ and then back to $A$?"
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2387,7 +2387,7 @@
       "text": "What is the kinetic energy of a $50\\,\\mathrm{kg}$ boy riding a bike at $2\\,\\mathrm{m\\,s^{-1}}$?"
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2395,7 +2395,7 @@
       "text": "A $10\\,\\mathrm{kg}$ LED screen is lifted onto a cupboard $2\\,\\mathrm{m}$ high. Calculate its stored potential energy."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2403,7 +2403,7 @@
       "text": "Calculate the potential energy of $3\\,\\mathrm{kg}$ of water raised to a tank on a $4\\,\\mathrm{m}$-high roof. Take $g=10\\,\\mathrm{m\\,s^{-2}}$."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2411,7 +2411,7 @@
       "text": "Calculate the efficiency of a machine that consumes $200\\,\\mathrm{J}$ of energy and performs $50\\,\\mathrm{J}$ of work."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2419,7 +2419,7 @@
       "text": "A machine is $70\\%$ efficient and produces $100\\,\\mathrm{J}$. Calculate its input."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2427,7 +2427,7 @@
       "text": "Which machine is more efficient: machine $A$, which outputs $200\\,\\mathrm{J}$ after consuming $400\\,\\mathrm{J}$, or machine $B$, which outputs $300\\,\\mathrm{J}$ after consuming $450\\,\\mathrm{J}$?"
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2435,7 +2435,7 @@
       "text": "A bulb dissipates $600\\,\\mathrm{J}$ in $50\\,\\mathrm{min}$. Find its power."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2453,7 +2453,7 @@
       ]
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2461,7 +2461,7 @@
       "text": "A student of weight $400\\,\\mathrm{N}$ takes $5\\,\\mathrm{s}$ to climb an obstacle $2\\,\\mathrm{m}$ high. Calculate the power consumed."
     },
     {
-      "chapter": 8,
+      "chapter": "Energy Sources and Transfer of Energy",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2469,7 +2469,7 @@
       "text": "A machine consumes $250\\,\\mathrm{J}$ of energy per hour. What is its power?"
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -2477,7 +2477,7 @@
       "text": "How much heat is required to raise $50\\,\\mathrm{g}$ of water from $40^\\circ\\mathrm{C}$ to $70^\\circ\\mathrm{C}$? The specific heat capacity of water is $4200\\,\\mathrm{J\\,kg^{-1}\\,K^{-1}}$."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -2485,7 +2485,7 @@
       "text": "Write three differences between boiling and evaporation."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -2493,7 +2493,7 @@
       "text": "A $2\\,\\mathrm{kg}$ copper sample requires $2050\\,\\mathrm{J}$ to raise its temperature by $10^\\circ\\mathrm{C}$. Calculate its heat capacity."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -2501,7 +2501,7 @@
       "text": "How much heat is required to raise $50\\,\\mathrm{g}$ of water from $40^\\circ\\mathrm{C}$ to $70^\\circ\\mathrm{C}$? The specific heat capacity of water is $4200\\,\\mathrm{J\\,kg^{-1}\\,K^{-1}}$."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -2509,7 +2509,7 @@
       "text": "Find the heat required to raise $100\\,\\mathrm{g}$ of water from $10^\\circ\\mathrm{C}$ to $60^\\circ\\mathrm{C}$. Take $c=4200\\,\\mathrm{J\\,kg^{-1}\\,^{\\circ}C^{-1}}$."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -2517,7 +2517,7 @@
       "text": "Write three differences between heat and temperature."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -2525,7 +2525,7 @@
       "text": "A steel rod is $10\\,\\mathrm{m}$ long at $25^\\circ\\mathrm{C}$. Calculate the increase in length when heated to $35^\\circ\\mathrm{C}$."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -2533,7 +2533,7 @@
       "text": "What is a bimetallic strip? Name two applications."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -2541,7 +2541,7 @@
       "text": "A steel rod is $10\\,\\mathrm{m}$ long at $25^\\circ\\mathrm{C}$. Calculate the increase in length when heated to $35^\\circ\\mathrm{C}$."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -2549,7 +2549,7 @@
       "text": "Define specific heat capacity, latent heat of vaporization, and latent heat of fusion. Also write three benefits of water's high specific heat capacity."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -2557,7 +2557,7 @@
       "text": "Define thermal expansion and derive $\\Delta L=\\alpha L\\Delta T$."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -2565,7 +2565,7 @@
       "text": "Define evaporation and state the factors affecting surface evaporation."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -2573,7 +2573,7 @@
       "text": "Define linear expansion and volumetric expansion, and derive $\\Delta L=\\alpha L\\Delta T$."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -2581,7 +2581,7 @@
       "text": "Define the coefficients of linear and volumetric expansion. Derive $L_2=L_1(1+\\alpha\\Delta T)$."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -2589,7 +2589,7 @@
       "text": "Define the coefficient of linear expansion and derive $L_2=L_1(1+\\alpha\\Delta T)$."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -2597,7 +2597,7 @@
       "text": "Derive $\\beta=3\\alpha$."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2605,7 +2605,7 @@
       "text": "Define heat and write its SI unit. Why does heat flow from a hot body to a cold body?"
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2613,7 +2613,7 @@
       "text": "Explain the three temperature scales and their main uses. Differentiate between heat and temperature."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -2621,7 +2621,7 @@
       "text": "Explain specific heat capacity. How would you determine the specific heat of a solid?"
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -2629,7 +2629,7 @@
       "text": "Explain the effects of water's large specific heat capacity with examples from daily life."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -2637,7 +2637,7 @@
       "text": "Define heat of fusion with the help of an experiment."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2645,7 +2645,7 @@
       "text": "Differentiate between heat of fusion and heat of vaporization."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -2653,7 +2653,7 @@
       "text": "Demonstrate heat of fusion and heat of vaporization using a heating-ice graph."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -2661,7 +2661,7 @@
       "text": "Explain in detail why evaporation causes cooling."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2669,7 +2669,7 @@
       "text": "Differentiate between evaporation and boiling."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2677,7 +2677,7 @@
       "text": "Write any four factors that influence surface evaporation."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2703,7 +2703,7 @@
       ]
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2711,7 +2711,7 @@
       "text": "Why do solids increase in size on heating? Explain."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "C",
       "type": "long",
       "source": "important_book",
@@ -2719,7 +2719,7 @@
       "text": "Draw and properly label a diagram showing the real and apparent expansion of a liquid. Why are small gaps left at the joints of railway tracks? Explain the phenomenon involved."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2727,7 +2727,7 @@
       "text": "Convert $30^\\circ\\mathrm{C}$ to kelvin and degrees Fahrenheit."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2735,7 +2735,7 @@
       "text": "Convert $212^\\circ\\mathrm{F}$ to degrees Celsius and kelvin."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2743,7 +2743,7 @@
       "text": "How much heat is required to boil $3\\,\\mathrm{kg}$ of water initially at $10^\\circ\\mathrm{C}$?"
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "important_book",
@@ -2751,7 +2751,7 @@
       "text": "A $2\\,\\mathrm{kg}$ copper sample requires $2050\\,\\mathrm{J}$ to raise its temperature by $10^\\circ\\mathrm{C}$. Calculate its heat capacity."
     },
     {
-      "chapter": 9,
+      "chapter": "Thermal Properties of Matter",
       "section": "B",
       "type": "numerical",
       "source": "important_book",

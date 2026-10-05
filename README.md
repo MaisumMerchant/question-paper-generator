@@ -6,7 +6,7 @@ Paperloom turns structured JSON question banks into printable, chapter-balanced 
 
 - Classes IX, X, XI and XII
 - Biology, Chemistry, Computer Science, Mathematics and Physics
-- 20 validated question banks containing 3,475 questions
+- 20 validated question banks containing 3,467 questions
 - Native chapter, section, question type, source, year and multipart-question support
 - KaTeX rendering for mathematical, scientific and chemical notation
 
