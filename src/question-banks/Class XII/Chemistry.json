@@ -3,442 +3,1912 @@
   "class": "XII",
   "questions": [
     {
+      "chapter": "1 - Chemistry of Representative Elements",
       "section": "B",
-      "number": "2. (vii)",
-      "year": 2019,
-      "text": "Describe the refining of Copper by electrolysis of blister copper."
-    },
-    {
-      "section": "B",
-      "number": "2. (viii)",
-      "year": 2018,
-      "text": "Discuss any two of the following properties of Transition metals. *Magnetic properties *Formation of complexes *Colour"
-    },
-    {
-      "section": "B",
-      "number": "2. (i)",
-      "year": 2017,
-      "text": "How is copper Matte obtained from its concentrated Sulphide Ore."
-    },
-    {
-      "section": "B",
-      "number": "2. (viii)",
-      "year": 2016,
-      "text": "With the help of Crystal field theory, explain the colour of Transition metal complex ions."
-    },
-    {
-      "section": "B",
-      "number": "2. (vii)",
-      "year": 2015,
-      "text": "How is Blister copper obtained from matte?"
-    },
-    {
-      "section": "B",
-      "number": "iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Write the IUPAC name of the following: *$[Cr(en)_2(NO_2)_2]Cl$ *$[Pt(NH_3)_2Cl_2]^{2+}$ *$[Zn(OH)_4]^{-2}$ *$Na_3[Co(C_2O_4)_3]$"
+      "text": "Discuss the group trends and answer the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Discuss the group trend of ionization energy and electronegativity in groups IA, IIA and IIIA."
+        },
+        {
+          "label": "(ii)",
+          "text": "What is bleaching powder? Write its preparation and properties."
+        },
+        {
+          "label": "(iii)",
+          "text": "Explain the auto-oxidizing and reducing properties of chlorine and give the classification of ligands."
+        },
+        {
+          "label": "(iv)",
+          "text": "What is a diagonal relationship? Explain the diagonal relationships between Li and Mg, and between Be and Al."
+        }
+      ]
     },
     {
+      "chapter": "1 - Chemistry of Representative Elements",
       "section": "B",
-      "number": "iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Write the IUPAC names of following: * $[Cu(en)_2]^{+2}$ * $[Ni(SCN)_4]^{-2}$ * $[Ag(NH_3)_2]OH$ * $K_3[Fe(CN)_6]$"
+      "text": "Answer the following questions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Describe the group trends of atomic radius and electronegativity in the s-block."
+        },
+        {
+          "label": "(ii)",
+          "text": "What is a diagonal relationship? Describe the diagonal relationship between any two of the following pairs: Li and Mg; Be and Al; B and Si."
+        }
+      ]
     },
     {
-      "section": "B",
-      "number": "v)",
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Answer either of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Describe the manufacture of $\\mathrm{H_2SO_4}$ by the contact process. Show by equations that it is an oxidizing agent and a dehydrating agent."
+        },
+        {
+          "label": "(ii)",
+          "text": "Describe the manufacture of caustic soda by the Castner–Kellner cell. What are the advantages and disadvantages of the process?"
+        }
+      ]
+    },
+    {
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Answer the following alternatives.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Describe the industrial manufacture of caustic soda by the Castner–Kellner process with a labelled diagram. Write its advantages and disadvantages."
+        },
+        {
+          "label": "(ii)",
+          "text": "What is meant by acid rain? Explain its causes and adverse effects on human life. Also write equations for the reactions of sulphuric acid with carbon and aluminium."
+        },
+        {
+          "label": "(iii)",
+          "text": "What is bleaching powder? How is it prepared commercially? Explain with a diagram and give its reactions with $\\mathrm{H_2O}$ and $\\mathrm{HCl}$."
+        }
+      ]
+    },
+    {
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Write IUPAC names of the following complexes: * $[PtCl(NO_2)(NH_3)_5]SO_4$ * $[Co(H_2O)_6]Cl_3$ * $NH_4[Cr(SCN)_4(NH_3)_2]$ * $[Fe(CO)_5]$"
+      "text": "How is caustic soda manufactured by the Castner–Kellner process? What are the advantages and disadvantages of the process? Give its uses."
     },
     {
-      "section": "B",
-      "number": "(v)",
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Write IUPAC names of any four of the following complexes: * $[Pt(NH_3)_2(H_2O)Cl]^+$ * $K_3[FeF_6]$ * $[Ni(CN)_4]^{2-}$ * $[Co(en)_3](NO_3)_3$ * $[Ti(H_2O)_6]Cl_3$"
+      "text": "Describe the industrial preparation of sulphuric acid by the contact process."
     },
     {
-      "section": "B",
-      "number": "ii)",
-      "year": 2021,
-      "text": "Write the IUPAC names of any four of the following: * $K_3[Fe(C_2O_4)_3]$ * $[Cr(CN)_6]^{3-}$ * $[Cu(NH_3)_4]SO_4$ * $[Ni(en)_2]Cl_2$ * $[Cr(H_2O)_5(NO_3)_3]$"
-    },
-    {
-      "section": "B",
-      "number": "2. (vi)",
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Write the I.U.P.A.C. names of the following complexes: *$[Co(en)_3](NO_3)_3$ * $[Cu(NH_3)_4]^{2+}$ * $[AuCl_4]^-$ * $Na_2[Fe(CN)_5NO]$"
+      "text": "Describe the manufacture of caustic soda by the Castner–Kellner process. A diagram is not needed."
     },
     {
-      "section": "B",
-      "number": "2. (vi)",
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2018,
-      "text": "Write I.U.P.C. names of the following complexes: * $[Pt(NH_3)_2Cl_2]$ * $NH_4[Cr(SCN)_4(NH_3)_2]$ * $[Cu(CN)_4]^{-2}$ * $[Co(H_2N - CH_2 - CH_2 - NH_2)_3](NO_3)_3$"
+      "text": "Give the industrial preparation of oil of vitriol by the contact process with a diagram."
     },
     {
-      "section": "B",
-      "number": "2. (iii)",
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Write the I.U.P.A.C. names of the following: *$[Pt(NH_3)_2Cl_2]$ * $[Fe(CO)_5]$ * $Na[AlF_6]$ * $[CoBr_2(en)_2]Br$"
+      "text": "How is caustic soda manufactured by electrolysis of brine using a moving mercury cathode? Draw a diagram of the method."
     },
     {
-      "section": "B",
-      "number": "2. (i)",
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2016,
-      "text": "Write I.U.P.A.C. names of the following: * $Co(NH_3)_5Cl]Cl$ * $[Cr(en)_3]Cl_3$ * $Na_3[Cu(OH)_4(NO_3)_2]$ * $Na_2[Fe(CN)_5NO]$"
+      "text": "Describe the manufacture of sulphuric acid by the contact process."
     },
     {
-      "section": "C",
-      "number": "4. a)",
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Describe the various steps involve in the extraction of 99.99% pure copper from its chalcopyrite ore. Write the composition of duralumin and brass."
+      "text": "Explain any two properties of the 3d series of transition elements.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Colour of complexes"
+        },
+        {
+          "label": "(ii)",
+          "text": "Catalytic activity"
+        },
+        {
+          "label": "(iii)",
+          "text": "Binding energy"
+        }
+      ]
     },
     {
-      "section": "C",
-      "number": "4. a)",
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Describe various steps involved as extraction of 99.99% pure copper from its ore, make diagram where needed."
+      "text": "What are outer transition elements? Describe any two of the following properties.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Variable oxidation conditions"
+        },
+        {
+          "label": "(ii)",
+          "text": "Colour formation"
+        },
+        {
+          "label": "(iii)",
+          "text": "Magnetic properties"
+        }
+      ]
     },
     {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Explain any two of the following properties of transition elements.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Colour of complexes"
+        },
+        {
+          "label": "(ii)",
+          "text": "Ionization potential"
+        },
+        {
+          "label": "(iii)",
+          "text": "Variable oxidation state"
+        }
+      ]
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Describe the refining of copper by electrolysis of blister copper."
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Discuss any two of the following properties of transition metals.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Colour"
+        },
+        {
+          "label": "(ii)",
+          "text": "Magnetic properties"
+        },
+        {
+          "label": "(iii)",
+          "text": "Formation of complexes"
+        }
+      ]
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "How is copper blister obtained from its concentrated sulphide ore?"
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "With the help of crystal field theory, explain the colour of transition-metal complex ions."
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "How is blister copper obtained from matte?"
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Write the IUPAC names of the following coordination compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$[\\mathrm{Cr(en)_3}](\\mathrm{NO_3})_3$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$[\\mathrm{Pt(NH_3)_2Cl_2}]^{2+}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$[\\mathrm{Zn(OH)_4}]^{2-}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{Na_3[Co(C_2O_4)_3]}$"
+        }
+      ]
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Write the IUPAC names of the following coordination compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$[\\mathrm{Cu(en)_2}]^{2+}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$[\\mathrm{Ni(SCN)_4}]^{2-}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$[\\mathrm{Ag(NH_3)_2}]\\mathrm{OH}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{K_3[Fe(CN)_6]}$"
+        }
+      ]
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write the IUPAC names of the following coordination compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$[\\mathrm{PtCl(NO_2)(NH_3)}]\\mathrm{SO_4}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$[\\mathrm{Co(H_2O)_6}]\\mathrm{Cl_3}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{NH_4[Cr(SCN)_4(NH_3)_2]}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$[\\mathrm{Fe(CO)_5}]$"
+        }
+      ]
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Write the IUPAC names of the following coordination compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$[\\mathrm{Pt(NH_3)_3(H_2O)}]^{2+}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{K_3[FeF_6]}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$[\\mathrm{Ni(CN)_4}]^{2-}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$[\\mathrm{Co(en)_3}](\\mathrm{NO_3})_3$"
+        },
+        {
+          "label": "(v)",
+          "text": "$[\\mathrm{Ti(H_2O)_3}]\\mathrm{Cl_3}$"
+        }
+      ]
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Write the IUPAC names of the following coordination compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{K_3[Fe(C_2O_4)_3]}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$[\\mathrm{Cu(NH_3)_4}]\\mathrm{SO_4}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$[\\mathrm{Cr(H_2O)_6}](\\mathrm{NO_3})_3$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$[\\mathrm{Co(CN)_6}]^{3-}$"
+        },
+        {
+          "label": "(v)",
+          "text": "$[\\mathrm{Ni(en)_2Cl_2}]^{2+}$"
+        }
+      ]
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Write the IUPAC names of the following coordination compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$[\\mathrm{Co(en)_3}](\\mathrm{NO_3})_3$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$[\\mathrm{Cu(NH_3)_4}]^{2+}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$[\\mathrm{AuCl_4}]^{-}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{Na_3[Fe(CN)_5NO]}$"
+        }
+      ]
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Write the IUPAC names of the following coordination compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$[\\mathrm{Pt(NH_3)_2Cl_4}]$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{NH_4[Cr(SCN)_4(NH_3)_2]}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$[\\mathrm{Cu(CN)_4}]^{2-}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$[\\mathrm{Co(H_2NCH_2CH_2NH_2)_3}](\\mathrm{NO_3})_3$"
+        }
+      ]
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Write the IUPAC names of the following coordination compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$[\\mathrm{Pt(NH_3)Cl_2}]$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$[\\mathrm{Fe(CO)_4}]$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{Na_3[AlF_6]}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$[\\mathrm{CoBr_2(en)_2}]\\mathrm{Br}$"
+        }
+      ]
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Write the IUPAC names of the following coordination compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$[\\mathrm{Co(NH_3)_5Cl}]$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$[\\mathrm{Cr(en)_3}]\\mathrm{Cl_3}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{Na_3[Cu(OH)_2(NO_3)_2]}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{Na_2[Fe(CN)_5NO]}$"
+        }
+      ]
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
       "section": "C",
-      "number": "4. a)",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Describe the various steps involved in the extraction of 99.99% pure copper from chalcopyrite ore. Write the compositions of duralumin and brass."
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Describe the various steps involved in the extraction of 99.99% pure copper from its ore. Draw diagrams where needed."
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2022,
       "text": "Describe the metallurgy of 99.99% copper from roasted pyrite ore."
     },
     {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
       "section": "C",
-      "number": "3. (b)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2018,
-      "text": "[OR 3. (b)] Describe the metallurgy of blister Copper from concentrated pyrite ore."
+      "text": "Describe the metallurgy of blister copper from concentrated pyrite ore."
     },
     {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
       "section": "C",
-      "number": "3. (c)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Describe any two of the following properties of 'd' block element: *Magnetic properties *Catalytic properties *Formation of Colour *Variable oxidation state"
+      "text": "Describe any two of the following properties of d-block elements.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Magnetic properties"
+        },
+        {
+          "label": "(ii)",
+          "text": "Catalytic properties"
+        },
+        {
+          "label": "(iii)",
+          "text": "Formation of colour"
+        },
+        {
+          "label": "(iv)",
+          "text": "Variable oxidation state"
+        }
+      ]
     },
     {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
       "section": "C",
-      "number": "3. (a)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2016,
-      "text": "Describe the extraction of 99.99% Copper from roasted pyrite ore"
+      "text": "Describe the extraction of 99.99% copper from roasted pyrite ore."
     },
     {
+      "chapter": "Inorganic Chemistry - Miscellaneous",
       "section": "B",
-      "number": "vii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define any four of the following: *Analgesic *Antibiotic *Antipyretic Medicine *Anti-inflammatory Medicine. *Chiral Carbon"
+      "text": "Define any four of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Analgesic"
+        },
+        {
+          "label": "(ii)",
+          "text": "Antibiotic"
+        },
+        {
+          "label": "(iii)",
+          "text": "Antipyretic medicine"
+        },
+        {
+          "label": "(iv)",
+          "text": "Anti-inflammatory medicine"
+        },
+        {
+          "label": "(v)",
+          "text": "Chiral carbon"
+        }
+      ]
     },
     {
+      "chapter": "Inorganic Chemistry - Miscellaneous",
       "section": "B",
-      "number": "2. i)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "(OR) Give any four scientific reasons of the following: * Alkaline earth metal possess smaller atomic radii and Alkali metals. * Acidity of hydrogen halides increases from HF to HI. * Ionization energy decreases from top to bottom in s-block elements. * Ligands are generally called Lewis-bases. * Chromium exist in $4s^1,3d^5$ configuration but not in $4s^2,3d^4$."
+      "text": "Give scientific reasons for the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Alkaline-earth metals possess smaller atomic radii than alkali metals."
+        },
+        {
+          "label": "(ii)",
+          "text": "The acidity of hydrogen halides increases from $\\mathrm{HF}$ to $\\mathrm{HI}$."
+        },
+        {
+          "label": "(iii)",
+          "text": "Ionization energy decreases from top to bottom in s-block elements."
+        },
+        {
+          "label": "(iv)",
+          "text": "Ligands are generally called Lewis bases."
+        },
+        {
+          "label": "(v)",
+          "text": "Chromium exists in the $4s^1 3d^5$ configuration, but not in the $4s^2 3d^4$ configuration."
+        }
+      ]
     },
     {
+      "chapter": "Inorganic Chemistry - Miscellaneous",
       "section": "B",
-      "number": "2. i)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "(OR) — Describe reasons of the following: * If is weaker acid than HCl acid. * Alkali metals are good conductor of electricity. * Fluorine is the strongest oxidizing agent. * Transition elements have tendency to form alloys."
+      "text": "Give scientific reasons for the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{HF}$ is a weaker acid than $\\mathrm{HCl}$."
+        },
+        {
+          "label": "(ii)",
+          "text": "Alkali metals are good conductors of electricity."
+        },
+        {
+          "label": "(iii)",
+          "text": "Fluorine is the strongest oxidizing agent."
+        },
+        {
+          "label": "(iv)",
+          "text": "Transition elements have a tendency to form alloys."
+        }
+      ]
     },
     {
+      "chapter": "Inorganic Chemistry - Miscellaneous",
       "section": "B",
-      "number": "(vii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Give any four scientific reasons of the following * Sulphuric acid has high boiling point * Alkali metals are powerful reducing agents. * Transition metals form non-stoichiometric compounds."
+      "text": "Give scientific reasons for the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Sulphuric acid has a high boiling point."
+        },
+        {
+          "label": "(ii)",
+          "text": "Alkali metals are powerful reducing agents."
+        },
+        {
+          "label": "(iii)",
+          "text": "Transition metals form non-stoichiometric compounds."
+        }
+      ]
     },
     {
+      "chapter": "Inorganic Chemistry - Miscellaneous",
       "section": "B",
-      "number": "2. (iv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Give scientific reasons for any Four of the following: * Alkali metals form cations easily. * Transition metals form non-stoichiometric compounds."
+      "text": "Give scientific reasons for the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Alkali metals form cations easily."
+        },
+        {
+          "label": "(ii)",
+          "text": "Transition metals form non-stoichiometric compounds."
+        }
+      ]
     },
     {
+      "chapter": "Inorganic Chemistry - Miscellaneous",
       "section": "B",
-      "number": "2. (ii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Give scientific reasons for the following: * Alkaline earth metals are harder than Alkali metals."
+      "text": "Give scientific reasons for the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Alkaline-earth metals are harder than alkali metals."
+        }
+      ]
     },
     {
+      "chapter": "Inorganic Chemistry - Miscellaneous",
       "section": "B",
-      "number": "2. (iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2016,
-      "text": "Give scientific reasons for the following: * Alkali and alkaline earth metals from only +1 and +2 ions respectively."
+      "text": "Give scientific reasons for the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Alkali and alkaline-earth metals form only $+1$ and $+2$ ions, respectively."
+        }
+      ]
     },
     {
+      "chapter": "Inorganic Chemistry - Miscellaneous",
       "section": "B",
-      "number": "2. (ii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2015,
-      "text": "Give scientific reasons for the following: * Alkali metals are powerful reducing agents. * $SO_2$ is dissolved in $H_2SO_4$ but not in water. * Transition elements show variable oxidation states"
+      "text": "Give scientific reasons for the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Alkali metals are powerful reducing agents."
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{SO_3}$ dissolves in $\\mathrm{H_2SO_4}$ but not in water."
+        },
+        {
+          "label": "(iii)",
+          "text": "Transition elements show variable oxidation states."
+        }
+      ]
     },
     {
+      "chapter": "Inorganic Chemistry - Miscellaneous",
       "section": "B",
-      "number": "4. (c)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Write notes on any two of the following: * Bleaching Powder"
+      "text": "Write a note on bleaching powder."
     },
     {
+      "chapter": "Inorganic Chemistry - Miscellaneous",
       "section": "B",
-      "number": "iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Write the chemical equation of any four of the following: * Reaction of Lithium with HBr. * Reaction of ethanol with acidified $K_2Cr_2O_7$. * Reaction of Grignard reagent with $CO_2$. * Reaction of ethanol with $HIO_4$. * Reaction of ethanol with alcohol."
+      "text": "Write chemical equations for any four of the following reactions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Ethyne with $\\mathrm{HBr}$."
+        },
+        {
+          "label": "(ii)",
+          "text": "Ethanol with acidified $\\mathrm{K_2Cr_2O_7}$."
+        },
+        {
+          "label": "(iii)",
+          "text": "Grignard reagent with $\\mathrm{CO_2}$."
+        },
+        {
+          "label": "(iv)",
+          "text": "Ethanol with $\\mathrm{HIO_4}$."
+        },
+        {
+          "label": "(v)",
+          "text": "Ethanal with alcohol."
+        }
+      ]
     },
     {
+      "chapter": "Inorganic Chemistry - Miscellaneous",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Write any eight chemical equations for the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "A mixture of nitrogen and silicon is heated at elevated temperature."
+        },
+        {
+          "label": "(ii)",
+          "text": "Phosphorus is put into water."
+        },
+        {
+          "label": "(iii)",
+          "text": "Chlorine gas is passed through hot caustic-soda solution."
+        },
+        {
+          "label": "(iv)",
+          "text": "Reaction between $\\mathrm{KMnO_4}$ and $\\mathrm{FeSO_4}$; write the ionic equation."
+        },
+        {
+          "label": "(v)",
+          "text": "Reaction of manganese with air."
+        },
+        {
+          "label": "(vi)",
+          "text": "Reaction of copper with concentrated $\\mathrm{HNO_3}$."
+        },
+        {
+          "label": "(vii)",
+          "text": "Reaction of aluminium with caustic soda."
+        },
+        {
+          "label": "(viii)",
+          "text": "Reaction of rubidium with air."
+        },
+        {
+          "label": "(ix)",
+          "text": "Reaction of fluorine with oxygen."
+        },
+        {
+          "label": "(x)",
+          "text": "Reaction of chromium with water."
+        }
+      ]
+    },
+    {
+      "chapter": "Inorganic Chemistry - Miscellaneous",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Write balanced chemical equations for the following reactions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Nitrogen reacts with oxygen in the presence of a catalyst."
+        },
+        {
+          "label": "(ii)",
+          "text": "Bleaching powder reacts with $\\mathrm{HCl}$."
+        },
+        {
+          "label": "(iii)",
+          "text": "Potassium reacts with ethyl alcohol."
+        },
+        {
+          "label": "(iv)",
+          "text": "A piece of copper is dipped in concentrated sulphuric acid."
+        },
+        {
+          "label": "(v)",
+          "text": "Phosphorus is put into water."
+        },
+        {
+          "label": "(vi)",
+          "text": "Chromium reacts with steam."
+        },
+        {
+          "label": "(vii)",
+          "text": "Manganese reacts with air."
+        },
+        {
+          "label": "(viii)",
+          "text": "Ferric chloride reacts with $\\mathrm{NaOH}$."
+        }
+      ]
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Answer the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Define any four: catenation, bucky ball, functional group, isomerism, and reforming of petroleum."
+        },
+        {
+          "label": "(ii)",
+          "text": "Describe a homologous series of organic compounds and write three properties of a homologous series."
+        }
+      ]
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define a homologous series and write its three general properties."
+    },
+    {
+      "chapter": "3 - Organic Compounds",
       "section": "C",
-      "number": "3. b)",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Define polymerization. How many types of polymerization are there?"
+    },
+    {
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Write the IUPAC names of the following organic compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{CH_3(CH_2)_3COO C(CH_3)_3}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{(CH_2)_5(COOH)_2}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "A benzene ring bearing $\\mathrm{OH}$, $\\mathrm{Br}$ and $\\mathrm{Cl}$ substituents as shown."
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{CH_3CH_2OC(CH_3)_2C_2H_5}$"
+        },
+        {
+          "label": "(v)",
+          "text": "$\\mathrm{CH_3CH_2COCH_2COOH}$"
+        }
+      ]
+    },
+    {
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Write the IUPAC names of the following organic compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{CH_3CH_2CH(OH)CH_2COOH}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{C_2H_5CH_2COOCH(CH_3)_2}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{C_2H_5OCH_2C(CH_3)_3}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{CH_2{=}CHC{\\equiv}CCH{=}CH_2}$"
+        }
+      ]
+    },
+    {
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Write any Eight chemical equation for the following: * A mixture of nitrogen and silicon is heated under elevated temperature. * Phosphorous is put into water. * Chlorine gas is passed through hot solution of Caustic soda. * Reaction between $KMnO_4$ and $FeSO_4$ (write ionic equation). * Reaction of Mn with air. * Reaction of copper with concentrated $HNO_3$ * Reaction of Aluminium with caustic soda. * Reaction of Rubidium with air. * Reaction of Fluorine with oxygen. * Reaction of chromium with water."
+      "text": "Write the IUPAC names of the following organic compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{CH_3OCH_2CH(OCH_3)CH(CH_3)CH_3}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{CH_2{=}CHC{\\equiv}CCH{=}CH_2}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{CH_3CH(OH)(CH_2)_2COOH}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{C_6H_5COOC(CH_3)_3}$"
+        },
+        {
+          "label": "(v)",
+          "text": "$\\mathrm{(CH_3)_2CHCOC(CH_3)_3}$"
+        }
+      ]
     },
     {
-      "section": "C",
-      "number": "3. b)",
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Write a balance chemical equation for the following reactions: * Nitrogen reacts with oxygen in the presence of a catalyst. * Bleaching powder reaction with HCl. * Reaction of potassium with ethyl alcohol. * A piece of copper is dipped in concentrated sulphuric acid. * Phosphorus is put into water. * Chromium reaction with steam. * Reaction of Mn with air. * Ferric chloride reaction with NaOH."
+      "text": "Write the IUPAC names of the following organic compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{(CH_3)_3CCH_2CH(CH_3)Cl}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{CH_3CH(OH)C_2H_5COOH}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{CH_3CO(CH_2)_3CHO}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "A benzene ring bearing $\\mathrm{OH}$, $\\mathrm{Br}$ and $\\mathrm{Cl}$ substituents as shown."
+        }
+      ]
     },
     {
+      "chapter": "4 - Nomenclature of Organic Compounds",
       "section": "B",
-      "number": "viii)",
-      "year": 2025,
-      "text": "Define any four of the following: *Catenation *Bucky Ball *Isomerism *Reforming of Petroleum"
-    },
-    {
-      "section": "B",
-      "number": "viii)",
-      "year": 2025,
-      "text": "—OR—Describe homologous series of organic compound and write three properties of homologous series."
-    },
-    {
-      "section": "B",
-      "number": "xii)",
-      "year": 2024,
-      "text": "Define homologous series and write its three general properties."
-    },
-    {
-      "section": "C",
-      "number": "5. (b)",
-      "year": 2015,
-      "text": "Define Polymerization. How many types of Polymerizations are there?"
-    },
-    {
-      "section": "C",
-      "number": "1",
-      "year": 0,
-      "text": "Draw and explain orbital structure of Ethyne and write two methods of its preparation."
-    },
-    {
-      "section": "C",
-      "number": "2",
-      "year": 0,
-      "text": "Write equation and mechanism of sulphonation and nitration of benzene."
-    },
-    {
-      "section": "C",
-      "number": "3",
-      "year": 0,
-      "text": "What is Free Radical? Explain the reaction mechanism of chlorination of methane in the presence of sunlight."
-    },
-    {
-      "section": "C",
-      "number": "4",
-      "year": 0,
-      "text": "Draw the structure of Ethane. By a chemical test distinguish between ethane and ethyne."
-    },
-    {
-      "section": "C",
-      "number": "5",
-      "year": 0,
-      "text": "Write the chemical equations for the following: Free Radical Cation."
-    },
-    {
-      "section": "C",
-      "number": "8",
-      "year": 0,
-      "text": "Draw and explain orbital structure of ethane and write two methods of its preparation."
-    },
-    {
-      "section": "C",
-      "number": "9",
-      "year": 0,
-      "text": "Define electrophile. Give stepwise reaction mechanism of following reactions of benzene. Chlorination Acylation"
-    },
-    {
-      "section": "C",
-      "number": "12",
-      "year": 0,
-      "text": "The structures of organic molecule (A and B) are shown below:"
-    },
-    {
-      "section": "C",
-      "number": "14",
-      "year": 0,
-      "text": "Draw the hybrid orbital structure of 'B' with number of Sigma and Pi bonds."
-    },
-    {
-      "section": "C",
-      "number": "15",
-      "year": 0,
-      "text": "Give equation for preparation of A by the dehydration of ethanol."
-    },
-    {
-      "section": "C",
-      "number": "16",
-      "year": 0,
-      "text": "What are Electrophiles? Give the reaction mechanism of"
-    },
-    {
-      "section": "B",
-      "number": "6. a)",
-      "year": 2022,
-      "text": "What is Orientation in benzene? Explain orientation in monosubstituted Benzene. Give the names of ortho-para and meta directing groups."
-    },
-    {
-      "section": "B",
-      "number": "6. a)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
-      "text": "(OR)Write the two possible explanations for benzene behaves as saturated and unsaturated compounds? Describe Kekule structure."
+      "text": "Write the IUPAC names of the following organic compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{(CH_3)_3CCH_2C(CH_3)_2}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{CH_3C(OH)(CH_3)CH_2OH}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{CH_2{=}CHCHClC{\\equiv}CH}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{CH_2{=}CHCH_2CHO}$"
+        },
+        {
+          "label": "(v)",
+          "text": "$\\mathrm{CH_3CH_2COOCH(CH_3)_2}$"
+        }
+      ]
     },
     {
+      "chapter": "4 - Nomenclature of Organic Compounds",
       "section": "B",
-      "number": "5",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Explain the molecular orbital treatment of benzene."
+      "text": "Write the IUPAC names of the following organic compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{CH_3CH(OH)CH{=}CH_2}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{CH_3CH_2CH(OH)CH_2COOH}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{CH_3CH_2COCH_2COOH}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{C_2H_5OCH_2C(CH_3)_3}$"
+        },
+        {
+          "label": "(v)",
+          "text": "A benzene ring bearing $\\mathrm{CH_3}$, $\\mathrm{NO_2}$, $\\mathrm{Cl}$ and $\\mathrm{Br}$ substituents as shown."
+        }
+      ]
     },
     {
+      "chapter": "4 - Nomenclature of Organic Compounds",
       "section": "B",
-      "number": "5. (a)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "Explain Molecular Orbital treatment of Benzene."
+      "text": "Write the IUPAC names of the following organic compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{CH_2{=}CHC{\\equiv}CCH{=}CH_2}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{CH_2(CH_2)_3COOC(CH_3)_3}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{CHO(CH_2)_3CH(CH_3)CH_3}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{CH_3CH(OH)CH_2COOH}$"
+        },
+        {
+          "label": "(v)",
+          "text": "$\\mathrm{CH_3COCCl_3}$"
+        }
+      ]
     },
     {
+      "chapter": "4 - Nomenclature of Organic Compounds",
       "section": "B",
-      "number": "5. (a)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "What is orientation in Benzene? Explain orientation in mono-substituted Benzene. Give the names of ortho-para and meta directing group [OR 5. (a) Give Kekule's structure of Benzene."
+      "text": "Write the IUPAC names of the following organic compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{CH_2{=}CHCH_2COOH}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{C_2H_5(CH_2)_3COCH(CH_3)_2}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{CH_3C(CH_3)_2COCH(CH_3)_2}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{C_2H_5CH_2OC(CH_3)_2C_2H_5}$"
+        }
+      ]
     },
     {
-      "section": "B",
-      "number": "5. (a)",
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2016,
-      "text": "Explain the structure of Benzene by molecular orbital treatment and discuss the stability of Benzene molecule."
+      "text": "Write the IUPAC names of the organic compounds shown in the source.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{C_4H_9Cl}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{C_2H_5OC(CH_3)_2}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{CH_2{=}CHCH(Cl)CH_2CH(CH_3)C{\\equiv}CH}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{C_6H_5C(Cl)_2C(CH_3)_3}$"
+        },
+        {
+          "label": "(v)",
+          "text": "$\\mathrm{CH_3COCH_2COOH}$"
+        }
+      ]
     },
     {
-      "section": "B",
-      "number": "5. (c)",
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2015,
-      "text": "Describe Kekule structure of Benzene."
+      "text": "Write the IUPAC names of the following organic compounds.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\mathrm{CH_3CH_2CH_2COCH(CH_3)_2}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\mathrm{CH_3CH_2COCH_2COOH}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$\\mathrm{CH_3CH_2COOC(CH_3)_3}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$\\mathrm{CH_3OCH(OC_2H_5)CH_2CH_3}$"
+        },
+        {
+          "label": "(v)",
+          "text": "$\\mathrm{CH_2{=}CHC{\\equiv}CCH{=}CH_2}$"
+        }
+      ]
     },
     {
+      "chapter": "5 - Introduction to Hydrocarbons",
       "section": "B",
-      "number": "5. (a)",
-      "year": 2014,
-      "text": "Explain the molecular orbital treatment of Benzene. Also draw the resonance structures of Benzene."
-    },
-    {
-      "section": "B",
-      "number": "x)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "—OR—What are amines? Give three methods of preparation of amines."
+      "text": "Answer the following questions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Draw and explain the orbital structure of ethyne and write two methods of its preparation."
+        },
+        {
+          "label": "(ii)",
+          "text": "Write equations and mechanisms for sulphonation and nitration of benzene."
+        },
+        {
+          "label": "(iii)",
+          "text": "What is a free radical? Explain the reaction mechanism of chlorination of methane in the presence of sunlight."
+        }
+      ]
     },
     {
+      "chapter": "5 - Introduction to Hydrocarbons",
       "section": "B",
-      "number": "x)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What are organometallic compounds? Write the equation of methyl magnesium iodide with the following: * $H_2O$ * $CO_2$ * $CH_3NH_2$"
+      "text": "Answer the following questions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Draw the structure of ethane. Distinguish between ethane and ethyne by a chemical test."
+        },
+        {
+          "label": "(ii)",
+          "text": "Write chemical equations for Friedel–Crafts alkylation and Friedel–Crafts acylation."
+        }
+      ]
     },
     {
+      "chapter": "5 - Introduction to Hydrocarbons",
       "section": "B",
-      "number": "xii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What is Nucleophilic substitution reaction? Write the mechanism $S_N^1$ reaction of $(CH_3)_3CCl$ with NaOH."
+      "text": "Answer the following questions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Draw and explain the orbital structure of ethane and write two methods of its preparation."
+        },
+        {
+          "label": "(ii)",
+          "text": "Define an electrophile. Give the stepwise reaction mechanisms of chlorination and acylation of benzene."
+        }
+      ]
     },
     {
+      "chapter": "5 - Introduction to Hydrocarbons",
       "section": "B",
-      "number": "(iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "What are Organometallic compounds? Give the chemical equation for the preparation of $1^\\circ, 2^\\circ, 3^\\circ$ alcohol from $CH_3MgI$."
+      "text": "The structures of ethene (A) and ethyne (B) are shown. Answer the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Draw the hybrid-orbital structure of B, showing the number of sigma and pi bonds."
+        },
+        {
+          "label": "(ii)",
+          "text": "Give an equation for the preparation of A by dehydration of ethanol."
+        },
+        {
+          "label": "(iii)",
+          "text": "What are electrophiles? Give the reaction mechanism of Friedel–Crafts alkylation and sulphonation of benzene."
+        }
+      ]
     },
     {
+      "chapter": "5 - Introduction to Hydrocarbons",
       "section": "B",
-      "number": "2. (x)",
-      "year": 2019,
-      "text": "What is Organometallic compound? How is it prepared? Starting $CH_3MgI$ prepare the following: * Ethane *Ethanoic acid *Tert-Butyl alcohol"
-    },
-    {
-      "section": "B",
-      "number": "2. (xiii)",
-      "year": 2018,
-      "text": "What is Grignard Reagent? Give in reactions with the following * $C_2H_5 - NH_2$ * $HCHO$ * $CO_2$ * $CH_3 - CO - CH_3$"
-    },
-    {
-      "section": "B",
-      "number": "2. (xiii)",
-      "year": 2015,
-      "text": "What are Organometallic compounds? Prepare the following from any one organometallic compound. *Ethane *Ethyl Alcohol *Vinegar"
-    },
-    {
-      "section": "C",
-      "number": "5 a)",
-      "year": 2025,
-      "text": "What is meant by nucleophile? Give mechanism of the following reactions: * $S_N1$ reaction between $3^\\circ$ alkyl halide and NaCN. * $S_N2$ reaction between $1^\\circ$ alkyl halide and NaOH. Write three methods for the preparation of Alcohol."
-    },
-    {
-      "section": "C",
-      "number": "6. a)",
-      "year": 2024,
-      "text": "—OR—What are organometallic compounds? How is Grignard reagent prepared? Write the reactions of $CH_3MgI$ with water, alcohol, ester and amines."
-    },
-    {
-      "section": "C",
-      "number": "5. a)",
-      "year": 2023,
-      "text": "What are elimination reactions? Explain $E_1$ & $E_2$ mechanism with suitable examples."
-    },
-    {
-      "section": "C",
-      "number": "5. (a)",
-      "year": 2022,
-      "text": "Explain the mechanism in detail of $SN^1$ and $SN^2$ reaction and how the following is obtained from Grignard reagent. * n-butane * 2-methyl-2-propanol * Ethanoic acid"
-    },
-    {
-      "section": "C",
-      "number": "5. a)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
-      "text": "What is $\\beta$ -elimination reaction? Explain the mechanism of $E_1$ and $E_2$ reactions."
+      "text": "The structures of ethyne (A) and ethane (B) are shown. Answer the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Draw the hybrid-orbital structure of B."
+        },
+        {
+          "label": "(ii)",
+          "text": "Give a simple chemical test to distinguish A and B."
+        }
+      ]
     },
     {
-      "section": "C",
-      "number": "5. (b)",
-      "year": 2020,
-      "text": "(OR)—Explain $SN^1$ and $SN^2$ reaction mechanism with example."
-    },
-    {
-      "section": "C",
-      "number": "6. (a)",
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "What are Nucleophilic substitution reaction? Explain the reaction mechanism of $SN^2$ and $SN^1$ with example"
+      "text": "Answer the following questions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Define a free radical."
+        },
+        {
+          "label": "(ii)",
+          "text": "Draw the orbital structure of ethyne."
+        },
+        {
+          "label": "(iii)",
+          "text": "Why does benzene undergo electrophilic substitution reactions? Give the stepwise mechanisms of nitration and chlorination of benzene."
+        }
+      ]
     },
     {
-      "section": "C",
-      "number": "5. (c)",
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "What is $\\beta$-Elimination reaction? Write the mechanism of $E_1$ and $E_2$ reactions."
+      "text": "Answer the following questions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Define isomerism and give its types with examples."
+        },
+        {
+          "label": "(ii)",
+          "text": "Draw and explain the orbital structure of acetylene. Give two methods of its preparation."
+        },
+        {
+          "label": "(iii)",
+          "text": "Give the mechanisms of Friedel–Crafts acylation and sulphonation of benzene."
+        }
+      ]
     },
     {
-      "section": "C",
-      "number": "6. (a)",
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "What are nucleophilic substituting g reaction. Outline the stepwise reaction mechanism for the following (i) $SN^2$ reaction between Bromo methane and NaOH (ii) $SN^1$ reaction between 2-chloro-2-methyl propane and NaCN."
+      "text": "The structures of ethene (A) and ethane (B) are shown. Answer the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Draw the hybrid-orbital structure of A, showing sigma bonds."
+        },
+        {
+          "label": "(ii)",
+          "text": "Write equations and mechanisms of alkylation and acylation in benzene."
+        }
+      ]
     },
     {
-      "section": "C",
-      "number": "6. (a)",
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2016,
-      "text": "What is Elimination reaction? Explain the mechanism of $E_1$ and $E_2$ reactions."
+      "text": "Draw and explain the orbital structure of acetylene."
     },
     {
-      "section": "C",
-      "number": "6. (a)",
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2015,
-      "text": "What is Nucleophile? Explain the reaction mechanism of $S_N1$ and $S_N2$ reactions with example."
+      "text": "Answer the following questions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Draw and explain the orbital structure of ethene."
+        },
+        {
+          "label": "(ii)",
+          "text": "Write the nitration reaction of benzene along with its mechanism."
+        }
+      ]
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Explain the molecular-orbital treatment of benzene and give the preparations of TNT, m-nitrotoluene and cyclohexane."
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is meant by orientation in benzene? What are ortho-, para- and meta-directing groups? Give an example of each. Give the equation for the preparation of m-nitrotoluene from benzene."
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Explain the molecular-orbital treatment of benzene and how benzene is prepared from aliphatic and aromatic hydrocarbons. Give two equations for each."
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Answer either of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "What is orientation in benzene? Explain orientation in monosubstituted benzene. Give the names of ortho-para- and meta-directing groups."
+        },
+        {
+          "label": "(ii)",
+          "text": "Write the two possible explanations for benzene behaving as a saturated and unsaturated compound. Describe the Kekulé structure."
+        }
+      ]
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Explain the molecular-orbital treatment of benzene."
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Explain the molecular-orbital treatment of benzene."
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Answer either of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "What is orientation in benzene? Explain orientation in monosubstituted benzene. Give the names of ortho-para- and meta-directing groups."
+        },
+        {
+          "label": "(ii)",
+          "text": "Give Kekulé’s structure of benzene."
+        }
+      ]
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Explain the structure of benzene by molecular-orbital treatment and discuss the stability of the benzene molecule."
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Describe the Kekulé structure of benzene."
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Explain the molecular-orbital treatment of benzene. Also draw the resonance structures of benzene."
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What are amines? Give three methods for the preparation of amines."
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Answer the following questions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "What are organometallic compounds? Write equations for the reactions of methylmagnesium iodide with $\\mathrm{H_2O}$, $\\mathrm{CO_2}$ and $\\mathrm{CH_3NH_2}$."
+        },
+        {
+          "label": "(ii)",
+          "text": "What is a nucleophilic substitution reaction? Write the mechanism of the $\\mathrm{S_N1}$ reaction of $\\mathrm{(CH_3)_3CCl}$ with $\\mathrm{NaOH}$."
+        }
+      ]
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "What are organometallic compounds? Write chemical equations for the preparation of primary, secondary and tertiary alcohols from $\\mathrm{CH_3MgI}$."
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is an organometallic compound? How is it prepared? Starting with $\\mathrm{CH_3MgI}$, prepare ethane, ethanoic acid and tert-butyl alcohol."
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What is a Grignard reagent? Give its reactions with $\\mathrm{CH_3NH_2}$, $\\mathrm{HCHO}$, $\\mathrm{CO_2}$ and $\\mathrm{CH_3COCH_3}$."
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Why do primary alkyl halides give an $\\mathrm{S_N2}$ mechanism while tertiary alkyl halides give an $\\mathrm{S_N1}$ mechanism?"
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "What are organometallic compounds? Prepare any one organometallic compound, then use it to prepare ethane, ethyl alcohol and vinegar."
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Answer either of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "What is meant by a nucleophile? Give mechanisms for an $\\mathrm{S_N1}$ reaction between a tertiary alkyl halide and $\\mathrm{NaCN}$, and an $\\mathrm{S_N2}$ reaction between a primary alkyl halide and $\\mathrm{NaOH}$. Write three methods for the preparation of alcohol."
+        },
+        {
+          "label": "(ii)",
+          "text": "What are organometallic compounds? How is a Grignard reagent prepared? Write the reactions of $\\mathrm{CH_3MgI}$ with water, alcohol, ester and amines."
+        }
+      ]
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What are elimination reactions? Explain the $\\mathrm{E1}$ and $\\mathrm{E2}$ mechanisms with suitable examples."
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Explain the mechanisms of $\\mathrm{S_N1}$ and $\\mathrm{S_N2}$ reactions in detail, and show how n-butane, 2-methyl-2-propanol and ethanoic acid are obtained from a Grignard reagent."
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "What is a beta-elimination reaction? Explain the mechanisms of $\\mathrm{E1}$ and $\\mathrm{E2}$ reactions."
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Explain $\\mathrm{S_N1}$ and $\\mathrm{S_N2}$ reaction mechanisms with examples."
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is a nucleophilic substitution reaction? Explain the mechanisms of $\\mathrm{S_N2}$ and $\\mathrm{S_N1}$ reactions with examples."
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What is a beta-elimination reaction? Write the mechanisms of $\\mathrm{E1}$ and $\\mathrm{E2}$ reactions."
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is a nucleophilic substitution reaction? Outline the stepwise mechanisms for the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "An $\\mathrm{S_N2}$ reaction between bromomethane and $\\mathrm{NaOH}$."
+        },
+        {
+          "label": "(ii)",
+          "text": "An $\\mathrm{S_N1}$ reaction between 2-chloro-2-methylpropane and $\\mathrm{NaCN}$."
+        }
+      ]
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "What is an elimination reaction? Explain the mechanisms of $\\mathrm{E1}$ and $\\mathrm{E2}$ reactions."
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "What is a nucleophile? Explain the reaction mechanisms of $\\mathrm{S_N1}$ and $\\mathrm{S_N2}$ reactions with examples."
+    },
+    {
+      "chapter": "10 - Biochemistry",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Answer either of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Classify proteins on the basis of their functions and write their importance."
+        },
+        {
+          "label": "(ii)",
+          "text": "Explain the roles of glucose, sucrose and lactose in health and disease."
+        }
+      ]
+    },
+    {
+      "chapter": "10 - Biochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What are carbohydrates? Classify them on the basis of structure and give their biological significance."
+    },
+    {
+      "chapter": "10 - Biochemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What are carbohydrates? How are they classified? Discuss the biological importance of carbohydrates."
+    },
+    {
+      "chapter": "11 - Industrial Chemistry",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What are synthetic polymers? Explain PVC or nylon."
+    },
+    {
+      "chapter": "11 - Industrial Chemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Write notes on any three of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "PVC"
+        },
+        {
+          "label": "(ii)",
+          "text": "Nylon"
+        },
+        {
+          "label": "(iii)",
+          "text": "Fertilizer"
+        },
+        {
+          "label": "(iv)",
+          "text": "Detergent"
+        }
+      ]
+    },
+    {
+      "chapter": "12 - Environmental Chemistry",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Explain any two of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Catalytic converter"
+        },
+        {
+          "label": "(ii)",
+          "text": "CFC"
+        },
+        {
+          "label": "(iii)",
+          "text": "Industrial smog"
+        }
+      ]
+    },
+    {
+      "chapter": "12 - Environmental Chemistry",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "How is the ozone layer formed? What are the causes of its depletion?"
+    },
+    {
+      "chapter": "12 - Environmental Chemistry",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is meant by acid rain? Explain its causes and adverse effects on human life. Also write equations for the reactions of sulphuric acid with carbon and aluminium."
+    },
+    {
+      "chapter": "13 - Environmental Chemistry",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "What is spectrometry? Describe one use of each of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "IR"
+        },
+        {
+          "label": "(ii)",
+          "text": "UV"
+        },
+        {
+          "label": "(iii)",
+          "text": "Mass spectrometry"
+        }
+      ]
+    },
+    {
+      "chapter": "Organic Chemistry - Miscellaneous",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Homologous series"
+        },
+        {
+          "label": "(ii)",
+          "text": "Catenation"
+        }
+      ]
+    },
+    {
+      "chapter": "Organic Chemistry - Miscellaneous",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Functional group"
+        },
+        {
+          "label": "(ii)",
+          "text": "Isomerism"
+        }
+      ]
+    },
+    {
+      "chapter": "Organic Chemistry - Miscellaneous",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Define the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Polymerization"
+        },
+        {
+          "label": "(ii)",
+          "text": "Homologous series"
+        },
+        {
+          "label": "(iii)",
+          "text": "Catenation"
+        }
+      ]
+    },
+    {
+      "chapter": "Organic Chemistry - Miscellaneous",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Define the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Homologous series"
+        }
+      ]
+    },
+    {
+      "chapter": "Organic Chemistry - Miscellaneous",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Define the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Polymerization"
+        },
+        {
+          "label": "(ii)",
+          "text": "Catenation"
+        }
+      ]
+    },
+    {
+      "chapter": "Organic Chemistry - Miscellaneous",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Functional group"
+        },
+        {
+          "label": "(ii)",
+          "text": "Catenation"
+        }
+      ]
+    },
+    {
+      "chapter": "Organic Chemistry - Miscellaneous",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Isomerism"
+        }
+      ]
+    },
+    {
+      "chapter": "Organic Chemistry - Miscellaneous",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Define the following with examples.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Catenation"
+        },
+        {
+          "label": "(ii)",
+          "text": "Functional group"
+        }
+      ]
     }
   ]
 }
