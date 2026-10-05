@@ -84,7 +84,7 @@
     {
       "section": "B",
       "number": "2",
-      "year": 2022,
+      "year": 2021,
       "text": "Write three sentences on the importance of Chemistry.",
       "chapter": "Fundamentals of Chemistry",
       "type": "short",
@@ -94,7 +94,7 @@
     {
       "section": "B",
       "number": "3",
-      "year": 2022,
+      "year": 2021,
       "text": "Define mole, calculate the number of moles in 40 grams of water $(H_2O)$ (At Mass $O = 16$, $H = 1$).",
       "chapter": "Fundamentals of Chemistry",
       "type": "numerical",
@@ -104,16 +104,16 @@
     {
       "section": "B",
       "number": "6",
-      "year": 2022,
+      "year": 2021,
       "text": "Balance the following chemical equations by using co-efficient.",
       "parts": [
         {
-          "label": "(ii)",
-          "text": "$Cl + O_2 \\rightarrow CO_2$"
+          "label": "(i)",
+          "text": "$Si + Cl_2 \\rightarrow SiCl_4$"
         },
         {
           "label": "(ii)",
-          "text": "$Si + Cl_2 \\rightarrow SiCl_4$"
+          "text": "$C + O_2 \\rightarrow CO_2$"
         },
         {
           "label": "(iii)",
@@ -127,7 +127,7 @@
     {
       "section": "B",
       "number": "10",
-      "year": 2022,
+      "year": 2021,
       "text": "Write down the basic units of the following quantities in system international:",
       "parts": [
         {
@@ -152,7 +152,7 @@
         },
         {
           "label": "(vi)",
-          "text": "Quantity off substance"
+          "text": "Quantity of substance"
         }
       ],
       "chapter": "Fundamentals of Chemistry",
@@ -162,7 +162,7 @@
     {
       "section": "B",
       "number": "2",
-      "year": 2022,
+      "year": 2019,
       "text": "Chemistry and Human society \"Go Hand in Hand\". Write four arguments in support of this statement.",
       "chapter": "Fundamentals of Chemistry",
       "type": "short",
@@ -172,7 +172,7 @@
     {
       "section": "B",
       "number": "7",
-      "year": 2022,
+      "year": 2019,
       "text": "Find out the mass of 4.5 moles of the following compounds:",
       "parts": [
         {
@@ -191,7 +191,7 @@
     {
       "section": "B",
       "number": "2",
-      "year": 2022,
+      "year": 2018,
       "text": "What is Chemistry? Write names of any six branches of Chemistry.",
       "chapter": "Fundamentals of Chemistry",
       "type": "short",
@@ -201,7 +201,7 @@
     {
       "section": "B",
       "number": "7",
-      "year": 2022,
+      "year": 2018,
       "text": "How many atoms or molecules are there in?",
       "parts": [
         {
@@ -214,13 +214,13 @@
         }
       ],
       "chapter": "Fundamentals of Chemistry",
-      "type": "short",
+      "type": "numerical",
       "source": "past_paper"
     },
     {
       "section": "B",
       "number": "8",
-      "year": 2022,
+      "year": 2018,
       "text": "Reproduce any two of the following chemical reaction in the form of balanced chemical equations:",
       "parts": [
         {
@@ -243,21 +243,21 @@
     {
       "section": "B",
       "number": "2",
-      "year": 0,
+      "year": 2017,
       "text": "Write names of any six branches of Chemistry. Explain with examples.",
       "chapter": "Fundamentals of Chemistry",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "B",
       "number": "8",
-      "year": 0,
+      "year": 2017,
       "text": "Explain why hydrogen and oxygen are considered as element whereas water is compound?",
       "chapter": "Fundamentals of Chemistry",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
@@ -311,7 +311,7 @@
       "parts": []
     },
     {
-      "section": "C",
+      "section": "D",
       "number": "1",
       "year": 0,
       "text": "Balance the following equations by inspection method:",
@@ -342,7 +342,7 @@
       "source": "important_book"
     },
     {
-      "section": "C",
+      "section": "D",
       "number": "2",
       "year": 0,
       "text": "Calculate the formula mass (a.m.u) of the following? $Al_2O_3, MgCl_2, NaCl, KNO_3$",
@@ -352,7 +352,7 @@
       "parts": []
     },
     {
-      "section": "C",
+      "section": "D",
       "number": "3",
       "year": 0,
       "text": "Calculate the molecular mass (a.m.u) of the following? $C_2H_5OH, H_2O, NH_3, CO_2$",
@@ -362,7 +362,7 @@
       "parts": []
     },
     {
-      "section": "C",
+      "section": "D",
       "number": "4",
       "year": 0,
       "text": "How many moles are required to prepare 40 gm of $H_2SO_4$?",
@@ -372,7 +372,7 @@
       "parts": []
     },
     {
-      "section": "C",
+      "section": "D",
       "number": "5",
       "year": 0,
       "text": "Calculate the number of moles and number of molecules present in the following?",
@@ -402,31 +402,107 @@
     },
     {
       "section": "B",
-      "number": "4",
-      "year": 0,
-      "text": "Write down the electronic configuration or arrangements of the following Elements according to the Bohr's Atomic Model.",
+      "number": "7",
+      "year": 2024,
+      "text": "What are isotopes? Briefly describe three isotopes of uranium.",
       "chapter": "Atomic Structure",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "B",
+      "number": "4",
+      "year": 2023,
+      "text": "Write down the electronic configuration of the following elements:",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "past_paper",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Carbon"
+        },
+        {
+          "label": "(ii)",
+          "text": "Fluorine"
+        },
+        {
+          "label": "(iii)",
+          "text": "Sodium"
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "number": "12",
+      "year": 2023,
+      "text": "Write down three properties of cathode rays.",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
+    },
+    {
+      "section": "B",
+      "number": "6",
+      "year": 2022,
+      "text": "What are isotopes? Describe the isotopes of chlorine.",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
+    },
+    {
+      "section": "B",
+      "number": "7",
+      "year": 2022,
+      "text": "Write down any three points of the atomic model proposed by Schrödinger.",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 2021,
+      "text": "Write down the electronic configurations of the following elements according to Bohr's atomic model:",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "past_paper",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Hydrogen (atomic number 1)"
+        },
+        {
+          "label": "(ii)",
+          "text": "Nitrogen (atomic number 7)"
+        },
+        {
+          "label": "(iii)",
+          "text": "Neon (atomic number 10)"
+        }
+      ]
+    },
+    {
+      "section": "B",
       "number": "9",
-      "year": 0,
+      "year": 2018,
       "text": "Define the following: (i) Isotopes",
       "chapter": "Atomic Structure",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "B",
       "number": "5",
-      "year": 2018,
+      "year": 2017,
       "text": "How many protons and neutrons are present in the following atoms: (i) $^{14}N$ (ii) $^{27}Al$ (iii) $^{23}Na$",
       "chapter": "Atomic Structure",
-      "type": "short",
+      "type": "numerical",
       "source": "past_paper",
       "parts": []
     },
@@ -694,7 +770,7 @@
       "section": "B",
       "number": "2",
       "year": 2023,
-      "text": "What is meant by the terms 'period' and 'group' with respect to periodic table? Identity period and group of $_7N$ and $_{11}Na$",
+      "text": "What is meant by the terms 'period' and 'group' with respect to the periodic table? Identify the period and group of $_7N$ and $_{11}Na$.",
       "chapter": "Periodic Table and Periodicity of Properties",
       "type": "short",
       "source": "past_paper",
@@ -936,7 +1012,7 @@
       "year": 0,
       "text": "Determine the demarcation of periodic table in to s, p, d and f blocks.",
       "chapter": "Periodic Table and Periodicity of Properties",
-      "type": "numerical",
+      "type": "long",
       "source": "important_book",
       "parts": []
     },
@@ -956,7 +1032,7 @@
       "year": 0,
       "text": "Determine the location of families on periodic table.",
       "chapter": "Periodic Table and Periodicity of Properties",
-      "type": "numerical",
+      "type": "long",
       "source": "important_book",
       "parts": []
     },
@@ -983,161 +1059,161 @@
     {
       "section": "B",
       "number": "8",
-      "year": 0,
+      "year": 2025,
       "text": "What is meant by lone pair and unpaired electrons? How many lone pair and unpaired electrons are there in Nitrogen atom?",
       "chapter": "Chemical Bonding",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "B",
       "number": "10",
-      "year": 0,
+      "year": 2024,
       "text": "Draw electronic dot and cross structures or following molecules: (i) $H_2$ (ii) $N_2$ (iii) $O_2$ (Atomic number of H = 1, N = 7, O = 8)",
       "chapter": "Chemical Bonding",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "B",
       "number": "10",
-      "year": 0,
+      "year": 2023,
       "text": "Write down three important characteristics of covalent compounds.",
       "chapter": "Chemical Bonding",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "B",
       "number": "5",
-      "year": 0,
+      "year": 2021,
       "text": "Write down three comparative points between Covalent Bond and Dative Bond.(at least 3 points each)",
       "chapter": "Chemical Bonding",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "B",
       "number": "5",
-      "year": 0,
+      "year": 2019,
       "text": "Write down four comparative points between Covalent bond and Dative bond.",
       "chapter": "Chemical Bonding",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "B",
       "number": "9",
-      "year": 0,
+      "year": 2018,
       "text": "Define the following: (iv)Polar Bond",
       "chapter": "Chemical Bonding",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "B",
       "number": "7",
-      "year": 0,
+      "year": 2017,
       "text": "Write three characteristic properties of Ionic compounds.",
       "chapter": "Chemical Bonding",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "B",
       "number": "7",
-      "year": 0,
-      "text": "Write three differences between ionic compounds Is and covalent compounds",
+      "year": 2016,
+      "text": "Write three differences between ionic compounds and covalent compounds.",
       "chapter": "Chemical Bonding",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "B",
       "number": "10",
-      "year": 0,
+      "year": 2016,
       "text": "Define: (i)Chemical Bond (ii)Metallic Bond (iii)Hydrogen Bond",
       "chapter": "Chemical Bonding",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "C",
       "number": "15",
-      "year": 0,
+      "year": 2025,
       "text": "Why do some molecules form covalent bond? Write its three types with examples.",
       "chapter": "Chemical Bonding",
       "type": "long",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "C",
       "number": "18",
-      "year": 0,
+      "year": 2024,
       "text": "What is an ionic bond? Explain the formation of ionic bond between Sodium and Chlorine ionic compound Sodium chloride is formed.",
       "chapter": "Chemical Bonding",
       "type": "long",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "C",
       "number": "15",
-      "year": 0,
+      "year": 2023,
       "text": "Explain the importance of glues and epoxy resins in our society.",
       "chapter": "Chemical Bonding",
       "type": "long",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "C",
       "number": "17",
-      "year": 0,
+      "year": 2022,
       "text": "What is coordinate covalent bond? Explain it by the formation of Ammonium Ion $(NH_4^+)$ and hydronium ion $(H_3O^+)$",
       "chapter": "Chemical Bonding",
       "type": "long",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "C",
       "number": "15",
-      "year": 0,
+      "year": 2022,
       "text": "Define ionic bond. Illustrate the bond formation in Sodium Chloride (NaCl) also write any two characteristics of ionic compounds.",
       "chapter": "Chemical Bonding",
       "type": "long",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "C",
       "number": "23",
-      "year": 0,
+      "year": 2015,
       "text": "(b). (c) Write down 4 Characteristics of Covalent Compounds.",
       "chapter": "Chemical Bonding",
       "type": "long",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "C",
       "number": "24",
-      "year": 0,
+      "year": 2015,
       "text": "(c). Define: (i) Chemical Bond (ii) Ionic Bond (iii) Covalent bond (iv) Co-ordinate covalent bond.",
       "chapter": "Chemical Bonding",
       "type": "long",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
@@ -1324,7 +1400,7 @@
       "section": "B",
       "number": "Q. 19",
       "year": 0,
-      "text": "Complete the chart:",
+      "text": "Complete the chart for atomic numbers 11–16 by supplying the numbers of protons, electrons, and neutrons, the electronic configuration, and the number of valence electrons. For atomic number 11, the given values are 11 protons, 11 electrons, 12 neutrons, electronic configuration 2, 8, 1, and 1 valence electron.",
       "chapter": "Chemical Bonding",
       "type": "short",
       "source": "important_book",
@@ -1426,7 +1502,7 @@
       "year": 2025,
       "text": "The pressure of a sample gas is 8 atm and the volume is 15 liters. If the pressure is reduced to 6 atm, what will be its new volume?",
       "chapter": "Physical States of Matter",
-      "type": "short",
+      "type": "numerical",
       "source": "past_paper",
       "parts": []
     },
@@ -1436,7 +1512,7 @@
       "year": 2023,
       "text": "The pressure of a sample gas is 3 atm and the volume is 5 litre. If the pressure is reduced to 2 atm then what would be its new volume?",
       "chapter": "Physical States of Matter",
-      "type": "short",
+      "type": "numerical",
       "source": "past_paper",
       "parts": []
     },
@@ -1456,7 +1532,7 @@
       "year": 2022,
       "text": "60ml sample of a gas is heated form $27^\\circ C$ to $52^\\circ C$, at constant pressure. What will be final volume of this gas?",
       "chapter": "Physical States of Matter",
-      "type": "short",
+      "type": "numerical",
       "source": "past_paper",
       "parts": []
     },
@@ -1501,22 +1577,22 @@
       "parts": []
     },
     {
-      "section": "B",
+      "section": "C",
       "number": "Q.4",
       "year": 0,
       "text": "A gas occupies a volume of $40.0dm^3$ at standard temperature $(0^\\circ C)$ and pressure (1 atm), when pressure is increases up to 3 atm unchanged temperature what would be the new volume?",
       "chapter": "Physical States of Matter",
-      "type": "short",
+      "type": "numerical",
       "source": "important_book",
       "parts": []
     },
     {
-      "section": "B",
+      "section": "C",
       "number": "Q.5",
       "year": 0,
       "text": "The $800cm^3$ of a gas is enclosed in a container under a pressure of $750mm$ of Hg. If the volume is reduced to $250cm^3$, what will be the pressure?",
       "chapter": "Physical States of Matter",
-      "type": "short",
+      "type": "numerical",
       "source": "important_book",
       "parts": []
     },
@@ -1525,7 +1601,7 @@
       "number": "10",
       "year": 2025,
       "text": "Calculate the percentage concentration (m/m) of the solution by dissolving 15g salt in 110g water.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "numerical",
       "source": "past_paper",
       "parts": []
@@ -1535,8 +1611,8 @@
       "number": "5",
       "year": 2024,
       "text": "How do you prepare 100ml of 0.4M $MgSO_4$ from a stock solution of 2.0M $MgSO_4$?",
-      "chapter": "Solutions",
-      "type": "short",
+      "chapter": "Solution",
+      "type": "numerical",
       "source": "past_paper",
       "parts": []
     },
@@ -1544,8 +1620,8 @@
       "section": "B",
       "number": "12",
       "year": 2024,
-      "text": "What is meant by Tynall effect? How is it be used for the identification of a true solution and a colloidal?",
-      "chapter": "Solutions",
+      "text": "What is meant by the Tyndall effect? How is it used to identify a true solution and a colloid?",
+      "chapter": "Solution",
       "type": "short",
       "source": "past_paper",
       "parts": []
@@ -1554,19 +1630,32 @@
       "section": "B",
       "number": "9",
       "year": 2023,
-      "text": "Define the following: (i) Saturated solution (ii) Super saturated solution",
-      "chapter": "Solutions",
+      "text": "Define the following:",
+      "chapter": "Solution",
       "type": "short",
       "source": "past_paper",
-      "parts": []
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Saturated solution"
+        },
+        {
+          "label": "(ii)",
+          "text": "Unsaturated solution"
+        },
+        {
+          "label": "(iii)",
+          "text": "Supersaturated solution"
+        }
+      ]
     },
     {
       "section": "B",
       "number": "11",
       "year": 2023,
       "text": "How much sodium hydroxide (NaOH) is required to prepare $400cm^3$ of 0.3 M solution?",
-      "chapter": "Solutions",
-      "type": "short",
+      "chapter": "Solution",
+      "type": "numerical",
       "source": "past_paper",
       "parts": []
     },
@@ -1575,7 +1664,7 @@
       "number": "4",
       "year": 2022,
       "text": "What is an aqueous solution? Give an example. Air is a mixture of gases then why Nitrogen gas is considered solvent?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "past_paper",
       "parts": []
@@ -1585,8 +1674,8 @@
       "number": "8",
       "year": 2021,
       "text": "What is the mass of Oxalic acid $(C_2H_2O_4)$ required to prepare $100cm^3$ volume of 2M Oxalic acid solution? (where Atomic masses: C = 12, H = 1, O = 16)",
-      "chapter": "Solutions",
-      "type": "short",
+      "chapter": "Solution",
+      "type": "numerical",
       "source": "past_paper",
       "parts": []
     },
@@ -1595,7 +1684,7 @@
       "number": "10",
       "year": 2021,
       "text": "-OR- Mention any three characteristics of solution.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "past_paper",
       "parts": []
@@ -1605,7 +1694,7 @@
       "number": "12",
       "year": 2019,
       "text": "Calculate molality of the aqueous solution containing 18 g Glucose $(C_6H_{12}O_6)$ dissolved in 300g of water.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "numerical",
       "source": "past_paper",
       "parts": []
@@ -1615,7 +1704,7 @@
       "number": "19",
       "year": 2018,
       "text": "(a) Define solubility and describe in detail the factors that affect solubility.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "past_paper",
       "parts": []
@@ -1625,7 +1714,7 @@
       "number": "19",
       "year": 2017,
       "text": "What is suspension? Write names of four examples of suspension in daily life.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "past_paper",
       "parts": []
@@ -1635,7 +1724,7 @@
       "number": "21",
       "year": 2016,
       "text": "Calculate the molarity of a solution that contains 2 moles of NaOH dissolved in 0.5 liter of the solution.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "numerical",
       "source": "past_paper",
       "parts": []
@@ -1645,7 +1734,7 @@
       "number": "9",
       "year": 2016,
       "text": "Define solubility and describe effects of temperature and pressure on solubility.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "past_paper",
       "parts": []
@@ -1655,7 +1744,7 @@
       "number": "13",
       "year": 2016,
       "text": "Write three differences between Solution and Suspension.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "past_paper",
       "parts": []
@@ -1665,8 +1754,8 @@
       "number": "11",
       "year": 2015,
       "text": "Define: (i)Solubility (ii)Molarity (iii)Molality",
-      "chapter": "Solutions",
-      "type": "numerical",
+      "chapter": "Solution",
+      "type": "short",
       "source": "past_paper",
       "parts": []
     },
@@ -1675,7 +1764,7 @@
       "number": "17",
       "year": 2025,
       "text": "Compare properties of Solution, Suspension and Collides. (Write eight points of each)",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "long",
       "source": "past_paper",
       "parts": []
@@ -1683,9 +1772,9 @@
     {
       "section": "C",
       "number": "18",
-      "year": 2013,
+      "year": 2023,
       "text": "Compare the characteristics of solution, colloid and suspension.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "long",
       "source": "past_paper",
       "parts": []
@@ -1695,7 +1784,7 @@
       "number": "13",
       "year": 2021,
       "text": "(ii). Calculate the molarity of a solution containing 4 grams of sodium Hydroxide (NaOH) in $250cm^3$ of solution.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "numerical",
       "source": "past_paper",
       "parts": []
@@ -1705,7 +1794,7 @@
       "number": "25",
       "year": 2016,
       "text": "(b). Write four difference between solution and suspension.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "long",
       "source": "past_paper",
       "parts": []
@@ -1715,7 +1804,7 @@
       "number": "Q. 1",
       "year": 0,
       "text": "Explain the solute-solvent interaction to prepare sodium chloride solution.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "important_book",
       "parts": []
@@ -1725,7 +1814,7 @@
       "number": "Q. 2",
       "year": 0,
       "text": "Differentiate between the saturated and unsaturated solution?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "important_book",
       "parts": []
@@ -1735,7 +1824,7 @@
       "number": "Q. 3",
       "year": 0,
       "text": "Define solution and explain the major components of solution?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "important_book",
       "parts": []
@@ -1745,7 +1834,7 @@
       "number": "Q. 4",
       "year": 0,
       "text": "What do you mean by mass/volume percent?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "important_book",
       "parts": []
@@ -1755,7 +1844,7 @@
       "number": "Q. 5",
       "year": 0,
       "text": "Define with example one molar solution.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "important_book",
       "parts": []
@@ -1765,7 +1854,7 @@
       "number": "Q. 6",
       "year": 0,
       "text": "Why does colloidal show Tyndall effect?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "important_book",
       "parts": []
@@ -1775,8 +1864,8 @@
       "number": "Q. 7",
       "year": 0,
       "text": "Define the terms i. Dilution ii. Concentration iii. Solubility iv. Molarity",
-      "chapter": "Solutions",
-      "type": "numerical",
+      "chapter": "Solution",
+      "type": "short",
       "source": "important_book",
       "parts": []
     },
@@ -1785,7 +1874,7 @@
       "number": "Q. 8",
       "year": 0,
       "text": "Polar and ionic solutes dissolve in polar solvent only. Why?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "important_book",
       "parts": []
@@ -1795,7 +1884,7 @@
       "number": "Q. 9",
       "year": 0,
       "text": "Why does Polar solute not dissolve in nonpolar solvent?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "important_book",
       "parts": []
@@ -1805,7 +1894,7 @@
       "number": "Q. 10",
       "year": 0,
       "text": "How are solutions beneficial for community?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "important_book",
       "parts": []
@@ -1815,7 +1904,7 @@
       "number": "Q. 11",
       "year": 0,
       "text": "Why salt dissolves in water?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "important_book",
       "parts": []
@@ -1825,7 +1914,7 @@
       "number": "Q. 12",
       "year": 0,
       "text": "Air is a solution containing oxygen, carbon dioxide, nitrogen and other gases. Which one of the gas is called solvent and why?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "important_book",
       "parts": []
@@ -1835,7 +1924,7 @@
       "number": "Q. 13",
       "year": 0,
       "text": "Why gasoline does not dissolve in water?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "short",
       "source": "important_book",
       "parts": []
@@ -1845,7 +1934,7 @@
       "number": "Q. 1",
       "year": 0,
       "text": "Describe how to prepare dilute solution from concentrated solution.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "long",
       "source": "important_book",
       "parts": []
@@ -1855,8 +1944,8 @@
       "number": "Q. 2",
       "year": 0,
       "text": "Define the term solubility. How does nature of solute and solvent determine the extent of dissolution?",
-      "chapter": "Solutions",
-      "type": "numerical",
+      "chapter": "Solution",
+      "type": "long",
       "source": "important_book",
       "parts": []
     },
@@ -1865,7 +1954,7 @@
       "number": "Q. 3",
       "year": 0,
       "text": "Why the solubility of a salt increases with the increase in temperature?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "long",
       "source": "important_book",
       "parts": []
@@ -1875,7 +1964,7 @@
       "number": "Q. 4",
       "year": 0,
       "text": "Explain the attraction of Na⁺ and Cl⁻ ions for water molecule",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "long",
       "source": "important_book",
       "parts": []
@@ -1885,7 +1974,7 @@
       "number": "Q. 5",
       "year": 0,
       "text": "Explain the solubility with reference to “like dissolve like” principle.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "long",
       "source": "important_book",
       "parts": []
@@ -1895,7 +1984,7 @@
       "number": "Q. 1",
       "year": 0,
       "text": "What is the molarity of the solution prepared by dissolving 1.25 g of HCl gas into enough water to make $30 cm^3$ of solution?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "numerical",
       "source": "important_book",
       "parts": []
@@ -1905,7 +1994,7 @@
       "number": "Q. 2",
       "year": 0,
       "text": "A solution of potassium chloride was prepared by dissolving 2.5 g of potassium chloride (KCl) in water and making the volume up to $100 cm^3$. Find the concentration of solution in $mol/dm^3$.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "numerical",
       "source": "important_book",
       "parts": []
@@ -1915,7 +2004,7 @@
       "number": "Q. 3",
       "year": 0,
       "text": "A flask contains 0.25 M NaOH solution. What mass of NaOH is present per $dm^3$ of solution?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "numerical",
       "source": "important_book",
       "parts": []
@@ -1925,7 +2014,7 @@
       "number": "Q. 4",
       "year": 0,
       "text": "What volume of 0.5M acid is needed to neutralize 200ml of 4M base?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "numerical",
       "source": "important_book",
       "parts": []
@@ -1935,7 +2024,7 @@
       "number": "Q. 5",
       "year": 0,
       "text": "A mineral water bottle contains 28 mg of calcium in 100 $cm^3$ of solution. What is the concentration in $g/dm^3$?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "numerical",
       "source": "important_book",
       "parts": []
@@ -1945,7 +2034,7 @@
       "number": "Q. 6",
       "year": 0,
       "text": "A solution of $20 cm^3$ of alcohol is dissolved in $80 cm^3$ of water. Calculate the concentration (v/v) of this solution.",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "numerical",
       "source": "important_book",
       "parts": []
@@ -1955,7 +2044,7 @@
       "number": "Q. 7",
       "year": 0,
       "text": "How much sodium hydroxide (NaOH) is required to prepare 400 $cm^3$ of 0.3M solution?",
-      "chapter": "Solutions",
+      "chapter": "Solution",
       "type": "numerical",
       "source": "important_book",
       "parts": []
@@ -2273,21 +2362,21 @@
     {
       "section": "B",
       "number": "22",
-      "year": 0,
+      "year": 2017,
       "text": "Define: (ii)Halogens",
       "chapter": "Chemical Reactivity",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
       "section": "B",
       "number": "18",
-      "year": 0,
+      "year": 2016,
       "text": "Write three characteristics of Halogens.",
       "chapter": "Chemical Reactivity",
       "type": "short",
-      "source": "important_book",
+      "source": "past_paper",
       "parts": []
     },
     {
@@ -2491,81 +2580,81 @@
       "parts": []
     },
     {
-      "section": "B",
+      "section": "D",
       "number": "9",
       "year": 2025,
       "text": "Define the following terms: (i) Free radical (ii) Solubility (iii) Alloy",
-      "chapter": "Miscellaneous (Multiple Chapters)",
+      "chapter": "Chemical Reactivity",
       "type": "short",
       "source": "past_paper",
       "parts": []
     },
     {
-      "section": "B",
+      "section": "D",
       "number": "2",
       "year": 2024,
       "text": "Define the following terms: (i) Periodicity (ii) Electronegativity (iii) Electrolysis",
-      "chapter": "Miscellaneous (Multiple Chapters)",
+      "chapter": "Chemical Reactivity",
       "type": "short",
       "source": "past_paper",
       "parts": []
     },
     {
-      "section": "B",
+      "section": "D",
       "number": "2",
       "year": 2022,
       "text": "Define: (i) Tyndall effect (ii) Valency (iii) Electronegativity",
-      "chapter": "Miscellaneous (Multiple Chapters)",
+      "chapter": "Chemical Reactivity",
       "type": "short",
       "source": "past_paper",
       "parts": []
     },
     {
-      "section": "B",
+      "section": "D",
       "number": "13",
       "year": 2025,
       "text": "Give reasons: (i) How does electron differ from neutron? (ii) Why the rate of diffusion of gases is rapid than that of liquids?",
-      "chapter": "Miscellaneous (Multiple Chapters)",
+      "chapter": "Chemical Reactivity",
       "type": "short",
       "source": "past_paper",
       "parts": []
     },
     {
-      "section": "B",
+      "section": "D",
       "number": "13",
       "year": 2024,
       "text": "Justify the following: (i) Why Fluoride ion is not considered as Neon atom? (ii) Why noble gases do not react with other elements at ordinary conditions.",
-      "chapter": "Miscellaneous (Multiple Chapters)",
+      "chapter": "Chemical Reactivity",
       "type": "short",
       "source": "past_paper",
       "parts": []
     },
     {
-      "section": "B",
+      "section": "D",
       "number": "13",
       "year": 2023,
       "text": "Justify the followings: (i) Most of Ionic compounds are found in solid states. (ii) Alkali metals form cation easily.",
-      "chapter": "Miscellaneous (Multiple Chapters)",
+      "chapter": "Chemical Reactivity",
       "type": "short",
       "source": "past_paper",
       "parts": []
     },
     {
-      "section": "B",
+      "section": "D",
       "number": "13",
       "year": 2022,
       "text": "Give reason: (i) Why gasoline does not dissolve in water? (ii) Alkali metals are not found in Free State in nature, why?",
-      "chapter": "Miscellaneous (Multiple Chapters)",
+      "chapter": "Chemical Reactivity",
       "type": "short",
       "source": "past_paper",
       "parts": []
     },
     {
-      "section": "B",
+      "section": "D",
       "number": "15",
       "year": 2019,
       "text": "Give reason of the following: (i) Why does ionization energy of elements increase form left to right in a period of the periodic table",
-      "chapter": "Miscellaneous (Multiple Chapters)",
+      "chapter": "Chemical Reactivity",
       "type": "short",
       "source": "past_paper",
       "parts": []
