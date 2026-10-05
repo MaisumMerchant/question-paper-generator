@@ -308,28 +308,6 @@ function App() {
       });
     }
 
-    async function readNetworkBanks() {
-      const base = import.meta.env.BASE_URL || '/';
-      const manifestResponse = await fetch(`${base}question-banks/manifest.json`, { cache: 'no-store' });
-      if (!manifestResponse.ok) throw new Error(`Manifest request failed (${manifestResponse.status}).`);
-      const manifestText = await manifestResponse.text();
-      if (!manifestText.trim()) throw new Error('The bundled-bank manifest was empty.');
-      const manifest = JSON.parse(manifestText);
-      if (!Array.isArray(manifest.files)) throw new Error('The bundled-bank manifest has no files array.');
-      const settled = await Promise.allSettled(manifest.files.map(async (path) => {
-        const encodedPath = path.split('/').map(encodeURIComponent).join('/');
-        const response = await fetch(`${base}question-banks/${encodedPath}`, { cache: 'no-store' });
-        if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
-        const text = await response.text();
-        if (!text.trim()) throw new Error('empty response');
-        return normalizeBank(JSON.parse(text), path, `bundled-${path}`);
-      }));
-      return {
-        loaded: settled.flatMap((result) => result.status === 'fulfilled' ? [result.value] : []),
-        failed: settled.filter((result) => result.status === 'rejected').length
-      };
-    }
-
     async function loadBundledBanks() {
       const embedded = readEmbeddedBanks();
       if (cancelled) return;

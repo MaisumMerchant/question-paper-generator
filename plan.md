@@ -27,6 +27,6 @@ Generation is section-aware: weighted random selection uses chapter percentages,
 
 - `src/main.jsx` — state, chapter inference, weighted generator, KaTeX rendering, file handling, export actions, and UI composition.
 - `src/styles.css` — responsive workbench layout, paper preview, controls, and print-only output rules.
-- `public/question-banks/` — bundled JSON banks from the supplied archive plus manifest.
+- `Data/` — canonical JSON question banks loaded directly into the Vite bundle.
 - `public/manus-routes.json` — managed preview route declaration.
 - `plan.md` / `TODO.md` — project decisions and acceptance clauses.
