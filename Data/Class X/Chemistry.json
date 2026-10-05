@@ -171,11 +171,11 @@
       "text": "Predict which system at equilibrium will contain the maximum amount of product and which system will contain the maximum amount of reactant.",
       "parts": [
         {
-          "label": "(i)",
-          "text": "$2CO_{2(g)} \\rightleftharpoons 2CO_{(g)} + O_{2(g)}$, $K_c(927^\\circ C)=3.1 \\times 10^{-18}$."
+          "label": "(a)",
+          "text": "$2CO_{2(g)} \\rightleftharpoons 2CO_{(g)} + O_{2(g)}$, $K_c(927^\\circ C)=3.1 \\times 10^{-18}$ (printed in the source as $3.1 \\times 10^{18}$)."
         },
         {
-          "label": "(ii)",
+          "label": "(b)",
           "text": "$2O_{3(g)} \\rightleftharpoons 3O_{2(g)}$, $K_c(298\\,K)=5.9 \\times 10^{35}$."
         }
       ]
@@ -194,7 +194,7 @@
       "type": "numerical",
       "source": "important_book",
       "year": null,
-      "text": "$PCl_5$, $PCl_3$ and $Cl_2$ are at equilibrium at $500\\,K$ in a closed container, and their concentrations are $0.8 \\times 10^{-3}\\,mol\\,dm^{-3}$, $1.2 \\times 10^{-3}\\,mol\\,dm^{-3}$ and $1.2 \\times 10^{-3}\\,mol\\,dm^{-3}$ respectively. Calculate $K_c$ for the reaction, with its unit."
+      "text": "$PCl_5$, $PCl_3$ and $Cl_2$ are at equilibrium at $500\\,K$ in a closed container, and their concentrations are $0.8 \\times 10^{-3}\\,mol\\,dm^{-3}$ (printed in the source as $0.8 \\times 10^{3}\\,mol\\,dm^{-3}$), $1.2 \\times 10^{-3}\\,mol\\,dm^{-3}$ and $1.2 \\times 10^{-3}\\,mol\\,dm^{-3}$ respectively. Calculate $K_c$ for the reaction, with its unit."
     },
     {
       "chapter": "Chemical Equilibrium",
@@ -288,21 +288,7 @@
       "type": "long",
       "source": "past_paper",
       "year": 2025,
-      "text": "State three different theories about the concepts of acid and base, with examples, and indicate one limitation of each concept. Also complete the conjugate-acid and conjugate-base products of the following reactions.",
-      "parts": [
-        {
-          "label": "(i)",
-          "text": "$H_2SO_4 + H_2O \\rightleftharpoons \\_\\_\\_ + \\_\\_\\_$"
-        },
-        {
-          "label": "(ii)",
-          "text": "$HCl + NH_3 \\rightleftharpoons \\_\\_\\_ + \\_\\_\\_$"
-        },
-        {
-          "label": "(iii)",
-          "text": "$CH_3COOH + H_2O \\rightleftharpoons \\_\\_\\_ + \\_\\_\\_$"
-        }
-      ]
+      "text": "State three different theories about the concepts of acid and base, with examples, and indicate one limitation of each concept. Also complete the conjugate-acid and conjugate-base products of the following reactions.\n$H_2SO_4 + H_2O \\rightleftharpoons \\_\\_\\_ + \\_\\_\\_$\n$HCl + NH_3 \\rightleftharpoons \\_\\_\\_ + \\_\\_\\_$\n$CH_3COOH + H_2O \\rightleftharpoons \\_\\_\\_ + \\_\\_\\_$"
     },
     {
       "chapter": "Acid, Base and Salt",
@@ -394,25 +380,7 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Classify the following solutions as acidic, basic or neutral.",
-      "parts": [
-        {
-          "label": "(i)",
-          "text": "$[H^+] = 1 \\times 10^{-4}\\,mol\\,dm^{-3}$"
-        },
-        {
-          "label": "(ii)",
-          "text": "$[H^+] = 1 \\times 10^{-11}\\,mol\\,dm^{-3}$"
-        },
-        {
-          "label": "(iii)",
-          "text": "$[OH^-] = 1 \\times 10^{-9}\\,mol\\,dm^{-3}$"
-        },
-        {
-          "label": "(iv)",
-          "text": "$[OH^-] = 1 \\times 10^{-3}\\,mol\\,dm^{-3}$"
-        }
-      ]
+      "text": "Classify the following solutions as acidic, basic or neutral.\n$[H^+] = 1 \\times 10^{-4}\\,mol\\,dm^{-3}$\n$[H^+] = 1 \\times 10^{-11}\\,mol\\,dm^{-3}$\n$[OH^-] = 1 \\times 10^{-9}\\,mol\\,dm^{-3}$\n$[OH^-] = 1 \\times 10^{-3}\\,mol\\,dm^{-3}$"
     },
     {
       "chapter": "Acid, Base and Salt",
@@ -431,19 +399,19 @@
       "text": "Define the following terms.",
       "parts": [
         {
-          "label": "(i)",
+          "label": "(a)",
           "text": "$pH$"
         },
         {
-          "label": "(ii)",
+          "label": "(b)",
           "text": "Indicator"
         },
         {
-          "label": "(iii)",
+          "label": "(c)",
           "text": "Neutralization"
         },
         {
-          "label": "(iv)",
+          "label": "(d)",
           "text": "Titration"
         }
       ]
@@ -875,23 +843,23 @@
       "text": "Identify the functional groups in the following compounds.",
       "parts": [
         {
-          "label": "(i)",
+          "label": "(a)",
           "text": "$CH_3CHO$"
         },
         {
-          "label": "(ii)",
-          "text": "$CH_3CH_2CH_2OH$"
+          "label": "(b)",
+          "text": "$CH_3CH_2CH_2OH$ (printed in the source as $CH_3CH_3CH_2OH$)"
         },
         {
-          "label": "(iii)",
+          "label": "(c)",
           "text": "$CH_3COCH_3$"
         },
         {
-          "label": "(iv)",
+          "label": "(d)",
           "text": "$CH_3COOH$"
         },
         {
-          "label": "(v)",
+          "label": "(e)",
           "text": "$CH_2{=}CHCH_3$"
         }
       ]
@@ -1609,11 +1577,11 @@
       "text": "Distinguish between the following.",
       "parts": [
         {
-          "label": "(i)",
+          "label": "(a)",
           "text": "Quantitative analysis and qualitative analysis"
         },
         {
-          "label": "(ii)",
+          "label": "(b)",
           "text": "Titrimetric analysis and gravimetric analysis"
         }
       ]
