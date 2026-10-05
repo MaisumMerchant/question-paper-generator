@@ -1,5 +1,5 @@
 {
-  "subject": "Computer Science",
+  "subject": "Computer",
   "class": "XI",
   "questions": [
     {
@@ -319,6 +319,40 @@
       "section": "B",
       "type": "short",
       "source": "past_paper",
+      "year": 2018,
+      "text": "Write input or output device in the given column.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Monitor"
+        },
+        {
+          "label": "(ii)",
+          "text": "Keyboard"
+        },
+        {
+          "label": "(iii)",
+          "text": "Plotter"
+        },
+        {
+          "label": "(iv)",
+          "text": "OMR"
+        },
+        {
+          "label": "(v)",
+          "text": "Touch pad"
+        },
+        {
+          "label": "(vi)",
+          "text": "Drum printer"
+        }
+      ]
+    },
+    {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
       "text": "Enlist any six features of an operating system."
     },
@@ -361,6 +395,40 @@
       "source": "past_paper",
       "year": 2017,
       "text": "Define bit, byte and word."
+    },
+    {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Write input device or output device in the given column.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Joystick"
+        },
+        {
+          "label": "(ii)",
+          "text": "Scanner"
+        },
+        {
+          "label": "(iii)",
+          "text": "Mouse"
+        },
+        {
+          "label": "(iv)",
+          "text": "Touch screen"
+        },
+        {
+          "label": "(v)",
+          "text": "LED"
+        },
+        {
+          "label": "(vi)",
+          "text": "Inkjet printer"
+        }
+      ]
     },
     {
       "chapter": "Chapter 1: Basic Concepts of Information Technology",
@@ -433,74 +501,6 @@
       "source": "past_paper",
       "year": 2015,
       "text": "What is an operating system? Why is it necessary for a computer system?"
-    },
-    {
-      "chapter": "Chapter 1: Basic Concepts of Information Technology",
-      "section": "B",
-      "type": "short",
-      "source": "past_paper",
-      "year": 2018,
-      "text": "Write input or output device in the given column.",
-      "parts": [
-        {
-          "label": "(i)",
-          "text": "Monitor"
-        },
-        {
-          "label": "(ii)",
-          "text": "Keyboard"
-        },
-        {
-          "label": "(iii)",
-          "text": "Plotter"
-        },
-        {
-          "label": "(iv)",
-          "text": "OMR"
-        },
-        {
-          "label": "(v)",
-          "text": "Touch pad"
-        },
-        {
-          "label": "(vi)",
-          "text": "Drum printer"
-        }
-      ]
-    },
-    {
-      "chapter": "Chapter 1: Basic Concepts of Information Technology",
-      "section": "B",
-      "type": "short",
-      "source": "past_paper",
-      "year": 2017,
-      "text": "Write input device or output device in the given column.",
-      "parts": [
-        {
-          "label": "(i)",
-          "text": "Joystick"
-        },
-        {
-          "label": "(ii)",
-          "text": "Scanner"
-        },
-        {
-          "label": "(iii)",
-          "text": "Mouse"
-        },
-        {
-          "label": "(iv)",
-          "text": "Touch screen"
-        },
-        {
-          "label": "(v)",
-          "text": "LED"
-        },
-        {
-          "label": "(vi)",
-          "text": "Inkjet printer"
-        }
-      ]
     },
     {
       "chapter": "Chapter 1: Basic Concepts of Information Technology",
@@ -1666,7 +1666,7 @@
       "type": "short",
       "source": "past_paper",
       "year": 2024,
-      "text": "Write the full forms of the following abbreviations.",
+      "text": "Write the full forms of any six of the following abbreviations.",
       "parts": [
         {
           "label": "(i)",
