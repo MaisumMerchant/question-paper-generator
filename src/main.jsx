@@ -236,12 +236,13 @@ function StepRail({ activeStep, onStep }) {
   );
 }
 
-function QuestionRow({ question, checked, onToggle }) {
+function QuestionRow({ question, checked, onToggle, position }) {
   const displaySection = question.section === 'B' || question.section === 'C' ? question.section : '?';
   return (
-    <label className={`question-row ${checked ? 'checked' : ''}`}>
+    <label className={`question-row section-row-${displaySection === '?' ? 'unknown' : displaySection} ${checked ? 'checked' : ''}`}>
       <input type="checkbox" checked={checked} onChange={() => onToggle(question.id)} />
       <span className="custom-check"><Icon name="check" size={13} /></span>
+      <span className="question-index" aria-hidden="true">Q{position}</span>
       <span className="question-row-copy">
         <span className="question-meta">
           <span className={`section-chip section-${displaySection === '?' ? 'unknown' : displaySection}`}>{displaySection}</span>
@@ -399,9 +400,10 @@ function App() {
       const matchingSource = sourceFilter === 'All' || question.source === sourceFilter;
       const matchingYear = yearFilter === 'All' || String(question.year) === String(yearFilter);
       const matchingText = !query || String(question.text).toLowerCase().includes(query) || question.parts.some((part) => String(part.text).toLowerCase().includes(query));
-      return matchingSection && matchingType && matchingSource && matchingYear && matchingText;
+      const matchingChapter = activeChapters.includes(question.chapter);
+      return matchingChapter && matchingSection && matchingType && matchingSource && matchingYear && matchingText;
     });
-  }, [selectedBank, sectionFilter, typeFilter, sourceFilter, yearFilter, questionSearch]);
+  }, [selectedBank, activeChapters, sectionFilter, typeFilter, sourceFilter, yearFilter, questionSearch]);
   const visibleSelected = visibleQuestions.filter((question) => selectedQuestionIds.has(question.id)).length;
   const allocationTotal = activeChapters.reduce((sum, chapter) => sum + Number(chapterConfig[chapter]?.percent || 0), 0);
 
@@ -573,7 +575,7 @@ function App() {
                 </div>
                 <div className="pool-summary"><span><b>{visibleQuestions.length}</b> shown</span><span className="summary-divider" /><span><b>{poolBySection.B.length}</b> short</span><span><b>{poolBySection.C.length}</b> long</span><span className="summary-spacer" /><span className="legend-item"><i className="legend-dot dot-b" /> B</span><span className="legend-item"><i className="legend-dot dot-c" /> C</span><span className="legend-item"><i className="legend-dot dot-unknown" /> ?</span></div>
                 <div className="question-list">
-                  {visibleQuestions.length ? visibleQuestions.map((question) => <QuestionRow key={question.id} question={question} checked={selectedQuestionIds.has(question.id)} onToggle={toggleQuestion} />) : <div className="empty-list"><Icon name="search" size={22} /><strong>No questions match</strong><span>Try a different search or section filter.</span></div>}
+                  {visibleQuestions.length ? visibleQuestions.map((question, index) => <QuestionRow key={question.id} question={question} position={index + 1} checked={selectedQuestionIds.has(question.id)} onToggle={toggleQuestion} />) : <div className="empty-list"><Icon name="search" size={22} /><strong>No questions match</strong><span>Select a chapter or try different filters.</span></div>}
                 </div>
               </section>
 
