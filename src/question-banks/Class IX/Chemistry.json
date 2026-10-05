@@ -6,7 +6,11 @@
       "section": "B",
       "number": "3",
       "year": 2023,
-      "text": "Calculate the number of moles and number of molecules present in 45 grams of glucose $(C_6H_{12}O_6)$."
+      "text": "Calculate the number of moles and number of molecules present in 45 grams of glucose $(C_6H_{12}O_6)$.",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "numerical",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
@@ -26,7 +30,10 @@
           "label": "(iii)",
           "text": "$CO + O_2 \\rightarrow CO_2$"
         }
-      ]
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper"
     },
     {
       "section": "B",
@@ -46,7 +53,10 @@
           "label": "(iii)",
           "text": "$NH_3 + O_2 \\rightarrow NO + H_2O$"
         }
-      ]
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper"
     },
     {
       "section": "B",
@@ -66,19 +76,30 @@
           "label": "(iii)",
           "text": "Sugar"
         }
-      ]
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper"
     },
     {
       "section": "B",
       "number": "2",
       "year": 2022,
-      "text": "Write three sentences on the importance of Chemistry."
+      "text": "Write three sentences on the importance of Chemistry.",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "3",
       "year": 2022,
-      "text": "Define mole, calculate the number of moles in 40 grams of water $(H_2O)$ (At Mass $O = 16$, $H = 1$)."
+      "text": "Define mole, calculate the number of moles in 40 grams of water $(H_2O)$ (At Mass $O = 16$, $H = 1$).",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "numerical",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
@@ -98,7 +119,10 @@
           "label": "(iii)",
           "text": "$Zn + HCl \\rightarrow ZnCl_2 + H_2$"
         }
-      ]
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper"
     },
     {
       "section": "B",
@@ -130,13 +154,20 @@
           "label": "(vi)",
           "text": "Quantity off substance"
         }
-      ]
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper"
     },
     {
       "section": "B",
       "number": "2",
       "year": 2022,
-      "text": "Chemistry and Human society \"Go Hand in Hand\". Write four arguments in support of this statement."
+      "text": "Chemistry and Human society \"Go Hand in Hand\". Write four arguments in support of this statement.",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
@@ -152,13 +183,20 @@
           "label": "(ii)",
           "text": "Sodium Carbonate $(Na_2CO_3)$ Atomic masses: $(Na = 23, C = 12, H = 1, O = 16)$"
         }
-      ]
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "numerical",
+      "source": "past_paper"
     },
     {
       "section": "B",
       "number": "2",
       "year": 2022,
-      "text": "What is Chemistry? Write names of any six branches of Chemistry."
+      "text": "What is Chemistry? Write names of any six branches of Chemistry.",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
@@ -174,7 +212,10 @@
           "label": "(ii)",
           "text": "$8.8g$ of Carbon dioxide: $(CO_2)$ (Atomic Masses: $S = 32$, $C = 12$, $O = 16$)"
         }
-      ]
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper"
     },
     {
       "section": "B",
@@ -194,49 +235,80 @@
           "label": "(iii)",
           "text": "Potassium Chlorate decomposes on heating into Potassium Chloride and Oxygen gas"
         }
-      ]
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper"
     },
     {
       "section": "B",
       "number": "2",
       "year": 0,
-      "text": "Write names of any six branches of Chemistry. Explain with examples."
+      "text": "Write names of any six branches of Chemistry. Explain with examples.",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "8",
       "year": 0,
-      "text": "Explain why hydrogen and oxygen are considered as element whereas water is compound?"
+      "text": "Explain why hydrogen and oxygen are considered as element whereas water is compound?",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "1",
       "year": 0,
-      "text": "What do you mean chemical species, explain ion, molecular ion and free radical?"
+      "text": "What do you mean chemical species, explain ion, molecular ion and free radical?",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "2",
       "year": 0,
-      "text": "Writ down the applications of chemistry in daily life?"
+      "text": "Writ down the applications of chemistry in daily life?",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "3",
       "year": 0,
-      "text": "Explain in detail empirical and molecular formula?"
+      "text": "Explain in detail empirical and molecular formula?",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "4",
       "year": 0,
-      "text": "Explain the steps for balancing the equation?"
+      "text": "Explain the steps for balancing the equation?",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "5",
       "year": 0,
-      "text": "Name the branches of chemistry and discuss any five branches?"
+      "text": "Name the branches of chemistry and discuss any five branches?",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
@@ -264,25 +336,40 @@
           "label": "(e)",
           "text": "$CO + O_2 \\rightarrow CO_2$"
         }
-      ]
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "long",
+      "source": "important_book"
     },
     {
       "section": "C",
       "number": "2",
       "year": 0,
-      "text": "Calculate the formula mass (a.m.u) of the following? $Al_2O_3, MgCl_2, NaCl, KNO_3$"
+      "text": "Calculate the formula mass (a.m.u) of the following? $Al_2O_3, MgCl_2, NaCl, KNO_3$",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "3",
       "year": 0,
-      "text": "Calculate the molecular mass (a.m.u) of the following? $C_2H_5OH, H_2O, NH_3, CO_2$"
+      "text": "Calculate the molecular mass (a.m.u) of the following? $C_2H_5OH, H_2O, NH_3, CO_2$",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "4",
       "year": 0,
-      "text": "How many moles are required to prepare 40 gm of $H_2SO_4$?"
+      "text": "How many moles are required to prepare 40 gm of $H_2SO_4$?",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
@@ -298,1315 +385,2190 @@
           "label": "(b)",
           "text": "$20g$ of $C_6H_{12}O_6$"
         }
-      ]
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "numerical",
+      "source": "important_book"
     },
     {
       "section": "B",
       "number": "5",
       "year": 2025,
-      "text": "Write down the electronic configuration of Na, Mg and Al While their atomic number are $Na = 11, Mg = 12$ and $Al = 13$"
+      "text": "Write down the electronic configuration of Na, Mg and Al While their atomic number are $Na = 11, Mg = 12$ and $Al = 13$",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "4",
       "year": 0,
-      "text": "Write down the electronic configuration or arrangements of the following Elements according to the Bohr's Atomic Model."
+      "text": "Write down the electronic configuration or arrangements of the following Elements according to the Bohr's Atomic Model.",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "9",
       "year": 0,
-      "text": "Define the following: (i) Isotopes"
+      "text": "Define the following: (i) Isotopes",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "5",
       "year": 2018,
-      "text": "How many protons and neutrons are present in the following atoms: (i) $^{14}N$ (ii) $^{27}Al$ (iii) $^{23}Na$"
+      "text": "How many protons and neutrons are present in the following atoms: (i) $^{14}N$ (ii) $^{27}Al$ (iii) $^{23}Na$",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "5",
       "year": 2016,
-      "text": "Write down three characteristics of Cathode Rays."
+      "text": "Write down three characteristics of Cathode Rays.",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "8",
       "year": 2015,
-      "text": "Define Isotopes and find out the number of neutrons in the following isotopes. (i) $^{207}Pb$ (ii) $^{234}U$"
+      "text": "Define Isotopes and find out the number of neutrons in the following isotopes. (i) $^{207}Pb$ (ii) $^{234}U$",
+      "chapter": "Atomic Structure",
+      "type": "numerical",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "17",
       "year": 2015,
-      "text": "Chlorine is naturally found in two stable isotopes $_{17}Cl^{35}$ and $_{17}Cl^{37}$ in the proportion of 75% and 25% respectively. Calculate its atomic mass."
+      "text": "Chlorine is naturally found in two stable isotopes $_{17}Cl^{35}$ and $_{17}Cl^{37}$ in the proportion of 75% and 25% respectively. Calculate its atomic mass.",
+      "chapter": "Atomic Structure",
+      "type": "numerical",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "14",
       "year": 2025,
-      "text": "How did Rutherford present the atomic model? Describe his experiment in detail and explain the atomic model presented by him."
+      "text": "How did Rutherford present the atomic model? Describe his experiment in detail and explain the atomic model presented by him.",
+      "chapter": "Atomic Structure",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "17",
       "year": 2024,
-      "text": "Write down six postulates of Bohr's Atomic Model."
+      "text": "Write down six postulates of Bohr's Atomic Model.",
+      "chapter": "Atomic Structure",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "16",
       "year": 2023,
-      "text": "An atom has only one electron in its \"M\" shell then what would be its atomic number? Identify that element and write four common characteristics of the group from - which it belongs to."
+      "text": "An atom has only one electron in its \"M\" shell then what would be its atomic number? Identify that element and write four common characteristics of the group from - which it belongs to.",
+      "chapter": "Atomic Structure",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "15",
       "year": 2022,
-      "text": "(OR)Describe discharge tube experiment with labelled diagram and state what were the justification and conclusion of J.J. Thomson in this respect"
+      "text": "(OR)Describe discharge tube experiment with labelled diagram and state what were the justification and conclusion of J.J. Thomson in this respect",
+      "chapter": "Atomic Structure",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 1",
       "year": 0,
-      "text": "Draw the structure of isotopes of chlorine to justify the definition of isotopes?"
+      "text": "Draw the structure of isotopes of chlorine to justify the definition of isotopes?",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 2",
       "year": 0,
-      "text": "An atom has 5 electrons in M shell than: (a) Find out its atomic number? (b) Write Electronic configuration of atom? (c) Name the element of atom?"
+      "text": "An atom has 5 electrons in M shell than: (a) Find out its atomic number? (b) Write Electronic configuration of atom? (c) Name the element of atom?",
+      "chapter": "Atomic Structure",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 3",
       "year": 0,
-      "text": "Justify that Rutherford atomic model has defects?"
+      "text": "Justify that Rutherford atomic model has defects?",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 4",
       "year": 0,
-      "text": "Describe wave particle duality of electron of De Broglie Hypothesis?"
+      "text": "Describe wave particle duality of electron of De Broglie Hypothesis?",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 5",
       "year": 0,
-      "text": "What are Limitations of Bohr's Atomic Model?"
+      "text": "What are Limitations of Bohr's Atomic Model?",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q.6",
       "year": 0,
-      "text": "Differentiate between shell and sub shell with examples?"
+      "text": "Differentiate between shell and sub shell with examples?",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q.7",
       "year": 0,
-      "text": "How the atoms of $O_8^{17}$ and $O_8^{18}$ are similar or different from each other?"
+      "text": "How the atoms of $O_8^{17}$ and $O_8^{18}$ are similar or different from each other?",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q.8",
       "year": 0,
-      "text": "Write down the names of sub atomic particles their masses in a.m.u with their unit charges."
+      "text": "Write down the names of sub atomic particles their masses in a.m.u with their unit charges.",
+      "chapter": "Atomic Structure",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.1",
       "year": 0,
-      "text": "Discuss Rutherford' gold metal foil experiment in the light of structure of atom."
+      "text": "Discuss Rutherford' gold metal foil experiment in the light of structure of atom.",
+      "chapter": "Atomic Structure",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.2",
       "year": 0,
-      "text": "Writ down the applications of isotopes in daily life."
+      "text": "Writ down the applications of isotopes in daily life.",
+      "chapter": "Atomic Structure",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.3",
       "year": 0,
-      "text": "Explain how Bohr's atomic model is different from Rutherford atomic model."
+      "text": "Explain how Bohr's atomic model is different from Rutherford atomic model.",
+      "chapter": "Atomic Structure",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.4",
       "year": 0,
-      "text": "Prove that modern theory of De Broglie is related with Einstein and Plank's equations."
+      "text": "Prove that modern theory of De Broglie is related with Einstein and Plank's equations.",
+      "chapter": "Atomic Structure",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.5",
       "year": 0,
-      "text": "How are cathode rays produced? What are their major characteristics?"
+      "text": "How are cathode rays produced? What are their major characteristics?",
+      "chapter": "Atomic Structure",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.6",
       "year": 0,
-      "text": "Describe the Schrodinger atomic model."
+      "text": "Describe the Schrodinger atomic model.",
+      "chapter": "Atomic Structure",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.7",
       "year": 0,
-      "text": "Describe briefly the experiments which provide clue and evidences of electron, proton and neutron in an atom."
+      "text": "Describe briefly the experiments which provide clue and evidences of electron, proton and neutron in an atom.",
+      "chapter": "Atomic Structure",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.8",
       "year": 0,
-      "text": "How many protons, neutrons and electrons are present in the following elements? (i) $Fe_{26}^{56}$ (ii) $O_8^{17}$ (iii) $Cl_{17}^{37}$ (iv) $U_{92}^{235}$ (v) $C_6^{14}$"
+      "text": "How many protons, neutrons and electrons are present in the following elements? (i) $Fe_{26}^{56}$ (ii) $O_8^{17}$ (iii) $Cl_{17}^{37}$ (iv) $U_{92}^{235}$ (v) $C_6^{14}$",
+      "chapter": "Atomic Structure",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "7",
       "year": 2025,
-      "text": "What is meant by an electronegativity? Describe its trend in group and period with examples."
+      "text": "What is meant by an electronegativity? Describe its trend in group and period with examples.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "3",
       "year": 2024,
-      "text": "Write down three differences between Alkali metals and Alkaline earth metals."
+      "text": "Write down three differences between Alkali metals and Alkaline earth metals.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "6",
       "year": 2024,
-      "text": "What is atomic radius? Discuss its trend across the period and group in the periodic table."
+      "text": "What is atomic radius? Discuss its trend across the period and group in the periodic table.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "2",
       "year": 2023,
-      "text": "What is meant by the terms 'period' and 'group' with respect to periodic table? Identity period and group of $_7N$ and $_{11}Na$"
+      "text": "What is meant by the terms 'period' and 'group' with respect to periodic table? Identity period and group of $_7N$ and $_{11}Na$",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "3",
       "year": 2022,
-      "text": "Write down three differences between Alkali metals and Alkaline earth metals."
+      "text": "Write down three differences between Alkali metals and Alkaline earth metals.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "6",
       "year": 2022,
-      "text": "Identify group and period in the periodic table of the following elements: (i) $_3Li$ (ii) $_6C$ (iii) $_{13}Al$"
+      "text": "Identify group and period in the periodic table of the following elements: (i) $_3Li$ (ii) $_6C$ (iii) $_{13}Al$",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "6",
       "year": 2018,
-      "text": "Write down four salient features of Mendeleev's periodic table."
+      "text": "Write down four salient features of Mendeleev's periodic table.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "9",
       "year": 2018,
-      "text": "Define the following: (ii)Electronegativity(iii) Electron Affinity"
+      "text": "Define the following: (ii)Electronegativity(iii) Electron Affinity",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "6",
       "year": 2017,
-      "text": "Define: (ii) Newland's law of octave (i) Dobereiner's rule of Traid (iii) Modern Periodic Law"
+      "text": "Define: (ii) Newland's law of octave (i) Dobereiner's rule of Traid (iii) Modern Periodic Law",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "6",
       "year": 2016,
-      "text": "State the following laws: (ii) Newland's Law of Octave (i) Dobereiner's Law of Traid (iii) Modern periodic Law"
+      "text": "State the following laws: (ii) Newland's Law of Octave (i) Dobereiner's Law of Traid (iii) Modern periodic Law",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "12",
       "year": 2015,
-      "text": "State following laws: (i) Modern Periodic law"
+      "text": "State following laws: (i) Modern Periodic law",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "21",
       "year": 2015,
-      "text": "What are metalloids? Write two differences between metals and non-metals."
+      "text": "What are metalloids? Write two differences between metals and non-metals.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "18",
       "year": 2025,
-      "text": "How elements are arranged in periodic table? Describe groups and periods in periodic table."
+      "text": "How elements are arranged in periodic table? Describe groups and periods in periodic table.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "16",
       "year": 2024,
-      "text": "Identify the highly electronegative group of Periodic table. Enlist the elements present in this group. Give three common characteristics of these elements."
+      "text": "Identify the highly electronegative group of Periodic table. Enlist the elements present in this group. Give three common characteristics of these elements.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "12",
       "year": 2021,
-      "text": "Write the name of the elements of group \"I-A\" of the periodic table. What does the group I-A elements called in the periodic table Write \"Four\" general properties of this group."
+      "text": "Write the name of the elements of group \"I-A\" of the periodic table. What does the group I-A elements called in the periodic table Write \"Four\" general properties of this group.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "18",
       "year": 2019,
-      "text": "(b) Write the salient features of Group VIII A (Inert or Noble gases) and describe the discovery of Noble gases"
+      "text": "(b) Write the salient features of Group VIII A (Inert or Noble gases) and describe the discovery of Noble gases",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "25",
       "year": 2017,
-      "text": "(b). Write four general properties of transition elements."
+      "text": "(b). Write four general properties of transition elements.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "24",
       "year": 2016,
-      "text": "(c). What are elements of Group I-A of Periodic Table called? Write three general properties of these elements."
+      "text": "(c). What are elements of Group I-A of Periodic Table called? Write three general properties of these elements.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "24",
       "year": 2015,
-      "text": "(b). Name the group of the periodic table which contains highly electronegative elements. Also write three common characteristics of this group"
+      "text": "(b). Name the group of the periodic table which contains highly electronegative elements. Also write three common characteristics of this group",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 1",
       "year": 0,
-      "text": "Distinguish between periods and groups."
+      "text": "Distinguish between periods and groups.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 2",
       "year": 0,
-      "text": "Describe the trend of electronegativity within group and period with the help of examples?"
+      "text": "Describe the trend of electronegativity within group and period with the help of examples?",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 3",
       "year": 0,
-      "text": "Explain the similarity of chemical and physical properties of elements in the same family."
+      "text": "Explain the similarity of chemical and physical properties of elements in the same family.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 4",
       "year": 0,
-      "text": "Justify that periodicity of properties dependent upon number of protons in an atom?"
+      "text": "Justify that periodicity of properties dependent upon number of protons in an atom?",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 5",
       "year": 0,
-      "text": "Identify that which halogens exist as gases, liquid and solid?"
+      "text": "Identify that which halogens exist as gases, liquid and solid?",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 6",
       "year": 0,
-      "text": "Why Alkaline earth metals shows irregular melting and boiling point?"
+      "text": "Why Alkaline earth metals shows irregular melting and boiling point?",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 7",
       "year": 0,
-      "text": "Why ionization energy, electron affinity and electronegativity exhibit same trend in period and groups?"
+      "text": "Why ionization energy, electron affinity and electronegativity exhibit same trend in period and groups?",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.1",
       "year": 0,
-      "text": "Discuss in detail the long form of periodic table."
+      "text": "Discuss in detail the long form of periodic table.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.2",
       "year": 0,
-      "text": "Determine the demarcation of periodic table in to s, p, d and f blocks."
+      "text": "Determine the demarcation of periodic table in to s, p, d and f blocks.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.3",
       "year": 0,
-      "text": "Identify the electronic configuration of the following elements. Na, Ca, F, Si"
+      "text": "Identify the electronic configuration of the following elements. Na, Ca, F, Si",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.4",
       "year": 0,
-      "text": "Determine the location of families on periodic table."
+      "text": "Determine the location of families on periodic table.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.5",
       "year": 0,
-      "text": "Discuss that Mendeleev periodic law provide a base for modern periodic table."
+      "text": "Discuss that Mendeleev periodic law provide a base for modern periodic table.",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.6",
       "year": 0,
-      "text": "Explain how shielding effect influence the periodic trends?"
+      "text": "Explain how shielding effect influence the periodic trends?",
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "8",
       "year": 0,
-      "text": "What is meant by lone pair and unpaired electrons? How many lone pair and unpaired electrons are there in Nitrogen atom?"
+      "text": "What is meant by lone pair and unpaired electrons? How many lone pair and unpaired electrons are there in Nitrogen atom?",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "10",
       "year": 0,
-      "text": "Draw electronic dot and cross structures or following molecules: (i) $H_2$ (ii) $N_2$ (iii) $O_2$ (Atomic number of H = 1, N = 7, O = 8)"
+      "text": "Draw electronic dot and cross structures or following molecules: (i) $H_2$ (ii) $N_2$ (iii) $O_2$ (Atomic number of H = 1, N = 7, O = 8)",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "10",
       "year": 0,
-      "text": "Write down three important characteristics of covalent compounds."
+      "text": "Write down three important characteristics of covalent compounds.",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "5",
       "year": 0,
-      "text": "Write down three comparative points between Covalent Bond and Dative Bond.(at least 3 points each)"
+      "text": "Write down three comparative points between Covalent Bond and Dative Bond.(at least 3 points each)",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "5",
       "year": 0,
-      "text": "Write down four comparative points between Covalent bond and Dative bond."
+      "text": "Write down four comparative points between Covalent bond and Dative bond.",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "9",
       "year": 0,
-      "text": "Define the following: (iv)Polar Bond"
+      "text": "Define the following: (iv)Polar Bond",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "7",
       "year": 0,
-      "text": "Write three characteristic properties of Ionic compounds."
+      "text": "Write three characteristic properties of Ionic compounds.",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "7",
       "year": 0,
-      "text": "Write three differences between ionic compounds Is and covalent compounds"
+      "text": "Write three differences between ionic compounds Is and covalent compounds",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "10",
       "year": 0,
-      "text": "Define: (i)Chemical Bond (ii)Metallic Bond (iii)Hydrogen Bond"
+      "text": "Define: (i)Chemical Bond (ii)Metallic Bond (iii)Hydrogen Bond",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "15",
       "year": 0,
-      "text": "Why do some molecules form covalent bond? Write its three types with examples."
+      "text": "Why do some molecules form covalent bond? Write its three types with examples.",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "18",
       "year": 0,
-      "text": "What is an ionic bond? Explain the formation of ionic bond between Sodium and Chlorine ionic compound Sodium chloride is formed."
+      "text": "What is an ionic bond? Explain the formation of ionic bond between Sodium and Chlorine ionic compound Sodium chloride is formed.",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "15",
       "year": 0,
-      "text": "Explain the importance of glues and epoxy resins in our society."
+      "text": "Explain the importance of glues and epoxy resins in our society.",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "17",
       "year": 0,
-      "text": "What is coordinate covalent bond? Explain it by the formation of Ammonium Ion $(NH_4^+)$ and hydronium ion $(H_3O^+)$"
+      "text": "What is coordinate covalent bond? Explain it by the formation of Ammonium Ion $(NH_4^+)$ and hydronium ion $(H_3O^+)$",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "15",
       "year": 0,
-      "text": "Define ionic bond. Illustrate the bond formation in Sodium Chloride (NaCl) also write any two characteristics of ionic compounds."
+      "text": "Define ionic bond. Illustrate the bond formation in Sodium Chloride (NaCl) also write any two characteristics of ionic compounds.",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "23",
       "year": 0,
-      "text": "(b). (c) Write down 4 Characteristics of Covalent Compounds."
+      "text": "(b). (c) Write down 4 Characteristics of Covalent Compounds.",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "24",
       "year": 0,
-      "text": "(c). Define: (i) Chemical Bond (ii) Ionic Bond (iii) Covalent bond (iv) Co-ordinate covalent bond."
+      "text": "(c). Define: (i) Chemical Bond (ii) Ionic Bond (iii) Covalent bond (iv) Co-ordinate covalent bond.",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 1",
       "year": 0,
-      "text": "Draw dot and cross diagrams to show how different types of chemical bonds are formed when fluorine reacts with: (a) Hydrogen (b) potassium"
+      "text": "Draw dot and cross diagrams to show how different types of chemical bonds are formed when fluorine reacts with: (a) Hydrogen (b) potassium",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 2",
       "year": 0,
-      "text": "What is meant by octet and duplet rule?"
+      "text": "What is meant by octet and duplet rule?",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 3",
       "year": 0,
-      "text": "Can you draw an ion which is formed by the atom losing three electrons?"
+      "text": "Can you draw an ion which is formed by the atom losing three electrons?",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 4",
       "year": 0,
-      "text": "How oxygen forms an anion?"
+      "text": "How oxygen forms an anion?",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 5",
       "year": 0,
-      "text": "What is the differentiate between lone pair and bond pair?"
+      "text": "What is the differentiate between lone pair and bond pair?",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 6",
       "year": 0,
-      "text": "Explain why table salt has a very high melting point."
+      "text": "Explain why table salt has a very high melting point.",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 7",
       "year": 0,
-      "text": "How is electronegative value, determined the formation of chemical bond?"
+      "text": "How is electronegative value, determined the formation of chemical bond?",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 8",
       "year": 0,
-      "text": "Why is too easy for magnesium atom to lose two electrons?"
+      "text": "Why is too easy for magnesium atom to lose two electrons?",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 9",
       "year": 0,
-      "text": "Atoms of metallic elements can form ionic bond, but they are not very good to form covalent bonds. Why?"
+      "text": "Atoms of metallic elements can form ionic bond, but they are not very good to form covalent bonds. Why?",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 10",
       "year": 0,
-      "text": "How does an ion differ from an atom?"
+      "text": "How does an ion differ from an atom?",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 11",
       "year": 0,
-      "text": "Describe dipole-dipole forces."
+      "text": "Describe dipole-dipole forces.",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 12",
       "year": 0,
-      "text": "Write uses of adhesive material."
+      "text": "Write uses of adhesive material.",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 13",
       "year": 0,
-      "text": "Why Intermolecular forces are weaker than intera-molecular forces?"
+      "text": "Why Intermolecular forces are weaker than intera-molecular forces?",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 14",
       "year": 0,
-      "text": "Write characteristics of metallic bond."
+      "text": "Write characteristics of metallic bond.",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 15",
       "year": 0,
-      "text": "Covalent bonds are strong and hard to break but why most of the covalent compounds have low melting and boiling points."
+      "text": "Covalent bonds are strong and hard to break but why most of the covalent compounds have low melting and boiling points.",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 16",
       "year": 0,
-      "text": "Write down the characteristics of ionic compounds."
+      "text": "Write down the characteristics of ionic compounds.",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 17",
       "year": 0,
-      "text": "Why ionic compounds are solid?"
+      "text": "Why ionic compounds are solid?",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 18",
       "year": 0,
-      "text": "How is hydrogen bonding affecting the physical properties of compounds?"
+      "text": "How is hydrogen bonding affecting the physical properties of compounds?",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 19",
       "year": 0,
-      "text": "Complete the chart:"
+      "text": "Complete the chart:",
+      "chapter": "Chemical Bonding",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.1",
       "year": 0,
-      "text": "Define ionic bond. Discuss the formation of sodium chloride (NaCl)."
+      "text": "Define ionic bond. Discuss the formation of sodium chloride (NaCl).",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.2",
       "year": 0,
-      "text": "Explain element attain stability?"
+      "text": "Explain element attain stability?",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.3",
       "year": 0,
-      "text": "Describe the formation of a covalent bond between two nonmetallic atoms. Explain single, double and triple covalent bond with examples."
+      "text": "Describe the formation of a covalent bond between two nonmetallic atoms. Explain single, double and triple covalent bond with examples.",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.4",
       "year": 0,
-      "text": "How are electrons arranged in molecular compound? Draw electron dot and cross structures for the following atoms. (a) $H_2O$ (b) $N_2$ (c) $CH_4$ (d) $C_2H_2$ (e) $Cl_2$ (f) $H_2$"
+      "text": "How are electrons arranged in molecular compound? Draw electron dot and cross structures for the following atoms. (a) $H_2O$ (b) $N_2$ (c) $CH_4$ (d) $C_2H_2$ (e) $Cl_2$ (f) $H_2$",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.5",
       "year": 0,
-      "text": "Define metallic bond. How metallic bonds are formed?"
+      "text": "Define metallic bond. How metallic bonds are formed?",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.6",
       "year": 0,
-      "text": "What is coordinate covalent bond? Explain with two examples."
+      "text": "What is coordinate covalent bond? Explain with two examples.",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.7",
       "year": 0,
-      "text": "What do you understand about ionic character of covalent bond?"
+      "text": "What do you understand about ionic character of covalent bond?",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.8",
       "year": 0,
-      "text": "Differentiate the properties of polar and non-polar compounds."
+      "text": "Differentiate the properties of polar and non-polar compounds.",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.9",
       "year": 0,
-      "text": "Explain the importance of glues and epoxy resins in our society."
+      "text": "Explain the importance of glues and epoxy resins in our society.",
+      "chapter": "Chemical Bonding",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "6",
       "year": 2025,
-      "text": "The pressure of a sample gas is 8 atm and the volume is 15 liters. If the pressure is reduced to 6 atm, what will be its new volume?"
+      "text": "The pressure of a sample gas is 8 atm and the volume is 15 liters. If the pressure is reduced to 6 atm, what will be its new volume?",
+      "chapter": "Physical States of Matter",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "7",
       "year": 2023,
-      "text": "The pressure of a sample gas is 3 atm and the volume is 5 litre. If the pressure is reduced to 2 atm then what would be its new volume?"
+      "text": "The pressure of a sample gas is 3 atm and the volume is 5 litre. If the pressure is reduced to 2 atm then what would be its new volume?",
+      "chapter": "Physical States of Matter",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "8",
       "year": 2022,
-      "text": "Write down three differences between amorphous solids and crystalline solids."
+      "text": "Write down three differences between amorphous solids and crystalline solids.",
+      "chapter": "Physical States of Matter",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "11",
       "year": 2022,
-      "text": "60ml sample of a gas is heated form $27^\\circ C$ to $52^\\circ C$, at constant pressure. What will be final volume of this gas?"
+      "text": "60ml sample of a gas is heated form $27^\\circ C$ to $52^\\circ C$, at constant pressure. What will be final volume of this gas?",
+      "chapter": "Physical States of Matter",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "16",
       "year": 2018,
-      "text": "Give reason: (i) Which gas among $CO_2, CH_4$ and $H_2$ will diffuse faster and why? (ii) Water filled glass bottles often crack in freezer. Why"
+      "text": "Give reason: (i) Which gas among $CO_2, CH_4$ and $H_2$ will diffuse faster and why? (ii) Water filled glass bottles often crack in freezer. Why",
+      "chapter": "Physical States of Matter",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "8",
       "year": 2017,
-      "text": "Define: (i) Fusion (ii) Evaporation"
+      "text": "Define: (i) Fusion (ii) Evaporation",
+      "chapter": "Physical States of Matter",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "8",
       "year": 2016,
-      "text": "Define: (i)Fusion (ii)Evaporation"
+      "text": "Define: (i)Fusion (ii)Evaporation",
+      "chapter": "Physical States of Matter",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "11",
       "year": 2016,
-      "text": "Define: (i) Diffusion (ii) Boiling Point"
+      "text": "Define: (i) Diffusion (ii) Boiling Point",
+      "chapter": "Physical States of Matter",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q.4",
       "year": 0,
-      "text": "A gas occupies a volume of $40.0dm^3$ at standard temperature $(0^\\circ C)$ and pressure (1 atm), when pressure is increases up to 3 atm unchanged temperature what would be the new volume?"
+      "text": "A gas occupies a volume of $40.0dm^3$ at standard temperature $(0^\\circ C)$ and pressure (1 atm), when pressure is increases up to 3 atm unchanged temperature what would be the new volume?",
+      "chapter": "Physical States of Matter",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q.5",
       "year": 0,
-      "text": "The $800cm^3$ of a gas is enclosed in a container under a pressure of $750mm$ of Hg. If the volume is reduced to $250cm^3$, what will be the pressure?"
+      "text": "The $800cm^3$ of a gas is enclosed in a container under a pressure of $750mm$ of Hg. If the volume is reduced to $250cm^3$, what will be the pressure?",
+      "chapter": "Physical States of Matter",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "10",
       "year": 2025,
-      "text": "Calculate the percentage concentration (m/m) of the solution by dissolving 15g salt in 110g water."
+      "text": "Calculate the percentage concentration (m/m) of the solution by dissolving 15g salt in 110g water.",
+      "chapter": "Solutions",
+      "type": "numerical",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "5",
       "year": 2024,
-      "text": "How do you prepare 100ml of 0.4M $MgSO_4$ from a stock solution of 2.0M $MgSO_4$?"
+      "text": "How do you prepare 100ml of 0.4M $MgSO_4$ from a stock solution of 2.0M $MgSO_4$?",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "12",
       "year": 2024,
-      "text": "What is meant by Tynall effect? How is it be used for the identification of a true solution and a colloidal?"
+      "text": "What is meant by Tynall effect? How is it be used for the identification of a true solution and a colloidal?",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "9",
       "year": 2023,
-      "text": "Define the following: (i) Saturated solution (ii) Super saturated solution"
+      "text": "Define the following: (i) Saturated solution (ii) Super saturated solution",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "11",
       "year": 2023,
-      "text": "How much sodium hydroxide (NaOH) is required to prepare $400cm^3$ of 0.3 M solution?"
+      "text": "How much sodium hydroxide (NaOH) is required to prepare $400cm^3$ of 0.3 M solution?",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "4",
       "year": 2022,
-      "text": "What is an aqueous solution? Give an example. Air is a mixture of gases then why Nitrogen gas is considered solvent?"
+      "text": "What is an aqueous solution? Give an example. Air is a mixture of gases then why Nitrogen gas is considered solvent?",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "8",
       "year": 2021,
-      "text": "What is the mass of Oxalic acid $(C_2H_2O_4)$ required to prepare $100cm^3$ volume of 2M Oxalic acid solution? (where Atomic masses: C = 12, H = 1, O = 16)"
+      "text": "What is the mass of Oxalic acid $(C_2H_2O_4)$ required to prepare $100cm^3$ volume of 2M Oxalic acid solution? (where Atomic masses: C = 12, H = 1, O = 16)",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "10",
       "year": 2021,
-      "text": "-OR- Mention any three characteristics of solution."
+      "text": "-OR- Mention any three characteristics of solution.",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "12",
       "year": 2019,
-      "text": "Calculate molality of the aqueous solution containing 18 g Glucose $(C_6H_{12}O_6)$ dissolved in 300g of water."
+      "text": "Calculate molality of the aqueous solution containing 18 g Glucose $(C_6H_{12}O_6)$ dissolved in 300g of water.",
+      "chapter": "Solutions",
+      "type": "numerical",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "19",
       "year": 2018,
-      "text": "(a) Define solubility and describe in detail the factors that affect solubility."
+      "text": "(a) Define solubility and describe in detail the factors that affect solubility.",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "19",
       "year": 2017,
-      "text": "What is suspension? Write names of four examples of suspension in daily life."
+      "text": "What is suspension? Write names of four examples of suspension in daily life.",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "21",
       "year": 2016,
-      "text": "Calculate the molarity of a solution that contains 2 moles of NaOH dissolved in 0.5 liter of the solution."
+      "text": "Calculate the molarity of a solution that contains 2 moles of NaOH dissolved in 0.5 liter of the solution.",
+      "chapter": "Solutions",
+      "type": "numerical",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "9",
       "year": 2016,
-      "text": "Define solubility and describe effects of temperature and pressure on solubility."
+      "text": "Define solubility and describe effects of temperature and pressure on solubility.",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "13",
       "year": 2016,
-      "text": "Write three differences between Solution and Suspension."
+      "text": "Write three differences between Solution and Suspension.",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "11",
       "year": 2015,
-      "text": "Define: (i)Solubility (ii)Molarity (iii)Molality"
+      "text": "Define: (i)Solubility (ii)Molarity (iii)Molality",
+      "chapter": "Solutions",
+      "type": "numerical",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "17",
       "year": 2025,
-      "text": "Compare properties of Solution, Suspension and Collides. (Write eight points of each)"
+      "text": "Compare properties of Solution, Suspension and Collides. (Write eight points of each)",
+      "chapter": "Solutions",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "18",
       "year": 2013,
-      "text": "Compare the characteristics of solution, colloid and suspension."
+      "text": "Compare the characteristics of solution, colloid and suspension.",
+      "chapter": "Solutions",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "13",
       "year": 2021,
-      "text": "(ii). Calculate the molarity of a solution containing 4 grams of sodium Hydroxide (NaOH) in $250cm^3$ of solution."
+      "text": "(ii). Calculate the molarity of a solution containing 4 grams of sodium Hydroxide (NaOH) in $250cm^3$ of solution.",
+      "chapter": "Solutions",
+      "type": "numerical",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "25",
       "year": 2016,
-      "text": "(b). Write four difference between solution and suspension."
+      "text": "(b). Write four difference between solution and suspension.",
+      "chapter": "Solutions",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 1",
       "year": 0,
-      "text": "Explain the solute-solvent interaction to prepare sodium chloride solution."
+      "text": "Explain the solute-solvent interaction to prepare sodium chloride solution.",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 2",
       "year": 0,
-      "text": "Differentiate between the saturated and unsaturated solution?"
+      "text": "Differentiate between the saturated and unsaturated solution?",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 3",
       "year": 0,
-      "text": "Define solution and explain the major components of solution?"
+      "text": "Define solution and explain the major components of solution?",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 4",
       "year": 0,
-      "text": "What do you mean by mass/volume percent?"
+      "text": "What do you mean by mass/volume percent?",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 5",
       "year": 0,
-      "text": "Define with example one molar solution."
+      "text": "Define with example one molar solution.",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 6",
       "year": 0,
-      "text": "Why does colloidal show Tyndall effect?"
+      "text": "Why does colloidal show Tyndall effect?",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 7",
       "year": 0,
-      "text": "Define the terms i. Dilution ii. Concentration iii. Solubility iv. Molarity"
+      "text": "Define the terms i. Dilution ii. Concentration iii. Solubility iv. Molarity",
+      "chapter": "Solutions",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 8",
       "year": 0,
-      "text": "Polar and ionic solutes dissolve in polar solvent only. Why?"
+      "text": "Polar and ionic solutes dissolve in polar solvent only. Why?",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 9",
       "year": 0,
-      "text": "Why does Polar solute not dissolve in nonpolar solvent?"
+      "text": "Why does Polar solute not dissolve in nonpolar solvent?",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 10",
       "year": 0,
-      "text": "How are solutions beneficial for community?"
+      "text": "How are solutions beneficial for community?",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 11",
       "year": 0,
-      "text": "Why salt dissolves in water?"
+      "text": "Why salt dissolves in water?",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 12",
       "year": 0,
-      "text": "Air is a solution containing oxygen, carbon dioxide, nitrogen and other gases. Which one of the gas is called solvent and why?"
+      "text": "Air is a solution containing oxygen, carbon dioxide, nitrogen and other gases. Which one of the gas is called solvent and why?",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 13",
       "year": 0,
-      "text": "Why gasoline does not dissolve in water?"
+      "text": "Why gasoline does not dissolve in water?",
+      "chapter": "Solutions",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 1",
       "year": 0,
-      "text": "Describe how to prepare dilute solution from concentrated solution."
+      "text": "Describe how to prepare dilute solution from concentrated solution.",
+      "chapter": "Solutions",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 2",
       "year": 0,
-      "text": "Define the term solubility. How does nature of solute and solvent determine the extent of dissolution?"
+      "text": "Define the term solubility. How does nature of solute and solvent determine the extent of dissolution?",
+      "chapter": "Solutions",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 3",
       "year": 0,
-      "text": "Why the solubility of a salt increases with the increase in temperature?"
+      "text": "Why the solubility of a salt increases with the increase in temperature?",
+      "chapter": "Solutions",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 4",
       "year": 0,
-      "text": "Explain the attraction of Na⁺ and Cl⁻ ions for water molecule"
+      "text": "Explain the attraction of Na⁺ and Cl⁻ ions for water molecule",
+      "chapter": "Solutions",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 5",
       "year": 0,
-      "text": "Explain the solubility with reference to “like dissolve like” principle."
+      "text": "Explain the solubility with reference to “like dissolve like” principle.",
+      "chapter": "Solutions",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "D",
       "number": "Q. 1",
       "year": 0,
-      "text": "What is the molarity of the solution prepared by dissolving 1.25 g of HCl gas into enough water to make $30 cm^3$ of solution?"
+      "text": "What is the molarity of the solution prepared by dissolving 1.25 g of HCl gas into enough water to make $30 cm^3$ of solution?",
+      "chapter": "Solutions",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "D",
       "number": "Q. 2",
       "year": 0,
-      "text": "A solution of potassium chloride was prepared by dissolving 2.5 g of potassium chloride (KCl) in water and making the volume up to $100 cm^3$. Find the concentration of solution in $mol/dm^3$."
+      "text": "A solution of potassium chloride was prepared by dissolving 2.5 g of potassium chloride (KCl) in water and making the volume up to $100 cm^3$. Find the concentration of solution in $mol/dm^3$.",
+      "chapter": "Solutions",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "D",
       "number": "Q. 3",
       "year": 0,
-      "text": "A flask contains 0.25 M NaOH solution. What mass of NaOH is present per $dm^3$ of solution?"
+      "text": "A flask contains 0.25 M NaOH solution. What mass of NaOH is present per $dm^3$ of solution?",
+      "chapter": "Solutions",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "D",
       "number": "Q. 4",
       "year": 0,
-      "text": "What volume of 0.5M acid is needed to neutralize 200ml of 4M base?"
+      "text": "What volume of 0.5M acid is needed to neutralize 200ml of 4M base?",
+      "chapter": "Solutions",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "D",
       "number": "Q. 5",
       "year": 0,
-      "text": "A mineral water bottle contains 28 mg of calcium in 100 $cm^3$ of solution. What is the concentration in $g/dm^3$?"
+      "text": "A mineral water bottle contains 28 mg of calcium in 100 $cm^3$ of solution. What is the concentration in $g/dm^3$?",
+      "chapter": "Solutions",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "D",
       "number": "Q. 6",
       "year": 0,
-      "text": "A solution of $20 cm^3$ of alcohol is dissolved in $80 cm^3$ of water. Calculate the concentration (v/v) of this solution."
+      "text": "A solution of $20 cm^3$ of alcohol is dissolved in $80 cm^3$ of water. Calculate the concentration (v/v) of this solution.",
+      "chapter": "Solutions",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "D",
       "number": "Q. 7",
       "year": 0,
-      "text": "How much sodium hydroxide (NaOH) is required to prepare 400 $cm^3$ of 0.3M solution?"
+      "text": "How much sodium hydroxide (NaOH) is required to prepare 400 $cm^3$ of 0.3M solution?",
+      "chapter": "Solutions",
+      "type": "numerical",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "12",
       "year": 2025,
-      "text": "What is redox reaction? Give an example of it with equation and also identify the oxidizing and reducing agents in the equation."
+      "text": "What is redox reaction? Give an example of it with equation and also identify the oxidizing and reducing agents in the equation.",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "5",
       "year": 2023,
-      "text": "Define oxidizing and reducing agents. Identify oxidizing and reducing agents of the following chemical reaction. $Zn + Cl_2 \\rightarrow ZnCl_2$"
+      "text": "Define oxidizing and reducing agents. Identify oxidizing and reducing agents of the following chemical reaction. $Zn + Cl_2 \\rightarrow ZnCl_2$",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "10",
       "year": 2022,
-      "text": "State Faraday's 1, law of electrolysis and explain it"
+      "text": "State Faraday's 1, law of electrolysis and explain it",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "14",
       "year": 2018,
-      "text": "A current of 5 Ampere was passed through an electrolytic solution of Copper Sulphate for an hour. Find the mass of Copper metal deposited at the Cathode. (The Electro chemical Equivalent of Copper is 0.000329g/c)"
+      "text": "A current of 5 Ampere was passed through an electrolytic solution of Copper Sulphate for an hour. Find the mass of Copper metal deposited at the Cathode. (The Electro chemical Equivalent of Copper is 0.000329g/c)",
+      "chapter": "Electrochemistry",
+      "type": "numerical",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "9",
       "year": 2017,
-      "text": "State Faraday's 1st law of electrolysis and 2nd law of Electrolysis."
+      "text": "State Faraday's 1st law of electrolysis and 2nd law of Electrolysis.",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "10",
       "year": 2017,
-      "text": "Write three differences between Oxidation and Reduction."
+      "text": "Write three differences between Oxidation and Reduction.",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "14",
       "year": 2017,
-      "text": "Define Electrolysis and write its two uses."
+      "text": "Define Electrolysis and write its two uses.",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "19",
       "year": 2016,
-      "text": "What is an Alloy? Write names of two alloys of Copper with their composition."
+      "text": "What is an Alloy? Write names of two alloys of Copper with their composition.",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "16",
       "year": 2016,
-      "text": "Define Oxidation by three different ways with one suitable example for each."
+      "text": "Define Oxidation by three different ways with one suitable example for each.",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "20",
       "year": 2015,
-      "text": "Define the following: (i) Electrochemical Equivalent (ii) Faraday"
+      "text": "Define the following: (i) Electrochemical Equivalent (ii) Faraday",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "16",
       "year": 2025,
-      "text": "Describe the construction of a dry cell with diagram. Explain its working with the help of chemical equations."
+      "text": "Describe the construction of a dry cell with diagram. Explain its working with the help of chemical equations.",
+      "chapter": "Electrochemistry",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "15",
       "year": 2024,
-      "text": "Define electroplating. Describe the Tin plating of an Iron spoon with the help of ionic equations. Draw its labelled diagram also."
+      "text": "Define electroplating. Describe the Tin plating of an Iron spoon with the help of ionic equations. Draw its labelled diagram also.",
+      "chapter": "Electrochemistry",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "14",
       "year": 2023,
-      "text": "Explain the corrosion of Iron and describe any four methods to prevent metals from it"
+      "text": "Explain the corrosion of Iron and describe any four methods to prevent metals from it",
+      "chapter": "Electrochemistry",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "16",
       "year": 2022,
-      "text": "What is electroplating? How can a steel spoon be electroplated with chromium explain with electrodes reaction also draw a labelled diagram of electrolytic cell."
+      "text": "What is electroplating? How can a steel spoon be electroplated with chromium explain with electrodes reaction also draw a labelled diagram of electrolytic cell.",
+      "chapter": "Electrochemistry",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "14",
       "year": 2021,
-      "text": "Explain with illustrations what are Electrolyte and non-Electrolyte and how they are classified?"
+      "text": "Explain with illustrations what are Electrolyte and non-Electrolyte and how they are classified?",
+      "chapter": "Electrochemistry",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "20",
       "year": 2019,
-      "text": "(b) State Faraday's First and Second law of Electrolysis. Calculate the amount of Silver deposited at Cathode when 10 ampere of current is passed for 50 minutes through the solution of silver Nitrate."
+      "text": "(b) State Faraday's First and Second law of Electrolysis. Calculate the amount of Silver deposited at Cathode when 10 ampere of current is passed for 50 minutes through the solution of silver Nitrate.",
+      "chapter": "Electrochemistry",
+      "type": "numerical",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "20",
       "year": 2018,
-      "text": "(b) What is electroplating? Explain how would you electroplate an Iron spoon with Nickel? Draw a labelled diagram also."
+      "text": "(b) What is electroplating? Explain how would you electroplate an Iron spoon with Nickel? Draw a labelled diagram also.",
+      "chapter": "Electrochemistry",
+      "type": "long",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "C",
       "number": "25",
       "year": 2016,
-      "text": "(c). Calculate the amount of Silver (Ag) Deposited at Cathode, When 10 Ampere of Electric current is passed for 1 hour through the solution of $AgNO_3$. (Z of Ag=0.001118 g/C)"
+      "text": "(c). Calculate the amount of Silver (Ag) Deposited at Cathode, When 10 Ampere of Electric current is passed for 1 hour through the solution of $AgNO_3$. (Z of Ag=0.001118 g/C)",
+      "chapter": "Electrochemistry",
+      "type": "numerical",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 1",
       "year": 0,
-      "text": "Define Oxidation, reduction reaction with examples."
+      "text": "Define Oxidation, reduction reaction with examples.",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 2",
       "year": 0,
-      "text": "Why ionic compound conduct electricity in molten or in aqueous solutions only?"
+      "text": "Why ionic compound conduct electricity in molten or in aqueous solutions only?",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 3",
       "year": 0,
-      "text": "What is electrolytic cell? Explain with diagram."
+      "text": "What is electrolytic cell? Explain with diagram.",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 4",
       "year": 0,
-      "text": "Define oxidizing and reducing agent with examples."
+      "text": "Define oxidizing and reducing agent with examples.",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 5",
       "year": 0,
-      "text": "Examine the following chemical equation and identify. (i) Oxidizing agent (ii) Reducing agent (iii) Substance undergoes oxidation. (iv) Substance Undergoes Reduction. 1. $Zn + Cl_2 \\rightarrow ZnCl_2$ 2. $Br_2 + H_2S \\rightarrow 2HBr + S$ 3. $2Ca + O_2 \\rightarrow 2CaO$ 4. $2Li + S \\rightarrow Li_2S$"
+      "text": "Examine the following chemical equation and identify. (i) Oxidizing agent (ii) Reducing agent (iii) Substance undergoes oxidation. (iv) Substance Undergoes Reduction. 1. $Zn + Cl_2 \\rightarrow ZnCl_2$ 2. $Br_2 + H_2S \\rightarrow 2HBr + S$ 3. $2Ca + O_2 \\rightarrow 2CaO$ 4. $2Li + S \\rightarrow Li_2S$",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 6",
       "year": 0,
-      "text": "Identify the Alloy. COMPONENTS ALLOY Cu-Zn Cu - Al - Mg - Ni Cu - Zn - Sn"
+      "text": "Identify the Alloy. COMPONENTS ALLOY Cu-Zn Cu - Al - Mg - Ni Cu - Zn - Sn",
+      "chapter": "Electrochemistry",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 1",
       "year": 0,
-      "text": "Describe the dry cell with diagram."
+      "text": "Describe the dry cell with diagram.",
+      "chapter": "Electrochemistry",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 2",
       "year": 0,
-      "text": "What is Battery? How lead storage Battery works?"
+      "text": "What is Battery? How lead storage Battery works?",
+      "chapter": "Electrochemistry",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 3",
       "year": 0,
-      "text": "Explain process of electrolysis in electrolytic cell."
+      "text": "Explain process of electrolysis in electrolytic cell.",
+      "chapter": "Electrochemistry",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "1",
       "year": 0,
-      "text": "What is alloy? Explain its classification with examples."
+      "text": "What is alloy? Explain its classification with examples.",
+      "chapter": "Electrochemistry",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "2",
       "year": 0,
-      "text": "What is rusting? How it can be prevented."
+      "text": "What is rusting? How it can be prevented.",
+      "chapter": "Electrochemistry",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "3",
       "year": 0,
-      "text": "What is Electroplating? How steel object can be electroplated with Tin, Zinc and Silver?"
+      "text": "What is Electroplating? How steel object can be electroplated with Tin, Zinc and Silver?",
+      "chapter": "Electrochemistry",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "4",
       "year": 0,
-      "text": "State and explain Faraday first and second law of electrolysis."
+      "text": "State and explain Faraday first and second law of electrolysis.",
+      "chapter": "Electrochemistry",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "22",
       "year": 0,
-      "text": "Define: (ii)Halogens"
+      "text": "Define: (ii)Halogens",
+      "chapter": "Chemical Reactivity",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "18",
       "year": 0,
-      "text": "Write three characteristics of Halogens."
+      "text": "Write three characteristics of Halogens.",
+      "chapter": "Chemical Reactivity",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 1",
       "year": 0,
-      "text": "Identify the elements as Metals, Non-metals and Metalloids from the following elements:- C, Ca, Sb, S, Sr, Si, K, P, Ba, Ge"
+      "text": "Identify the elements as Metals, Non-metals and Metalloids from the following elements:- C, Ca, Sb, S, Sr, Si, K, P, Ba, Ge",
+      "chapter": "Chemical Reactivity",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 2",
       "year": 0,
-      "text": "What are Alkali metals? Write names and symbols of alkali metals?"
+      "text": "What are Alkali metals? Write names and symbols of alkali metals?",
+      "chapter": "Chemical Reactivity",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 3",
       "year": 0,
-      "text": "What are Alkaline Earth Metals? Write names and symbols of Alkaline earth metals?"
+      "text": "What are Alkaline Earth Metals? Write names and symbols of Alkaline earth metals?",
+      "chapter": "Chemical Reactivity",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 4",
       "year": 0,
-      "text": "What are Halogens? Write names and symbols of Halogens?"
+      "text": "What are Halogens? Write names and symbols of Halogens?",
+      "chapter": "Chemical Reactivity",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 5",
       "year": 0,
-      "text": "Write names and symbols of any three metalloids."
+      "text": "Write names and symbols of any three metalloids.",
+      "chapter": "Chemical Reactivity",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 6",
       "year": 0,
-      "text": "Define following with examples: - 1. Cation 2. Anion"
+      "text": "Define following with examples: - 1. Cation 2. Anion",
+      "chapter": "Chemical Reactivity",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 7",
       "year": 0,
-      "text": "Explain why alkali metals do not exists free in nature?"
+      "text": "Explain why alkali metals do not exists free in nature?",
+      "chapter": "Chemical Reactivity",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 8",
       "year": 0,
-      "text": "Explain inertness of noble metals."
+      "text": "Explain inertness of noble metals.",
+      "chapter": "Chemical Reactivity",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 9",
       "year": 0,
-      "text": "Write names and symbols of some noble metals"
+      "text": "Write names and symbols of some noble metals",
+      "chapter": "Chemical Reactivity",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "Q. 10",
       "year": 0,
-      "text": "Explain electronegative character of non-metals."
+      "text": "Explain electronegative character of non-metals.",
+      "chapter": "Chemical Reactivity",
+      "type": "short",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 1",
       "year": 0,
-      "text": "Explain importance of Silver."
+      "text": "Explain importance of Silver.",
+      "chapter": "Chemical Reactivity",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 2",
       "year": 0,
-      "text": "Explain importance of Gold."
+      "text": "Explain importance of Gold.",
+      "chapter": "Chemical Reactivity",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 3",
       "year": 0,
-      "text": "Explain the experiment to test Cl and I Ions."
+      "text": "Explain the experiment to test Cl and I Ions.",
+      "chapter": "Chemical Reactivity",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 4",
       "year": 0,
-      "text": "Explain Electropositive character of metals."
+      "text": "Explain Electropositive character of metals.",
+      "chapter": "Chemical Reactivity",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 5",
       "year": 0,
-      "text": "Explain the position of Magnesium in periodic table and its importance."
+      "text": "Explain the position of Magnesium in periodic table and its importance.",
+      "chapter": "Chemical Reactivity",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 6",
       "year": 0,
-      "text": "Explain the position of Sodium in periodic table and its importance."
+      "text": "Explain the position of Sodium in periodic table and its importance.",
+      "chapter": "Chemical Reactivity",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q. 7",
       "year": 0,
-      "text": "Arrange the following Halogen Acids in increasing order of their Acidic strength: HBr, HCl, HI, HF."
+      "text": "Arrange the following Halogen Acids in increasing order of their Acidic strength: HBr, HCl, HI, HF.",
+      "chapter": "Chemical Reactivity",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.8",
       "year": 0,
-      "text": "Explain Electronegative character of non-metals."
+      "text": "Explain Electronegative character of non-metals.",
+      "chapter": "Chemical Reactivity",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.9",
       "year": 0,
-      "text": "Differentiate between sodium and iron as soft and hard metal."
+      "text": "Differentiate between sodium and iron as soft and hard metal.",
+      "chapter": "Chemical Reactivity",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "C",
       "number": "Q.10",
       "year": 0,
-      "text": "Discuss the reactivity of Halogens."
+      "text": "Discuss the reactivity of Halogens.",
+      "chapter": "Chemical Reactivity",
+      "type": "long",
+      "source": "important_book",
+      "parts": []
     },
     {
       "section": "B",
       "number": "9",
       "year": 2025,
-      "text": "Define the following terms: (i) Free radical (ii) Solubility (iii) Alloy"
+      "text": "Define the following terms: (i) Free radical (ii) Solubility (iii) Alloy",
+      "chapter": "Miscellaneous (Multiple Chapters)",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "2",
       "year": 2024,
-      "text": "Define the following terms: (i) Periodicity (ii) Electronegativity (iii) Electrolysis"
+      "text": "Define the following terms: (i) Periodicity (ii) Electronegativity (iii) Electrolysis",
+      "chapter": "Miscellaneous (Multiple Chapters)",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "2",
       "year": 2022,
-      "text": "Define: (i) Tyndall effect (ii) Valency (iii) Electronegativity"
+      "text": "Define: (i) Tyndall effect (ii) Valency (iii) Electronegativity",
+      "chapter": "Miscellaneous (Multiple Chapters)",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "13",
       "year": 2025,
-      "text": "Give reasons: (i) How does electron differ from neutron? (ii) Why the rate of diffusion of gases is rapid than that of liquids?"
+      "text": "Give reasons: (i) How does electron differ from neutron? (ii) Why the rate of diffusion of gases is rapid than that of liquids?",
+      "chapter": "Miscellaneous (Multiple Chapters)",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "13",
       "year": 2024,
-      "text": "Justify the following: (i) Why Fluoride ion is not considered as Neon atom? (ii) Why noble gases do not react with other elements at ordinary conditions."
+      "text": "Justify the following: (i) Why Fluoride ion is not considered as Neon atom? (ii) Why noble gases do not react with other elements at ordinary conditions.",
+      "chapter": "Miscellaneous (Multiple Chapters)",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "13",
       "year": 2023,
-      "text": "Justify the followings: (i) Most of Ionic compounds are found in solid states. (ii) Alkali metals form cation easily."
+      "text": "Justify the followings: (i) Most of Ionic compounds are found in solid states. (ii) Alkali metals form cation easily.",
+      "chapter": "Miscellaneous (Multiple Chapters)",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "13",
       "year": 2022,
-      "text": "Give reason: (i) Why gasoline does not dissolve in water? (ii) Alkali metals are not found in Free State in nature, why?"
+      "text": "Give reason: (i) Why gasoline does not dissolve in water? (ii) Alkali metals are not found in Free State in nature, why?",
+      "chapter": "Miscellaneous (Multiple Chapters)",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     },
     {
       "section": "B",
       "number": "15",
       "year": 2019,
-      "text": "Give reason of the following: (i) Why does ionization energy of elements increase form left to right in a period of the periodic table"
+      "text": "Give reason of the following: (i) Why does ionization energy of elements increase form left to right in a period of the periodic table",
+      "chapter": "Miscellaneous (Multiple Chapters)",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
     }
   ]
 }

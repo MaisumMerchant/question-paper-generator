@@ -1,1200 +1,1806 @@
 {
-  "subject": "Computer",
+  "subject": "Computer Science",
   "class": "XI",
   "questions": [
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
       "text": "What do you mean by primary and secondary storage?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "iv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define the role of application software in computer field."
+      "text": "Define the role of application software in the computer field."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "v)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define the concept of binary digits (bit, bytes and Nibble) in computing."
+      "text": "Define the concept of binary digits (bit, byte and nibble) in computing."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "vi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What is the difference between compiler and interpreter?"
+      "text": "What is the difference between a compiler and an interpreter?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "vii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What are main difference between Impact and Non-Impact Printer?"
+      "text": "What are the main differences between impact and non-impact printers?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "ix)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
       "text": "Define any three input and output devices."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "xii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
       "text": "Define different types of ROM."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "xiv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Draw block diagram of a computer system."
+      "text": "Draw a block diagram of a computer system."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "xi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What is the main purpose of ALU?"
+      "text": "What is the main purpose of the ALU?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "xv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define advancement in computer generation and highlight the key features of fourth generation."
+      "text": "Define advancement in computer generations and highlight the key features of the fourth generation."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "ii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Differentiate Primary Memory and Secondary Memory."
+      "text": "Differentiate primary memory and secondary memory."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is Cache? Mention its types."
+      "text": "What is cache? Mention its types."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "iv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is Language Translator? Define Interpreter."
+      "text": "What is a language translator? Define interpreter."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "xi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is a Port? Enlist its types."
+      "text": "What is a port? Enlist its types."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "xii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Enlist five functions of an Operating System."
+      "text": "Enlist five functions of an operating system."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "2. i)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What is data communication? Name its components"
+      "text": "What is data communication? Name its components."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "ii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Write any three differences between Impact Printer and Non-Impact Printer."
+      "text": "Write any three differences between impact printers and non-impact printers."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "vi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Why ROM is called non- volatile memory?"
+      "text": "Why is ROM called non-volatile memory?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "vii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What is the function of a Compiler and an interpreter?"
+      "text": "What is the function of a compiler and an interpreter?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "2. (i)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "What is an Interpreter? How does it differ from a compiler?"
+      "text": "What is an interpreter? How does it differ from a compiler?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "What is the difference between Hardcopy and Softcopy?"
+      "text": "What is the difference between hardcopy and softcopy?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(iv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Why ROM is called non-volatile memory?"
+      "text": "Why is ROM called non-volatile memory?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(vii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Define the main components of CPU."
+      "text": "Define the main components of the CPU."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(xi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Draw a label diagram of a digital computer."
+      "text": "Draw a labelled diagram of a digital computer."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "2. (i)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
-      "text": "Differentiate between Compiler and Interpreter"
+      "text": "Differentiate between compiler and interpreter."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "2. (ii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
-      "text": "Define non-volatile memory. Name any three."
+      "text": "Define non-volatile memory. Name any three examples."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "2. (v)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
-      "text": "Define the function of Control unit in CPU"
+      "text": "Define the function of the control unit in the CPU."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "2. (vi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
-      "text": "Why Operating System is the most important software in a computer system."
+      "text": "Why is the operating system the most important software in a computer system?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "2. (viii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
-      "text": "How cache memory is different from RAM."
+      "text": "How is cache memory different from RAM?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "2. (x)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
-      "text": "Draw a Block diagram of Computer System."
+      "text": "Draw a block diagram of a computer system."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Which mode of Data transmission is suitable for communication from a computer to a printer?"
+      "text": "Which mode of data transmission is suitable for communication from a computer to a printer?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(vi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Differentiate between Volatile memory & Non-Volatile memory."
+      "text": "Differentiate between volatile memory and non-volatile memory."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(vii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Define Impact Printer and Non-Impact Printer."
+      "text": "Define impact printer and non-impact printer."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(ix)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Draw the block diagram of a Digital Computer."
+      "text": "Draw the block diagram of a digital computer."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(xii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Why is an Operating System necessary for a computer?"
+      "text": "Why is an operating system necessary for a computer?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "Define control unit of CPU"
+      "text": "Define the control unit of the CPU."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(iv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "What are the peripheral devices? Name any three"
+      "text": "What are peripheral devices? Name any three."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(viii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "Define Memory word."
+      "text": "Define memory word."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(xvii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
       "text": "Why is ROM called non-volatile memory?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(xviii)",
-      "year": 2018,
-      "text": "Write input or output device in the given column Hardware Input/Output Monitor Keyboard Plotter OMR Touch Pad Drum Printer"
-    },
-    {
-      "section": "B",
-      "number": "(ii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Enlist any six features of an Operating System."
+      "text": "Enlist any six features of an operating system."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "What will happen, if RAM is not available in a Computer System?"
+      "text": "What will happen if RAM is not available in a computer system?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(v)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "What is Application Software? Name at least five application Software."
+      "text": "What is application software? Name at least five application software packages."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(vii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Why is cache memory used in Computer System?"
+      "text": "Why is cache memory used in a computer system?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(viii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "What is port? Enlist its types."
+      "text": "What is a port? Enlist its types."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(xii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Define bit. Byte and word."
+      "text": "Define bit, byte and word."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(xviii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Write, t. t. input device or output device in the given column. Hardware Input/Output Joystick Scanner Mouse Touch Screen LED Inkjet Printer"
-    },
-    {
-      "section": "B",
-      "number": "(xi)",
-      "year": 2016,
       "text": "How is secondary storage different from primary storage?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(xiii)",
-      "year": 2016,
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
       "text": "Why is ROM called non-volatile memory?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "2. (i)",
-      "year": 2015,
-      "text": "Define the following terms related to screen display: CRT Pixels, Resolution."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define the following terms related to screen display: CRT, pixel and resolution."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(ii)",
-      "year": 2015,
-      "text": "List the virus functions normally performed by the Operating system."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "List the various functions normally performed by the operating system."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(vii)",
-      "year": 2015,
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
       "text": "Define ROM and its types."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(ix)",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define the main components of the CPU."
+    },
+    {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2015,
-      "text": "Define the main components of CPU"
+      "text": "Define bus, cache memory and bar code reader."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(vi)",
-      "year": 2014,
-      "text": "Define the following: *Bus *Cache Memory *Bar Code Reader"
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Differentiate between volatile memory and non-volatile memory."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(vii)",
-      "year": 2014,
-      "text": "Differentiate between Volatile Memory and Non-volatile Memory."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "What is an operating system? Why is it necessary for a computer system?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "B",
-      "number": "(ix)",
-      "year": 2014,
-      "text": "What is Operating System? Why is it necessary for computer system?"
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Write input or output device in the given column.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Monitor"
+        },
+        {
+          "label": "(ii)",
+          "text": "Keyboard"
+        },
+        {
+          "label": "(iii)",
+          "text": "Plotter"
+        },
+        {
+          "label": "(iv)",
+          "text": "OMR"
+        },
+        {
+          "label": "(v)",
+          "text": "Touch pad"
+        },
+        {
+          "label": "(vi)",
+          "text": "Drum printer"
+        }
+      ]
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Write input device or output device in the given column.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Joystick"
+        },
+        {
+          "label": "(ii)",
+          "text": "Scanner"
+        },
+        {
+          "label": "(iii)",
+          "text": "Mouse"
+        },
+        {
+          "label": "(iv)",
+          "text": "Touch screen"
+        },
+        {
+          "label": "(v)",
+          "text": "LED"
+        },
+        {
+          "label": "(vi)",
+          "text": "Inkjet printer"
+        }
+      ]
+    },
+    {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "3",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is a Monitor? Explain CRT and Flat Panel Monitors with their types."
+      "text": "What is a monitor? Explain CRT and flat-panel monitors with their types."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "4",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Explain different types of Printers."
+      "text": "Explain different types of printers."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "6",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What are Scanning Devices? Explain their different types."
+      "text": "What are scanning devices? Explain their different types."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "3",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What is System Software? Explain operating system with its function."
+      "text": "What is system software? Explain the operating system with its functions."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "3",
+      "type": "long",
+      "source": "past_paper",
       "year": 2022,
-      "text": "What is an Operating System? Explain the functions performed by an operating system."
+      "text": "What is an operating system? Explain the functions performed by an operating system."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "4",
+      "type": "long",
+      "source": "past_paper",
       "year": 2021,
-      "text": "What is printer? Discuss different types of Impact printers."
+      "text": "What is a printer? Discuss different types of impact printers."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "5. (b)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Explain the important features of an Operating System."
+      "text": "Explain the important features of an operating system."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "5. (c)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2019,
-      "text": "What is meant by Primary and Secondary Storages? Define any three types of secondary storage."
+      "text": "What is meant by primary and secondary storage? Define any three types of secondary storage."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "3. (a)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2018,
-      "text": "What are Scanning input devices? Explain any two scanning device."
+      "text": "What are scanning input devices? Explain any two scanning devices."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "4. (a)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2018,
-      "text": "What are the different types of Non-Impact Printers?"
+      "text": "What are the different types of non-impact printers?"
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "4. (c)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2018,
-      "text": "Define System Software and explain its three categories."
+      "text": "Define system software and explain its three categories."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "5. (c)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2018,
-      "text": "What is Language translator? Define its different types."
+      "text": "What is a language translator? Define its different types."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "3. (a)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Explain different types of Impact printers."
+      "text": "Explain different types of impact printers."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "3. (b)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2017,
-      "text": "What is System Software? Discuss its types."
+      "text": "What is system software? Discuss its types."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "5. (c)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Discuss the characteristics of Computer."
+      "text": "Discuss the characteristics of a computer."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "3. (b)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2016,
-      "text": "What is System Software? Define its different types."
+      "text": "What is system software? Define its different types."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "4. (a)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2016,
-      "text": "What is Secondary memory? Define its types."
+      "text": "What is secondary memory? Define its types."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "4. (b)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2015,
-      "text": "Define different types of Scanning devices."
+      "text": "Define different types of scanning devices."
     },
     {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
       "section": "C",
-      "number": "5. (a)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2015,
-      "text": "Explain the different types of Impact Printers."
+      "text": "Explain the different types of impact printers."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "2. i)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
       "text": "What are the main devices of IoT?"
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "viii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What is Metropolitan Area Network?"
+      "text": "What is a metropolitan area network?"
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "v)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Why star topology is the most reliable?"
+      "text": "Why is star topology the most reliable?"
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "v)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Which technical issue is common in Ring and Bus Topology?"
+      "text": "Which technical issue is common in ring and bus topology?"
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "ix)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What is the main difference between Router and Gateway?"
+      "text": "What is the main difference between a router and a gateway?"
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(v)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Write any four abuses of Internet."
+      "text": "Write any four abuses of the Internet."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(x)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "How computers can be useful in medical science?"
+      "text": "How can computers be useful in medical science?"
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(xv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Define Star topology, and give its advantages."
+      "text": "Define star topology and give its advantages."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(ii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Define any two of the following: *Bridge *Router *Gateway"
+      "text": "Define any two of the following: bridge, router and gateway."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(v)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Define Ring topology and give its advantages."
+      "text": "Define ring topology and give its advantages."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(x)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "How is Internet useful in the field of education?"
+      "text": "How is the Internet useful in the field of education?"
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(xiii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "What are the components of LAN?"
+      "text": "What are the components of a LAN?"
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(i)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "Write any three abuses of internet."
+      "text": "Write any three abuses of the Internet."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(vi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "Give three main objectives of LAN."
+      "text": "Give three main objectives of a LAN."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(xi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "How is computer beneficial in Banks?"
+      "text": "How are computers beneficial in banks?"
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(xvi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "What are the elements of Data communication?"
+      "text": "What are the elements of data communication?"
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(xiv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "What is network topology? Name any three."
+      "text": "What is network topology? Name any three types."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(xvii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "List the benefits of LAN."
+      "text": "List the benefits of a LAN."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2016,
-      "text": "Define Ring topology and give its advantages and disadvantages."
+      "text": "Define ring topology and give its advantages and disadvantages."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(v)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2016,
-      "text": "State the uses and abuses of internet."
+      "text": "State the uses and abuses of the Internet."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(vi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2016,
-      "text": "What are the benefits of developing a Computer network?"
+      "text": "What are the benefits of developing a computer network?"
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2015,
-      "text": "What are the functions of Router and Gateway in Data Communication?"
+      "text": "What are the functions of a router and gateway in data communication?"
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "B",
-      "number": "(iv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2015,
-      "text": "What is Internet? Define its components."
+      "text": "What is the Internet? Define its components."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "C",
-      "number": "3",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define Computer Network. Describe LAN and WAN with the diagram."
+      "text": "Define a computer network. Describe LAN and WAN with diagrams."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "C",
-      "number": "4",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define data communication Also describe its main components."
+      "text": "Define data communication. Also describe its main components."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "C",
-      "number": "5",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
       "text": "Describe different modes of data communication with examples."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "C",
-      "number": "4",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What is Computer Network? Explain different types of network topologies."
+      "text": "What is a computer network? Explain different types of network topologies."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "C",
-      "number": "3",
+      "type": "long",
+      "source": "past_paper",
       "year": 2021,
-      "text": "Explain Basic logic gates with diagrams."
+      "text": "Explain basic logic gates with diagrams."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "C",
-      "number": "6",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "What is topology? Discuss its types."
+    },
+    {
+      "chapter": "Chapter 2: Information Networks",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2018,
-      "text": "What is Topology? Discuss its types."
+      "text": "Define data communication modes with a diagram."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "C",
-      "number": "3. (c)",
-      "year": 2017,
-      "text": "Define Data communication modes with diagram."
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Explain LAN topologies with diagrams."
     },
     {
+      "chapter": "Chapter 2: Information Networks",
       "section": "C",
-      "number": "5. (b)",
-      "year": 2016,
-      "text": "Explain I. A. V. topologies with diagram."
-    },
-    {
-      "section": "C",
-      "number": "3. (a)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2015,
-      "text": "Explain any four I. A. V. Topologies."
+      "text": "Explain any four LAN topologies."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "ii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Differentiate between synchronous and asynchronous."
+      "text": "Differentiate between synchronous and asynchronous transmission."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "vi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Define the following: * Simplex Mode * Full-Duplex Mode"
+      "text": "Define simplex mode, half-duplex mode and full-duplex mode."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "vii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is Synchronous Transmission?"
+      "text": "What is synchronous transmission?"
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "viii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Draw a labelled diagram of OSL reference model."
+      "text": "Draw a labelled diagram of the OSI reference model."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "iv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What is meant by Modulation and Demodulation?"
+      "text": "What is meant by modulation and demodulation?"
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "viii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What do you mean by Broadcasting?"
+      "text": "What do you mean by broadcasting?"
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "x)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Name any two simplex devices used in communication system."
+      "text": "Name any two simplex devices used in a communication system."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "xiii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Name the fastest communication media."
+      "text": "Name the fastest communication medium."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "xiv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Define Protocol. Name any three protocols."
+      "text": "Define protocol. Name any three protocols."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "(viii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Draw OSI model."
+      "text": "Draw the OSI model."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "(ix)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
       "text": "Differentiate between asynchronous transmission and synchronous transmission."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "2. (ix)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
-      "text": "Write the purpose of MODE VI"
+      "text": "Write the purpose of a modem."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "2. (i)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Define Protocol and name any three."
+      "text": "Define protocol and name any three protocols."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "(viii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Define Analog Single and Digital Signal."
+      "text": "Define analog signal and digital signal."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "(xiv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "What are the basic hardware needed for Internet?"
+      "text": "What is the basic hardware needed for the Internet?"
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "(xv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Name any two Full-duplex devices."
+      "text": "Name any two full-duplex devices."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "(xvi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Draw the layer cake of OSI model."
+      "text": "Draw the layer cake of the OSI model."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "(x)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "Why is Modem called Moderator and Demodulator"
+      "text": "Why is a modem called a modulator and demodulator?"
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "(iv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "What is Protocol? Explain four different protocols."
+      "text": "What is a protocol? Enlist four different protocols."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "(x)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Draw labeled diagram of OSI model."
+      "text": "Draw a labelled diagram of the OSI model."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "(xv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Which layer of OSI model is responsible for routing information between computers?"
+      "text": "Which layer of the OSI model is responsible for routing information between computers?"
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "(xvi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "Define the term Bandwidth."
+      "text": "Define the term bandwidth."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "2. (i)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2015,
-      "text": "What is the function of Modem? Define different types of Modem."
+      "text": "What is the function of a modem? Define different types of modem."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "B",
-      "number": "(viii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2015,
-      "text": "Define Simplex, half-duplex and full-duplex modes of Data Communication."
+      "text": "Define simplex, half-duplex and full-duplex modes of data communication."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "C",
-      "number": "5",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Explain OSI model with layered diagram."
+      "text": "Explain the OSI model with a layered diagram."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "C",
-      "number": "4",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is communication media? Discuss its different types."
+    },
+    {
+      "chapter": "Chapter 3: Data Communications",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Explain different types of communication media/channel used in data communication."
+    },
+    {
+      "chapter": "Chapter 3: Data Communications",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Explain different types of communication media /channel used in data communication:"
+      "text": "Define synchronous and asynchronous transmissions with diagrams."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "C",
-      "number": "5. (a)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2018,
-      "text": "Define Synchronous & Asynchronous transmissions with diagrams."
+      "text": "Explain the OSI model with a diagram."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "C",
-      "number": "4. (b)",
-      "year": 2017,
-      "text": "Explain the OSI model with diagram."
-    },
-    {
-      "section": "C",
-      "number": "5. (a)",
-      "year": 2017,
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
       "text": "Describe the various types of communication media used for data communication."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "C",
-      "number": "4. (a)",
-      "year": 2016,
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
       "text": "Discuss the modes of transmission with examples."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "C",
-      "number": "4. (b)",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Differentiate between asynchronous and synchronous transmission methods."
+    },
+    {
+      "chapter": "Chapter 3: Data Communications",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2016,
-      "text": "Differentiate between Asynchronous and Synchronous transmission methods."
+      "text": "Describe the OSI model with a diagram."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "C",
-      "number": "3.(a)",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define microwave system. How can it be useful in a communication system?"
+    },
+    {
+      "chapter": "Chapter 3: Data Communications",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2015,
-      "text": "Describe the OSI model with diagram."
+      "text": "What do you mean by protocol? Define any two types of protocol."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "C",
-      "number": "5. (b)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2015,
-      "text": "Define Microwave system. How can it be useful in communication system?"
+      "text": "Explain synchronous transmission and asynchronous transmission."
     },
     {
+      "chapter": "Chapter 3: Data Communications",
       "section": "C",
-      "number": "3. (b)",
-      "year": 2014,
-      "text": "What do you mean by Protocol? Define any two types of Protocol."
+      "type": "long",
+      "source": "past_paper",
+      "year": 2015,
+      "text": "Explain the advantages and disadvantages of fiber-optic cable."
     },
     {
-      "section": "C",
-      "number": "4. (b)",
-      "year": 2014,
-      "text": "Explain Synchronous Transmission and Asynchronous Transmission."
-    },
-    {
-      "section": "C",
-      "number": "5. (b)",
-      "year": 2014,
-      "text": "Explain the advantages and disadvantages of Fiber Optic Cable."
-    },
-    {
+      "chapter": "Chapter 5: Computer Architecture",
       "section": "B",
-      "number": "x)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Draw any one diagram of the following equation using logical gates: *(A.B) + (A.B) = C * X + (Y.Z) = W"
+      "text": "Draw any one diagram of the following equations using logic gates.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$(A.B) + (A.B) = C$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$X + (Y.Z) = W$"
+        }
+      ]
     },
     {
+      "chapter": "Chapter 5: Computer Architecture",
       "section": "B",
-      "number": "2. i)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Draw a labelled diagram of Data Processing Cycle."
+      "text": "Draw a labelled diagram of the data processing cycle."
     },
     {
+      "chapter": "Chapter 5: Computer Architecture",
       "section": "B",
-      "number": "x)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Define the term ‘BUS’ with two examples."
+      "text": "Define the term bus with two examples."
     },
     {
+      "chapter": "Chapter 5: Computer Architecture",
       "section": "B",
-      "number": "xiii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Define PUSH and POP in STACK."
+      "text": "Define PUSH and POP in a stack."
     },
     {
+      "chapter": "Chapter 5: Computer Architecture",
       "section": "B",
-      "number": "ix)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is ASCII coding scheme?"
+      "text": "What is the ASCII coding scheme?"
     },
     {
+      "chapter": "Chapter 5: Computer Architecture",
       "section": "B",
-      "number": "xi)",
-      "year": 2024,
-      "text": "Why Address Bus is called unidirectional?"
-    },
-    {
-      "section": "B",
-      "number": "xii)",
-      "year": 2024,
-      "text": "Draw the block diagram of Fetch Cycle."
-    },
-    {
-      "section": "B",
-      "number": "(ii)",
-      "year": 2022,
-      "text": "What is Data Processing (cycle? Write its steps with the help of diagram."
-    },
-    {
-      "section": "B",
-      "number": "(xii)",
-      "year": 2022,
-      "text": "Define the instruction cycle with labeled diagram."
-    },
-    {
-      "section": "B",
-      "number": "2. (ii)",
-      "year": 2021,
-      "text": "Define any two laws of Boolean Algebra"
-    },
-    {
-      "section": "B",
-      "number": "(xi)",
-      "year": 2019,
-      "text": "Why is an Address Buss called unidirectional?"
-    },
-    {
-      "section": "B",
-      "number": "(vii)",
-      "year": 2018,
-      "text": "Why is the data-bus called bi-directional bus?"
-    },
-    {
-      "section": "B",
-      "number": "(ix)",
-      "year": 2018,
-      "text": "Define Fetch cycle."
-    },
-    {
-      "section": "B",
-      "number": "(i)",
-      "year": 2017,
-      "text": "What is Data Processing Cycle? Who its steps with the help of a diagram."
-    },
-    {
-      "section": "C",
-      "number": "7",
-      "year": 2025,
-      "text": "What is Boolean Algebra? Also write it rules and construct a truth table for two inputs to perform AND & OR logical operations."
-    },
-    {
-      "section": "C",
-      "number": "6",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What is CPU Register? Explain its different types."
+      "text": "Why is the address bus called unidirectional?"
     },
     {
-      "section": "C",
-      "number": "5",
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Draw the block diagram of the fetch cycle."
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "What is a Register? Explain the functions of various types of registers."
+      "text": "What is the data processing cycle? Write its steps with the help of a diagram."
     },
     {
-      "section": "C",
-      "number": "3. (c)",
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define the instruction cycle with a labelled diagram."
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Define any two laws of Boolean algebra."
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Define the term Bus. Describe the functions of any two Buses."
+      "text": "Why is an address bus called unidirectional?"
     },
     {
-      "section": "C",
-      "number": "4. (b)",
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "What is Stack? Explain its operations with examples."
+      "text": "Why is the data bus called a bidirectional bus?"
     },
     {
-      "section": "C",
-      "number": "3. (b)",
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Define fetch cycle."
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
+      "text": "What is the data processing cycle? Write its steps with the help of a diagram."
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is Boolean algebra? Also write its rules and construct a truth table for two inputs to perform AND and OR logical operations."
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is a CPU register? Explain its different types."
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "What is a register? Explain the functions of various types of registers."
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Define the term bus. Describe the functions of any two buses."
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is a stack? Explain its operations with examples."
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
       "text": "What is a computer register? Define its four types."
     },
     {
+      "chapter": "Chapter 5: Computer Architecture",
       "section": "C",
-      "number": "3. (c)",
-      "year": 2016,
-      "text": "Discuss the major components of Computer System."
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Discuss the major components of a computer system."
     },
     {
+      "chapter": "Chapter 5: Computer Architecture",
       "section": "C",
-      "number": "4. (c)",
-      "year": 2016,
-      "text": "Describe instruction Fetch cycle."
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Describe the instruction fetch cycle."
     },
     {
+      "chapter": "Chapter 5: Computer Architecture",
       "section": "C",
-      "number": "5. (a)",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is the use of buses in a computer system? Discuss the functions of any two buses."
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2015,
-      "text": "What is the use of Buses in computer system? Discuss the functions of any two buses."
+      "text": "What are registers? Write the function of any three registers."
     },
     {
-      "section": "C",
-      "number": "4. (a)",
-      "year": 2014,
-      "text": "What are Registers? Write the function of any three Registers."
-    },
-    {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "B",
-      "number": "iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What is a Computer Virus? How can we protect our computer from virus?"
+      "text": "What is a computer virus? How can we protect our computer from viruses?"
     },
     {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "B",
-      "number": "xv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What is Copyright Law?"
+      "text": "What is copyright law?"
     },
     {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "B",
-      "number": "(vi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "State Copyright Law. Give its advantages."
+      "text": "State copyright law. Give its advantages."
     },
     {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "B",
-      "number": "(xiv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Define the Computer Virus. Name any two viruses."
+      "text": "Define the computer virus. Name any two viruses."
     },
     {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "B",
-      "number": "2. (vii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
       "text": "Why do we need to keep antivirus updated?"
     },
     {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "B",
-      "number": "(xvi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "What is Computer crime?"
+      "text": "What is computer crime?"
     },
     {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "B",
-      "number": "(v)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "List the three benefits of copyright."
+      "text": "List three benefits of copyright."
     },
     {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "B",
-      "number": "(xii)",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "How is a virus transferred from one computer to another?"
+    },
+    {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2017,
-      "text": "How is virus transferred from one Computer to another?"
+      "text": "What measures can be taken to save a computer system from virus attacks?"
     },
     {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "B",
-      "number": "(vi)",
-      "year": 2016,
-      "text": "What measures can be taken to save computer system form virus attacks?"
-    },
-    {
-      "section": "B",
-      "number": "(ii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2015,
-      "text": "What is computer Virus? Define different types of Virus."
+      "text": "What is a computer virus? Define different types of virus."
     },
     {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "C",
-      "number": "5",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is Software Privacy? How can we protect out Software?"
+      "text": "What is software piracy? How can we protect our software?"
     },
     {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "C",
-      "number": "7",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define computer virus. Explain its types."
+    },
+    {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2021,
-      "text": "Define Computer Virus. Explain its types."
+      "text": "What is a computer virus? Explain its different types."
     },
     {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "C",
-      "number": "5",
-      "year": 2020,
-      "text": "What is Computer Virus? Explain its different types."
-    },
-    {
-      "section": "C",
-      "number": "3. (b)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2019,
-      "text": "What is a Computer Virus? What preventive measures can be taken to protect our computer form its attacks?"
+      "text": "What is a computer virus? What preventive measures can be taken to protect our computer from its attacks?"
     },
     {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "C",
-      "number": "4. (a)",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "State copyright law. Give its advantages."
+    },
+    {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2018,
-      "text": "State Copyright law. Give its advantages."
+      "text": "What is software piracy? Explain."
     },
     {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "C",
-      "number": "4. (c)",
-      "year": 2018,
-      "text": "What is software piracy? Explain"
-    },
-    {
-      "section": "C",
-      "number": "5. (b)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2017,
-      "text": "What is computer crime? How is the computer being used as tool of crime?"
+      "text": "What is computer crime? How is the computer being used as a tool of crime?"
     },
     {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
       "section": "C",
-      "number": "5. (a)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2016,
-      "text": "Define Antivirus and its different types."
+      "text": "Define antivirus and its different types."
     },
     {
+      "chapter": "Chapter 7: Operating System (Windows)",
       "section": "C",
-      "number": "6",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What is the purpose of an Operating System in a computer? Describe its features."
+      "text": "What is the purpose of an operating system in a computer? Describe its features."
     },
     {
+      "chapter": "Chapter 7: Operating System (Windows)",
       "section": "B",
-      "number": "(xiii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "What is the difference between command line interface and GUI."
+      "text": "What is the difference between a command-line interface and a GUI?"
     },
     {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
       "section": "B",
-      "number": "(iv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is an Email? Write three advantages of Email."
+      "text": "What is an email? Write three advantages of email."
     },
     {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
       "section": "B",
-      "number": "(ii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "What is a search Engine? Name any three search engines."
+      "text": "What is a search engine? Name any three search engines."
     },
     {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
       "section": "B",
-      "number": "(iv)",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What is a website address? Name any two websites."
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2016,
-      "text": "What is website address? Name any two websites."
+      "text": "Define search engine."
     },
     {
-      "section": "B",
-      "number": "(iv)",
-      "year": 2015,
-      "text": "Define search Engine."
-    },
-    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
       "section": "C",
-      "number": "3. (a)",
+      "type": "long",
+      "source": "past_paper",
       "year": 2019,
-      "text": "What is Internet Browser? Describe its various types."
+      "text": "What is an Internet browser? Describe its various types."
     },
     {
+      "chapter": "Miscellaneous Questions",
       "section": "B",
-      "number": "xiii)",
-      "year": 0,
-      "text": "Convert any three of the following number system. *(0111)₂... (?)₁₀ *(243)₁₀... (?)₁₀ *(188)₁₀... (?)₂ *(659)₁₀... (?)₁₀ *(ABC)₁₆... (?)₁₀ *(785)₁₀... (?)₁₀"
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Convert any three of the following number-system values.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$({01111})_2 = (?)_{10}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$({243})_8 = (?)_{10}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$({188})_{10} = (?)_2$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$({659})_{10} = (?)_{16}$"
+        },
+        {
+          "label": "(v)",
+          "text": "$({ABC})_{16} = (?)_{10}$"
+        },
+        {
+          "label": "(vi)",
+          "text": "$({785})_{10} = (?)_{16}$"
+        }
+      ]
     },
     {
+      "chapter": "Miscellaneous Questions",
       "section": "B",
-      "number": "(xviii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Match the terms of column A with those of column B Column 'A' Keyboard Non-Volatile Byte DOS BIOS Local Area Network Column 'B' Operating System Firmware LAN ROM 8 bits Input device"
+      "text": "Match the terms of column A with those of column B.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Column A: Keyboard; Non-volatile; Byte; DOS; BIOS; Local Area Network"
+        },
+        {
+          "label": "(ii)",
+          "text": "Column B: Operating System; Firmware; LAN; ROM; 8 bits; Input device"
+        }
+      ]
     },
     {
+      "chapter": "Miscellaneous Questions",
       "section": "B",
-      "number": "xv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Write the full form of any six of the following abbreviations: LED, LCD, MBR, IR, BIOS, ALU, CPU, TCP, IP"
+      "text": "Write the full forms of the following abbreviations.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "LED"
+        },
+        {
+          "label": "(ii)",
+          "text": "LCD"
+        },
+        {
+          "label": "(iii)",
+          "text": "MBR"
+        },
+        {
+          "label": "(iv)",
+          "text": "IR"
+        },
+        {
+          "label": "(v)",
+          "text": "BIOS"
+        },
+        {
+          "label": "(vi)",
+          "text": "ALU"
+        },
+        {
+          "label": "(vii)",
+          "text": "CPU"
+        },
+        {
+          "label": "(viii)",
+          "text": "TCP"
+        },
+        {
+          "label": "(ix)",
+          "text": "IP"
+        }
+      ]
     },
     {
+      "chapter": "Miscellaneous Questions",
       "section": "B",
-      "number": "xv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Write Full forms of the following: MBR, ISO, HTTP, LED"
+      "text": "Write the full forms of the following abbreviations.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "MBR"
+        },
+        {
+          "label": "(ii)",
+          "text": "ISO"
+        },
+        {
+          "label": "(iii)",
+          "text": "HTTP"
+        },
+        {
+          "label": "(iv)",
+          "text": "LED"
+        },
+        {
+          "label": "(v)",
+          "text": "OMR"
+        }
+      ]
     },
     {
+      "chapter": "Miscellaneous Questions",
       "section": "B",
-      "number": "xv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
-      "text": "Write Full forms of the following: OMR, DIMM, CRT, BIOS, PROM"
+      "text": "Write the full forms of the following abbreviations.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "DIMM"
+        },
+        {
+          "label": "(ii)",
+          "text": "CRT"
+        },
+        {
+          "label": "(iii)",
+          "text": "BIOS"
+        },
+        {
+          "label": "(iv)",
+          "text": "PROM"
+        }
+      ]
     },
     {
+      "chapter": "Miscellaneous Questions",
       "section": "B",
-      "number": "xv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2019,
-      "text": "Write Full forms of the following: HTTP, URL, SIMM"
+      "text": "Write the full forms of the following abbreviations.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "HTTP"
+        },
+        {
+          "label": "(ii)",
+          "text": "URL"
+        },
+        {
+          "label": "(iii)",
+          "text": "SIMM"
+        }
+      ]
     },
     {
+      "chapter": "Miscellaneous Questions",
       "section": "B",
-      "number": "xv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2018,
-      "text": "Write Full forms of the following: HTML, LED"
+      "text": "Write the full forms of the following abbreviations.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "HTML"
+        },
+        {
+          "label": "(ii)",
+          "text": "LED"
+        }
+      ]
     }
   ]
 }

@@ -3,370 +3,1914 @@
   "class": "XII",
   "questions": [
     {
+      "chapter": "Programming Environment",
       "section": "B",
-      "number": "2. i)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What is IDE? Write few shortcut keys and their functions in IDE."
+      "text": "What is IDE? Write a few shortcut keys and their functions in IDE."
     },
     {
+      "chapter": "C Basics",
       "section": "B",
-      "number": "2. ii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
       "text": "What are escape sequences? Write the purpose of any three."
     },
     {
+      "chapter": "C Basics",
       "section": "B",
-      "number": "2. iii)",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Convert the following mathematical expressions into 'C' language format. (a) $(a+b)^2$ (b) $(x^2- y^2)(x+y)$ (c) $y = (a + b)^n$"
+      "text": "Convert the following mathematical expressions into C-language format.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$\\frac{(a+b)^2}{ab}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$\\frac{(x^2-y^2)(x+y)}{a+b}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$y=(a+b)^n$"
+        }
+      ]
     },
     {
+      "chapter": "C Basics",
       "section": "B",
-      "number": "2. iv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Identify valid and invalid Identifiers. Give reason in case of Identifiers are invalid. (a) void (b) std_marks (c) 1\" number"
+      "text": "Identify the valid and invalid identifiers. Give a reason for each invalid identifier.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "void"
+        },
+        {
+          "label": "(ii)",
+          "text": "std_marks"
+        },
+        {
+          "label": "(iii)",
+          "text": "1st number"
+        }
+      ]
     },
     {
+      "chapter": "Operators",
       "section": "B",
-      "number": "2. v)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
       "text": "Define increment and decrement operators."
     },
     {
+      "chapter": "Input and Output",
       "section": "B",
-      "number": "2. vi)",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2025,
-      "text": "If $x = 1$, what is the output of the following program segment: printf(x=%d\\n,x); printf(x=%d\\n,+x); printf(x=%d\\n,x);"
+      "text": "If x = 1, what is the output of the following program segment?\n```c\nprintf(\"x=%d\\n\", x);\nprintf(\"x=%d\\n\", ++x);\nprintf(\"x=%d\\n\", x);\n```"
     },
     {
+      "chapter": "Arrays",
       "section": "B",
-      "number": "2. vii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What is an Array? How can we declare and initialize and integer array."
+      "text": "What is an array? How can an integer array be declared and initialized?"
     },
     {
+      "chapter": "Arrays",
       "section": "B",
-      "number": "2. viii)",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What will be the output of following code segment: a) int num [j = {3,5,7,10,20} printf(\"%d\",num[3]);"
+      "text": "What will be the output of the following code segment?\n```c\nint num[] = {3,5,7,10,20};\nprintf(\"%d\", num[5]);\n```"
     },
     {
+      "chapter": "Control Structures",
       "section": "B",
-      "number": "2. ix)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define break and continue statement with an example."
+      "text": "Define the break and continue statements with examples."
     },
     {
+      "chapter": "Control Structures",
       "section": "B",
-      "number": "2. x)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What are the main differences between while and do-while loop?"
+      "text": "What are the main differences between while and do-while loops?"
     },
     {
+      "chapter": "Pointers",
       "section": "B",
-      "number": "2. xii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What is a pointer in 'C'? How is it initialized?"
+      "text": "What is a pointer in C? How is it initialized?"
     },
     {
+      "chapter": "C Basics",
       "section": "B",
-      "number": "2. xiii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What is 'C' language is called case sensitive language?"
+      "text": "Why is C called a case-sensitive language?"
     },
     {
+      "chapter": "Program Translation",
       "section": "B",
-      "number": "2. xiii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
       "text": "What are the main differences between source code and object code?"
     },
     {
+      "chapter": "C Basics",
       "section": "B",
-      "number": "2. xiv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define any three reserved words in 'C' language."
+      "text": "Define any three reserved words in C."
     },
     {
+      "chapter": "Operators",
       "section": "B",
-      "number": "2. xv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What is address operator? Explain with example."
+      "text": "What is the address operator? Explain with an example."
     },
     {
+      "chapter": "Program Structure",
       "section": "B",
-      "number": "2. xvi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define the Basic structure of a C program."
+      "text": "Define the basic structure of a C program."
     },
     {
+      "chapter": "Control Structures",
       "section": "C",
-      "number": "3",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define the control structures used in C language? Explain Iteration control structures with syntax and example"
+      "text": "Define the control structures used in C. Explain the iteration control structures with syntax and examples."
     },
     {
+      "chapter": "Data Types",
       "section": "C",
-      "number": "4",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What are data types? Explain any five data types used in C language."
+      "text": "What are data types? Explain any five data types used in C."
     },
     {
+      "chapter": "Operators",
       "section": "C",
-      "number": "5",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define an operator in C language? Explain basic types of operators used in C- language."
+      "text": "Define an operator in C. Explain the basic types of operators used in C."
     },
     {
+      "chapter": "Input and Output",
       "section": "C",
-      "number": "6",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Explain different I/O functions in C with syntax and examples."
+      "text": "Explain different input/output functions in C with syntax and examples."
     },
     {
+      "chapter": "Functions",
       "section": "C",
-      "number": "7",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What is Function in C? Write its advantages and explain types of functions."
+      "text": "What is a function in C? Write its advantages and explain the types of functions."
     },
     {
+      "chapter": "Functions",
       "section": "B",
-      "number": "2. i)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is meaning of two void in any function declaration? i.e void ABC(void);"
+      "text": "What is the meaning of the two voids in the function declaration `void ABC(void);`?"
     },
     {
+      "chapter": "Program Translation",
       "section": "B",
-      "number": "2. ii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Differentiate between any one. a) Source Code and Object Code b) Variable and Local Variable"
+      "text": "Differentiate between any one of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Source code and object code"
+        },
+        {
+          "label": "(ii)",
+          "text": "Variable and local variable"
+        }
+      ]
     },
     {
+      "chapter": "Preprocessor",
       "section": "B",
-      "number": "2. iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What are pre- processor directives in C language? Name any two:"
+      "text": "What are preprocessor directives in C? Name any two."
     },
     {
+      "chapter": "Control Structures",
       "section": "B",
-      "number": "2. iv)",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Write a program to display the following output. 6 12 18 7 14 21 8 16 24"
+      "text": "Write a program to display the following output.\n```text\n6   12   18\n7   14   21\n8   16   24\n```"
     },
     {
+      "chapter": "Control Structures",
       "section": "B",
-      "number": "2. v)",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What will be the output of the C code. main() int a = 11; while(a<=20){ printf(\"%d\",a); a+=2;"
+      "text": "What will be the output of the following C code?\n```c\nmain()\n{\n    int a = 11;\n    while(a <= 20)\n    {\n        printf(\"%d\", a);\n        a += 2;\n    }\n}\n```"
     },
     {
+      "chapter": "C Basics",
       "section": "B",
-      "number": "2. vi)",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Convert the following, mathematical expression into C expression: a.Y=(x+y)-(a²+b²) b.c=√x+y+z c.p= (a²+b²"
+      "text": "Convert the following mathematical expressions into C expressions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$Y=(x+y)-(a^2+b^3)$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$c=\\sqrt{x+y+z}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$P=\\frac{a^2+b^2}{(a-b)^2}$"
+        }
+      ]
     },
     {
+      "chapter": "Input and Output",
       "section": "B",
-      "number": "2. vii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
       "text": "Define any two input and output functions in C."
     },
     {
+      "chapter": "Control Structures",
       "section": "B",
-      "number": "2. viii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Differentiate between n while loop and do while loop."
+      "text": "Differentiate between while loop and do-while loop."
     },
     {
+      "chapter": "Program Structure",
       "section": "B",
-      "number": "2. ix)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is the purpose of the main() function in any C program?"
+      "text": "What is the purpose of the `main()` function in a C program?"
     },
     {
+      "chapter": "Control Structures",
       "section": "B",
-      "number": "2. x)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is the function of \"break\" state- met in C?"
+      "text": "What is the function of the `break` statement in C?"
     },
     {
+      "chapter": "Database Concepts",
       "section": "B",
-      "number": "2. xi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
       "text": "What is a DBMS?"
     },
     {
+      "chapter": "Database Concepts",
       "section": "B",
-      "number": "2. xii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Define primary k; and foreign key"
+      "text": "Define primary key and foreign key."
     },
     {
+      "chapter": "Database Concepts",
       "section": "B",
-      "number": "2. xiii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Write the full form of any three of the following acronyms: *DML *DDL *SQL *IDE *RDBMS"
+      "text": "Write the full forms of any three of the following acronyms.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "DML"
+        },
+        {
+          "label": "(ii)",
+          "text": "DDL"
+        },
+        {
+          "label": "(iii)",
+          "text": "SQL"
+        },
+        {
+          "label": "(iv)",
+          "text": "IDE"
+        },
+        {
+          "label": "(v)",
+          "text": "RDBMS"
+        }
+      ]
     },
     {
+      "chapter": "Control Structures",
       "section": "B",
-      "number": "2. xiv)",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Write a program in C to check weather the entered number is even or odd:"
+      "text": "Write a C program to check whether an entered number is even or odd."
     },
     {
+      "chapter": "Database Concepts",
       "section": "B",
-      "number": "2. xv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is the role of DBA in DBMS?"
+      "text": "What is the role of a DBA in DBMS?"
     },
     {
+      "chapter": "Functions",
       "section": "C",
-      "number": "3",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is user-defined function? How is it differ from library function? Write any two with examples."
+      "text": "What is a user-defined function? How is it different from a library function? Write any two functions with examples."
     },
     {
+      "chapter": "Database Concepts",
       "section": "C",
-      "number": "4",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is relationship in database? Define three types of relationships in database with examples."
+      "text": "What is a relationship in a database? Define the three types of relationships in a database with examples."
     },
     {
+      "chapter": "Database Concepts",
       "section": "C",
-      "number": "5",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Explain various types of database models."
+      "text": "Explain the various types of database models."
     },
     {
+      "chapter": "Control Structures",
       "section": "C",
-      "number": "6",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "What is control structure? Explain selection control structure."
+      "text": "What is a control structure? Explain the selection control structure."
     },
     {
+      "chapter": "Data Types",
       "section": "C",
-      "number": "7",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Explain all the data types in C language."
+      "text": "Explain all the data types in C."
     },
     {
+      "chapter": "C Basics",
       "section": "B",
-      "number": "2. i)",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Why is C called a case-sensitive language? Give an example."
+    },
+    {
+      "chapter": "Preprocessor",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is a C preprocessor directive? Define `#define` or `#include`."
+    },
+    {
+      "chapter": "Library Functions",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define the following functions with examples.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "abs()"
+        },
+        {
+          "label": "(ii)",
+          "text": "pow()"
+        },
+        {
+          "label": "(iii)",
+          "text": "sqrt()"
+        }
+      ]
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Convert the following into C expressions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$A=\\pi r^2$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$y=\\frac{-b-\\sqrt{b^2-4ac}}{2a}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$a=\\frac{4}{3}\\pi r^3$"
+        }
+      ]
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write a program that takes a value from the user and determines its factorial."
+    },
+    {
+      "chapter": "Operators",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is an address operator? Give an example."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write a program that takes two numbers and prints the greater number."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write a program using a nested loop that prints the following pattern.\n```text\n+++++\n++++\n+++\n++\n+\n```"
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write the output of the following code.\n```c\nvoid main(void)\n{\n    int i, j;\n    for(i = 1; i <= 5; i++)\n    {\n        for(j = 1; j <= i; j++)\n            printf(\"%d\", 2);\n        printf(\"\\n\");\n    }\n}\n```"
+    },
+    {
+      "chapter": "Functions",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define two ways in which arguments can be passed to a function."
+    },
+    {
+      "chapter": "Variables",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Differentiate between internal/local and external/global variables."
+    },
+    {
+      "chapter": "File Handling",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define any three of the following functions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "fopen()"
+        },
+        {
+          "label": "(ii)",
+          "text": "fscanf()"
+        },
+        {
+          "label": "(iii)",
+          "text": "fprintf()"
+        }
+      ]
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is a database? Write its advantages."
+    },
+    {
+      "chapter": "MS Access",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What are the main objects in MS Access?"
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define database relationships. Write their uses."
+    },
+    {
+      "chapter": "Operators",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is an operator? Explain the basic types of operators in C."
+    },
+    {
+      "chapter": "Input and Output",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Explain unformatted input and output functions in C with syntax and examples."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Explain the switch statement with syntax and an example."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "What is a loop? Explain while and do-while loops with examples."
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Explain the database models with a diagram."
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Why is C language called 'case sensitive language?"
+      "text": "Why is C called a case-sensitive language?"
     },
     {
+      "chapter": "Control Structures",
       "section": "B",
-      "number": "2. ii)",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2022,
-      "text": "What will be the output of the following program segment? For(i = 1; i< 5; i++) if (i == 3) continue; else printf(\"%d\",i);"
+      "text": "What will be the output of the following program segment?\n```c\nfor(i = 1; i < 5; i++)\n    if(i == 3)\n        continue;\n    else\n        printf(\"%d\", i);\n```"
     },
     {
+      "chapter": "Functions",
       "section": "B",
-      "number": "2. iii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
       "text": "What is a function? What are the advantages of using a function?"
     },
     {
+      "chapter": "Database Concepts",
       "section": "B",
-      "number": "2. iv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Define any one of the following: a) DBMS Data dictionary"
+      "text": "Define any one of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "DBMS"
+        },
+        {
+          "label": "(ii)",
+          "text": "Data dictionary"
+        }
+      ]
     },
     {
+      "chapter": "Control Structures",
       "section": "B",
-      "number": "2. v)",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Write a program that generates the following output: (use any loop) 2 3 4 5 10"
+      "text": "Write a program using any loop that generates the following output.\n```text\n2   4\n3   6\n4   8\n5   10\n```"
     },
     {
+      "chapter": "Control Structures",
       "section": "B",
-      "number": "2. vi)",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Write a program that prints the factorial of given number."
+      "text": "Write a program that prints the factorial of a given number."
     },
     {
+      "chapter": "C Basics",
       "section": "B",
-      "number": "2. vii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "What is reserved word or keywords in C language? Define only three."
+      "text": "What is a reserved word or keyword in C? Define any three."
     },
     {
+      "chapter": "C Basics",
       "section": "B",
-      "number": "2. viii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "What an Escape squaws? Write the purpose of any three."
+      "text": "What are escape sequences? Write the purpose of any three."
     },
     {
+      "chapter": "MS Access",
       "section": "B",
-      "number": "2. ix)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Define a) Table b) Query"
+      "text": "Define the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Table"
+        },
+        {
+          "label": "(ii)",
+          "text": "Query"
+        }
+      ]
     },
     {
+      "chapter": "Database Concepts",
       "section": "B",
-      "number": "2. x)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
       "text": "What is data redundancy?"
     },
     {
+      "chapter": "Operators",
       "section": "B",
-      "number": "2. xi)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Define increment operator and decrement operator. Give example of each operator."
+      "text": "Define increment and decrement operators. Give an example of each."
     },
     {
+      "chapter": "Database Concepts",
       "section": "B",
-      "number": "2. xii)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
       "text": "What is the difference between a primary key and a secondary key?"
     },
     {
+      "chapter": "C Basics",
       "section": "B",
-      "number": "2. xiii)",
+      "type": "numerical",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Write equivalent C statement: a) $x = \\frac{e^{-x}}{2x}$ b) $(x + y)^{x}$ $b = \\sqrt{x + y + z^{2}}$"
+      "text": "Write equivalent C statements.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$x=\\frac{-b^2c}{2bc}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$(x+y)^n$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$b=\\sqrt{x+y+z^2}$"
+        }
+      ]
     },
     {
+      "chapter": "Input and Output",
       "section": "B",
-      "number": "2. xiv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Define scanf() with its syntax"
+      "text": "Define `scanf()` with its syntax."
     },
     {
+      "chapter": "Functions",
       "section": "B",
-      "number": "2. xv)",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Differentiate between Actual Parameter and Formal Parameters."
+      "text": "Differentiate between actual parameters and formal parameters."
     },
     {
+      "chapter": "Operators",
       "section": "C",
-      "number": "3",
+      "type": "long",
+      "source": "past_paper",
       "year": 2022,
       "text": "Explain arithmetic, relational and logical operators used in C."
     },
     {
+      "chapter": "Control Structures",
       "section": "C",
-      "number": "4",
+      "type": "long",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Define switch statement. Also write an example program of switch statement."
+      "text": "Define the switch statement. Also write an example program using switch."
     },
     {
+      "chapter": "Database Concepts",
       "section": "C",
-      "number": "5",
+      "type": "long",
+      "source": "past_paper",
       "year": 2022,
       "text": "Explain different types of database models."
     },
     {
+      "chapter": "Programming Environment",
       "section": "B",
-      "number": "2. i)",
-      "year": 2021,
-      "text": "What is IDE? Write few shortcut keys and their functions in IDE."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2020,
+      "text": "What is an IDE? Write a few shortcut keys and their functions in an IDE."
     },
     {
+      "chapter": "Control Structures",
       "section": "B",
-      "number": "2. ii)",
-      "year": 2021,
-      "text": "Write a program to print the factorial of an inputted number."
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2020,
+      "text": "Write a program to print the factorial of an input number."
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2020,
+      "text": "What is meant by an escape sequence? Define any four with examples."
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2020,
+      "text": "Convert any two of the following mathematical expressions into equivalent C expressions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$B=(x+y)^2-(a^2+b^2)$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$p=\\frac{a^2-b^2}{a-b^2}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$y=(a+b)^n$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$X=\\sqrt{b+a^2}$"
+        }
+      ]
+    },
+    {
+      "chapter": "Program Translation",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2020,
+      "text": "What is the main difference between source code and object code?"
+    },
+    {
+      "chapter": "Operators",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2020,
+      "text": "Define logical operators with examples."
+    },
+    {
+      "chapter": "Library Functions",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2020,
+      "text": "What are library functions? Name any four."
+    },
+    {
+      "chapter": "Variables",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2020,
+      "text": "What are local and global variables? Give examples."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2020,
+      "text": "Using a nested loop, write a program to print the following output.\n```text\n2   4   6   8   10\n3   6   9   12  15\n4   8   12  16  20\n5   10  15  20  25\n```"
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2020,
+      "text": "Write a program to calculate the area of a rectangle. Hint: $A=w\\times h$."
+    },
+    {
+      "chapter": "Data Types",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2020,
+      "text": "Explain all data types in C."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2020,
+      "text": "How many types of decision structures are there in C? Define them with examples."
+    },
+    {
+      "chapter": "Functions",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2020,
+      "text": "What is a function? What are the advantages of using a function?"
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2020,
+      "text": "Define the switch and break statements with examples."
+    },
+    {
+      "chapter": "Program Errors",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is a programming error? Define syntax error."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Write a C program to show the table of an input number."
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Write C-program equivalent statements for any three of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$A=(x^2+y^3)-(x-y)$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$B=y^2-2xy+z^2$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$C=\\frac{-y+\\sqrt{y^2-4x}}{2x}$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$D=x^2+y^3+z^3-3xyz$"
+        }
+      ]
+    },
+    {
+      "chapter": "Program Structure",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Write the basic structure of the C programming language."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Differentiate between while loop and do-while loop."
+    },
+    {
+      "chapter": "Operators",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Define relational operators used in C."
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is an escape sequence? Define any two."
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Write the full forms of the following.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "DML"
+        },
+        {
+          "label": "(ii)",
+          "text": "RDBMS"
+        },
+        {
+          "label": "(iii)",
+          "text": "DBA"
+        }
+      ]
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is the difference between a primary key and a foreign key?"
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Can reserved words in C be chosen as variable names? Justify your answer."
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Write any three advantages of DBMS."
+    },
+    {
+      "chapter": "Functions",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Write a function that receives two integers and returns the maximum of the two."
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is the role of DBA in DBMS?"
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What will be the output of the following program statements?\n```c\nfor(int x = 1; x <= 5; x++)\n{\n    for(int y = 1; y <= x; y++)\n        printf(\"%d\", y);\n    printf(\"\\n\");\n}\n```"
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Identify the following as valid or invalid variable names.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "number"
+        },
+        {
+          "label": "(ii)",
+          "text": "you & me"
+        },
+        {
+          "label": "(iii)",
+          "text": "Case"
+        }
+      ]
+    },
+    {
+      "chapter": "Program Errors",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Rewrite the following statements correctly.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "`if (a=b) then printf(\"Karachi\");`"
+        },
+        {
+          "label": "(ii)",
+          "text": "`for (int i-1, i<10, i++) printf(\"%d\\n\", i);`"
+        },
+        {
+          "label": "(iii)",
+          "text": "`integer i=5; i++;`"
+        }
+      ]
+    },
+    {
+      "chapter": "MS Access",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Write the steps to create a table in MS Access."
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Define any three reserved words in C."
+    },
+    {
+      "chapter": "Data Types",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Explain all data types in C."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Define a nested for loop with an example."
+    },
+    {
+      "chapter": "MS Access",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Define any four objects of MS Access."
+    },
+    {
+      "chapter": "Input and Output",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What are the input/output statements in C? Define any three with examples."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Define the else-if statement. How is it different from the switch statement?"
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "Write the names of various types of database models. Explain any two."
+    },
+    {
+      "chapter": "Functions",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is a function in C? In how many ways can it be used?"
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is a control structure in C? Define the iteration control structure and give an example."
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2019,
+      "text": "What is a relationship in a database? Define all three types of database relationships and give examples."
+    },
+    {
+      "chapter": "Operators",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "If x = 1, what is the output of the following program segment?\n```c\nprintf(\"x=%d\\n\", x);\nprintf(\"x=%d\\n\", ++x);\nprintf(\"x=%d\\n\", x);\n```"
+    },
+    {
+      "chapter": "Program Translation",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What is the difference between a source program and an object program?"
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Determine which of the following are valid or invalid identifiers.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Array1"
+        },
+        {
+          "label": "(ii)",
+          "text": "Star"
+        },
+        {
+          "label": "(iii)",
+          "text": "name and address"
+        }
+      ]
+    },
+    {
+      "chapter": "Operators",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What is the difference between arithmetic and arithmetic assignment operators?"
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What is the difference between DBMS and RDBMS?"
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Write the full forms of DCL, IDE and DBMS."
+    },
+    {
+      "chapter": "MS Access",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Write the names of objects in MS Access."
+    },
+    {
+      "chapter": "Library Functions",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Define the following functions.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "pow()"
+        },
+        {
+          "label": "(ii)",
+          "text": "sqrt()"
+        },
+        {
+          "label": "(iii)",
+          "text": "abs()"
+        }
+      ]
+    },
+    {
+      "chapter": "Input and Output",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Write the `printf()` statements for the following declarations.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "`int a=4562;`"
+        },
+        {
+          "label": "(ii)",
+          "text": "`float c=15.27;`"
+        },
+        {
+          "label": "(iii)",
+          "text": "`char t[]=\"intermediate class\";`"
+        }
+      ]
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Write the following do-while loop in equivalent while-loop form.\n```c\nvoid main(void)\n{\n    int a = 3;\n    do\n    {\n        printf(\"%d\\n\", a);\n        a = a + 3;\n    } while(a != 10);\n}\n```"
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Define the relational database model."
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Convert the following algebraic expressions to C-equivalent format.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$x=\\frac{1}{2}ab^2$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$x=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$y=|b^2-4ac|$"
+        }
+      ]
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Write a C program to calculate the powers of numbers from 1 to 5."
+    },
+    {
+      "chapter": "Functions",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What is the meaning of the two voids used in the function declaration `void main(void)`?"
+    },
+    {
+      "chapter": "Program Errors",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What is wrong with the following C program?\n```c\nvoid main(void)\n{\n    Printf Hoo what a wonderful short\n}\n```"
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Write a program that prints the factorial of any input number."
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What is a composite key? Where do we use it?"
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "How can we define a one-to-one relationship in a database?"
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Define the switch and break statements with examples."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Write the general syntax of for and while loops."
+    },
+    {
+      "chapter": "MS Access",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Explain why we use Table, Form and Report in MS Access."
+    },
+    {
+      "chapter": "Operators",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "What are the different types of operators used in C? Define any two types."
+    },
+    {
+      "chapter": "File Handling",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Define the different basic opening modes used to open a data file in C."
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Why is a DBMS necessary for a large organization?"
+    },
+    {
+      "chapter": "Functions",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Define a function. What are the main characteristics of a function?"
+    },
+    {
+      "chapter": "Input and Output",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Define the different format specifiers used in formatted functions."
+    },
+    {
+      "chapter": "MS Access",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2018,
+      "text": "Define the data types in MS Access."
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is a foreign key? Where do we use it?"
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is the main difference between while and do-while loops?"
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "In which condition is a one-to-many relationship used?"
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is the output of the following program statements?\n```c\nfor(int a = 1; a < 5; a++)\n{\n    int a = 3;\n    do\n    {\n        printf(\"%d\\n\", a);\n        a = a + 3;\n    } while(a != 10);\n}\n```"
+    },
+    {
+      "chapter": "Functions",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What do you mean by function prototype?"
+    },
+    {
+      "chapter": "Operators",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is operator precedence? Write the precedence of arithmetic operators."
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Write a program that swaps two input numbers."
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Write the full forms of SQL, DML and DDL."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "How does the else-if ladder differ from the switch statement?"
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is a data dictionary in DBMS?"
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What will be the output of the following program?\n```c\nvoid main()\n{\n    int n = 5;\n    if(n < 6)\n        printf(\"hello\");\n    if(n == 5)\n        printf(\"hi\");\n    else\n        printf(\"no\");\n}\n```"
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Write the equivalent code of the following statement in while-loop form.\n```c\nfor(a = 1; a <= 100; a++)\n    printf(\"%d\\n\", a);\n```"
+    },
+    {
+      "chapter": "Operators",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define an increment or decrement statement in C."
+    },
+    {
+      "chapter": "File Handling",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define the following file-opening modes in C.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "r"
+        },
+        {
+          "label": "(ii)",
+          "text": "w"
+        },
+        {
+          "label": "(iii)",
+          "text": "a"
+        }
+      ]
+    },
+    {
+      "chapter": "Program Errors",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Debug the following program.\n```c\n(\nprintf(\"I am a good programmer\");\n)\n```"
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Write a program to calculate the area of a rectangle. Hint: $A=w\\times h$."
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What do you mean by reserved words in C?"
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Write equivalent C statements.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$x=\\frac{b^2+c^2}{2bc}$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$b=\\sqrt{x+y+z^3}$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$z=\\frac{4}{3}\\pi r^3$, where $\\pi=3.14$"
+        }
+      ]
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is meant by control structure? Discuss the selection control structure."
+    },
+    {
+      "chapter": "MS Access",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define database. Define the major data types used in MS Access."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is the purpose of break and continue statements?"
+    },
+    {
+      "chapter": "Data Types",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define the data types of C."
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define the network model. Where is it used?"
+    },
+    {
+      "chapter": "Input and Output",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define formatted and unformatted input/output functions."
+    },
+    {
+      "chapter": "MS Access",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define any four objects of DBMS."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "Define a for loop with an example."
+    },
+    {
+      "chapter": "Functions",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2017,
+      "text": "What is a function? Define its importance in C."
+    },
+    {
+      "chapter": "Input and Output",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define each format specifier with an example.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "%c"
+        },
+        {
+          "label": "(ii)",
+          "text": "%d"
+        },
+        {
+          "label": "(iii)",
+          "text": "%f"
+        },
+        {
+          "label": "(iv)",
+          "text": "%s"
+        },
+        {
+          "label": "(v)",
+          "text": "%lf"
+        },
+        {
+          "label": "(vi)",
+          "text": "%ld"
+        }
+      ]
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Determine any six valid or invalid identifiers; in case of an invalid identifier, give the reason.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Include"
+        },
+        {
+          "label": "(ii)",
+          "text": "\\$twenty"
+        },
+        {
+          "label": "(iii)",
+          "text": "5-numbers"
+        },
+        {
+          "label": "(iv)",
+          "text": "yls"
+        },
+        {
+          "label": "(v)",
+          "text": "integer"
+        },
+        {
+          "label": "(vi)",
+          "text": "f_name"
+        },
+        {
+          "label": "(vii)",
+          "text": "Gfetch"
+        },
+        {
+          "label": "(viii)",
+          "text": "smallest"
+        }
+      ]
+    },
+    {
+      "chapter": "Algorithms and Flowcharts",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Draw a flowchart that prints the table of any input number."
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "What is meant by a case-sensitive language? Write the structure of a C program."
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Write a C program using a do-while loop to print the numbers from 4 to 9 and their squares."
+    },
+    {
+      "chapter": "C Basics",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Convert the following mathematical expressions into equivalent C statements.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$A=\\pi r^2$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$x=3ab^3+3a^2b$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$d=|b^2-4ac|$"
+        },
+        {
+          "label": "(iv)",
+          "text": "$X=(a^2-b^3)^n$"
+        },
+        {
+          "label": "(v)",
+          "text": "$l=\\frac{1}{2}bb$"
+        },
+        {
+          "label": "(vi)",
+          "text": "$y=a^2+b^3+c^4$"
+        }
+      ]
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "B",
+      "type": "numerical",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Write the output of the following C-program statement.\n```c\nfor(int i = 2; i < 10; i++)\n{\n    printf(\"%d\", i);\n    if(i % 2 == 0)\n        continue;\n    printf(\"\\n\");\n}\n```"
+    },
+    {
+      "chapter": "Algorithms and Flowcharts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "What is an algorithm? Define different algorithm notations."
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "What are the responsibilities of a DBA?"
+    },
+    {
+      "chapter": "Control Structures",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "What is a loop? Explain a nested for loop with an example."
+    },
+    {
+      "chapter": "Preprocessor",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "What is a preprocessor directive? Explain any two preprocessor directives in C with examples."
+    },
+    {
+      "chapter": "File Handling",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define files. Describe any two types of data files used in a C program."
+    },
+    {
+      "chapter": "Operators",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Define operators. Explain different types of operators in C."
+    },
+    {
+      "chapter": "MS Access",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "Explain the objects of MS Access."
+    },
+    {
+      "chapter": "Database Concepts",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2016,
+      "text": "What is a database? What are the advantages of a relational database management system (RDBMS)?"
     }
   ]
 }

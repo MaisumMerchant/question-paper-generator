@@ -3,688 +3,958 @@
   "class": "IX",
   "questions": [
     {
+      "chapter": "Introduction to Biology",
       "section": "B",
-      "number": "2",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
       "text": "Name and define the basic divisions of Biology."
     },
     {
+      "chapter": "Introduction to Biology",
       "section": "B",
-      "number": "2",
-      "year": 2025,
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
       "text": "Define the following:",
       "parts": [
         {
-          "label": "(i)",
+          "label": "i",
           "text": "Parasitology"
         },
         {
-          "label": "(ii)",
-          "text": "Biotechnology"
+          "label": "ii",
+          "text": "Environmental Biology"
         },
         {
-          "label": "(iii)",
+          "label": "iii",
           "text": "Biotechnology"
         }
       ]
     },
     {
+      "chapter": "Introduction to Biology",
       "section": "B",
-      "number": "9",
-      "year": 2025,
-      "text": "Draw a neat and labelled diagram of \"Amoeba\"."
-    },
-    {
-      "section": "B",
-      "number": "13",
-      "year": 2025,
-      "text": "\"Careers in Biology\". Describe any three fields of it."
-    },
-    {
-      "section": "B",
-      "number": "2",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Write the contribution of any three Muslims scientist in the field of Biology."
+      "text": "Draw a neat and labelled diagram of Amoeba."
     },
     {
+      "chapter": "Introduction to Biology",
       "section": "B",
-      "number": "9",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
+      "text": "“Careers in Biology.” Describe any three fields of it."
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write the contribution of any three Muslim scientists in the field of Biology."
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
       "text": "Write the translation of any two Quranic Ayah about plants and animals."
     },
     {
+      "chapter": "Introduction to Biology",
       "section": "B",
-      "number": "2",
-      "year": 2023,
-      "text": "Define: Paleontology, Environmental biology, Genetics."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define the following:",
+      "parts": [
+        {
+          "label": "i",
+          "text": "Paleontology"
+        },
+        {
+          "label": "ii",
+          "text": "Environmental biology"
+        },
+        {
+          "label": "iii",
+          "text": "Genetics"
+        }
+      ]
     },
     {
+      "chapter": "Introduction to Biology",
       "section": "B",
-      "number": "5",
-      "year": 2023,
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
       "text": "Describe the relationship of Biology with any three branches of science."
     },
     {
+      "chapter": "Introduction to Biology",
       "section": "B",
-      "number": "7",
-      "year": 2022,
-      "text": "Define Pharmacology, Cell Biology and taxonomy."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Define the following:",
+      "parts": [
+        {
+          "label": "i",
+          "text": "Pharmacology"
+        },
+        {
+          "label": "ii",
+          "text": "Cell Biology"
+        },
+        {
+          "label": "iii",
+          "text": "Taxonomy"
+        }
+      ]
     },
     {
+      "chapter": "Introduction to Biology",
       "section": "B",
-      "number": "9",
-      "year": 2022,
-      "text": "Make a flow chart, showing different levels of organization living things."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
+      "text": "Make a flow chart showing different levels of organization in living things."
     },
     {
+      "chapter": "Solving a Biological Problem",
       "section": "B",
-      "number": "5",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Explain the term Hypothesis with the help of an example."
+      "text": "Explain the term hypothesis with the help of an example."
     },
     {
+      "chapter": "Solving a Biological Problem",
       "section": "B",
-      "number": "13",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "(OR) Write three differences between Theory and Law."
+      "text": "Write three differences between theory and law."
     },
     {
+      "chapter": "Solving a Biological Problem",
       "section": "B",
-      "number": "3",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
       "text": "Explain the biological method with the help of a flowchart."
     },
     {
+      "chapter": "Biodiversity",
       "section": "B",
-      "number": "3",
-      "year": 0,
-      "text": "What is meant by Homologous and Analogous? Explain with examples."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "What is meant by homologous and analogous? Explain with examples."
     },
     {
+      "chapter": "Biodiversity",
       "section": "B",
-      "number": "4",
-      "year": 0,
-      "text": "Write Biological names of the following:",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Write biological names of the following:",
       "parts": [
         {
-          "label": "(i)",
+          "label": "i",
           "text": "Onion plant"
         },
         {
-          "label": "(ii)",
+          "label": "ii",
           "text": "Mango plant"
         },
         {
-          "label": "(iii)",
-          "text": "Neem Plant"
+          "label": "iii",
+          "text": "Neem plant"
         },
         {
-          "label": "(iv)",
+          "label": "iv",
           "text": "Frog"
         },
         {
-          "label": "(v)",
+          "label": "v",
           "text": "Cat"
         },
         {
-          "label": "(vi)",
+          "label": "vi",
           "text": "House fly"
         }
       ]
     },
     {
+      "chapter": "Biodiversity",
       "section": "B",
-      "number": "6",
-      "year": 0,
-      "text": "Define Conservation of Biodiversity."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Define conservation of biodiversity."
     },
     {
+      "chapter": "Biodiversity",
       "section": "B",
-      "number": "4",
-      "year": 0,
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
       "text": "Describe any three principles of classification."
     },
     {
+      "chapter": "Biodiversity",
       "section": "B",
-      "number": "10",
-      "year": 0,
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
       "text": "Describe any three causes of deforestation."
     },
     {
+      "chapter": "Biodiversity",
       "section": "B",
-      "number": "12",
-      "year": 0,
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
       "text": "Write down any three characteristics of kingdom Fungi."
     },
     {
+      "chapter": "Biodiversity",
       "section": "B",
-      "number": "5",
-      "year": 0,
-      "text": "Define Biodiversity and its importance."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define biodiversity and its importance."
     },
     {
+      "chapter": "Biodiversity",
       "section": "B",
-      "number": "4",
-      "year": 0,
-      "text": "Define classification. Names units of it and explain any one."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define classification. Name its units and explain any one."
     },
     {
+      "chapter": "Biodiversity",
       "section": "B",
-      "number": "6",
-      "year": 0,
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
       "text": "Write three characteristics of members of Kingdom Monera (Prokaryotae)."
     },
     {
+      "chapter": "Biodiversity",
       "section": "C",
-      "number": "16",
-      "year": 0,
-      "text": "Describe five kingdom classification."
+      "type": "long",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Describe five-kingdom classification."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "7",
-      "year": 0,
-      "text": "Draw a neat and labelled diagram of Animal or plant cell."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Draw a neat and labelled diagram of an animal or plant cell."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "7",
-      "year": 0,
-      "text": "(OR) Draw a neat and labelled diagram of Cardiac muscles."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Draw a neat and labelled diagram of cardiac muscles."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "8",
-      "year": 0,
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
       "text": "Define the following terms:",
       "parts": [
         {
-          "label": "(i)",
+          "label": "i",
           "text": "Diffusion"
         },
         {
-          "label": "(ii)",
+          "label": "ii",
           "text": "Osmosis"
         },
         {
-          "label": "(iii)",
+          "label": "iii",
           "text": "Facilitated diffusion"
         }
       ]
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "13",
-      "year": 0,
-      "text": "Write a note on Light microscope."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2025,
+      "text": "Write a note on light microscope."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "5",
-      "year": 0,
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
       "text": "Write any three differences between light microscope and electron microscope."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "11",
-      "year": 0,
-      "text": "Write down any one function each of the following:",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Write down any one function of each of the following:",
       "parts": [
         {
-          "label": "(i)",
+          "label": "i",
           "text": "Mitochondria"
         },
         {
-          "label": "(ii)",
-          "text": "Golgi Bodies"
+          "label": "ii",
+          "text": "Golgi bodies"
         },
         {
-          "label": "(iii)",
+          "label": "iii",
           "text": "Plastids"
         }
       ]
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "3",
-      "year": 0,
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
       "text": "Write three fundamental postulates of cell theory."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "4",
-      "year": 0,
-      "text": "Draw neat and labeled diagram of smooth Muscles."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Draw a neat and labelled diagram of smooth muscles."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "7",
-      "year": 0,
-      "text": "Define plastids and write its types."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Define plastids and write their types."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "13",
-      "year": 0,
-      "text": "Write note on Mitochondria."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Write a note on mitochondria."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "3",
-      "year": 0,
-      "text": "Draw a neat and labelled diagram of Animal cell."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Draw a neat and labelled diagram of an animal cell."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "6",
-      "year": 0,
-      "text": "Define plastids and write two types of it."
+      "type": "short",
+      "source": "past_paper",
+      "year": 2022,
+      "text": "Define plastids and write two types of them."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "7",
-      "year": 0,
+      "type": "short",
+      "source": "past_paper",
+      "year": 2021,
       "text": "Write three differences between prokaryotic cell and eukaryotic cell."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "2",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
-      "text": "Define: Diffusion, Osmosis and Endocytosis"
+      "text": "Define the following:",
+      "parts": [
+        {
+          "label": "i",
+          "text": "Diffusion"
+        },
+        {
+          "label": "ii",
+          "text": "Osmosis"
+        },
+        {
+          "label": "iii",
+          "text": "Endocytosis"
+        }
+      ]
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "4",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
       "text": "Draw a neat and labelled diagram of mitochondria."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "5",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
       "text": "Name different types of animal tissues and describe any one."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "B",
-      "number": "10",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
       "text": "Write any three fundamental postulates of cell theory."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "C",
-      "number": "14",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
       "text": "What are plant tissues? Write their types and define any two."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "C",
-      "number": "15",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Draw neat and labelled diagram of Mitochondria."
+      "text": "Draw a neat and labelled diagram of mitochondria."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "C",
-      "number": "18",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What is tissue? Point out plant tissues with the help of flow chart."
+      "text": "What is tissue? Point out plant tissues with the help of a flow chart."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "C",
-      "number": "16",
+      "type": "long",
+      "source": "past_paper",
       "year": 2022,
-      "text": "---OR---Define tissue. Explain muscle tissue and its types in detail."
+      "text": "Define tissue. Explain muscle tissue and its types in detail."
     },
     {
+      "chapter": "Cells and Tissues",
       "section": "C",
-      "number": "11",
+      "type": "long",
+      "source": "past_paper",
       "year": 2021,
-      "text": "What are tissues? Name different types of plant tissues. Describe simple permanent tissues in detail. (Diagram is not necessary)"
+      "text": "What are tissues? Name different types of plant tissues. Describe simple permanent tissues in detail. (Diagram is not necessary.)"
     },
     {
+      "chapter": "Cell Cycle",
       "section": "B",
-      "number": "9",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
       "text": "Define two basic ways of cell death in multicellular organisms."
     },
     {
+      "chapter": "Cell Cycle",
       "section": "B",
-      "number": "6",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
       "text": "Write different types of chromosomes with their diagrams."
     },
     {
+      "chapter": "Cell Cycle",
       "section": "B",
-      "number": "7",
-      "year": 2023,
-      "text": "Define mitosis"
+      "type": "short",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define mitosis."
     },
     {
+      "chapter": "Cell Cycle",
       "section": "B",
-      "number": "11",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Why is Meiosis called reduction division?"
+      "text": "Why is meiosis called reduction division?"
     },
     {
+      "chapter": "Cell Cycle",
       "section": "B",
-      "number": "8",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Define chromosome. Name the types of it."
+      "text": "Define chromosome. Name its types."
     },
     {
+      "chapter": "Cell Cycle",
       "section": "B",
-      "number": "3",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
-      "text": "What is mitosis? Name four stages of it and define anyone."
+      "text": "What is mitosis? Name four stages of it and define any one."
     },
     {
+      "chapter": "Cell Cycle",
       "section": "C",
-      "number": "16",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define Mitosis, write its different stages, explain any two of them."
+      "text": "Define mitosis, write its different stages, and explain any two of them."
     },
     {
+      "chapter": "Cell Cycle",
       "section": "C",
-      "number": "16",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "(OR) Define Meiosis, Explain prophase and draw labelled diagram of it."
+      "text": "Define meiosis. Explain prophase and draw a labelled diagram of it."
     },
     {
+      "chapter": "Cell Cycle",
       "section": "C",
-      "number": "19",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Define mitosis. Name and define different stages of it with diagram of each."
+      "text": "Define mitosis. Name and define different stages of it with a diagram of each."
     },
     {
+      "chapter": "Enzymes",
       "section": "B",
-      "number": "9",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
       "text": "Define enzyme. Write any two uses of enzymes."
     },
     {
+      "chapter": "Enzymes",
       "section": "C",
-      "number": "18",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
       "text": "Define enzyme. Write any four characteristics of it."
     },
     {
+      "chapter": "Bioenergetics",
       "section": "B",
-      "number": "10",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What is photosynthesis? Explain it with chemical equation."
+      "text": "What is photosynthesis? Explain it with a chemical equation."
     },
     {
+      "chapter": "Bioenergetics",
       "section": "B",
-      "number": "10",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Write three differences between light reaction and dark reaction"
+      "text": "Write three differences between light reaction and dark reaction."
     },
     {
+      "chapter": "Bioenergetics",
       "section": "B",
-      "number": "8",
+      "type": "short",
+      "source": "past_paper",
       "year": 2021,
-      "text": "What is Photosynthesis? Define light dependent reaction (light reaction) and light independent reaction (dark reactions)."
+      "text": "What is photosynthesis? Define light-dependent reaction (light reaction) and light-independent reaction (dark reactions)."
     },
     {
+      "chapter": "Bioenergetics",
       "section": "C",
-      "number": "18",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Write any six differences between Respiration and Photosynthesis in plants."
+      "text": "Write any six differences between respiration and photosynthesis in plants."
     },
     {
+      "chapter": "Bioenergetics",
       "section": "C",
-      "number": "19",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
       "text": "Write any six differences between respiration and photosynthesis in plants."
     },
     {
+      "chapter": "Bioenergetics",
       "section": "C",
-      "number": "15",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Define Respiration. Write aerobic and anaerobic respiration with chemical equations."
+      "text": "Define respiration. Write aerobic and anaerobic respiration with chemical equations."
     },
     {
+      "chapter": "Bioenergetics",
       "section": "C",
-      "number": "16",
+      "type": "long",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Define respiration. Describe the usage of respiration energy in the body of organism."
+      "text": "Define respiration. Describe the usage of respiration energy in the body of an organism."
     },
     {
+      "chapter": "Bioenergetics",
       "section": "C",
-      "number": "14",
+      "type": "long",
+      "source": "past_paper",
       "year": 2021,
-      "text": "Define respiration and explain anaerobic respiration and aerobic respiration. Also write chemical equation for each."
+      "text": "Define respiration and explain anaerobic respiration and aerobic respiration. Also write a chemical equation for each."
     },
     {
+      "chapter": "Nutrition",
       "section": "B",
-      "number": "12",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What disease are caused due to the deficiency of the following Vitamins:",
+      "text": "What diseases are caused due to the deficiency of the following vitamins?",
       "parts": [
         {
-          "label": "(i)",
+          "label": "i",
           "text": "Vitamin K"
         },
         {
-          "label": "(ii)",
+          "label": "ii",
           "text": "Vitamin D"
         },
         {
-          "label": "(iii)",
+          "label": "iii",
           "text": "Vitamin A"
         }
       ]
     },
     {
+      "chapter": "Nutrition",
       "section": "B",
-      "number": "8",
+      "type": "short",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Write any three effects of malnutrition on human."
+      "text": "Write any three effects of malnutrition on humans."
     },
     {
+      "chapter": "Nutrition",
       "section": "B",
-      "number": "12",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
       "text": "Define the following terms:",
       "parts": [
         {
-          "label": "(i)",
+          "label": "i",
           "text": "Vitamins"
         },
         {
-          "label": "(ii)",
+          "label": "ii",
           "text": "Ulcer"
         },
         {
-          "label": "(iii)",
+          "label": "iii",
           "text": "Anemia"
         }
       ]
     },
     {
+      "chapter": "Nutrition",
       "section": "B",
-      "number": "11",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
       "text": "Define heterotrophic nutrition and explain its types."
     },
     {
+      "chapter": "Nutrition",
       "section": "B",
-      "number": "12",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
       "text": "Define vitamin and explain its two types."
     },
     {
+      "chapter": "Nutrition",
       "section": "B",
-      "number": "13",
+      "type": "short",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Write any three effects of malnutrition on human."
+      "text": "Write any three effects of malnutrition on humans."
     },
     {
+      "chapter": "Nutrition",
       "section": "C",
-      "number": "17",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Write down two function of each of the following:",
+      "text": "Write down two functions of each of the following:",
       "parts": [
         {
-          "label": "(i)",
+          "label": "i",
           "text": "Oral cavity"
         },
         {
-          "label": "(ii)",
+          "label": "ii",
           "text": "Stomach"
         },
         {
-          "label": "(iii)",
+          "label": "iii",
           "text": "Liver"
         }
       ]
     },
     {
+      "chapter": "Nutrition",
       "section": "C",
-      "number": "14",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Draw a neat and labelled diagram of Human Alimentary canal"
+      "text": "Draw a neat and labelled diagram of the human alimentary canal."
     },
     {
+      "chapter": "Nutrition",
       "section": "C",
-      "number": "17",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
       "text": "What are the major components of human food? Describe any two components."
     },
     {
+      "chapter": "Nutrition",
       "section": "C",
-      "number": "14",
+      "type": "long",
+      "source": "past_paper",
       "year": 2022,
-      "text": "Draw a neat anti labelled diagram of human alimentary canal."
+      "text": "Draw a neat and labelled diagram of the human alimentary canal."
     },
     {
+      "chapter": "Nutrition",
       "section": "C",
-      "number": "12",
-      "year": 2022,
+      "type": "long",
+      "source": "past_paper",
+      "year": 2021,
       "text": "Define autotrophic nutrition and heterotrophic nutrition. Explain different methods of heterotrophic nutrition in plants."
     },
     {
+      "chapter": "Nutrition",
       "section": "C",
-      "number": "13",
+      "type": "long",
+      "source": "past_paper",
       "year": 2021,
-      "text": "Draw a neat and labelled diagram of Digestive System of man (Human alimentary Canal)"
+      "text": "Draw a neat and labelled diagram of the digestive system of man (human alimentary canal)."
     },
     {
+      "chapter": "Transport",
       "section": "B",
-      "number": "10",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Define Pulmonary circuit and Systematic circuit."
+      "text": "Define pulmonary circuit and systemic circuit."
     },
     {
+      "chapter": "Transport",
       "section": "B",
-      "number": "11",
+      "type": "short",
+      "source": "past_paper",
       "year": 2025,
-      "text": "What is the role of root in transportation of water and minerals."
+      "text": "What is the role of root in transportation of water and minerals?"
     },
     {
+      "chapter": "Transport",
       "section": "B",
-      "number": "8",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Define:",
+      "text": "Define the following:",
       "parts": [
         {
-          "label": "(i)",
+          "label": "i",
           "text": "Arteries"
         },
         {
-          "label": "(ii)",
+          "label": "ii",
           "text": "Veins"
         },
         {
-          "label": "(iii)",
+          "label": "iii",
           "text": "Capillaries"
         }
       ]
     },
     {
+      "chapter": "Transport",
       "section": "C",
-      "number": "19",
+      "type": "long",
+      "source": "past_paper",
       "year": 2025,
-      "text": "Explain Arteries, Veins and Capillaries."
+      "text": "Explain arteries, veins and capillaries."
     },
     {
+      "chapter": "Transport",
       "section": "C",
-      "number": "14",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "---OR--- Draw a neat and labelled diagram of internal structure of Human Heart."
+      "text": "Draw a neat and labelled diagram of the internal structure of the human heart."
     },
     {
+      "chapter": "Transport",
       "section": "C",
-      "number": "15",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Write the name of two blood diseases. Describe their symptoms and causes."
+      "text": "Write the names of two blood diseases. Describe their symptoms and causes."
     },
     {
+      "chapter": "Transport",
       "section": "C",
-      "number": "14",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Draw a neat and labeled diagram of Internal structure of Human Heart."
+      "text": "Draw a neat and labelled diagram of the internal structure of the human heart."
     },
     {
+      "chapter": "Transport",
       "section": "C",
-      "number": "17",
+      "type": "long",
+      "source": "past_paper",
       "year": 2023,
-      "text": "What is blood? Explain main components of blood with diagram"
+      "text": "What is blood? Explain the main components of blood with a diagram."
     },
     {
+      "chapter": "Transport",
       "section": "C",
-      "number": "15",
+      "type": "long",
+      "source": "past_paper",
       "year": 2022,
       "text": "Define transpiration and explain factors which affect its rate."
     },
     {
+      "chapter": "Transport",
       "section": "C",
-      "number": "13",
+      "type": "long",
+      "source": "past_paper",
       "year": 2021,
-      "text": "OR Draw a neat and labelled diagram of internal Structure of Human Heart."
+      "text": "Draw a neat and labelled diagram of the internal structure of the human heart."
     },
     {
-      "section": "B",
-      "number": "16",
+      "chapter": "Nutrition",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
       "year": 2024,
-      "text": "Define the following terms:",
+      "text": "Define the following term:",
       "parts": [
         {
-          "label": "(i)",
+          "label": "i",
           "text": "Vitamins"
-        },
+        }
+      ]
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define the following term:",
+      "parts": [
         {
-          "label": "(ii)",
+          "label": "ii",
           "text": "Goiter"
-        },
+        }
+      ]
+    },
+    {
+      "chapter": "Transport",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define the following term:",
+      "parts": [
         {
-          "label": "(iii)",
+          "label": "iii",
           "text": "Stomata"
-        },
+        }
+      ]
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define the following term:",
+      "parts": [
         {
-          "label": "(v)",
+          "label": "iv",
+          "text": "Nucleoplasm"
+        }
+      ]
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define the following term:",
+      "parts": [
+        {
+          "label": "v",
           "text": "Cisternae"
-        },
+        }
+      ]
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "C",
+      "type": "long",
+      "source": "past_paper",
+      "year": 2024,
+      "text": "Define the following term:",
+      "parts": [
         {
-          "label": "(vi)",
+          "label": "vi",
           "text": "Activator"
         }
       ]
     },
     {
+      "chapter": "Solving a Biological Problem",
       "section": "B",
-      "number": "6",
+      "type": "short",
+      "source": "past_paper",
       "year": 2023,
-      "text": "Differentiate between any one of the following:",
-      "parts": [
-        {
-          "label": "(i)",
-          "text": "Law and Theory"
-        },
-        {
-          "label": "(ii)",
-          "text": "Horticulture and Agriculture"
-        }
-      ]
+      "text": "Differentiate between law and theory."
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "B",
+      "type": "short",
+      "source": "past_paper",
+      "year": 2023,
+      "text": "Differentiate between horticulture and agriculture."
     }
   ]
 }
