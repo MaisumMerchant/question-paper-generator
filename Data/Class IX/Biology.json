@@ -138,7 +138,7 @@
       "type": "short",
       "source": "past_paper",
       "year": 2025,
-      "text": "Write three differences between theory and law."
+      "text": "(OR) Write three differences between theory and law."
     },
     {
       "chapter": "Solving a Biological Problem",
@@ -268,7 +268,7 @@
       "type": "short",
       "source": "past_paper",
       "year": 2025,
-      "text": "Draw a neat and labelled diagram of cardiac muscles."
+      "text": "(OR) Draw a neat and labelled diagram of cardiac muscles."
     },
     {
       "chapter": "Cells and Tissues",
@@ -462,7 +462,7 @@
       "type": "long",
       "source": "past_paper",
       "year": 2022,
-      "text": "Define tissue. Explain muscle tissue and its types in detail."
+      "text": "(OR) Define tissue. Explain muscle tissue and its types in detail."
     },
     {
       "chapter": "Cells and Tissues",
@@ -534,7 +534,7 @@
       "type": "long",
       "source": "past_paper",
       "year": 2025,
-      "text": "Define meiosis. Explain prophase and draw a labelled diagram of it."
+      "text": "(OR) Define meiosis. Explain prophase and draw a labelled diagram of it."
     },
     {
       "chapter": "Cell Cycle",
@@ -814,7 +814,7 @@
       "type": "long",
       "source": "past_paper",
       "year": 2024,
-      "text": "Draw a neat and labelled diagram of the internal structure of the human heart."
+      "text": "(OR) Draw a neat and labelled diagram of the internal structure of the human heart."
     },
     {
       "chapter": "Transport",
@@ -854,35 +854,7 @@
       "type": "long",
       "source": "past_paper",
       "year": 2021,
-      "text": "Draw a neat and labelled diagram of the internal structure of the human heart."
-    },
-    {
-      "chapter": "Nutrition",
-      "section": "C",
-      "type": "long",
-      "source": "past_paper",
-      "year": 2024,
-      "text": "Define the following term:",
-      "parts": [
-        {
-          "label": "i",
-          "text": "Vitamins"
-        }
-      ]
-    },
-    {
-      "chapter": "Nutrition",
-      "section": "C",
-      "type": "long",
-      "source": "past_paper",
-      "year": 2024,
-      "text": "Define the following term:",
-      "parts": [
-        {
-          "label": "ii",
-          "text": "Goiter"
-        }
-      ]
+      "text": "(OR) Draw a neat and labelled diagram of the internal structure of the human heart."
     },
     {
       "chapter": "Transport",
@@ -890,50 +862,28 @@
       "type": "long",
       "source": "past_paper",
       "year": 2024,
-      "text": "Define the following term:",
+      "text": "Define the following terms:",
       "parts": [
+        {
+          "label": "i",
+          "text": "Vitamins"
+        },
+        {
+          "label": "ii",
+          "text": "Goiter"
+        },
         {
           "label": "iii",
           "text": "Stomata"
-        }
-      ]
-    },
-    {
-      "chapter": "Cells and Tissues",
-      "section": "C",
-      "type": "long",
-      "source": "past_paper",
-      "year": 2024,
-      "text": "Define the following term:",
-      "parts": [
+        },
         {
           "label": "iv",
           "text": "Nucleoplasm"
-        }
-      ]
-    },
-    {
-      "chapter": "Cells and Tissues",
-      "section": "C",
-      "type": "long",
-      "source": "past_paper",
-      "year": 2024,
-      "text": "Define the following term:",
-      "parts": [
+        },
         {
           "label": "v",
           "text": "Cisternae"
-        }
-      ]
-    },
-    {
-      "chapter": "Enzymes",
-      "section": "C",
-      "type": "long",
-      "source": "past_paper",
-      "year": 2024,
-      "text": "Define the following term:",
-      "parts": [
+        },
         {
           "label": "vi",
           "text": "Activator"
@@ -941,20 +891,22 @@
       ]
     },
     {
-      "chapter": "Solving a Biological Problem",
+      "chapter": "Transport",
       "section": "B",
       "type": "short",
       "source": "past_paper",
       "year": 2023,
-      "text": "Differentiate between law and theory."
-    },
-    {
-      "chapter": "Introduction to Biology",
-      "section": "B",
-      "type": "short",
-      "source": "past_paper",
-      "year": 2023,
-      "text": "Differentiate between horticulture and agriculture."
+      "text": "Differentiate between any one of the following:",
+      "parts": [
+        {
+          "label": "i",
+          "text": "Law and Theory"
+        },
+        {
+          "label": "ii",
+          "text": "Horticulture and Agriculture"
+        }
+      ]
     }
   ]
 }
