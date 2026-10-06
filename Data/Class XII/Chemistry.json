@@ -70,7 +70,7 @@
       "type": "long",
       "source": "past_paper",
       "year": 2024,
-      "text": "Answer the following alternatives.",
+      "text": "Answer part (i), then answer either part (ii) or part (iii).",
       "parts": [
         {
           "label": "(i)",
@@ -290,7 +290,7 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$[\\mathrm{Cu(en)_2}]^{2+}$"
+          "text": "$[\\mathrm{Cu(en)_2}]^{2-}$"
         },
         {
           "label": "(ii)",
@@ -338,7 +338,7 @@
       "type": "short",
       "source": "past_paper",
       "year": 2022,
-      "text": "Write the IUPAC names of the following coordination compounds.",
+      "text": "Write the IUPAC names of any four of the following coordination compounds.",
       "parts": [
         {
           "label": "(i)",
@@ -368,7 +368,7 @@
       "type": "short",
       "source": "past_paper",
       "year": 2021,
-      "text": "Write the IUPAC names of the following coordination compounds.",
+      "text": "Write the IUPAC names of any four of the following coordination compounds.",
       "parts": [
         {
           "label": "(i)",
@@ -440,7 +440,7 @@
         },
         {
           "label": "(iv)",
-          "text": "$[\\mathrm{Co(H_2NCH_2CH_2NH_2)_3}](\\mathrm{NO_3})_3$"
+          "text": "$[\\mathrm{Co(H_2NCH_2CH_2NH_2)_2}](\\mathrm{NO_3})_3$"
         }
       ]
     },
@@ -563,7 +563,7 @@
       "text": "Describe the extraction of 99.99% copper from roasted pyrite ore."
     },
     {
-      "chapter": "Inorganic Chemistry - Miscellaneous",
+      "chapter": "Definitions",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -593,12 +593,12 @@
       ]
     },
     {
-      "chapter": "Inorganic Chemistry - Miscellaneous",
+      "chapter": "Scientific Reasons",
       "section": "B",
       "type": "short",
       "source": "past_paper",
       "year": 2025,
-      "text": "Give scientific reasons for the following.",
+      "text": "Give any four scientific reasons for the following.",
       "parts": [
         {
           "label": "(i)",
@@ -623,7 +623,7 @@
       ]
     },
     {
-      "chapter": "Inorganic Chemistry - Miscellaneous",
+      "chapter": "Scientific Reasons",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -649,7 +649,7 @@
       ]
     },
     {
-      "chapter": "Inorganic Chemistry - Miscellaneous",
+      "chapter": "Scientific Reasons",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -671,7 +671,7 @@
       ]
     },
     {
-      "chapter": "Inorganic Chemistry - Miscellaneous",
+      "chapter": "Scientific Reasons",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -689,7 +689,7 @@
       ]
     },
     {
-      "chapter": "Inorganic Chemistry - Miscellaneous",
+      "chapter": "Scientific Reasons",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -703,7 +703,7 @@
       ]
     },
     {
-      "chapter": "Inorganic Chemistry - Miscellaneous",
+      "chapter": "Scientific Reasons",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -717,7 +717,7 @@
       ]
     },
     {
-      "chapter": "Inorganic Chemistry - Miscellaneous",
+      "chapter": "Scientific Reasons",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -739,7 +739,7 @@
       ]
     },
     {
-      "chapter": "Inorganic Chemistry - Miscellaneous",
+      "chapter": "Note Questions",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -747,7 +747,7 @@
       "text": "Write a note on bleaching powder."
     },
     {
-      "chapter": "Inorganic Chemistry - Miscellaneous",
+      "chapter": "Preparation/Reaction Questions",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -777,7 +777,7 @@
       ]
     },
     {
-      "chapter": "Inorganic Chemistry - Miscellaneous",
+      "chapter": "Preparation/Reaction Questions",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -827,7 +827,7 @@
       ]
     },
     {
-      "chapter": "Inorganic Chemistry - Miscellaneous",
+      "chapter": "Preparation/Reaction Questions",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -874,7 +874,7 @@
       "type": "short",
       "source": "past_paper",
       "year": 2025,
-      "text": "Answer the following.",
+      "text": "Answer either of the following.",
       "parts": [
         {
           "label": "(i)",
@@ -908,7 +908,7 @@
       "type": "short",
       "source": "past_paper",
       "year": 2025,
-      "text": "Write the IUPAC names of the following organic compounds.",
+      "text": "Write the IUPAC names of any four of the following organic compounds.",
       "parts": [
         {
           "label": "(i)",
@@ -964,7 +964,7 @@
       "type": "short",
       "source": "past_paper",
       "year": 2023,
-      "text": "Write the IUPAC names of the following organic compounds.",
+      "text": "Write the IUPAC names of any four of the following organic compounds.",
       "parts": [
         {
           "label": "(i)",
@@ -994,7 +994,7 @@
       "type": "short",
       "source": "past_paper",
       "year": 2022,
-      "text": "Write the IUPAC names of the following organic compounds.",
+      "text": "Write the IUPAC names of any four of the following organic compounds.",
       "parts": [
         {
           "label": "(i)",
@@ -1020,7 +1020,7 @@
       "type": "short",
       "source": "past_paper",
       "year": 2021,
-      "text": "Write the IUPAC names of the following organic compounds.",
+      "text": "Write the IUPAC names of any four of the following organic compounds.",
       "parts": [
         {
           "label": "(i)",
@@ -1050,7 +1050,7 @@
       "type": "short",
       "source": "past_paper",
       "year": 2019,
-      "text": "Write the IUPAC names of the following organic compounds.",
+      "text": "Write the IUPAC names of any four of the following organic compounds.",
       "parts": [
         {
           "label": "(i)",
@@ -1080,7 +1080,7 @@
       "type": "short",
       "source": "past_paper",
       "year": 2018,
-      "text": "Write the IUPAC names of the following organic compounds.",
+      "text": "Write the IUPAC names of any four of the following organic compounds.",
       "parts": [
         {
           "label": "(i)",
@@ -1140,11 +1140,11 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$\\mathrm{C_4H_9Cl}$"
+          "text": "$\\mathrm{(CH_3)_3CBr}$"
         },
         {
           "label": "(ii)",
-          "text": "$\\mathrm{C_2H_5OC(CH_3)_2}$"
+          "text": "$\\mathrm{C_2H_5OCH(CH_3)_2}$"
         },
         {
           "label": "(iii)",
@@ -1152,7 +1152,7 @@
         },
         {
           "label": "(iv)",
-          "text": "$\\mathrm{C_6H_5C(Cl)_2C(CH_3)_3}$"
+          "text": "$\\mathrm{(C_6H_5)_2CHCOC(CH_3)_3}$"
         },
         {
           "label": "(v)",
@@ -1178,11 +1178,11 @@
         },
         {
           "label": "(iii)",
-          "text": "$\\mathrm{CH_3CH_2COOC(CH_3)_3}$"
+          "text": "$\\mathrm{(CH_3)_3COC(CH_3)_3}$"
         },
         {
           "label": "(iv)",
-          "text": "$\\mathrm{CH_3OCH(OC_2H_5)CH_2CH_3}$"
+          "text": "$\\mathrm{C_2H_5OC(OC_2H_5)(OC_6H_5)CH_2CH_3}$"
         },
         {
           "label": "(v)",
@@ -1276,7 +1276,7 @@
       "type": "short",
       "source": "past_paper",
       "year": 2021,
-      "text": "The structures of ethyne (A) and ethane (B) are shown. Answer the following.",
+      "text": "The structures of ethane (A) and ethene (B) are shown. Answer the following.",
       "parts": [
         {
           "label": "(i)",
@@ -1771,7 +1771,7 @@
       ]
     },
     {
-      "chapter": "Organic Chemistry - Miscellaneous",
+      "chapter": "Definitions",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1789,7 +1789,7 @@
       ]
     },
     {
-      "chapter": "Organic Chemistry - Miscellaneous",
+      "chapter": "Definitions",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1807,7 +1807,7 @@
       ]
     },
     {
-      "chapter": "Organic Chemistry - Miscellaneous",
+      "chapter": "Definitions",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1829,7 +1829,7 @@
       ]
     },
     {
-      "chapter": "Organic Chemistry - Miscellaneous",
+      "chapter": "Definitions",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1843,7 +1843,7 @@
       ]
     },
     {
-      "chapter": "Organic Chemistry - Miscellaneous",
+      "chapter": "Definitions",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1861,7 +1861,7 @@
       ]
     },
     {
-      "chapter": "Organic Chemistry - Miscellaneous",
+      "chapter": "Definitions",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1879,7 +1879,7 @@
       ]
     },
     {
-      "chapter": "Organic Chemistry - Miscellaneous",
+      "chapter": "Definitions",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1893,7 +1893,7 @@
       ]
     },
     {
-      "chapter": "Organic Chemistry - Miscellaneous",
+      "chapter": "Definitions",
       "section": "B",
       "type": "short",
       "source": "past_paper",

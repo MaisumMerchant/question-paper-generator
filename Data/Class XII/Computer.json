@@ -92,7 +92,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2025,
-      "text": "What will be the output of the following code segment?\n```c\nint num[] = {3,5,7,10,20};\nprintf(\"%d\", num[5]);\n```"
+      "text": "What will be the output of the following code segment?\n```c\nint num[] = {3,5,7,10,20};\nprintf(\"%d\", num[3]);\n```"
     },
     {
       "chapter": "Control Structures",
@@ -502,7 +502,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2023,
-      "text": "Write the output of the following code.\n```c\nvoid main(void)\n{\n    int i, j;\n    for(i = 1; i <= 5; i++)\n    {\n        for(j = 1; j <= i; j++)\n            printf(\"%d\", 2);\n        printf(\"\\n\");\n    }\n}\n```"
+      "text": "Write the output of the following code.\n```c\nvoid main(void)\n{\n    int i, j;\n    for(i = 1; i <= 5; i++)\n    {\n        for(j = 1; j <= i; j++)\n            printf(\"%d\", j*2);\n        printf(\"\\n\");\n    }\n}\n```"
     },
     {
       "chapter": "Functions",
@@ -732,7 +732,7 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$x=\\frac{-b^2c}{2bc}$"
+          "text": "$x=\\frac{b^2+c^2}{2bc}$"
         },
         {
           "label": "(ii)",
@@ -789,7 +789,7 @@
       "section": "B",
       "type": "short",
       "source": "past_paper",
-      "year": 2020,
+      "year": 2021,
       "text": "What is an IDE? Write a few shortcut keys and their functions in an IDE."
     },
     {
@@ -797,7 +797,7 @@
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
-      "year": 2020,
+      "year": 2021,
       "text": "Write a program to print the factorial of an input number."
     },
     {
@@ -805,7 +805,7 @@
       "section": "B",
       "type": "short",
       "source": "past_paper",
-      "year": 2020,
+      "year": 2021,
       "text": "What is meant by an escape sequence? Define any four with examples."
     },
     {
@@ -813,7 +813,7 @@
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
-      "year": 2020,
+      "year": 2021,
       "text": "Convert any two of the following mathematical expressions into equivalent C expressions.",
       "parts": [
         {
@@ -839,7 +839,7 @@
       "section": "B",
       "type": "short",
       "source": "past_paper",
-      "year": 2020,
+      "year": 2021,
       "text": "What is the main difference between source code and object code?"
     },
     {
@@ -847,7 +847,7 @@
       "section": "B",
       "type": "short",
       "source": "past_paper",
-      "year": 2020,
+      "year": 2021,
       "text": "Define logical operators with examples."
     },
     {
@@ -855,7 +855,7 @@
       "section": "B",
       "type": "short",
       "source": "past_paper",
-      "year": 2020,
+      "year": 2021,
       "text": "What are library functions? Name any four."
     },
     {
@@ -863,7 +863,7 @@
       "section": "B",
       "type": "short",
       "source": "past_paper",
-      "year": 2020,
+      "year": 2021,
       "text": "What are local and global variables? Give examples."
     },
     {
@@ -871,7 +871,7 @@
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
-      "year": 2020,
+      "year": 2021,
       "text": "Using a nested loop, write a program to print the following output.\n```text\n2   4   6   8   10\n3   6   9   12  15\n4   8   12  16  20\n5   10  15  20  25\n```"
     },
     {
@@ -879,7 +879,7 @@
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
-      "year": 2020,
+      "year": 2021,
       "text": "Write a program to calculate the area of a rectangle. Hint: $A=w\\times h$."
     },
     {
@@ -887,7 +887,7 @@
       "section": "C",
       "type": "long",
       "source": "past_paper",
-      "year": 2020,
+      "year": 2021,
       "text": "Explain all data types in C."
     },
     {
@@ -895,7 +895,7 @@
       "section": "C",
       "type": "long",
       "source": "past_paper",
-      "year": 2020,
+      "year": 2021,
       "text": "How many types of decision structures are there in C? Define them with examples."
     },
     {
@@ -903,7 +903,7 @@
       "section": "C",
       "type": "long",
       "source": "past_paper",
-      "year": 2020,
+      "year": 2021,
       "text": "What is a function? What are the advantages of using a function?"
     },
     {
@@ -911,7 +911,7 @@
       "section": "C",
       "type": "long",
       "source": "past_paper",
-      "year": 2020,
+      "year": 2021,
       "text": "Define the switch and break statements with examples."
     },
     {
@@ -940,15 +940,15 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$A=(x^2+y^3)-(x-y)$"
+          "text": "$A=(x^2+y^3)-(x-y)^3$"
         },
         {
           "label": "(ii)",
-          "text": "$B=y^2-2xy+z^2$"
+          "text": "$B=y^2-2xy+x^2$"
         },
         {
           "label": "(iii)",
-          "text": "$C=\\frac{-y+\\sqrt{y^2-4x}}{2x}$"
+          "text": "$C=\\frac{-y+\\sqrt{y^2-4xz}}{2x}$"
         },
         {
           "label": "(iv)",
@@ -1310,7 +1310,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2018,
-      "text": "Write the following do-while loop in equivalent while-loop form.\n```c\nvoid main(void)\n{\n    int a = 3;\n    do\n    {\n        printf(\"%d\\n\", a);\n        a = a + 3;\n    } while(a != 10);\n}\n```"
+      "text": "Write the following do-while loop in equivalent while-loop form.\n```c\nvoid main(void)\n{\n    int a = 3;\n    do\n    {\n        printf(\"%d\\n\", a);\n        a = a + 3;\n    } while(a <= 10);\n}\n```"
     },
     {
       "chapter": "Database Concepts",
@@ -1492,7 +1492,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2017,
-      "text": "What is the output of the following program statements?\n```c\nfor(int a = 1; a < 5; a++)\n{\n    int a = 3;\n    do\n    {\n        printf(\"%d\\n\", a);\n        a = a + 3;\n    } while(a != 10);\n}\n```"
+      "text": "What is the output of the following program statements?\n```c\nfor(int a = 1; a < 5; a++)\n{\n    for(int b = a; b < 5; b++)\n        printf(\"%d\", b);\n    printf(\"\\n\");\n}\n```"
     },
     {
       "chapter": "Functions",
@@ -1762,7 +1762,7 @@
         },
         {
           "label": "(iv)",
-          "text": "yls"
+          "text": "y/s"
         },
         {
           "label": "(v)",
@@ -1774,7 +1774,7 @@
         },
         {
           "label": "(vii)",
-          "text": "Gfetch"
+          "text": "Getch"
         },
         {
           "label": "(viii)",
@@ -1828,15 +1828,15 @@
         },
         {
           "label": "(iv)",
-          "text": "$X=(a^2-b^3)^n$"
+          "text": "$y=a^2+b^3+c^4$"
         },
         {
           "label": "(v)",
-          "text": "$l=\\frac{1}{2}bb$"
+          "text": "$X=(a^2-b^3)^n$"
         },
         {
           "label": "(vi)",
-          "text": "$y=a^2+b^3+c^4$"
+          "text": "$l=\\frac{1}{2}bb$"
         }
       ]
     },
@@ -1846,7 +1846,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2016,
-      "text": "Write the output of the following C-program statement.\n```c\nfor(int i = 2; i < 10; i++)\n{\n    printf(\"%d\", i);\n    if(i % 2 == 0)\n        continue;\n    printf(\"\\n\");\n}\n```"
+      "text": "Write the output of the following C-program statement.\n```c\nfor(int i = 2; i < 10; i++)\n    printf(\"%d\", i);\nif(i % 2 == 0)\n    continue;\nprintf(\"\\n\");\n```"
     },
     {
       "chapter": "Algorithms and Flowcharts",

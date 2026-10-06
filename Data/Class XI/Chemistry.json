@@ -984,7 +984,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2017,
-      "text": "In an $AgBr$ solution, $[Ag^+]=1\\times10^{-6}\\,M$. Find the minimum $[Br^-]$ needed to precipitate $AgBr$, given $K_{sp}=4\\times10^{-13}$."
+      "text": "In an $AgBr$ solution, $[Ag^+]=1\\times10^{-6}\\,M$. Find the minimum $[Br^-]$ needed to precipitate $AgBr$, given $K_{sp}=4\\times10^{-13}\\,M^2$."
     },
     {
       "chapter": "7. Chemical Equilibrium",
@@ -1380,7 +1380,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2023,
-      "text": "Calculate $\\Delta H_f^\\circ$ of $C_3H_8O_3$ using: $C+O_2\\rightarrow CO_2$, $\\Delta H_f^\\circ=-393.5\\,\\text{kJ mol}^{-1}$; $H_2+\\frac12O_2\\rightarrow H_2O$, $\\Delta H_f^\\circ=-285.8\\,\\text{kJ mol}^{-1}$; $C_3H_8O_3+\\frac72O_2\\rightarrow3CO_2+4H_2O$, $\\Delta H_c^\\circ=-1654.1\\,\\text{kJ mol}^{-1}$."
+      "text": "For $3C+4H_2+\\frac32O_2\\rightarrow C_3H_8O_3$, calculate $\\Delta H_f^\\circ$ of $C_3H_8O_3$ using: $C+O_2\\rightarrow CO_2$, $\\Delta H_f^\\circ=-393.5\\,\\text{kJ mol}^{-1}$; $H_2+\\frac12O_2\\rightarrow H_2O$, $\\Delta H_f^\\circ=-285.8\\,\\text{kJ mol}^{-1}$; $C_3H_8O_3+\\frac72O_2\\rightarrow3CO_2+4H_2O$, $\\Delta H_c^\\circ=-1654.1\\,\\text{kJ mol}^{-1}$."
     },
     {
       "chapter": "11. Thermochemistry",
@@ -1476,7 +1476,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2015,
-      "text": "Calculate the heat of formation of $CH_3OH$ using $C+\\frac12O_2\\rightarrow CO$, $\\Delta H=-111\\,\\text{kJ mol}^{-1}$; $H_2+\\frac12O_2\\rightarrow H_2O$, $\\Delta H=-286\\,\\text{kJ mol}^{-1}$; $CH_3OH+O_2\\rightarrow CO+2H_2O$, $\\Delta H=-561\\,\\text{kJ mol}^{-1}$."
+      "text": "For $C+2H_2+\\frac12O_2\\rightarrow CH_3OH$, calculate the heat of formation of $CH_3OH$ using $C+\\frac12O_2\\rightarrow CO$, $\\Delta H=-111\\,\\text{kJ mol}^{-1}$; $H_2+\\frac12O_2\\rightarrow H_2O$, $\\Delta H=-286\\,\\text{kJ mol}^{-1}$; $CH_3OH+O_2\\rightarrow CO+2H_2O$, $\\Delta H=-561\\,\\text{kJ mol}^{-1}$."
     },
     {
       "chapter": "11. Thermochemistry",

@@ -20,11 +20,11 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$\\\\displaystyle \\\\lim_{x\\\\to0}\\\\frac{1-\\\\cos^3x}{\\\\sin^2x}$"
+          "text": "$\\displaystyle \\lim_{x\\to0}\\frac{1-\\cos^3x}{\\sin^2x}$"
         },
         {
           "label": "(ii)",
-          "text": "$\\\\displaystyle \\\\lim_{x\\\\to e}\\\\frac{\\\\ln x-1}{x-e}$"
+          "text": "$\\displaystyle \\lim_{x\\to e}\\frac{\\ln x-1}{x-e}$"
         }
       ]
     },
@@ -46,11 +46,11 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$\\\\displaystyle \\\\lim_{x\\\\to0}\\\\frac{\\\\sin(\\\\sqrt{a}x)}{x/\\\\sqrt{a}}$"
+          "text": "$\\displaystyle \\lim_{x\\to0}\\frac{\\sin(\\sqrt{a}x)}{x/\\sqrt{a}}$"
         },
         {
           "label": "(ii)",
-          "text": "$\\\\displaystyle \\\\lim_{x\\\\to0}\\\\frac{\\\\sqrt{x+3}-\\\\sqrt3}{x}$"
+          "text": "$\\displaystyle \\lim_{x\\to0}\\frac{\\sqrt{x+3}-\\sqrt3}{x}$"
         }
       ]
     },
@@ -64,11 +64,11 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$\\\\displaystyle \\\\lim_{x\\\\to0}\\\\frac{\\\\sin(x^\\\\circ)}{x}$"
+          "text": "$\\displaystyle \\lim_{x\\to0}\\frac{\\sin(x^\\circ)}{x}$"
         },
         {
           "label": "(ii)",
-          "text": "$\\\\displaystyle \\\\lim_{x\\\\to e}\\\\frac{\\\\ln x-1}{x-e}$"
+          "text": "$\\displaystyle \\lim_{x\\to e}\\frac{\\ln x-1}{x-e}$"
         }
       ]
     },
@@ -90,11 +90,11 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$\\\\displaystyle \\\\lim_{x\\\\to0}\\\\frac{\\\\sqrt{x+3}-\\\\sqrt3}{x}$"
+          "text": "$\\displaystyle \\lim_{x\\to0}\\frac{\\sqrt{x+3}-\\sqrt3}{x}$"
         },
         {
           "label": "(ii)",
-          "text": "$\\\\displaystyle \\\\lim_{x\\\\to0}\\\\frac{1-\\\\cos(mx)}{1-\\\\cos(nx)}$"
+          "text": "$\\displaystyle \\lim_{x\\to0}\\frac{1-\\cos(mx)}{1-\\cos(nx)}$"
         }
       ]
     },
@@ -132,11 +132,11 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "As printed: If $y=\\\\sqrt{\\\\sin x\\\\sqrt{\\\\sin x\\\\sqrt{\\\\sin x\\\\cdots}}}$, show that $(2y-1)\\\\frac{dy}{dx}=\\\\cos x$."
+          "text": "As printed: If $y=\\sqrt{\\sin x\\sqrt{\\sin x\\sqrt{\\sin x\\cdots}}}$, show that $(2y-1)\\frac{dy}{dx}=\\cos x$."
         },
         {
           "label": "(ii)",
-          "text": "Corrected: If $y=\\\\sqrt{\\\\sin x+\\\\sqrt{\\\\sin x+\\\\sqrt{\\\\sin x+\\\\cdots}}}$, show that $(2y-1)\\\\frac{dy}{dx}=\\\\cos x$."
+          "text": "Corrected: If $y=\\sqrt{\\sin x+\\sqrt{\\sin x+\\sqrt{\\sin x+\\cdots}}}$, show that $(2y-1)\\frac{dy}{dx}=\\cos x$."
         }
       ]
     },
@@ -150,11 +150,11 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$y=\\\\tan^{-1}\\\\!\\\\left(\\\\frac{\\\\sin2x}{1+\\\\cos2x}\\\\right)$"
+          "text": "$y=\\tan^{-1}\\!\\left(\\frac{\\sin2x}{1+\\cos2x}\\right)$"
         },
         {
           "label": "(ii)",
-          "text": "$y=\\\\tanh^{-1}(\\\\tan x^3)$"
+          "text": "$y=\\tanh^{-1}(\\tan x^3)$"
         }
       ]
     },
@@ -180,7 +180,7 @@
         },
         {
           "label": "(ii)",
-          "text": "$y-xy+\\\\sin y=0$"
+          "text": "$y-xy+\\sin y=0$"
         }
       ]
     },
@@ -194,15 +194,15 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$y=\\\\tan^{-1}\\\\!\\\\left(\\\\frac{\\\\sin2x}{1+\\\\cos2x}\\\\right)$"
+          "text": "$y=\\tan^{-1}\\!\\left(\\frac{\\sin2x}{1+\\cos2x}\\right)$"
         },
         {
           "label": "(ii)",
-          "text": "$y=x\\\\cosh^{-1}x-\\\\sqrt{x^2-1}$"
+          "text": "$y=x\\cosh^{-1}x-\\sqrt{x^2-1}$"
         },
         {
           "label": "(iii)",
-          "text": "$x\\\\sqrt{1+y}+y\\\\sqrt{1+x}=0$"
+          "text": "$x\\sqrt{1+y}+y\\sqrt{1+x}=0$"
         }
       ]
     },
@@ -216,15 +216,15 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$y=\\\\tan\\\\left(e^{\\\\sin^{-1}x}\\\\right)$"
+          "text": "$y=\\tan\\left(e^{\\sin^{-1}x}\\right)$"
         },
         {
           "label": "(ii)",
-          "text": "$y=\\\\sin^{-1}\\\\sqrt{\\\\frac{1-\\\\cos x}{2}}$"
+          "text": "$y=\\sin^{-1}\\sqrt{\\frac{1-\\cos x}{2}}$"
         },
         {
           "label": "(iii)",
-          "text": "$y=\\\\cos^2x$ with respect to $\\\\sin^2x$"
+          "text": "$y=\\cos^2x$ with respect to $\\sin^2x$"
         }
       ]
     },
@@ -398,15 +398,15 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$\\\\displaystyle\\\\int\\\\frac{5x-2}{(x-3)(x+7)}\\\\,dx$ (using partial fractions)"
+          "text": "$\\displaystyle\\int\\frac{5x-2}{(x-3)(x+7)}\\,dx$ (using partial fractions)"
         },
         {
           "label": "(ii)",
-          "text": "$\\\\displaystyle\\\\int_{\\\\pi/2}^{\\\\pi}x\\\\sin2x\\\\,dx$ (using integration by parts)"
+          "text": "$\\displaystyle\\int_{\\pi/2}^{\\pi}x\\sin2x\\,dx$ (using integration by parts)"
         },
         {
           "label": "(iii)",
-          "text": "$\\\\displaystyle\\\\int x^2\\\\sqrt{3-x^2}\\\\,dx$ (using trigonometric substitution)"
+          "text": "$\\displaystyle\\int x^2\\sqrt{3-x^2}\\,dx$ (using trigonometric substitution)"
         }
       ]
     },
@@ -420,15 +420,15 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$\\\\displaystyle\\\\int2x\\\\sec^{-1}x\\\\,dx$ (using integration by parts)"
+          "text": "$\\displaystyle\\int2x\\sec^{-1}x\\,dx$ (using integration by parts)"
         },
         {
           "label": "(ii)",
-          "text": "$\\\\displaystyle\\\\int\\\\frac{\\\\cos x}{\\\\sin x(2+\\\\sin x)}\\\\,dx$ (using partial fractions)"
+          "text": "$\\displaystyle\\int\\frac{\\cos x}{\\sin x(2+\\sin x)}\\,dx$ (using partial fractions)"
         },
         {
           "label": "(iii)",
-          "text": "$\\\\displaystyle\\\\int_{2}^{2\\\\sqrt3}\\\\frac{x^3}{\\\\sqrt{x^3+4}}\\\\,dx$ (using trigonometric substitution)"
+          "text": "$\\displaystyle\\int_{2}^{2\\sqrt3}\\frac{x^3}{\\sqrt{x^3+4}}\\,dx$ (using trigonometric substitution)"
         }
       ]
     },
@@ -442,19 +442,19 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$\\\\displaystyle\\\\int\\\\cos^2x\\\\sin^3x\\\\,dx$"
+          "text": "$\\displaystyle\\int\\cos^2x\\sin^3x\\,dx$"
         },
         {
           "label": "(ii)",
-          "text": "$\\\\displaystyle\\\\int_{-6}^{-2\\\\sqrt3}\\\\frac{dx}{x\\\\sqrt{x^2-9}}$"
+          "text": "$\\displaystyle\\int_{-6}^{-2\\sqrt3}\\frac{dx}{x\\sqrt{x^2-9}}$"
         },
         {
           "label": "(iii)",
-          "text": "$\\\\displaystyle\\\\int\\\\cos(\\\\ln x)\\\\,dx$"
+          "text": "$\\displaystyle\\int\\cos(\\ln x)\\,dx$"
         },
         {
           "label": "(iv)",
-          "text": "$\\\\displaystyle\\\\int\\\\frac{\\\\sec^2x}{(1+\\\\tan x)(2+\\\\tan x)}\\\\,dx$"
+          "text": "$\\displaystyle\\int\\frac{\\sec^2x}{(1+\\tan x)(2+\\tan x)}\\,dx$"
         }
       ]
     },
@@ -468,19 +468,19 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "$\\\\displaystyle\\\\int\\\\sqrt{x^2-25}\\\\,dx$"
+          "text": "$\\displaystyle\\int\\sqrt{x^2-25}\\,dx$"
         },
         {
           "label": "(ii)",
-          "text": "$\\\\displaystyle\\\\int e^{ax}\\\\cos(bx)\\\\,dx$"
+          "text": "$\\displaystyle\\int e^{ax}\\cos(bx)\\,dx$"
         },
         {
           "label": "(iii)",
-          "text": "$\\\\displaystyle\\\\int\\\\frac{\\\\sec^2x}{(1+\\\\tan x)(2+\\\\tan x)}\\\\,dx$"
+          "text": "$\\displaystyle\\int\\frac{\\sec^2x}{(1+\\tan x)(2+\\tan x)}\\,dx$"
         },
         {
           "label": "(iv)",
-          "text": "$\\\\displaystyle\\\\int\\\\frac{1+2x}{\\\\sqrt{1-x}}\\\\,dx$"
+          "text": "$\\displaystyle\\int\\frac{1+2x}{\\sqrt{1-x}}\\,dx$"
         }
       ]
     },
@@ -840,7 +840,7 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "Solve $(x^2+y^2)\\\\,dx=2xy\\\\,dy$."
+          "text": "Solve $(x^2+y^2)\\,dx=2xy\\,dy$."
         },
         {
           "label": "(ii)",
@@ -858,11 +858,11 @@
       "parts": [
         {
           "label": "(i)",
-          "text": "Solve $(x-y-1)\\\\,dx-(x-y-5)\\\\,dy=0$."
+          "text": "Solve $(x-y-1)\\,dx-(x-y-5)\\,dy=0$."
         },
         {
           "label": "(ii)",
-          "text": "A ball is thrown vertically upward with velocity $49\\\\,\\\\text{m/s}$ and $g=-9.8\\\\,\\\\text{m/s}^2$. Using a differential equation, find (i) the time at maximum height, (ii) the height at $t=3$ seconds, and (iii) the maximum height."
+          "text": "A ball is thrown vertically upward with velocity $49\\,\\text{m/s}$ and $g=-9.8\\,\\text{m/s}^2$. Using a differential equation, find (i) the time at maximum height, (ii) the height at $t=3$ seconds, and (iii) the maximum height."
         }
       ]
     },

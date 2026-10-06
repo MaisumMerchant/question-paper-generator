@@ -96,7 +96,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2025,
-      "text": "How much heat is required to raise the temperature of $1\\,\\mathrm{kg}$ of lead from $30^\\circ\\mathrm{C}$ to $105^\\circ\\mathrm{C}$? The specific heat of lead is $0.128\\,\\mathrm{J\\,kg^{-1}\\,K^{-1}}$."
+      "text": "How much heat is required to raise the temperature of $1\\,\\mathrm{kg}$ of lead from $30^\\circ\\mathrm{C}$ to $105^\\circ\\mathrm{C}$? The specific heat of lead is $0.128\\,\\mathrm{J\\,kg^{-1}\\,^{\\circ}C^{-1}}$."
     },
     {
       "chapter": "First Law of Thermodynamics",
@@ -1454,7 +1454,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2016,
-      "text": "A sodium surface is shown with light of wavelength $3\\times10^{21}$ and it decays with a half-life of 1622 years. Find the activity and decay constant of the sample."
+      "text": "[UNUSABLE: The source PDF text is internally corrupted; verify against the original 2016 examination paper before use.] Source text: A sodium surface is shown with light of wavelength $3\\times10^{21}$ and it decays with a half-life of 1622 years. Find the activity and decay constant of the sample."
     },
     {
       "chapter": "Nuclear Physics",
