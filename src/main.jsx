@@ -7,6 +7,23 @@ import 'katex/dist/katex.min.css';
 import './styles.css';
 
 const embeddedBankModules = import.meta.glob('../Data/**/*.json', { eager: true, import: 'default' });
+const embeddedPdfModules = import.meta.glob(
+  [
+    '../Data/Class */Biology.pdf',
+    '../Data/Class */Chemistry.pdf',
+    '../Data/Class */Computer.pdf',
+    '../Data/Class XII/Computer (Programming using C).pdf',
+    '../Data/Class */Maths.pdf',
+    '../Data/Class */Physics.pdf'
+  ],
+  { eager: true, query: '?url', import: 'default' }
+);
+const embeddedPdfUrls = Object.fromEntries(
+  Object.entries(embeddedPdfModules).map(([modulePath, url]) => [
+    modulePath.replace(/^\.\.\/Data\//, ''),
+    url
+  ])
+);
 const UNKNOWN_CHAPTER = 'Unknown chapter';
 const SECTION_FILTERS = ['All', 'B', 'C'];
 
@@ -107,11 +124,17 @@ function normalizeBank(payload, sourceName, sourceKey = sourceName) {
     throw new Error('Expected an object with a questions[] array.');
   }
   const inferred = inferChapters(payload.questions, sourceKey);
+  let pdfName = sourceName.replace(/\.json$/i, '.pdf');
+  if (!embeddedPdfUrls[pdfName] && sourceName === 'Class XII/Computer.json') {
+    pdfName = 'Class XII/Computer (Programming using C).pdf';
+  }
   return {
     id: sourceKey,
     sourceName,
     subject: String(payload.subject || 'Untitled subject'),
     className: String(payload.class || 'Unassigned class'),
+    pdfName,
+    pdfUrl: embeddedPdfUrls[pdfName] || '',
     questions: inferred.questions,
     chapters: inferred.chapters
   };
@@ -330,6 +353,11 @@ function App() {
   const classOptions = useMemo(() => [...new Set(banks.map((bank) => bank.className))].sort((a, b) => a.localeCompare(b, undefined, { numeric: true })), [banks]);
   const selectedClass = selectedBank?.className || '';
   const selectedSubject = selectedBank?.subject || '';
+  const selectedSourcePdf = useMemo(() => selectedBank?.pdfUrl ? {
+    name: selectedBank.pdfName,
+    url: selectedBank.pdfUrl,
+    builtIn: true
+  } : null, [selectedBank]);
   const subjectOptions = useMemo(() => [...new Set(banks.filter((bank) => !selectedClass || bank.className === selectedClass).map((bank) => bank.subject))].sort(), [banks, selectedClass]);
   const chapters = selectedBank?.chapters || [];
   const availableYears = useMemo(() => [...new Set((selectedBank?.questions || []).map((question) => question.year).filter(Boolean))].sort((a, b) => b - a), [selectedBank]);
@@ -411,7 +439,7 @@ function App() {
   }
 
   function handlePdfFiles(fileList) {
-    const next = Array.from(fileList || []).filter((file) => file.type === 'application/pdf' || file.name.toLowerCase().endsWith('.pdf')).map((file) => ({ file, url: URL.createObjectURL(file) }));
+    const next = Array.from(fileList || []).filter((file) => file.type === 'application/pdf' || file.name.toLowerCase().endsWith('.pdf')).map((file) => ({ file, name: file.name, url: URL.createObjectURL(file), builtIn: false }));
     if (next.length) {
       setPdfFiles((current) => [...current, ...next]);
       setPreviewPdf(next[0]);
@@ -516,6 +544,7 @@ function App() {
             <p className="topbar-subtitle">Choose a bank, tune the balance, and leave the formatting to Paperloom.</p>
           </div>
           <div className="topbar-actions">
+            <button className="ghost-button" onClick={() => selectedSourcePdf && setPreviewPdf(selectedSourcePdf)} disabled={!selectedSourcePdf}><Icon name="eye" size={16} /> View selected PDF</button>
             <button className="ghost-button" onClick={() => pdfInputRef.current?.click()}><Icon name="pdf" size={16} /> Source PDFs <span className="tiny-count">{pdfFiles.length}</span></button>
             <div className="session-pill"><span className="status-dot" /> Local session</div>
           </div>
@@ -558,8 +587,11 @@ function App() {
               </section>
 
               <section className="panel source-panel">
-                <div className="panel-heading compact"><div><div className="panel-kicker">REFERENCE MATERIAL</div><h2>Related source PDFs</h2><p>Keep the original paper beside your question bank.</p></div><button className="icon-button" onClick={() => pdfInputRef.current?.click()} aria-label="Add source PDF"><Icon name="plus" size={17} /></button></div>
-                {pdfFiles.length ? <div className="pdf-list">{pdfFiles.map((item, index) => <div className={`pdf-row ${previewPdf?.url === item.url ? 'selected' : ''}`} key={item.url}><div className="pdf-icon"><Icon name="pdf" size={18} /></div><div className="pdf-copy"><strong>{item.file.name}</strong><span>{(item.file.size / 1024).toFixed(0)} KB</span></div><button className="small-button" onClick={() => setPreviewPdf(item)}>{previewPdf?.url === item.url ? 'Viewing' : 'Preview'}</button><button className="remove-button" onClick={() => { URL.revokeObjectURL(item.url); setPdfFiles((current) => current.filter((pdf) => pdf.url !== item.url)); if (previewPdf?.url === item.url) setPreviewPdf(null); }} aria-label={`Remove ${item.file.name}`}><Icon name="x" size={15} /></button></div>)}</div> : <button className="pdf-dropzone" onClick={() => pdfInputRef.current?.click()}><span className="dropzone-icon"><Icon name="pdf" size={22} /></span><span><strong>Drop a source PDF here</strong><small>or browse your files to preview related papers</small></span><Icon name="arrow" size={17} /></button>}
+                <div className="panel-heading compact"><div><div className="panel-kicker">REFERENCE MATERIAL</div><h2>Related source PDFs</h2><p>The matching PDF follows the selected class and subject automatically.</p></div><button className="icon-button" onClick={() => pdfInputRef.current?.click()} aria-label="Add source PDF"><Icon name="plus" size={17} /></button></div>
+                {(selectedSourcePdf || pdfFiles.length) ? <div className="pdf-list">
+                  {selectedSourcePdf && <div className={`pdf-row built-in ${previewPdf?.url === selectedSourcePdf.url ? 'selected' : ''}`}><div className="pdf-icon"><Icon name="pdf" size={18} /></div><div className="pdf-copy"><strong>{selectedSourcePdf.name}</strong><span>Selected class & subject · bundled source</span></div><span className="source-badge">AUTO</span><button className="small-button" onClick={() => setPreviewPdf(selectedSourcePdf)}>{previewPdf?.url === selectedSourcePdf.url ? 'Viewing' : 'Preview'}</button></div>}
+                  {pdfFiles.map((item) => <div className={`pdf-row ${previewPdf?.url === item.url ? 'selected' : ''}`} key={item.url}><div className="pdf-icon"><Icon name="pdf" size={18} /></div><div className="pdf-copy"><strong>{item.name}</strong><span>{(item.file.size / 1024).toFixed(0)} KB · uploaded</span></div><button className="small-button" onClick={() => setPreviewPdf(item)}>{previewPdf?.url === item.url ? 'Viewing' : 'Preview'}</button><button className="remove-button" onClick={() => { URL.revokeObjectURL(item.url); setPdfFiles((current) => current.filter((pdf) => pdf.url !== item.url)); if (previewPdf?.url === item.url) setPreviewPdf(null); }} aria-label={`Remove ${item.name}`}><Icon name="x" size={15} /></button></div>)}
+                </div> : <button className="pdf-dropzone" onClick={() => pdfInputRef.current?.click()}><span className="dropzone-icon"><Icon name="pdf" size={22} /></span><span><strong>No matching bundled PDF</strong><small>Browse your files to add a related source paper</small></span><Icon name="arrow" size={17} /></button>}
               </section>
             </div>
 
@@ -609,7 +641,7 @@ function App() {
         ) : <div className="loading-state">No bank selected. Use Load JSON to add a question bank.</div>}
       </main>
 
-      {previewPdf && <div className="modal-backdrop" onClick={() => setPreviewPdf(null)}><div className="pdf-modal" onClick={(event) => event.stopPropagation()}><div className="modal-header"><div><div className="panel-kicker">SOURCE PDF</div><h2>{previewPdf.file.name}</h2></div><button className="icon-button" onClick={() => setPreviewPdf(null)} aria-label="Close PDF preview"><Icon name="close" size={18} /></button></div><iframe src={previewPdf.url} title={`Preview of ${previewPdf.file.name}`} /></div></div>}
+      {previewPdf && <div className="modal-backdrop" onClick={() => setPreviewPdf(null)}><div className="pdf-modal" onClick={(event) => event.stopPropagation()}><div className="modal-header"><div><div className="panel-kicker">SOURCE PDF</div><h2>{previewPdf.name}</h2></div><div className="modal-actions"><a className="small-button" href={previewPdf.url} target="_blank" rel="noreferrer">Open in new tab</a><button className="icon-button" onClick={() => setPreviewPdf(null)} aria-label="Close PDF preview"><Icon name="close" size={18} /></button></div></div><iframe src={previewPdf.url} title={`Preview of ${previewPdf.name}`} /></div></div>}
     </div>
   );
 }

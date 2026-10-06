@@ -140,10 +140,12 @@ h2 { font: 600 22px/1 'Newsreader', serif; letter-spacing: -.025em; }
 .pdf-list { border-top: 1px solid var(--line); }
 .pdf-row { display: flex; align-items: center; gap: 9px; padding: 11px 15px 11px 21px; border-bottom: 1px solid var(--line); }
 .pdf-row.selected { background: rgba(214,238,226,.25); }
+.pdf-row.built-in { border-left: 3px solid var(--mint-strong); padding-left: 18px; }
 .pdf-icon { display: grid; place-items: center; width: 30px; height: 30px; color: var(--coral); background: #f8e9e4; border-radius: 7px; }
 .pdf-copy { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 3px; }
 .pdf-copy strong { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 11px; }
 .pdf-copy span { color: var(--ink-3); font: 9px 'DM Mono', monospace; }
+.source-badge { padding: 4px 6px; border-radius: 999px; color: var(--mint-strong); background: rgba(214,238,226,.65); font: 700 8px 'DM Mono', monospace; letter-spacing: .08em; }
 .small-button { display: inline-flex; align-items: center; justify-content: center; gap: 6px; padding: 7px 9px; font-size: 10px; font-weight: 600; white-space: nowrap; }
 .small-button.dark { color: #fff; border-color: var(--ink); background: var(--ink); }
 .remove-button { display: grid; place-items: center; color: var(--ink-3); border: 0; background: transparent; padding: 4px; }
@@ -224,6 +226,7 @@ h2 { font: 600 22px/1 'Newsreader', serif; letter-spacing: -.025em; }
 .modal-header .panel-kicker { margin-bottom: 6px; }
 .modal-header .icon-button { display: grid; place-items: center; width: 32px; height: 32px; padding: 0; }
 .pdf-modal iframe { width: 100%; height: 100%; border: 0; background: #5c615e; }
+.modal-actions { display: flex; align-items: center; gap: 9px; }
 
 @media (max-width: 1120px) {
   .workspace { padding: 28px 24px 50px; }
