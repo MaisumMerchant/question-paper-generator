@@ -26,14 +26,17 @@ The four workflow items in the side navigation jump directly to Questions, Chapt
 ### Question-pool controls
 
 - Search question and subpart text
-- Filter the visible list by section, type, source or year
-- Select or deselect all currently visible questions
+- Filter the visible list by chapter, section, type, source, year, selection status or multipart status
+- Select or deselect visible questions
+- Select or deselect the complete active question pool
 - Keep filtered-out selections in the generation pool until they are explicitly deselected
 
 ### Paper customization
 
-- Select chapters and set percentage contributions
-- Balance selected chapters evenly
+- Search chapters and view all, selected or unselected chapters
+- Select or deselect all chapters
+- Balance selected chapters evenly by default
+- Switch to custom percentages automatically by editing any chapter percentage
 - Set Section B/C question counts and marks
 - Add institution, examination title, time and section instructions
 - Toggle marks, chapter labels and source/year metadata

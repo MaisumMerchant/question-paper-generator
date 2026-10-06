@@ -293,7 +293,13 @@ function App() {
   const [typeFilter, setTypeFilter] = useState('All');
   const [sourceFilter, setSourceFilter] = useState('All');
   const [yearFilter, setYearFilter] = useState('All');
+  const [questionChapterFilter, setQuestionChapterFilter] = useState('All');
+  const [selectionFilter, setSelectionFilter] = useState('All');
+  const [partsFilter, setPartsFilter] = useState('All');
   const [questionSearch, setQuestionSearch] = useState('');
+  const [chapterSearch, setChapterSearch] = useState('');
+  const [chapterView, setChapterView] = useState('All');
+  const [autoBalance, setAutoBalance] = useState(true);
   const [shortCount, setShortCount] = useState(5);
   const [longCount, setLongCount] = useState(3);
   const [shortMarks, setShortMarks] = useState(2);
@@ -378,7 +384,13 @@ function App() {
     setTypeFilter('All');
     setSourceFilter('All');
     setYearFilter('All');
+    setQuestionChapterFilter('All');
+    setSelectionFilter('All');
+    setPartsFilter('All');
     setQuestionSearch('');
+    setChapterSearch('');
+    setChapterView('All');
+    setAutoBalance(true);
   }, [selectedBankId]);
 
   const selectedPool = useMemo(() => {
@@ -401,13 +413,37 @@ function App() {
       const matchingType = typeFilter === 'All' || question.type === typeFilter;
       const matchingSource = sourceFilter === 'All' || question.source === sourceFilter;
       const matchingYear = yearFilter === 'All' || String(question.year) === String(yearFilter);
+      const matchingQuestionChapter = questionChapterFilter === 'All' || question.chapter === questionChapterFilter;
+      const isSelected = selectedQuestionIds.has(question.id);
+      const matchingSelection = selectionFilter === 'All' || (selectionFilter === 'Selected' ? isSelected : !isSelected);
+      const matchingParts = partsFilter === 'All' || (partsFilter === 'Multipart' ? question.parts.length > 0 : question.parts.length === 0);
       const matchingText = !query || String(question.text).toLowerCase().includes(query) || question.parts.some((part) => String(part.text).toLowerCase().includes(query));
       const matchingChapter = activeChapters.includes(question.chapter);
-      return matchingChapter && matchingSection && matchingType && matchingSource && matchingYear && matchingText;
+      return matchingChapter && matchingSection && matchingType && matchingSource && matchingYear && matchingQuestionChapter && matchingSelection && matchingParts && matchingText;
     });
-  }, [selectedBank, activeChapters, sectionFilter, typeFilter, sourceFilter, yearFilter, questionSearch]);
+  }, [selectedBank, activeChapters, selectedQuestionIds, sectionFilter, typeFilter, sourceFilter, yearFilter, questionChapterFilter, selectionFilter, partsFilter, questionSearch]);
   const visibleSelected = visibleQuestions.filter((question) => selectedQuestionIds.has(question.id)).length;
   const allocationTotal = activeChapters.reduce((sum, chapter) => sum + Number(chapterConfig[chapter]?.percent || 0), 0);
+  const eligibleQuestionCount = (selectedBank?.questions || []).filter((question) =>
+    activeChapters.includes(question.chapter) && (question.section === 'B' || question.section === 'C')
+  ).length;
+  const visibleChapters = useMemo(() => {
+    const query = chapterSearch.trim().toLowerCase();
+    return chapters.filter((chapter) => {
+      const isSelected = Boolean(chapterConfig[chapter]?.selected);
+      const matchesSearch = !query || chapter.toLowerCase().includes(query);
+      const matchesView = chapterView === 'All' || (chapterView === 'Selected' ? isSelected : !isSelected);
+      return matchesSearch && matchesView;
+    });
+  }, [chapters, chapterConfig, chapterSearch, chapterView]);
+  const hasQuestionFilters = sectionFilter !== 'All'
+    || typeFilter !== 'All'
+    || sourceFilter !== 'All'
+    || yearFilter !== 'All'
+    || questionChapterFilter !== 'All'
+    || selectionFilter !== 'All'
+    || partsFilter !== 'All'
+    || Boolean(questionSearch.trim());
 
   function showNotice(message) {
     setNotice(message);
@@ -449,36 +485,107 @@ function App() {
     });
   }
 
-  function toggleVisibleQuestions() {
-    const shouldSelect = visibleSelected !== visibleQuestions.length;
+  function setQuestionsSelected(questions, shouldSelect) {
     setSelectedQuestionIds((current) => {
       const next = new Set(current);
-      visibleQuestions.forEach((question) => shouldSelect ? next.add(question.id) : next.delete(question.id));
+      questions.forEach((question) => shouldSelect ? next.add(question.id) : next.delete(question.id));
       return next;
     });
   }
 
+  function setAllQuestionsSelected(shouldSelect) {
+    if (!selectedBank) return;
+    const eligibleIds = selectedBank.questions
+      .filter((question) => activeChapters.includes(question.chapter) && (question.section === 'B' || question.section === 'C'))
+      .map((question) => question.id);
+    setSelectedQuestionIds((current) => {
+      const next = new Set(current);
+      eligibleIds.forEach((id) => shouldSelect ? next.add(id) : next.delete(id));
+      return next;
+    });
+  }
+
+  function clearQuestionFilters() {
+    setSectionFilter('All');
+    setTypeFilter('All');
+    setSourceFilter('All');
+    setYearFilter('All');
+    setQuestionChapterFilter('All');
+    setSelectionFilter('All');
+    setPartsFilter('All');
+    setQuestionSearch('');
+  }
+
+  function distributeChapterPercentages(current, selectedNames) {
+    const selected = chapters.filter((chapter) => selectedNames.has(chapter));
+    const base = selected.length ? Math.floor(100 / selected.length) : 0;
+    let remainder = selected.length ? 100 - base * selected.length : 0;
+    return Object.fromEntries(chapters.map((chapter) => [
+      chapter,
+      {
+        ...current[chapter],
+        selected: selectedNames.has(chapter),
+        percent: selectedNames.has(chapter) ? base + (remainder-- > 0 ? 1 : 0) : 0
+      }
+    ]));
+  }
+
   function toggleChapter(chapter) {
-    setChapterConfig((current) => ({ ...current, [chapter]: { ...current[chapter], selected: !current[chapter]?.selected } }));
+    const willSelect = !chapterConfig[chapter]?.selected;
+    setChapterConfig((current) => {
+      const selected = new Set(chapters.filter((item) => current[item]?.selected));
+      if (selected.has(chapter)) selected.delete(chapter); else selected.add(chapter);
+      if (autoBalance) return distributeChapterPercentages(current, selected);
+      return {
+        ...current,
+        [chapter]: {
+          ...current[chapter],
+          selected: willSelect,
+          percent: willSelect ? current[chapter]?.percent || 0 : 0
+        }
+      };
+    });
+    if (!willSelect && questionChapterFilter === chapter) setQuestionChapterFilter('All');
   }
 
   function changePercent(chapter, value) {
     const numeric = Math.max(0, Math.min(100, Number(value) || 0));
+    setAutoBalance(false);
     setChapterConfig((current) => ({ ...current, [chapter]: { ...current[chapter], percent: numeric } }));
   }
 
   function balanceSelectedChapters() {
-    const selected = chapters.filter((chapter) => chapterConfig[chapter]?.selected);
-    if (!selected.length) return;
-    const base = Math.floor(100 / selected.length);
-    let remainder = 100 - base * selected.length;
-    setChapterConfig((current) => Object.fromEntries(chapters.map((chapter) => [
-      chapter,
-      {
-        ...current[chapter],
-        percent: current[chapter]?.selected ? base + (remainder-- > 0 ? 1 : 0) : 0
-      }
-    ])));
+    setAutoBalance(true);
+    setChapterConfig((current) => distributeChapterPercentages(
+      current,
+      new Set(chapters.filter((chapter) => current[chapter]?.selected))
+    ));
+  }
+
+  function setAutoBalanceEnabled(enabled) {
+    setAutoBalance(enabled);
+    if (enabled) {
+      setChapterConfig((current) => distributeChapterPercentages(
+        current,
+        new Set(chapters.filter((chapter) => current[chapter]?.selected))
+      ));
+    }
+  }
+
+  function setAllChaptersSelected(shouldSelect) {
+    setChapterConfig((current) => {
+      const selected = new Set(shouldSelect ? chapters : []);
+      if (autoBalance) return distributeChapterPercentages(current, selected);
+      return Object.fromEntries(chapters.map((chapter) => [
+        chapter,
+        {
+          ...current[chapter],
+          selected: shouldSelect,
+          percent: shouldSelect ? current[chapter]?.percent || 0 : 0
+        }
+      ]));
+    });
+    if (!shouldSelect) setQuestionChapterFilter('All');
   }
 
   function generatePaper() {
@@ -487,7 +594,7 @@ function App() {
       return;
     }
     if (!poolBySection.B.length && !poolBySection.C.length) {
-      showNotice('No questions match the current chapter and metadata filters.');
+      showNotice('No selected questions are available in the active chapters.');
       return;
     }
     const random = seededRandom(seed.trim() || `${Date.now()}-${selectedBankId}`);
@@ -497,7 +604,7 @@ function App() {
     };
     setGeneratedPaper(paper);
     goToStep(4);
-    showNotice('Paper generated from a shuffled, chapter-aware pool.');
+    showNotice('Paper generated from the selected, chapter-aware pool.');
   }
 
   function downloadWord() {
@@ -560,15 +667,26 @@ function App() {
                   <div className="pool-stat"><strong>{selectedPool.length}</strong><span>in selected pool</span></div>
                 </div>
                 <div className="pool-toolbar">
-                  <div className="search-field"><Icon name="search" size={16} /><input value={questionSearch} onChange={(event) => setQuestionSearch(event.target.value)} placeholder="Search question text…" /></div>
+                  <div className="search-field"><Icon name="search" size={16} /><input value={questionSearch} onChange={(event) => setQuestionSearch(event.target.value)} placeholder="Search questions and subparts…" /></div>
                   <div className="filter-pills">{SECTION_FILTERS.map((filter) => <button key={filter} className={sectionFilter === filter ? 'active' : ''} onClick={() => setSectionFilter(filter)}>{filter === 'All' ? 'All sections' : `Section ${filter}`}</button>)}</div>
-                  <button className="text-button" onClick={toggleVisibleQuestions}>{visibleSelected === visibleQuestions.length ? 'Deselect visible' : 'Select visible'}</button>
                 </div>
                 <div className="metadata-filters">
+                  <label>Chapter<select value={questionChapterFilter} onChange={(event) => setQuestionChapterFilter(event.target.value)}><option value="All">All chapters</option>{activeChapters.map((chapter) => <option key={chapter} value={chapter}>{chapter}</option>)}</select></label>
                   <label>Type<select value={typeFilter} onChange={(event) => setTypeFilter(event.target.value)}><option>All</option><option value="short">Short</option><option value="numerical">Numerical</option><option value="long">Long</option></select></label>
                   <label>Source<select value={sourceFilter} onChange={(event) => setSourceFilter(event.target.value)}><option>All</option><option value="past_paper">Past paper</option><option value="important_book">Important book</option></select></label>
                   <label>Year<select value={yearFilter} onChange={(event) => setYearFilter(event.target.value)}><option>All</option>{availableYears.map((year) => <option key={year} value={year}>{year}</option>)}</select></label>
-                  {(typeFilter !== 'All' || sourceFilter !== 'All' || yearFilter !== 'All') && <button className="text-button" onClick={() => { setTypeFilter('All'); setSourceFilter('All'); setYearFilter('All'); }}>Clear filters</button>}
+                  <label>Selection<select value={selectionFilter} onChange={(event) => setSelectionFilter(event.target.value)}><option>All</option><option>Selected</option><option>Unselected</option></select></label>
+                  <label>Parts<select value={partsFilter} onChange={(event) => setPartsFilter(event.target.value)}><option>All</option><option value="Multipart">With parts</option><option value="Single">Without parts</option></select></label>
+                  {hasQuestionFilters && <button className="text-button" onClick={clearQuestionFilters}>Clear filters</button>}
+                </div>
+                <div className="selection-toolbar">
+                  <span><b>{visibleSelected}</b> of {visibleQuestions.length} visible selected</span>
+                  <div>
+                    <button onClick={() => setQuestionsSelected(visibleQuestions, true)} disabled={!visibleQuestions.length || visibleSelected === visibleQuestions.length}>Select visible</button>
+                    <button onClick={() => setQuestionsSelected(visibleQuestions, false)} disabled={!visibleSelected}>Deselect visible</button>
+                    <button onClick={() => setAllQuestionsSelected(true)} disabled={!eligibleQuestionCount || selectedPool.length === eligibleQuestionCount}>Select all</button>
+                    <button onClick={() => setAllQuestionsSelected(false)} disabled={!selectedPool.length}>Deselect all</button>
+                  </div>
                 </div>
                 <div className="pool-summary"><span><b>{visibleQuestions.length}</b> shown</span><span className="summary-divider" /><span><b>{poolBySection.B.length}</b> short</span><span><b>{poolBySection.C.length}</b> long</span><span className="summary-spacer" /><span className="legend-item"><i className="legend-dot dot-b" /> B</span><span className="legend-item"><i className="legend-dot dot-c" /> C</span><span className="legend-item"><i className="legend-dot dot-unknown" /> ?</span></div>
                 <div className="question-list">
@@ -581,8 +699,16 @@ function App() {
             <div className="right-column">
               <section className="panel chapter-panel" ref={(node) => { sectionRefs.current[2] = node; }}>
                 <div className="panel-heading compact"><div><div className="panel-kicker">STEP 02 — BALANCE</div><h2>Chapter contribution</h2><p>Every selected chapter gets a fair chance when the pool allows.</p></div><div className={`total-badge ${allocationTotal === 100 ? 'valid' : ''}`}><strong>{allocationTotal}%</strong><span>{allocationTotal === 100 ? 'balanced' : 'adjust to 100%'}</span></div></div>
-                <div className="chapter-list">{chapters.map((chapter, index) => { const chapterQuestions = selectedBank.questions.filter((question) => question.chapter === chapter); return <div className={`chapter-row ${chapterConfig[chapter]?.selected ? 'selected' : ''}`} key={chapter}><button className="chapter-toggle" onClick={() => toggleChapter(chapter)} aria-label={`Toggle ${chapter}`}><span className="chapter-check"><Icon name="check" size={13} /></span></button><div className="chapter-stamp">{chapter === UNKNOWN_CHAPTER ? '?' : String(index + 1).padStart(2, '0')}</div><div className="chapter-name"><strong>{chapter}</strong><span>{chapterQuestions.length} questions</span></div><div className="percent-input"><input type="number" min="0" max="100" value={chapterConfig[chapter]?.percent ?? 0} onChange={(event) => changePercent(chapter, event.target.value)} /><span>%</span></div></div>})}</div>
-                <div className="chapter-footnote"><span><Icon name="info" size={14} /> Percentages are normalized during generation.</span><button className="text-button" onClick={balanceSelectedChapters}>Balance evenly</button></div>
+                <div className="chapter-toolbar">
+                  <div className="search-field compact"><Icon name="search" size={15} /><input value={chapterSearch} onChange={(event) => setChapterSearch(event.target.value)} placeholder="Find a chapter…" /></div>
+                  <div className="filter-pills">{['All', 'Selected', 'Unselected'].map((filter) => <button key={filter} className={chapterView === filter ? 'active' : ''} onClick={() => setChapterView(filter)}>{filter}</button>)}</div>
+                  <div className="chapter-actions"><button onClick={() => setAllChaptersSelected(true)} disabled={activeChapters.length === chapters.length}>Select all</button><button onClick={() => setAllChaptersSelected(false)} disabled={!activeChapters.length}>Deselect all</button></div>
+                </div>
+                <div className="chapter-list">{visibleChapters.length ? visibleChapters.map((chapter) => { const chapterQuestions = selectedBank.questions.filter((question) => question.chapter === chapter); const chapterIndex = chapters.indexOf(chapter); return <div className={`chapter-row ${chapterConfig[chapter]?.selected ? 'selected' : ''}`} key={chapter}><button className="chapter-toggle" onClick={() => toggleChapter(chapter)} aria-label={`Toggle ${chapter}`}><span className="chapter-check"><Icon name="check" size={13} /></span></button><div className="chapter-stamp">{chapter === UNKNOWN_CHAPTER ? '?' : String(chapterIndex + 1).padStart(2, '0')}</div><div className="chapter-name"><strong>{chapter}</strong><span>{chapterQuestions.length} questions</span></div><div className="percent-input"><input aria-label={`${chapter} percentage`} type="number" min="0" max="100" value={chapterConfig[chapter]?.percent ?? 0} onChange={(event) => changePercent(chapter, event.target.value)} /><span>%</span></div></div>}) : <div className="empty-chapters">No chapters match this view.</div>}</div>
+                <div className="chapter-footnote">
+                  <label className="auto-balance-toggle" title="Editing a percentage switches to custom mode."><input type="checkbox" checked={autoBalance} onChange={(event) => setAutoBalanceEnabled(event.target.checked)} /><span>Balance evenly <small>{autoBalance ? 'Automatic' : 'Custom percentages'}</small></span></label>
+                  {!autoBalance && <button className="text-button" onClick={balanceSelectedChapters}>Reset evenly</button>}
+                </div>
               </section>
 
               <section className="panel shape-panel" ref={(node) => { sectionRefs.current[3] = node; }}>
@@ -603,7 +729,7 @@ function App() {
                   {[['showHeader', 'Paper header'], ['showMarks', 'Marks'], ['showChapter', 'Chapter labels'], ['showSource', 'Source/year']].map(([key, label]) => <label key={key}><input type="checkbox" checked={paperMeta[key]} onChange={(event) => setPaperMeta({ ...paperMeta, [key]: event.target.checked })} /><span>{label}</span></label>)}
                 </div>
                 <button className="generate-button" onClick={generatePaper}><span><Icon name="shuffle" size={18} /> Generate random paper</span><Icon name="arrow" size={18} /></button>
-                <div className="generation-note"><span className="spark">✦</span> Chapter-aware, filter-aware, and reproducible when you provide a seed.</div>
+                <div className="generation-note"><span className="spark">✦</span> Chapter-aware, selection-aware, and reproducible when you provide a seed.</div>
               </section>
 
               <section className="panel preview-panel" ref={(node) => { sectionRefs.current[4] = node; }}>
@@ -621,7 +747,7 @@ function App() {
               </section>
             </div>
           </div>
-        ) : <div className="loading-state">No bank selected. Use Load JSON to add a question bank.</div>}
+        ) : <div className="loading-state">No bank selected. Use Import JSON to add a question bank.</div>}
       </main>
 
       {previewPdf && <div className="modal-backdrop" onClick={() => setPreviewPdf(null)}><div className="pdf-modal" onClick={(event) => event.stopPropagation()}><div className="modal-header"><div><div className="panel-kicker">SOURCE PDF</div><h2>{previewPdf.name}</h2></div><div className="modal-actions"><a className="small-button" href={previewPdf.url} target="_blank" rel="noreferrer">Open in new tab</a><button className="icon-button" onClick={() => setPreviewPdf(null)} aria-label="Close PDF preview"><Icon name="close" size={18} /></button></div></div><iframe src={previewPdf.url} title={`Preview of ${previewPdf.name}`} /></div></div>}

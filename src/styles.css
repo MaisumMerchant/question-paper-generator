@@ -90,14 +90,21 @@ h2 { font: 600 22px/1 'Newsreader', serif; letter-spacing: -.025em; }
 .total-badge.valid strong { color: var(--mint-strong); }
 .pool-toolbar { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; padding: 0 21px 13px; border-bottom: 1px solid var(--line); }
 .metadata-filters { display: flex; align-items: end; gap: 10px; flex-wrap: wrap; padding: 11px 21px; border-bottom: 1px solid var(--line); background: rgba(249,248,247,.7); }
-.metadata-filters label { display: grid; gap: 5px; color: var(--ink-3); font: 500 9px 'DM Mono', monospace; text-transform: uppercase; letter-spacing: .08em; }
-.metadata-filters select { min-width: 108px; height: 34px; border: 1px solid var(--line-strong); border-radius: 7px; padding: 0 9px; color: var(--ink); background: #fff; font: 11px 'Plus Jakarta Sans', sans-serif; text-transform: none; letter-spacing: 0; }
+.metadata-filters label { flex: 1 1 108px; min-width: 0; display: grid; gap: 5px; color: var(--ink-3); font: 500 9px 'DM Mono', monospace; text-transform: uppercase; letter-spacing: .08em; }
+.metadata-filters label:first-child { flex-basis: 175px; }
+.metadata-filters select { min-width: 0; width: 100%; height: 34px; border: 1px solid var(--line-strong); border-radius: 7px; padding: 0 9px; color: var(--ink); background: #fff; font: 11px 'Plus Jakarta Sans', sans-serif; text-transform: none; letter-spacing: 0; }
 .search-field { flex: 1 1 165px; min-width: 150px; height: 34px; display: flex; align-items: center; gap: 8px; padding: 0 10px; border: 1px solid var(--line); border-radius: 7px; background: var(--paper); color: var(--ink-3); }
 .search-field input { min-width: 0; width: 100%; border: 0; outline: 0; background: transparent; color: var(--ink); font-size: 11px; }
 .filter-pills { display: flex; gap: 4px; padding: 3px; border-radius: 7px; background: #e9eeea; }
 .filter-pills button { border: 0; border-radius: 5px; padding: 7px 8px; background: transparent; color: var(--ink-3); font-size: 10px; }
 .filter-pills button.active { background: #fff; color: var(--ink); box-shadow: 0 1px 3px rgba(22,59,53,.08); font-weight: 600; }
 .text-button { border: 0; background: transparent; padding: 7px 0; color: var(--coral); font-size: 10px; font-weight: 600; white-space: nowrap; }
+.selection-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 9px 21px; color: var(--ink-3); font: 9px 'DM Mono', monospace; border-bottom: 1px solid var(--line); }
+.selection-toolbar b { color: var(--ink); font-weight: 600; }
+.selection-toolbar > div { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 5px; }
+.selection-toolbar button, .chapter-actions button { padding: 6px 8px; color: var(--ink-2); background: #fff; border: 1px solid var(--line); border-radius: 6px; font-size: 9px; font-weight: 600; }
+.selection-toolbar button:hover, .chapter-actions button:hover { border-color: var(--ink-3); }
+.selection-toolbar button:disabled, .chapter-actions button:disabled { background: transparent; }
 .pool-summary { display: flex; align-items: center; gap: 10px; padding: 12px 21px; color: var(--ink-3); font: 10px 'DM Mono', monospace; border-bottom: 1px solid var(--line); }
 .pool-summary b { color: var(--ink); font-weight: 500; }
 .summary-divider { width: 1px; height: 12px; background: var(--line-strong); }
@@ -131,6 +138,10 @@ h2 { font: 600 22px/1 'Newsreader', serif; letter-spacing: -.025em; }
 .small-button { display: inline-flex; align-items: center; justify-content: center; gap: 6px; padding: 7px 9px; font-size: 10px; font-weight: 600; white-space: nowrap; }
 .small-button.dark { color: #fff; border-color: var(--ink); background: var(--ink); }
 
+.chapter-toolbar { display: flex; align-items: center; flex-wrap: wrap; gap: 7px; padding: 0 21px 10px; border-bottom: 1px solid var(--line); }
+.search-field.compact { flex: 1 1 145px; min-width: 130px; }
+.chapter-toolbar .filter-pills button { padding: 6px; font-size: 9px; }
+.chapter-actions { display: flex; gap: 5px; margin-left: auto; }
 .chapter-list { padding: 2px 21px 7px; }
 .chapter-row { display: flex; align-items: center; gap: 9px; padding: 11px 0; border-bottom: 1px solid #e8eeea; opacity: .53; transition: opacity .2s ease; }
 .chapter-row.selected { opacity: 1; }
@@ -145,6 +156,11 @@ h2 { font: 600 22px/1 'Newsreader', serif; letter-spacing: -.025em; }
 .percent-input span { color: var(--ink-3); font: 10px 'DM Mono', monospace; }
 .chapter-footnote { display: flex; align-items: center; justify-content: space-between; gap: 12px; color: var(--ink-3); font-size: 10px; line-height: 1.4; padding: 12px 21px 16px; }
 .chapter-footnote > span { display: flex; align-items: center; gap: 7px; }
+.auto-balance-toggle { display: flex; align-items: center; gap: 8px; color: var(--ink-2); cursor: pointer; }
+.auto-balance-toggle input { width: 16px; height: 16px; margin: 0; accent-color: var(--mint-strong); }
+.auto-balance-toggle span { display: flex; flex-direction: column; gap: 1px; font-weight: 600; }
+.auto-balance-toggle small { color: var(--ink-3); font: 8px 'DM Mono', monospace; font-weight: 400; text-transform: uppercase; letter-spacing: .05em; }
+.empty-chapters { padding: 24px 0; color: var(--ink-3); text-align: center; font-size: 10px; }
 
 .shape-icon { display: grid; place-items: center; width: 35px; height: 35px; color: var(--ink-2); border: 1px solid var(--line); border-radius: 9px; background: var(--mint); }
 .count-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; padding: 2px 21px 15px; }
@@ -241,13 +257,19 @@ h2 { font: 600 22px/1 'Newsreader', serif; letter-spacing: -.025em; }
   .filter-pills { flex: 1; }
   .filter-pills button { flex: 1; }
   .pool-toolbar > .text-button { flex: 1 1 100%; text-align: right; }
+  .selection-toolbar { align-items: flex-start; flex-direction: column; }
+  .selection-toolbar > div { width: 100%; display: grid; grid-template-columns: 1fr 1fr; }
+  .selection-toolbar button { min-height: 32px; }
   .pool-summary { flex-wrap: wrap; }
   .summary-spacer { display: none; }
   .count-grid { grid-template-columns: 1fr; }
   .paper-settings { grid-template-columns: 1fr; }
   .paper-settings label.wide-setting { grid-column: auto; }
-  .metadata-filters label { flex: 1 1 120px; }
+  .metadata-filters label, .metadata-filters label:first-child { flex: 1 1 120px; }
   .metadata-filters select { width: 100%; }
+  .chapter-toolbar .search-field.compact { flex-basis: 100%; }
+  .chapter-toolbar .filter-pills { flex: 1 1 auto; }
+  .chapter-actions { margin-left: 0; }
   .paper-sheet { padding-left: 35px; padding-right: 22px; }
   .paper-sheet::before { left: 21px; }
   .export-actions .small-button { padding: 7px; }
