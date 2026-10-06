@@ -233,8 +233,8 @@ function PaperQuestion({ question, index, marks, showMarks, showChapter, showSou
 
 function StepRail({ activeStep, onStep }) {
   const steps = [
-    { number: '01', label: 'Questions', icon: 'layers' },
-    { number: '02', label: 'Chapters', icon: 'check' },
+    { number: '01', label: 'Chapters', icon: 'check' },
+    { number: '02', label: 'Questions', icon: 'layers' },
     { number: '03', label: 'Structure', icon: 'sliders' },
     { number: '04', label: 'Preview', icon: 'eye' }
   ];
@@ -281,12 +281,27 @@ function QuestionRow({ question, checked, onToggle, position }) {
   );
 }
 
+function CollapseButton({ collapsed, onToggle, label }) {
+  return (
+    <button
+      className={`collapse-button ${collapsed ? 'collapsed' : ''}`}
+      onClick={onToggle}
+      aria-expanded={!collapsed}
+      aria-label={`${collapsed ? 'Expand' : 'Collapse'} ${label}`}
+      title={`${collapsed ? 'Expand' : 'Collapse'} ${label}`}
+    >
+      <Icon name="chevron" size={16} />
+    </button>
+  );
+}
+
 function App() {
   const [banks, setBanks] = useState([]);
   const [selectedBankId, setSelectedBankId] = useState('');
   const [loadState, setLoadState] = useState('loading');
   const [notice, setNotice] = useState('');
   const [activeStep, setActiveStep] = useState(1);
+  const [collapsedSteps, setCollapsedSteps] = useState(new Set());
   const [chapterConfig, setChapterConfig] = useState({});
   const [selectedQuestionIds, setSelectedQuestionIds] = useState(new Set());
   const [sectionFilter, setSectionFilter] = useState('All');
@@ -391,6 +406,7 @@ function App() {
     setChapterSearch('');
     setChapterView('All');
     setAutoBalance(true);
+    setCollapsedSteps(new Set());
   }, [selectedBankId]);
 
   const selectedPool = useMemo(() => {
@@ -452,8 +468,21 @@ function App() {
 
   function goToStep(step) {
     setActiveStep(step);
+    setCollapsedSteps((current) => {
+      const next = new Set(current);
+      next.delete(step);
+      return next;
+    });
     window.requestAnimationFrame(() => {
       sectionRefs.current[step]?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  }
+
+  function toggleStepCollapsed(step) {
+    setCollapsedSteps((current) => {
+      const next = new Set(current);
+      if (next.has(step)) next.delete(step); else next.add(step);
+      return next;
     });
   }
 
@@ -660,12 +689,29 @@ function App() {
 
         {loadState === 'loading' ? <div className="loading-state"><div className="loader" /> Loading bundled question banks…</div> : selectedBank ? (
           <div className="content-grid">
-            <div className="left-column">
-              <section className="panel pool-panel" ref={(node) => { sectionRefs.current[1] = node; }}>
-                <div className="panel-heading">
-                  <div><div className="panel-kicker">STEP 01 — CURATE</div><h2>Question pool</h2><p>Select the questions you want the generator to draw from.</p></div>
-                  <div className="pool-stat"><strong>{selectedPool.length}</strong><span>in selected pool</span></div>
+              <section className={`panel chapter-panel ${collapsedSteps.has(1) ? 'collapsed' : ''}`} ref={(node) => { sectionRefs.current[1] = node; }}>
+                <div className="panel-heading compact"><div><div className="panel-kicker">STEP 01 — SELECT CHAPTERS</div><h2>Chapter contribution</h2><p>Choose chapters before refining the question pool.</p></div><div className="panel-heading-actions"><div className={`total-badge ${allocationTotal === 100 ? 'valid' : ''}`}><strong>{allocationTotal}%</strong><span>{allocationTotal === 100 ? 'balanced' : 'adjust to 100%'}</span></div><CollapseButton collapsed={collapsedSteps.has(1)} onToggle={() => toggleStepCollapsed(1)} label="chapter selection" /></div></div>
+                {!collapsedSteps.has(1) && <>
+                <div className="chapter-toolbar">
+                  <div className="search-field compact"><Icon name="search" size={15} /><input value={chapterSearch} onChange={(event) => setChapterSearch(event.target.value)} placeholder="Find a chapter…" /></div>
+                  <div className="filter-pills">{['All', 'Selected', 'Unselected'].map((filter) => <button key={filter} className={chapterView === filter ? 'active' : ''} onClick={() => setChapterView(filter)}>{filter}</button>)}</div>
+                  <div className="chapter-actions"><button onClick={() => setAllChaptersSelected(true)} disabled={activeChapters.length === chapters.length}>Select all</button><button onClick={() => setAllChaptersSelected(false)} disabled={!activeChapters.length}>Deselect all</button></div>
                 </div>
+                <div className="chapter-list">{visibleChapters.length ? visibleChapters.map((chapter) => { const chapterQuestions = selectedBank.questions.filter((question) => question.chapter === chapter); const chapterIndex = chapters.indexOf(chapter); return <div className={`chapter-row ${chapterConfig[chapter]?.selected ? 'selected' : ''}`} key={chapter}><button className="chapter-toggle" onClick={() => toggleChapter(chapter)} aria-label={`Toggle ${chapter}`}><span className="chapter-check"><Icon name="check" size={13} /></span></button><div className="chapter-stamp">{chapter === UNKNOWN_CHAPTER ? '?' : String(chapterIndex + 1).padStart(2, '0')}</div><div className="chapter-name"><strong>{chapter}</strong><span>{chapterQuestions.length} questions</span></div><div className="percent-input"><input aria-label={`${chapter} percentage`} type="number" min="0" max="100" value={chapterConfig[chapter]?.percent ?? 0} onChange={(event) => changePercent(chapter, event.target.value)} /><span>%</span></div></div>}) : <div className="empty-chapters">No chapters match this view.</div>}</div>
+                <div className="chapter-footnote">
+                  <label className="auto-balance-toggle" title="Editing a percentage switches to custom mode."><input type="checkbox" checked={autoBalance} onChange={(event) => setAutoBalanceEnabled(event.target.checked)} /><span>Balance evenly <small>{autoBalance ? 'Automatic' : 'Custom percentages'}</small></span></label>
+                  {!autoBalance && <button className="text-button" onClick={balanceSelectedChapters}>Reset evenly</button>}
+                </div>
+                </>}
+              </section>
+
+
+              <section className={`panel pool-panel ${collapsedSteps.has(2) ? 'collapsed' : ''}`} ref={(node) => { sectionRefs.current[2] = node; }}>
+                <div className="panel-heading">
+                  <div><div className="panel-kicker">STEP 02 — SELECT QUESTIONS</div><h2>Question pool</h2><p>Refine the questions from your selected chapters.</p></div>
+                  <div className="panel-heading-actions"><div className="pool-stat"><strong>{selectedPool.length}</strong><span>in selected pool</span></div><CollapseButton collapsed={collapsedSteps.has(2)} onToggle={() => toggleStepCollapsed(2)} label="question selection" /></div>
+                </div>
+                {!collapsedSteps.has(2) && <>
                 <div className="pool-toolbar">
                   <div className="search-field"><Icon name="search" size={16} /><input value={questionSearch} onChange={(event) => setQuestionSearch(event.target.value)} placeholder="Search questions and subparts…" /></div>
                   <div className="filter-pills">{SECTION_FILTERS.map((filter) => <button key={filter} className={sectionFilter === filter ? 'active' : ''} onClick={() => setSectionFilter(filter)}>{filter === 'All' ? 'All sections' : `Section ${filter}`}</button>)}</div>
@@ -692,27 +738,12 @@ function App() {
                 <div className="question-list">
                   {visibleQuestions.length ? visibleQuestions.map((question, index) => <QuestionRow key={question.id} question={question} position={index + 1} checked={selectedQuestionIds.has(question.id)} onToggle={toggleQuestion} />) : <div className="empty-list"><Icon name="search" size={22} /><strong>No questions match</strong><span>Select a chapter or try different filters.</span></div>}
                 </div>
+                </>}
               </section>
 
-            </div>
-
-            <div className="right-column">
-              <section className="panel chapter-panel" ref={(node) => { sectionRefs.current[2] = node; }}>
-                <div className="panel-heading compact"><div><div className="panel-kicker">STEP 02 — BALANCE</div><h2>Chapter contribution</h2><p>Every selected chapter gets a fair chance when the pool allows.</p></div><div className={`total-badge ${allocationTotal === 100 ? 'valid' : ''}`}><strong>{allocationTotal}%</strong><span>{allocationTotal === 100 ? 'balanced' : 'adjust to 100%'}</span></div></div>
-                <div className="chapter-toolbar">
-                  <div className="search-field compact"><Icon name="search" size={15} /><input value={chapterSearch} onChange={(event) => setChapterSearch(event.target.value)} placeholder="Find a chapter…" /></div>
-                  <div className="filter-pills">{['All', 'Selected', 'Unselected'].map((filter) => <button key={filter} className={chapterView === filter ? 'active' : ''} onClick={() => setChapterView(filter)}>{filter}</button>)}</div>
-                  <div className="chapter-actions"><button onClick={() => setAllChaptersSelected(true)} disabled={activeChapters.length === chapters.length}>Select all</button><button onClick={() => setAllChaptersSelected(false)} disabled={!activeChapters.length}>Deselect all</button></div>
-                </div>
-                <div className="chapter-list">{visibleChapters.length ? visibleChapters.map((chapter) => { const chapterQuestions = selectedBank.questions.filter((question) => question.chapter === chapter); const chapterIndex = chapters.indexOf(chapter); return <div className={`chapter-row ${chapterConfig[chapter]?.selected ? 'selected' : ''}`} key={chapter}><button className="chapter-toggle" onClick={() => toggleChapter(chapter)} aria-label={`Toggle ${chapter}`}><span className="chapter-check"><Icon name="check" size={13} /></span></button><div className="chapter-stamp">{chapter === UNKNOWN_CHAPTER ? '?' : String(chapterIndex + 1).padStart(2, '0')}</div><div className="chapter-name"><strong>{chapter}</strong><span>{chapterQuestions.length} questions</span></div><div className="percent-input"><input aria-label={`${chapter} percentage`} type="number" min="0" max="100" value={chapterConfig[chapter]?.percent ?? 0} onChange={(event) => changePercent(chapter, event.target.value)} /><span>%</span></div></div>}) : <div className="empty-chapters">No chapters match this view.</div>}</div>
-                <div className="chapter-footnote">
-                  <label className="auto-balance-toggle" title="Editing a percentage switches to custom mode."><input type="checkbox" checked={autoBalance} onChange={(event) => setAutoBalanceEnabled(event.target.checked)} /><span>Balance evenly <small>{autoBalance ? 'Automatic' : 'Custom percentages'}</small></span></label>
-                  {!autoBalance && <button className="text-button" onClick={balanceSelectedChapters}>Reset evenly</button>}
-                </div>
-              </section>
-
-              <section className="panel shape-panel" ref={(node) => { sectionRefs.current[3] = node; }}>
-                <div className="panel-heading compact"><div><div className="panel-kicker">STEP 03 — SHAPE</div><h2>Paper structure</h2><p>Choose how many questions to draw from the curated pool.</p></div><div className="shape-icon"><Icon name="sliders" size={20} /></div></div>
+              <section className={`panel shape-panel ${collapsedSteps.has(3) ? 'collapsed' : ''}`} ref={(node) => { sectionRefs.current[3] = node; }}>
+                <div className="panel-heading compact"><div><div className="panel-kicker">STEP 03 — SHAPE</div><h2>Paper structure</h2><p>Choose how many questions to draw from the curated pool.</p></div><div className="panel-heading-actions"><div className="shape-icon"><Icon name="sliders" size={20} /></div><CollapseButton collapsed={collapsedSteps.has(3)} onToggle={() => toggleStepCollapsed(3)} label="paper structure" /></div></div>
+                {!collapsedSteps.has(3) && <>
                 <div className="count-grid">
                   <label className="count-card"><span className="count-label"><i className="legend-dot dot-b" /> Section B <small>questions</small></span><input type="number" min="0" max={poolBySection.B.length} value={shortCount} onChange={(event) => setShortCount(event.target.value)} /><span className="availability">of {poolBySection.B.length} available</span><span className="inline-setting">Marks each <input type="number" min="0" value={shortMarks} onChange={(event) => setShortMarks(event.target.value)} /></span></label>
                   <label className="count-card"><span className="count-label"><i className="legend-dot dot-c" /> Section C <small>questions</small></span><input type="number" min="0" max={poolBySection.C.length} value={longCount} onChange={(event) => setLongCount(event.target.value)} /><span className="availability">of {poolBySection.C.length} available</span><span className="inline-setting">Marks each <input type="number" min="0" value={longMarks} onChange={(event) => setLongMarks(event.target.value)} /></span></label>
@@ -730,10 +761,13 @@ function App() {
                 </div>
                 <button className="generate-button" onClick={generatePaper}><span><Icon name="shuffle" size={18} /> Generate random paper</span><Icon name="arrow" size={18} /></button>
                 <div className="generation-note"><span className="spark">✦</span> Chapter-aware, selection-aware, and reproducible when you provide a seed.</div>
+                </>}
               </section>
 
-              <section className="panel preview-panel" ref={(node) => { sectionRefs.current[4] = node; }}>
-                <div className="panel-heading compact preview-heading"><div><div className="panel-kicker">STEP 04 — REVIEW</div><h2>Paper preview</h2><p>Review the exact printable output before export.</p></div><div className="export-actions"><button className="small-button" onClick={() => window.print()} disabled={!hasPaper}>Print</button><button className="small-button" onClick={downloadWord} disabled={!hasPaper}><Icon name="word" size={15} /> Word</button><button className="small-button dark" onClick={downloadPdf} disabled={!hasPaper}><Icon name="pdf" size={15} /> PDF</button></div></div>
+
+              <section className={`panel preview-panel ${collapsedSteps.has(4) ? 'collapsed' : ''}`} ref={(node) => { sectionRefs.current[4] = node; }}>
+                <div className="panel-heading compact preview-heading"><div><div className="panel-kicker">STEP 04 — REVIEW</div><h2>Paper preview</h2><p>Review the exact printable output before export.</p></div><div className="panel-heading-actions"><div className="export-actions"><button className="small-button" onClick={() => window.print()} disabled={!hasPaper}>Print</button><button className="small-button" onClick={downloadWord} disabled={!hasPaper}><Icon name="word" size={15} /> Word</button><button className="small-button dark" onClick={downloadPdf} disabled={!hasPaper}><Icon name="pdf" size={15} /> PDF</button></div><CollapseButton collapsed={collapsedSteps.has(4)} onToggle={() => toggleStepCollapsed(4)} label="paper preview" /></div></div>
+                {!collapsedSteps.has(4) && <>
                 <div className="paper-frame">
                   <div className="paper-sheet" id="paper-print" ref={paperRef}>
                     {hasPaper ? <>
@@ -744,8 +778,8 @@ function App() {
                   </div>
                 </div>
                 {hasPaper && <div className="preview-foot"><span><span className="status-dot" /> Ready to export</span><span>{generatedPaper.B.length + generatedPaper.C.length} questions · {totalMarks} marks</span></div>}
+                </>}
               </section>
-            </div>
           </div>
         ) : <div className="loading-state">No bank selected. Use Import JSON to add a question bank.</div>}
       </main>

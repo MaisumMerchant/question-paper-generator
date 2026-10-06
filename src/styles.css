@@ -76,11 +76,29 @@ h1 em { font-style: italic; color: var(--coral); }
 .control-button.primary { color: #fff; background: var(--ink); border-color: var(--ink); }
 .control-button.primary:hover { color: #fff; background: var(--ink-2); }
 
-.content-grid { display: grid; grid-template-columns: minmax(0, 1.08fr) minmax(360px, .92fr); gap: 20px; align-items: start; }
-.left-column, .right-column { display: grid; gap: 20px; min-width: 0; }
+.content-grid {
+  display: grid;
+  grid-template-columns: minmax(340px, .92fr) minmax(0, 1.08fr);
+  grid-template-areas:
+    "chapters questions"
+    "structure questions"
+    "preview preview";
+  gap: 20px;
+  align-items: start;
+}
+.chapter-panel { grid-area: chapters; }
+.pool-panel { grid-area: questions; }
+.shape-panel { grid-area: structure; }
+.preview-panel { grid-area: preview; }
 .panel { scroll-margin-top: 18px; background: rgba(255,255,255,.7); border: 1px solid var(--line); border-radius: 11px; box-shadow: var(--shadow); overflow: hidden; }
+.panel.collapsed .panel-heading { padding-bottom: 21px; }
 .panel-heading { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; padding: 21px 21px 17px; }
 .panel-heading.compact { padding-bottom: 15px; }
+.panel-heading-actions { display: flex; align-items: center; justify-content: flex-end; gap: 10px; flex: 0 0 auto; }
+.collapse-button { width: 32px; height: 32px; padding: 0; display: grid; place-items: center; color: var(--ink-2); background: rgba(255,255,255,.72); border: 1px solid var(--line-strong); border-radius: 8px; }
+.collapse-button:hover { border-color: var(--ink-3); background: #fff; }
+.collapse-button .icon { transition: transform .2s ease; transform: rotate(180deg); }
+.collapse-button.collapsed .icon { transform: rotate(0); }
 .panel-kicker { color: var(--coral); margin-bottom: 8px; }
 h2 { font: 600 22px/1 'Newsreader', serif; letter-spacing: -.025em; }
 .panel-heading p { color: var(--ink-3); font-size: 11px; line-height: 1.5; margin-top: 7px; }
@@ -227,14 +245,19 @@ h2 { font: 600 22px/1 'Newsreader', serif; letter-spacing: -.025em; }
 
 @media (max-width: 1120px) {
   .workspace { padding: 28px 24px 50px; }
-  .content-grid { grid-template-columns: 1fr; }
-  .right-column { grid-template-columns: 1fr 1fr; align-items: start; }
-  .preview-panel { grid-column: 1 / -1; }
+  .content-grid {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "chapters"
+      "questions"
+      "structure"
+      "preview";
+  }
 }
 @media (max-width: 820px) {
   .app-shell { display: block; }
-  .step-rail { width: 100%; min-height: auto; position: static; padding: 16px 18px 14px; }
-  .brand-lockup { padding: 0 2px 15px; border-bottom: 0; }
+  .step-rail { z-index: 4; width: 100%; min-height: auto; position: sticky; top: 0; padding: 8px 10px; box-shadow: 0 5px 18px rgba(10,31,28,.16); }
+  .brand-lockup { display: none; }
   .rail-intro, .rail-note, .rail-footer { display: none; }
   .steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 5px; }
   .step-button { min-width: 0; flex-direction: column; gap: 5px; padding: 7px 3px; text-align: center; }
@@ -246,8 +269,7 @@ h2 { font: 600 22px/1 'Newsreader', serif; letter-spacing: -.025em; }
   .control-group.wide { flex: 1 1 calc(50% - 8px); width: auto; }
   .control-actions { flex: 1 1 100%; margin-left: 0; }
   .control-button { flex: 1; }
-  .right-column { display: grid; grid-template-columns: 1fr; }
-  .preview-panel { grid-column: auto; }
+  .panel { scroll-margin-top: 70px; }
   .question-list { max-height: none; }
 }
 @media (max-width: 500px) {
@@ -270,6 +292,9 @@ h2 { font: 600 22px/1 'Newsreader', serif; letter-spacing: -.025em; }
   .chapter-toolbar .search-field.compact { flex-basis: 100%; }
   .chapter-toolbar .filter-pills { flex: 1 1 auto; }
   .chapter-actions { margin-left: 0; }
+  .panel-heading { padding: 18px 16px 14px; }
+  .panel.collapsed .panel-heading { padding-bottom: 18px; }
+  .panel-heading-actions { gap: 7px; }
   .paper-sheet { padding-left: 35px; padding-right: 22px; }
   .paper-sheet::before { left: 21px; }
   .export-actions .small-button { padding: 7px; }
@@ -279,6 +304,8 @@ h2 { font: 600 22px/1 'Newsreader', serif; letter-spacing: -.025em; }
   .modal-header { align-items: flex-start; padding: 13px; }
   .modal-header h2 { max-width: 180px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 16px; }
   .modal-actions { gap: 6px; }
+  .preview-heading { align-items: flex-start; flex-wrap: wrap; }
+  .preview-heading .panel-heading-actions { width: 100%; justify-content: space-between; }
 }
 
 @media (prefers-reduced-motion: reduce) {

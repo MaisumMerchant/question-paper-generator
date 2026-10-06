@@ -16,12 +16,12 @@ Paperloom is a responsive question-paper generator for Classes IX–XII. It turn
 1. Choose a **Class**.
 2. Choose a **Subject**.
 3. Use **View source PDF** to inspect the matching bundled source.
-4. Select or exclude questions from the question pool.
-5. Choose chapters and adjust their percentage contributions.
+4. Choose chapters and adjust their percentage contributions.
+5. Select or exclude questions from those chapters.
 6. Set Section B/C counts, marks, paper details and display options.
 7. Generate the paper, review it, then print or export it.
 
-The four workflow items in the side navigation jump directly to Questions, Chapters, Structure and Preview. On mobile they appear as a compact four-item navigation bar.
+The four workflow items jump directly to Chapters, Questions, Structure and Preview. Every step panel can be collapsed to its heading. On mobile, the workflow navigation stays visible as a compact sticky bar so a long question list never blocks access to later steps.
 
 ### Question-pool controls
 
@@ -74,7 +74,7 @@ Use **Import JSON** to load one or more banks for the current browser session. I
 
 ## Responsive design
 
-The interface supports desktop, tablet and mobile layouts. Desktop uses a two-column editing workspace; narrower screens switch to a single-column flow, full-width controls and a compact workflow navigator. The question list avoids nested scrolling on mobile.
+The interface supports desktop, tablet and mobile layouts. Desktop uses a two-column editing workspace; narrower screens switch to a single-column flow, full-width controls, collapsible panels and a sticky workflow navigator. The question list avoids nested scrolling on mobile.
 
 ## Development
 
