@@ -232,7 +232,7 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "A pendulum swings from $X$ to $Y$ and back to $X$ again.",
+      "text": "A pendulum swings from $X$ to $Y$ and back to $X$ again, as shown in the figure.",
       "parts": [
         {
           "label": "(i)",
@@ -970,15 +970,17 @@
       "type": "numerical",
       "source": "important_book",
       "year": null,
-      "text": "Find the mass of a body accelerated by a force of $200\\,\\mathrm{N}$ that speeds it up to $36\\,\\mathrm{m\\,s^{-1}}$."
-    },
-    {
-      "chapter": "Dynamics",
-      "section": "B",
-      "type": "numerical",
-      "source": "important_book",
-      "year": null,
-      "text": "What should be the acceleration of the same body if the applied force changes to $280\\,\\mathrm{N}$?"
+      "text": "A body is accelerated by a force of $200\\,\\mathrm{N}$ and speeds up to $36\\,\\mathrm{m\\,s^{-1}}$.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Find the mass of the body."
+        },
+        {
+          "label": "(ii)",
+          "text": "What should its acceleration be if the applied force changes to $280\\,\\mathrm{N}$?"
+        }
+      ]
     },
     {
       "chapter": "Dynamics",
@@ -1348,15 +1350,17 @@
       "type": "numerical",
       "source": "important_book",
       "year": null,
-      "text": "A mechanic uses a double-arm spanner and applies $15\\,\\mathrm{N}$ at each end to produce $60\\,\\mathrm{N\\,m}$ of torque. Find the length of the moment arm of the couple."
-    },
-    {
-      "chapter": "Turning Effect of Forces",
-      "section": "B",
-      "type": "numerical",
-      "source": "important_book",
-      "year": null,
-      "text": "With the same spanner, how much force is required to produce a torque of $80\\,\\mathrm{N\\,m}$?"
+      "text": "A mechanic uses a double-arm spanner and applies $15\\,\\mathrm{N}$ at each end to produce $60\\,\\mathrm{N\\,m}$ of torque.",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Find the length of the moment arm of the couple."
+        },
+        {
+          "label": "(ii)",
+          "text": "With the same spanner, how much force is required to produce a torque of $80\\,\\mathrm{N\\,m}$?"
+        }
+      ]
     },
     {
       "chapter": "Turning Effect of Forces",

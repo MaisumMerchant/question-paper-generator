@@ -16,7 +16,7 @@
       "type": "short",
       "source": "past_paper",
       "year": 2023,
-      "text": "Define wavelength and derive the formula $v=f\\lambda$."
+      "text": "Define wavelength and derive the formula $\\lambda=vT$."
     },
     {
       "chapter": "General Waves Properties",
@@ -184,7 +184,25 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Define amplitude, period, frequency and wavelength of a wave."
+      "text": "Define the following terms of a wave:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Amplitude"
+        },
+        {
+          "label": "(b)",
+          "text": "Period"
+        },
+        {
+          "label": "(c)",
+          "text": "Frequency"
+        },
+        {
+          "label": "(d)",
+          "text": "Wavelength"
+        }
+      ]
     },
     {
       "chapter": "General Waves Properties",
@@ -256,7 +274,17 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "For a simple pendulum, $T=2\\pi\\sqrt{L/g}$. What is the effect on the period of increasing (a) length and (b) mass?"
+      "text": "For a simple pendulum, $T=2\\pi\\sqrt{L/g}$. What is the effect on the period of increasing:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Length"
+        },
+        {
+          "label": "(b)",
+          "text": "Mass"
+        }
+      ]
     },
     {
       "chapter": "General Waves Properties",
@@ -336,7 +364,17 @@
       "type": "numerical",
       "source": "important_book",
       "year": null,
-      "text": "A student generates waves in a slinky with period $0.40\\,\\mathrm{s}$ and wavelength $0.60\\,\\mathrm{m}$. Determine (a) period and frequency and (b) wave speed."
+      "text": "A student generates waves in a slinky with period $0.40\\,\\mathrm{s}$ and wavelength $0.60\\,\\mathrm{m}$. Determine:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Period and frequency"
+        },
+        {
+          "label": "(b)",
+          "text": "Wave speed"
+        }
+      ]
     },
     {
       "chapter": "General Waves Properties",
@@ -360,7 +398,17 @@
       "type": "numerical",
       "source": "important_book",
       "year": null,
-      "text": "A simple pendulum has length $80.0\\,\\mathrm{cm}$. Calculate its (a) period and (b) frequency for $g=9.8\\,\\mathrm{m\\,s^{-2}}$."
+      "text": "A simple pendulum has length $80.0\\,\\mathrm{cm}$. For $g=9.8\\,\\mathrm{m\\,s^{-2}}$, calculate its:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Period"
+        },
+        {
+          "label": "(b)",
+          "text": "Frequency"
+        }
+      ]
     },
     {
       "chapter": "Sound",
@@ -544,7 +592,21 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Define infrasonic sound, the audible frequency range, and ultrasound."
+      "text": "Define the following:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Infrasonic sound"
+        },
+        {
+          "label": "(b)",
+          "text": "The audible frequency range of hearing"
+        },
+        {
+          "label": "(c)",
+          "text": "Ultrasound"
+        }
+      ]
     },
     {
       "chapter": "Sound",
@@ -696,7 +758,21 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Compare ultraviolet rays and radio signals in speed, frequency and wavelength."
+      "text": "Compare ultraviolet rays and radio signals:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Which travels faster?"
+        },
+        {
+          "label": "(b)",
+          "text": "Which has the greater frequency?"
+        },
+        {
+          "label": "(c)",
+          "text": "Which has the greater wavelength?"
+        }
+      ]
     },
     {
       "chapter": "Electromagnetic Spectrum",
@@ -704,7 +780,17 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "What are the main sources of radio waves, and what is the main advantage of radio waves in communication?"
+      "text": "Answer the following about radio waves:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "What are the main sources of radio waves?"
+        },
+        {
+          "label": "(b)",
+          "text": "What is the main advantage of radio waves in communication?"
+        }
+      ]
     },
     {
       "chapter": "Electromagnetic Spectrum",
@@ -720,7 +806,21 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "What radiation is commonly used in household remote controls? How do molecules emit infrared radiation? How do intruder alarms help security personnel visualize thermal images?"
+      "text": "Answer the following about infrared radiation:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "What type of radiation is commonly used in remote controls for household appliances?"
+        },
+        {
+          "label": "(b)",
+          "text": "How do molecules emit infrared radiation?"
+        },
+        {
+          "label": "(c)",
+          "text": "How do intruder alarms help security personnel visualize thermal images?"
+        }
+      ]
     },
     {
       "chapter": "Electromagnetic Spectrum",
@@ -736,7 +836,17 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Give daily-life applications of optical fibers in (a) telecommunication and (b) medicine."
+      "text": "Give daily-life applications of optical fibers in:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Telecommunication"
+        },
+        {
+          "label": "(b)",
+          "text": "The medical industry"
+        }
+      ]
     },
     {
       "chapter": "Electromagnetic Spectrum",
@@ -784,7 +894,7 @@
       "type": "numerical",
       "source": "important_book",
       "year": null,
-      "text": "Find the frequency of green light of wavelength $5.5\\times10^{-7}\\,\\mathrm{m}$."
+      "text": "Find the frequency of green light of wavelength $5.5\\times10^{7}\\,\\mathrm{m}$."
     },
     {
       "chapter": "Electromagnetic Spectrum",
@@ -928,7 +1038,17 @@
       "type": "long",
       "source": "past_paper",
       "year": 2024,
-      "text": "Draw ray diagrams for a convex lens when the object is at (i) $2F$ and (ii) beyond $2F$."
+      "text": "Draw ray diagrams for a convex lens when the object is placed:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "At $2F$"
+        },
+        {
+          "label": "(ii)",
+          "text": "Beyond $2F$"
+        }
+      ]
     },
     {
       "chapter": "Geometrical Optics",
@@ -1032,7 +1152,17 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "What is reflection of light? Illustrate reflection at a plane surface with a diagram."
+      "text": "Answer the following about reflection of light:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "What is meant by reflection of light?"
+        },
+        {
+          "label": "(b)",
+          "text": "Draw a diagram illustrating reflection at a plane surface."
+        }
+      ]
     },
     {
       "chapter": "Geometrical Optics",
@@ -1040,7 +1170,21 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Define normal, angle of incidence and angle of reflection."
+      "text": "Define the following terms used in reflection:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Normal"
+        },
+        {
+          "label": "(b)",
+          "text": "Angle of incidence"
+        },
+        {
+          "label": "(c)",
+          "text": "Angle of reflection"
+        }
+      ]
     },
     {
       "chapter": "Geometrical Optics",
@@ -1056,7 +1200,21 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Name the mirror used as a vehicle rear-view mirror, at a hilly-road blind spot, and by a dentist; justify each."
+      "text": "Name the type of mirror used in each situation and justify your answer:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "The side or rear-view mirror of a vehicle"
+        },
+        {
+          "label": "(b)",
+          "text": "Locating blind spots on hilly roads"
+        },
+        {
+          "label": "(c)",
+          "text": "A dentist's mirror"
+        }
+      ]
     },
     {
       "chapter": "Geometrical Optics",
@@ -1064,7 +1222,17 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Define refraction of light and illustrate passage through a parallel-sided glass slab."
+      "text": "Answer the following about refraction:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Define refraction of light."
+        },
+        {
+          "label": "(b)",
+          "text": "Draw the passage of light through a parallel-sided glass slab."
+        }
+      ]
     },
     {
       "chapter": "Geometrical Optics",
@@ -1072,7 +1240,17 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Define angle of incidence and angle of refraction."
+      "text": "Define the following terms used in refraction:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Angle of incidence"
+        },
+        {
+          "label": "(b)",
+          "text": "Angle of refraction"
+        }
+      ]
     },
     {
       "chapter": "Geometrical Optics",
@@ -1088,15 +1266,21 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Define refractive index and describe an experiment to determine it for a parallel-sided glass slab."
-    },
-    {
-      "chapter": "Geometrical Optics",
-      "section": "B",
-      "type": "short",
-      "source": "important_book",
-      "year": null,
-      "text": "Which physical quantity remains unchanged during refraction?"
+      "text": "Answer the following about refractive index:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "What is meant by the refractive index of a material?"
+        },
+        {
+          "label": "(b)",
+          "text": "Describe an experiment to determine the refractive index of a parallel-sided glass slab."
+        },
+        {
+          "label": "(c)",
+          "text": "Which physical quantity remains unchanged when refraction occurs?"
+        }
+      ]
     },
     {
       "chapter": "Geometrical Optics",
@@ -1120,7 +1304,17 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "For a light ray entering glass at (a) $0^\\circ$ and (b) $30^\\circ$ to the normal, state changes in frequency, speed, wavelength and direction."
+      "text": "A light ray approaches a glass prism. Describe what happens when it enters at:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "$0^\\circ$ to the normal"
+        },
+        {
+          "label": "(b)",
+          "text": "$30^\\circ$ to the normal; state the changes in frequency, speed, wavelength and direction"
+        }
+      ]
     },
     {
       "chapter": "Geometrical Optics",
@@ -1240,7 +1434,21 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "With ray diagrams, give the magnifying powers of a simple microscope, compound microscope and refracting telescope."
+      "text": "With ray diagrams, give the magnifying powers of:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "A simple microscope or magnifying glass"
+        },
+        {
+          "label": "(b)",
+          "text": "A compound microscope"
+        },
+        {
+          "label": "(c)",
+          "text": "A refracting telescope"
+        }
+      ]
     },
     {
       "chapter": "Geometrical Optics",
@@ -1248,7 +1456,17 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Define short sight and long sight."
+      "text": "Define:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Short sight"
+        },
+        {
+          "label": "(b)",
+          "text": "Long sight"
+        }
+      ]
     },
     {
       "chapter": "Geometrical Optics",
@@ -1256,7 +1474,17 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "How are short sight and long sight corrected?"
+      "text": "How are the following defects corrected?",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Short sight"
+        },
+        {
+          "label": "(b)",
+          "text": "Long sight"
+        }
+      ]
     },
     {
       "chapter": "Geometrical Optics",
@@ -1325,7 +1553,7 @@
     {
       "chapter": "Electrostatics",
       "section": "B",
-      "type": "long",
+      "type": "short",
       "source": "past_paper",
       "year": 2024,
       "text": "Derive $1/C_e=1/C_1+1/C_2+1/C_3$ for capacitors in series."
@@ -1549,7 +1777,7 @@
     {
       "chapter": "Current Electricity",
       "section": "B",
-      "type": "long",
+      "type": "short",
       "source": "past_paper",
       "year": 2023,
       "text": "State the heat-dissipation law and derive $H=I^2Rt$."
@@ -1557,7 +1785,7 @@
     {
       "chapter": "Current Electricity",
       "section": "B",
-      "type": "long",
+      "type": "short",
       "source": "past_paper",
       "year": 2019,
       "text": "State Joule's law and derive $H=I^2Rt$."
@@ -1808,7 +2036,21 @@
       "type": "numerical",
       "source": "important_book",
       "year": null,
-      "text": "Resistances $4\\,\\Omega$, $6\\,\\Omega$, and $12\\,\\Omega$ are in parallel across $6\\,\\mathrm{V}$. Find equivalent resistance, total current, and branch currents."
+      "text": "Resistances $4\\,\\Omega$, $6\\,\\Omega$, and $12\\,\\Omega$ are connected in parallel across $6\\,\\mathrm{V}$. Determine:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "The circuit's equivalent resistance"
+        },
+        {
+          "label": "(ii)",
+          "text": "The total current through the circuit"
+        },
+        {
+          "label": "(iii)",
+          "text": "The current through each resistance"
+        }
+      ]
     },
     {
       "chapter": "Current Electricity",
@@ -1845,7 +2087,7 @@
     {
       "chapter": "Electromagnetism",
       "section": "B",
-      "type": "long",
+      "type": "short",
       "source": "past_paper",
       "year": 2023,
       "text": "With a diagram, explain how changing a magnetic field induces emf in a circuit."
@@ -2040,7 +2282,7 @@
       "type": "numerical",
       "source": "important_book",
       "year": null,
-      "text": "The current in a long solenoid changes at $150\\,\\mathrm{A\\,s^{-1}}$ and mutual inductance is $5\\times10^{-5}\\,\\mathrm{H}$. Find the induced emf in the surrounding coil."
+      "text": "The current in a long solenoid changes at $150\\,\\mathrm{A\\,s^{-1}}$ and mutual inductance is $5\\times10^{5}\\,\\mathrm{H}$. Find the induced emf in the surrounding coil."
     },
     {
       "chapter": "Introductory Electronics",
@@ -2128,7 +2370,25 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Demonstrate thermionic emission with a diagram. Would it occur if air were present in the tube, and why is a vacuum used?"
+      "text": "Answer the following about thermionic emission:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Demonstrate thermionic emission with a diagram."
+        },
+        {
+          "label": "(b)",
+          "text": "Would thermionic emission still occur if air were present in the tube?"
+        }
+      ]
+    },
+    {
+      "chapter": "Introductory Electronics",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is a vacuum used in a thermionic-emission tube?"
     },
     {
       "chapter": "Introductory Electronics",
@@ -2208,7 +2468,17 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "What happens to the energy and speed of an electron beam in a magnetic field?"
+      "text": "When an electron beam passes through a magnetic field:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "What happens to its energy?"
+        },
+        {
+          "label": "(b)",
+          "text": "Does its speed change?"
+        }
+      ]
     },
     {
       "chapter": "Introductory Electronics",
@@ -2224,7 +2494,25 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Explain the functions of the fluorescent screen, cathode, anode and Y-plates of a CRO."
+      "text": "Explain the function of each part of a cathode-ray oscilloscope:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "The fluorescent screen"
+        },
+        {
+          "label": "(b)",
+          "text": "The cathode"
+        },
+        {
+          "label": "(c)",
+          "text": "The anode"
+        },
+        {
+          "label": "(d)",
+          "text": "The Y-plates"
+        }
+      ]
     },
     {
       "chapter": "Introductory Electronics",
@@ -2256,7 +2544,15 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Name the component that implements logic in digital electronics. Is an intermediate state possible?"
+      "text": "Name the component that implements logic in digital electronics."
+    },
+    {
+      "chapter": "Introductory Electronics",
+      "section": "B",
+      "type": "short",
+      "source": "important_book",
+      "year": null,
+      "text": "Is an intermediate state possible in digital electronics? Explain."
     },
     {
       "chapter": "Introductory Electronics",
@@ -2315,7 +2611,7 @@
       "text": "Give the truth table for a NOR gate."
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -2323,7 +2619,7 @@
       "text": "What is meant by flow of information? Explain how light signals are transmitted through optical fiber."
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -2331,7 +2627,7 @@
       "text": "What is an information storage device? Name six storage devices and describe the use of any three."
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -2339,7 +2635,7 @@
       "text": "What is information technology? Describe five components of a computer-based information system."
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2347,7 +2643,7 @@
       "text": "Differentiate data and information."
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2355,7 +2651,7 @@
       "text": "What do you understand by information and communication technology (ICT)?"
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2363,7 +2659,7 @@
       "text": "List the components of information technology and state the function of each."
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2371,7 +2667,7 @@
       "text": "Differentiate primary and secondary memory."
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2379,7 +2675,7 @@
       "text": "Name information storage devices and describe their uses."
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2387,7 +2683,7 @@
       "text": "Briefly explain radio-wave transmission through space."
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2395,7 +2691,7 @@
       "text": "How are light signals sent through optical fiber?"
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2403,7 +2699,7 @@
       "text": "What is a computer, and what is its role in everyday life?"
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2411,7 +2707,7 @@
       "text": "Differentiate hardware and software, and name types of software."
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2419,7 +2715,7 @@
       "text": "Explain word processing and data management."
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2427,7 +2723,7 @@
       "text": "What is the Internet? Discuss it as a useful source of knowledge and information."
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2435,7 +2731,7 @@
       "text": "Discuss the role of information technology in school education."
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2443,7 +2739,7 @@
       "text": "Why is optical fiber especially useful for communication?"
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2451,7 +2747,7 @@
       "text": "Which is more reliable: floppy disk or hard disk?"
     },
     {
-      "chapter": "Information and Communication Technology (ICT)",
+      "chapter": "Information and Communication Technology ICT",
       "section": "B",
       "type": "short",
       "source": "important_book",
@@ -2712,7 +3008,33 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "For uranium-238, state the nucleon number. If it emits an alpha particle to form thorium, find the alpha proton and nucleon numbers, thorium proton and nucleon numbers, and complete the decay equation."
+      "text": "The uranium isotope $^{238}_{92}\\mathrm{U}$ emits an alpha particle and forms a thorium nuclide. Answer the following:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "State the nucleon number of uranium-238."
+        },
+        {
+          "label": "(b)(i)",
+          "text": "State the proton number of an alpha particle."
+        },
+        {
+          "label": "(b)(ii)",
+          "text": "State the nucleon number of an alpha particle."
+        },
+        {
+          "label": "(b)(iii)",
+          "text": "State the proton number of thorium."
+        },
+        {
+          "label": "(b)(iv)",
+          "text": "State the nucleon number of the thorium isotope formed."
+        },
+        {
+          "label": "(c)",
+          "text": "Complete the nuclear equation for the uranium decay."
+        }
+      ]
     },
     {
       "chapter": "Nuclear Structure",
@@ -2720,7 +3042,25 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "A radioactive rock emits gamma rays. State the random nature of radioactive decay, define gamma rays, give two safety measures, and describe an experiment showing random emission."
+      "text": "A radioactive rock emits gamma rays. A demonstrator plans an experiment to show that gamma-ray emission is random.",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "State what is meant by the random nature of radioactive decay."
+        },
+        {
+          "label": "(b)",
+          "text": "Describe what is meant by a gamma ray."
+        },
+        {
+          "label": "(b)(i)",
+          "text": "State two safety measures the researcher must take."
+        },
+        {
+          "label": "(b)(ii)",
+          "text": "Describe how the experiment is performed."
+        }
+      ]
     },
     {
       "chapter": "Nuclear Structure",
@@ -2728,7 +3068,17 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "For carbon-12 and carbon-14, identify the stable isotope and radioisotope with reasons."
+      "text": "The carbon isotopes are $^{12}_{6}\\mathrm{C}$ and $^{14}_{6}\\mathrm{C}$, and carbon-14 decays by beta emission. Identify each with a reason:",
+      "parts": [
+        {
+          "label": "(a)(i)",
+          "text": "The stable isotope"
+        },
+        {
+          "label": "(a)(ii)",
+          "text": "The radioisotope"
+        }
+      ]
     },
     {
       "chapter": "Nuclear Structure",
@@ -2752,7 +3102,25 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "A slow neutron causes $^{235}_{92}\\mathrm{U}$ to split into $^{141}_{56}\\mathrm{Ba}$ and $^{92}_{36}\\mathrm{Kr}$ plus three neutrons. Name the process, compare the half-lives of U-235 and U-236, explain artificial production of radioisotopes with an example, and state one application."
+      "text": "A slow neutron produces the reaction $^{1}_{0}\\mathrm{n}+{}^{235}_{92}\\mathrm{U}\\rightarrow{}^{236}_{92}\\mathrm{U}\\rightarrow{}^{141}_{56}\\mathrm{Ba}+{}^{92}_{36}\\mathrm{Kr}+3{}^{1}_{0}\\mathrm{n}+\\text{energy}$.",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "State the name of the nuclear process."
+        },
+        {
+          "label": "(b)",
+          "text": "Which isotope, U-235 or U-236, has the shorter half-life?"
+        },
+        {
+          "label": "(c)",
+          "text": "Explain how radioisotopes can be produced artificially and give a suitable example."
+        },
+        {
+          "label": "(d)",
+          "text": "State one application of the process in daily life."
+        }
+      ]
     },
     {
       "chapter": "Nuclear Structure",
@@ -2760,7 +3128,21 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "The solar reaction $2{}^{1}_{1}\\mathrm{p}+3{}^{1}_{0}\\mathrm{n}\\rightarrow{}^{4}_{2}\\mathrm{He}+\\text{energy}$ is given. Name and define the reaction, and justify why fusion is more reliable and sustainable than a fission chain reaction."
+      "text": "The solar reaction $2{}^{1}_{1}\\mathrm{p}+3{}^{1}_{0}\\mathrm{n}\\rightarrow{}^{4}_{2}\\mathrm{He}+\\text{energy}$ is given.",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "State the name of this type of reaction."
+        },
+        {
+          "label": "(b)",
+          "text": "Define the reaction."
+        },
+        {
+          "label": "(c)",
+          "text": "Justify why nuclear fusion is a more reliable and sustainable energy source than a nuclear-fission chain reaction."
+        }
+      ]
     },
     {
       "chapter": "Nuclear Structure",
@@ -2776,7 +3158,17 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "In $^{226}_{88}\\mathrm{Ra}\\rightarrow{}^{222}_{86}\\mathrm{Rn}+{}^{4}_{2}\\mathrm{He}+\\text{energy}$, identify parent and daughter nuclides."
+      "text": "For $^{226}_{88}\\mathrm{Ra}\\rightarrow{}^{222}_{86}\\mathrm{Rn}+{}^{4}_{2}\\mathrm{He}+\\text{energy}$, identify:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "The parent nuclide"
+        },
+        {
+          "label": "(b)",
+          "text": "The daughter nuclide"
+        }
+      ]
     },
     {
       "chapter": "Nuclear Structure",
@@ -2792,7 +3184,21 @@
       "type": "short",
       "source": "important_book",
       "year": null,
-      "text": "Describe uses of radioisotopes in medicine, industry and agriculture."
+      "text": "Describe uses of radioisotopes in:",
+      "parts": [
+        {
+          "label": "(a)",
+          "text": "Medicine"
+        },
+        {
+          "label": "(b)",
+          "text": "Industry"
+        },
+        {
+          "label": "(c)",
+          "text": "Agriculture"
+        }
+      ]
     },
     {
       "chapter": "Nuclear Structure",

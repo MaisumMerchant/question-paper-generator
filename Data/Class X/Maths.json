@@ -136,7 +136,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2025,
-      "text": "Find the variance of the numbers of absentees in a class for the last seven days: $3,5,3,2,4,1,8$."
+      "text": "(OR) Find the variance of the numbers of absentees in a class for the last seven days: $3,5,3,2,4,1,8$."
     },
     {
       "chapter": "22: Basic Statistics",
@@ -152,7 +152,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2024,
-      "text": "Find the mean deviation of the marks of students: $4,7,12,76,48,4,51$."
+      "text": "(OR) Find the mean deviation of the marks of students: $4,7,12,76,48,4,51$."
     },
     {
       "chapter": "22: Basic Statistics",
@@ -168,7 +168,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2023,
-      "text": "Find the standard deviation (S.D.) of the marks of students: $90,30,85,50,25$."
+      "text": "(OR) Find the standard deviation (S.D.) of the marks of students: $90,30,85,50,25$."
     },
     {
       "chapter": "23: Pythagoras' Theorem",
@@ -256,7 +256,7 @@
       "type": "long",
       "source": "past_paper",
       "year": 2025,
-      "text": "If two circles touch internally, the distance between their centres is equal to the difference of their radii. Prove it."
+      "text": "(OR) If two circles touch internally, the distance between their centres is equal to the difference of their radii. Prove it."
     },
     {
       "chapter": "26: Tangents of a Circle",
@@ -272,7 +272,7 @@
       "type": "long",
       "source": "past_paper",
       "year": 2024,
-      "text": "If a line is drawn perpendicular to a radial segment of a circle at its outer endpoint, it is tangent to the circle at that point. Prove it."
+      "text": "(OR) If a line is drawn perpendicular to a radial segment of a circle at its outer endpoint, it is tangent to the circle at that point. Prove it."
     },
     {
       "chapter": "26: Tangents of a Circle",
@@ -288,7 +288,7 @@
       "type": "long",
       "source": "past_paper",
       "year": 2023,
-      "text": "If a line is drawn perpendicular to a radial segment of a circle at its outer endpoint, it is tangent to the circle at that point. Prove it."
+      "text": "(OR) If a line is drawn perpendicular to a radial segment of a circle at its outer endpoint, it is tangent to the circle at that point. Prove it."
     },
     {
       "chapter": "27: Chords and Arcs",
@@ -339,7 +339,7 @@
       "text": "The central angle of a minor arc is double the measure of the inscribed angle of the corresponding major arc. Prove it."
     },
     {
-      "chapter": "29: Practical Geometry—Circles",
+      "chapter": "29: Practical Geometry-Circles",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -347,7 +347,7 @@
       "text": "Draw the inscribed circle of $\\triangle ABC$ in which $\\overline{AB}=7\\,\\mathrm{cm}$, $\\angle B=60^\\circ$ and $\\overline{BC}=6\\,\\mathrm{cm}$. Also write the steps of construction."
     },
     {
-      "chapter": "29: Practical Geometry—Circles",
+      "chapter": "29: Practical Geometry-Circles",
       "section": "C",
       "type": "long",
       "source": "past_paper",
@@ -355,7 +355,7 @@
       "text": "Draw the circumcircle of $\\triangle ABC$ in which $\\overline{AB}=5.5\\,\\mathrm{cm}$, $\\overline{AC}=6\\,\\mathrm{cm}$ and $\\angle A=60^\\circ$. Also write the steps of construction."
     },
     {
-      "chapter": "29: Practical Geometry—Circles",
+      "chapter": "29: Practical Geometry-Circles",
       "section": "C",
       "type": "long",
       "source": "past_paper",

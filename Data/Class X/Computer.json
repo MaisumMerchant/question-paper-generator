@@ -783,19 +783,19 @@
       "text": "Write the purpose of the following statements:",
       "parts": [
         {
-          "label": "(i)",
+          "label": "(a)",
           "text": "else if"
         },
         {
-          "label": "(ii)",
+          "label": "(b)",
           "text": "switch"
         },
         {
-          "label": "(iii)",
+          "label": "(c)",
           "text": "goto"
         },
         {
-          "label": "(iv)",
+          "label": "(d)",
           "text": "exit"
         }
       ]
@@ -909,8 +909,8 @@
           "text": "AND gate"
         },
         {
-          "label": "(or)",
-          "text": "gate"
+          "label": "(ii)",
+          "text": "OR gate"
         },
         {
           "label": "(iii)",
@@ -1083,7 +1083,7 @@
       "text": "What is the difference between using Scratch online and offline?"
     },
     {
-      "chapter": "Miscellaneous: Remove the Error",
+      "chapter": "Remove the Error",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -1109,7 +1109,7 @@
       ]
     },
     {
-      "chapter": "Miscellaneous Notes",
+      "chapter": "Note",
       "section": "C",
       "type": "long",
       "source": "past_paper",

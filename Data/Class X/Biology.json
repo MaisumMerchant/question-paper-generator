@@ -917,15 +917,15 @@
       "text": "Define the following terms:",
       "parts": [
         {
-          "label": "(i)",
+          "label": "(a)",
           "text": "Homologous chromosome"
         },
         {
-          "label": "(ii)",
+          "label": "(b)",
           "text": "Allele"
         },
         {
-          "label": "(iii)",
+          "label": "(c)",
           "text": "Recessive allele"
         }
       ]
@@ -955,31 +955,31 @@
       "text": "Define the following terms:",
       "parts": [
         {
-          "label": "(i)",
+          "label": "(a)",
           "text": "Homologous chromosome"
         },
         {
-          "label": "(ii)",
+          "label": "(b)",
           "text": "Heterologous chromosome"
         },
         {
-          "label": "(iii)",
+          "label": "(c)",
           "text": "Dominant allele"
         },
         {
-          "label": "(iv)",
+          "label": "(d)",
           "text": "Allele"
         },
         {
-          "label": "(v)",
+          "label": "(e)",
           "text": "Recessive allele"
         },
         {
-          "label": "(vi)",
+          "label": "(f)",
           "text": "Homozygous"
         },
         {
-          "label": "(vii)",
+          "label": "(g)",
           "text": "Heterozygous"
         }
       ]

@@ -67,7 +67,7 @@
       "text": "Find the value of $\\frac{2391\\times30.72}{23.34}$ using logarithms."
     },
     {
-      "chapter": "03 - Algebraic Expressions and Formulas",
+      "chapter": "03 - Algebraic Expression and Formulas",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -75,7 +75,7 @@
       "text": "Find the value of $125x^3+y^3$ when $5x+y=13$ and $xy=10$."
     },
     {
-      "chapter": "03 - Algebraic Expressions and Formulas",
+      "chapter": "03 - Algebraic Expression and Formulas",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -83,7 +83,7 @@
       "text": "If $x=3-2\\sqrt{2}$, find the value of $x^2+\\frac{1}{x^2}$."
     },
     {
-      "chapter": "03 - Algebraic Expressions and Formulas",
+      "chapter": "03 - Algebraic Expression and Formulas",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -91,7 +91,7 @@
       "text": "Find the value of $216a^3-343b^3$ when $6a-7b=11$ and $ab=8$."
     },
     {
-      "chapter": "03 - Algebraic Expressions and Formulas",
+      "chapter": "03 - Algebraic Expression and Formulas",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -295,7 +295,7 @@
       "text": "For what value of $a$ will $36x^4+36x^3+57x^2+24x+a$ be a perfect square?"
     },
     {
-      "chapter": "06 - Linear Equations and Inequalities",
+      "chapter": "06 - Linear Equation and Inequalities",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -303,7 +303,7 @@
       "text": "Find the solution set of $\\frac{\\sqrt{3y+12}}{7}=3$."
     },
     {
-      "chapter": "06 - Linear Equations and Inequalities",
+      "chapter": "06 - Linear Equation and Inequalities",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -311,7 +311,7 @@
       "text": "Find the solution set of $\\left|\\frac{2x+3}{4}\\right|+2=7$."
     },
     {
-      "chapter": "06 - Linear Equations and Inequalities",
+      "chapter": "06 - Linear Equation and Inequalities",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -319,7 +319,7 @@
       "text": "Find the solution set of $\\left|\\frac{2x-3}{5}\\right|-12=5$."
     },
     {
-      "chapter": "06 - Linear Equations and Inequalities",
+      "chapter": "06 - Linear Equation and Inequalities",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -463,7 +463,7 @@
       "text": "If two opposite sides of a quadrilateral are congruent and parallel, it is a parallelogram. Prove it. (Theorem $10.1.2$)"
     },
     {
-      "chapter": "11 - Line Bisectors and Angle Bisectors",
+      "chapter": "11 - Line Bisectors and Angles Bisectors",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -471,7 +471,7 @@
       "text": "The perpendicular bisectors of the sides of a triangle are concurrent. Prove it. (Theorem $11.1.3$)"
     },
     {
-      "chapter": "11 - Line Bisectors and Angle Bisectors",
+      "chapter": "11 - Line Bisectors and Angles Bisectors",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -479,7 +479,7 @@
       "text": "Any point on the bisector of an angle is equidistant from its arms. Prove it. (Theorem $11.1.4$)"
     },
     {
-      "chapter": "11 - Line Bisectors and Angle Bisectors",
+      "chapter": "11 - Line Bisectors and Angles Bisectors",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -487,7 +487,7 @@
       "text": "The perpendicular bisectors of the sides of a triangle are concurrent. Prove it. (Theorem $11.1.3$)"
     },
     {
-      "chapter": "11 - Line Bisectors and Angle Bisectors",
+      "chapter": "11 - Line Bisectors and Angles Bisectors",
       "section": "B",
       "type": "short",
       "source": "past_paper",
@@ -495,12 +495,12 @@
       "text": "Any point on the bisector of an angle is equidistant from its arms. Prove it. (Theorem $11.1.4$)"
     },
     {
-      "chapter": "11 - Line Bisectors and Angle Bisectors",
+      "chapter": "11 - Line Bisectors and Angles Bisectors",
       "section": "B",
       "type": "short",
       "source": "past_paper",
       "year": 2022,
-      "text": "Any point on the bisector of an angle is equidistant from its arms. Prove it. (Theorem $11.1.4$)"
+      "text": "(OR) Any point on the bisector of an angle is equidistant from its arms. Prove it. (Theorem $11.1.4$)"
     },
     {
       "chapter": "12 - Sides and Angles of a Triangle",
@@ -527,31 +527,31 @@
       "text": "If two angles of a triangle are unequal in measure, the side opposite the greater angle is longer than the side opposite the smaller angle. Prove it. (Theorem $12.1.2$)"
     },
     {
-      "chapter": "13 - Practical Geometry: Triangles",
+      "chapter": "13 - Practical Geometry-Triangle",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
       "year": 2025,
-      "text": "Construct a triangle $ABC$ in which $m\\overline{BC}=6\\,\\mathrm{cm}$, $m\\overline{AC}=4\\,\\mathrm{cm}$, and $m\\overline{AB}=5\\,\\mathrm{cm}$. Draw the bisectors of $\\angle A$ and $\\angle B$; steps of construction are not required."
+      "text": "(OR) Construct a triangle $ABC$ in which $m\\overline{BC}=6\\,\\mathrm{cm}$, $m\\overline{AC}=4\\,\\mathrm{cm}$, and $m\\overline{AB}=5\\,\\mathrm{cm}$. Draw the bisectors of $\\angle A$ and $\\angle B$; steps of construction are not required."
     },
     {
-      "chapter": "13 - Practical Geometry: Triangles",
+      "chapter": "13 - Practical Geometry-Triangle",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
       "year": 2024,
-      "text": "Construct a triangle $PQR$ in which $m\\overline{PQ}=5.7\\,\\mathrm{cm}$, $m\\overline{QR}=6.4\\,\\mathrm{cm}$, and $m\\overline{PR}=4.4\\,\\mathrm{cm}$. Draw the altitudes from vertices $Q$ and $R$."
+      "text": "(OR) Construct a triangle $PQR$ in which $m\\overline{PQ}=5.7\\,\\mathrm{cm}$, $m\\overline{QR}=6.4\\,\\mathrm{cm}$, and $m\\overline{PR}=4.4\\,\\mathrm{cm}$. Draw the altitudes from vertices $Q$ and $R$."
     },
     {
-      "chapter": "13 - Practical Geometry: Triangles",
+      "chapter": "13 - Practical Geometry-Triangle",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
       "year": 2023,
-      "text": "Construct a triangle $ABC$ in which $m\\overline{BC}=6\\,\\mathrm{cm}$, $m\\overline{BC}=4\\,\\mathrm{cm}$, and $m\\overline{AB}=5\\,\\mathrm{cm}$. Draw the bisectors of angles $A$ and $B$."
+      "text": "(OR) Construct a triangle $ABC$ in which $m\\overline{BC}=6\\,\\mathrm{cm}$, $m\\overline{AC}=4\\,\\mathrm{cm}$, and $m\\overline{AB}=5\\,\\mathrm{cm}$. Draw the bisectors of angles $A$ and $B$."
     },
     {
-      "chapter": "13 - Practical Geometry: Triangles",
+      "chapter": "13 - Practical Geometry-Triangle",
       "section": "B",
       "type": "numerical",
       "source": "past_paper",
@@ -588,7 +588,7 @@
       "type": "long",
       "source": "past_paper",
       "year": 2024,
-      "text": "In any triangle, the sum of the squares on any two sides is equal to twice the square on half of the third side together with twice the square on the median which bisects the third side (Apollonius' theorem). Prove it. (Theorem $15.1.3$)"
+      "text": "(OR) In any triangle, the sum of the squares on any two sides is equal to twice the square on half of the third side together with twice the square on the median which bisects the third side (Apollonius' theorem). Prove it. (Theorem $15.1.3$)"
     },
     {
       "chapter": "15 - Projection of a Side of a Triangle",
@@ -596,7 +596,7 @@
       "type": "long",
       "source": "past_paper",
       "year": 2023,
-      "text": "In an obtuse-angled triangle, the square on the side opposite the obtuse angle is equal to the sum of the squares on the sides containing the obtuse angle together with twice the rectangle contained by one of the sides and the projection on it of the other. Prove it. (Theorem $15.1.1$)"
+      "text": "(OR) In an obtuse-angled triangle, the square on the side opposite the obtuse angle is equal to the sum of the squares on the sides containing the obtuse angle together with twice the rectangle contained by one of the sides and the projection on it of the other. Prove it. (Theorem $15.1.1$)"
     },
     {
       "chapter": "16 - Introduction to Coordinate Geometry / Analytical Geometry",
@@ -604,7 +604,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2025,
-      "text": "Prove that the points $P(-3,-4)$, $Q(2,6)$, and $R(0,2)$ are collinear."
+      "text": "(OR) Prove that the points $P(-3,-4)$, $Q(2,6)$, and $R(0,2)$ are collinear."
     },
     {
       "chapter": "16 - Introduction to Coordinate Geometry / Analytical Geometry",
@@ -628,7 +628,7 @@
       "type": "numerical",
       "source": "past_paper",
       "year": 2022,
-      "text": "Show that $(2,1)$, $B(5,1)$, and $C(2,6)$ are the vertices of a right-angled triangle."
+      "text": "(OR) Show that $A(2,1)$, $B(5,1)$, and $C(2,6)$ are the vertices of a right-angled triangle."
     }
   ]
 }
