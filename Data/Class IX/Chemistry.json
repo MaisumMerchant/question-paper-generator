@@ -4,6 +4,151 @@
   "questions": [
     {
       "section": "B",
+      "number": "2",
+      "year": 2025,
+      "text": "Write down about the applications of Chemistry in daily life.",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
+    },
+    {
+      "section": "B",
+      "number": "3",
+      "year": 2025,
+      "text": "Differentiate between Molecular and Empirical formula.",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper",
+      "parts": []
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 2025,
+      "text": "Complete and balance the following equations:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$KNO_3 \\rightarrow$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$Ca + H_2O \\rightarrow$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$NaHCO_3 \\rightarrow$"
+        }
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper"
+    },
+    {
+      "section": "B",
+      "number": "11",
+      "year": 2025,
+      "text": "Write down the chemical formulae and one use of each of the following compounds:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Soda Ash"
+        },
+        {
+          "label": "(ii)",
+          "text": "Baking Soda"
+        },
+        {
+          "label": "(iii)",
+          "text": "Washing Soda"
+        }
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper"
+    },
+    {
+      "section": "B",
+      "number": "4",
+      "year": 2024,
+      "text": "The following statements belong to which branch of Chemistry? Identify:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "That chlorofluoro compounds are responsible for depletion of Ozone layer."
+        },
+        {
+          "label": "(ii)",
+          "text": "That investigates the properties of Ammonia gas."
+        },
+        {
+          "label": "(iii)",
+          "text": "That finds out the quantity and quality of Paracetamol in Panadol tablet."
+        }
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper"
+    },
+    {
+      "section": "B",
+      "number": "8",
+      "year": 2024,
+      "text": "Balance the following chemical equations by inspection method:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "$CaCO_3 + HCl \\rightarrow CaCl_2 + H_2O + CO_2$"
+        },
+        {
+          "label": "(ii)",
+          "text": "$KClO_3 \\rightarrow KCl + O_2$"
+        },
+        {
+          "label": "(iii)",
+          "text": "$NH_3 + O_2 \\rightarrow NO + H_2O$"
+        }
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper"
+    },
+    {
+      "section": "B",
+      "number": "9",
+      "year": 2024,
+      "text": "Calculate the number of atoms present in $9.2\\,g$ of Calcium. (Atomic mass of $Ca = 40$)",
+      "chapter": "Fundamentals of Chemistry",
+      "type": "numerical",
+      "source": "past_paper",
+      "parts": []
+    },
+    {
+      "section": "B",
+      "number": "11",
+      "year": 2024,
+      "text": "Write down the chemical formulae of the following compounds:",
+      "parts": [
+        {
+          "label": "(i)",
+          "text": "Caustic Soda"
+        },
+        {
+          "label": "(ii)",
+          "text": "Sand"
+        },
+        {
+          "label": "(iii)",
+          "text": "Sugar"
+        }
+      ],
+      "chapter": "Fundamentals of Chemistry",
+      "type": "short",
+      "source": "past_paper"
+    },
+    {
+      "section": "B",
       "number": "3",
       "year": 2023,
       "text": "Calculate the number of moles and number of molecules present in 45 grams of glucose $(C_6H_{12}O_6)$.",
