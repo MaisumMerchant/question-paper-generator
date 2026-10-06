@@ -233,10 +233,10 @@ function PaperQuestion({ question, index, marks, showMarks, showChapter, showSou
 
 function StepRail({ activeStep, onStep }) {
   const steps = [
-    { number: '01', label: 'Load banks', icon: 'upload' },
-    { number: '02', label: 'Curate pool', icon: 'layers' },
-    { number: '03', label: 'Shape paper', icon: 'sliders' },
-    { number: '04', label: 'Preview & export', icon: 'eye' }
+    { number: '01', label: 'Questions', icon: 'layers' },
+    { number: '02', label: 'Chapters', icon: 'check' },
+    { number: '03', label: 'Structure', icon: 'sliders' },
+    { number: '04', label: 'Preview', icon: 'eye' }
   ];
   return (
     <aside className="step-rail">
@@ -311,11 +311,10 @@ function App() {
     showSource: false
   });
   const [generatedPaper, setGeneratedPaper] = useState({ B: [], C: [] });
-  const [pdfFiles, setPdfFiles] = useState([]);
   const [previewPdf, setPreviewPdf] = useState(null);
   const jsonInputRef = useRef(null);
-  const pdfInputRef = useRef(null);
   const paperRef = useRef(null);
+  const sectionRefs = useRef({});
 
   useEffect(() => {
     let cancelled = false;
@@ -388,11 +387,8 @@ function App() {
       selectedQuestionIds.has(question.id)
       && activeChapters.includes(question.chapter)
       && (question.section === 'B' || question.section === 'C')
-      && (typeFilter === 'All' || question.type === typeFilter)
-      && (sourceFilter === 'All' || question.source === sourceFilter)
-      && (yearFilter === 'All' || String(question.year) === String(yearFilter))
     );
-  }, [selectedBank, selectedQuestionIds, activeChapters, typeFilter, sourceFilter, yearFilter]);
+  }, [selectedBank, selectedQuestionIds, activeChapters]);
   const poolBySection = useMemo(() => ({
     B: selectedPool.filter((question) => question.section === 'B'),
     C: selectedPool.filter((question) => question.section === 'C')
@@ -418,6 +414,13 @@ function App() {
     window.setTimeout(() => setNotice((current) => current === message ? '' : current), 4200);
   }
 
+  function goToStep(step) {
+    setActiveStep(step);
+    window.requestAnimationFrame(() => {
+      sectionRefs.current[step]?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  }
+
   async function handleJsonFiles(fileList) {
     const files = Array.from(fileList || []).filter((file) => file.name.toLowerCase().endsWith('.json'));
     if (!files.length) return;
@@ -433,17 +436,8 @@ function App() {
     if (nextBanks.length) {
       setBanks((current) => [...nextBanks, ...current]);
       setSelectedBankId(nextBanks[0].id);
-      setActiveStep(2);
+      setActiveStep(1);
       showNotice(`${nextBanks.length} JSON bank${nextBanks.length > 1 ? 's' : ''} added to the studio.`);
-    }
-  }
-
-  function handlePdfFiles(fileList) {
-    const next = Array.from(fileList || []).filter((file) => file.type === 'application/pdf' || file.name.toLowerCase().endsWith('.pdf')).map((file) => ({ file, name: file.name, url: URL.createObjectURL(file), builtIn: false }));
-    if (next.length) {
-      setPdfFiles((current) => [...current, ...next]);
-      setPreviewPdf(next[0]);
-      showNotice(`${next.length} source PDF${next.length > 1 ? 's' : ''} ready to preview.`);
     }
   }
 
@@ -502,7 +496,7 @@ function App() {
       C: allocateQuestions(poolBySection.C, Math.max(0, Number(longCount) || 0), percentages, random)
     };
     setGeneratedPaper(paper);
-    setActiveStep(4);
+    goToStep(4);
     showNotice('Paper generated from a shuffled, chapter-aware pool.');
   }
 
@@ -535,36 +529,32 @@ function App() {
 
   return (
     <div className="app-shell">
-      <StepRail activeStep={activeStep} onStep={setActiveStep} />
+      <StepRail activeStep={activeStep} onStep={goToStep} />
       <main className="workspace">
         <header className="topbar">
           <div>
             <div className="eyebrow">QUESTION PAPER GENERATOR <span className="eyebrow-line" /></div>
             <h1>Build a paper with <em>intent.</em></h1>
-            <p className="topbar-subtitle">Choose a bank, tune the balance, and leave the formatting to Paperloom.</p>
-          </div>
-          <div className="topbar-actions">
-            <button className="ghost-button" onClick={() => selectedSourcePdf && setPreviewPdf(selectedSourcePdf)} disabled={!selectedSourcePdf}><Icon name="eye" size={16} /> View selected PDF</button>
-            <button className="ghost-button" onClick={() => pdfInputRef.current?.click()}><Icon name="pdf" size={16} /> Source PDFs <span className="tiny-count">{pdfFiles.length}</span></button>
-            <div className="session-pill"><span className="status-dot" /> Local session</div>
+            <p className="topbar-subtitle">Choose a class and subject, tune the balance, and leave the formatting to Paperloom.</p>
           </div>
         </header>
 
         {notice && <div className="notice"><Icon name="info" size={16} /><span>{notice}</span><button onClick={() => setNotice('')} aria-label="Dismiss notification"><Icon name="x" size={15} /></button></div>}
 
         <section className="control-bar">
-          <div className="control-group wide"><label>Class</label><div className="select-wrap"><select value={selectedClass} onChange={(event) => { const bank = banks.find((item) => item.className === event.target.value && item.subject === selectedSubject) || banks.find((item) => item.className === event.target.value); if (bank) setSelectedBankId(bank.id); }}><option value="">Select class</option>{classOptions.map((option) => <option key={option} value={option}>{option}</option>)}</select><Icon name="chevron" size={15} /></div></div>
-          <div className="control-group wide"><label>Subject</label><div className="select-wrap"><select value={selectedSubject} onChange={(event) => { const bank = banks.find((item) => item.subject === event.target.value && item.className === selectedClass) || banks.find((item) => item.subject === event.target.value); if (bank) setSelectedBankId(bank.id); }}><option value="">Select subject</option>{subjectOptions.map((option) => <option key={option} value={option}>{option}</option>)}</select><Icon name="chevron" size={15} /></div></div>
-          <div className="control-group bank-control"><label>Question bank</label><div className="select-wrap"><select value={selectedBankId} onChange={(event) => setSelectedBankId(event.target.value)}><option value="">Choose a bank</option>{banks.map((bank) => <option value={bank.id} key={bank.id}>{bank.className} · {bank.subject} · {bank.sourceName}</option>)}</select><Icon name="chevron" size={15} /></div></div>
-          <button className="upload-button" onClick={() => jsonInputRef.current?.click()}><Icon name="upload" size={16} /> Load JSON</button>
-          <input ref={jsonInputRef} type="file" accept=".json,application/json" multiple hidden onChange={(event) => handleJsonFiles(event.target.files)} />
-          <input ref={pdfInputRef} type="file" accept=".pdf,application/pdf" multiple hidden onChange={(event) => handlePdfFiles(event.target.files)} />
+          <div className="control-group wide"><label>Class</label><div className="select-wrap"><select aria-label="Class" value={selectedClass} onChange={(event) => { const bank = banks.find((item) => item.className === event.target.value && item.subject === selectedSubject) || banks.find((item) => item.className === event.target.value); if (bank) setSelectedBankId(bank.id); }}><option value="">Select class</option>{classOptions.map((option) => <option key={option} value={option}>{option}</option>)}</select><Icon name="chevron" size={15} /></div></div>
+          <div className="control-group wide"><label>Subject</label><div className="select-wrap"><select aria-label="Subject" value={selectedSubject} onChange={(event) => { const bank = banks.find((item) => item.subject === event.target.value && item.className === selectedClass) || banks.find((item) => item.subject === event.target.value); if (bank) setSelectedBankId(bank.id); }}><option value="">Select subject</option>{subjectOptions.map((option) => <option key={option} value={option}>{option}</option>)}</select><Icon name="chevron" size={15} /></div></div>
+          <div className="control-actions">
+            <button className="control-button secondary" onClick={() => selectedSourcePdf && setPreviewPdf(selectedSourcePdf)} disabled={!selectedSourcePdf}><Icon name="eye" size={16} /> View source PDF</button>
+            <button className="control-button primary" onClick={() => jsonInputRef.current?.click()}><Icon name="upload" size={16} /> Import JSON</button>
+          </div>
+          <input ref={jsonInputRef} type="file" accept=".json,application/json" multiple hidden onChange={(event) => { handleJsonFiles(event.target.files); event.target.value = ''; }} />
         </section>
 
         {loadState === 'loading' ? <div className="loading-state"><div className="loader" /> Loading bundled question banks…</div> : selectedBank ? (
           <div className="content-grid">
             <div className="left-column">
-              <section className="panel pool-panel">
+              <section className="panel pool-panel" ref={(node) => { sectionRefs.current[1] = node; }}>
                 <div className="panel-heading">
                   <div><div className="panel-kicker">STEP 01 — CURATE</div><h2>Question pool</h2><p>Select the questions you want the generator to draw from.</p></div>
                   <div className="pool-stat"><strong>{selectedPool.length}</strong><span>in selected pool</span></div>
@@ -578,7 +568,7 @@ function App() {
                   <label>Type<select value={typeFilter} onChange={(event) => setTypeFilter(event.target.value)}><option>All</option><option value="short">Short</option><option value="numerical">Numerical</option><option value="long">Long</option></select></label>
                   <label>Source<select value={sourceFilter} onChange={(event) => setSourceFilter(event.target.value)}><option>All</option><option value="past_paper">Past paper</option><option value="important_book">Important book</option></select></label>
                   <label>Year<select value={yearFilter} onChange={(event) => setYearFilter(event.target.value)}><option>All</option>{availableYears.map((year) => <option key={year} value={year}>{year}</option>)}</select></label>
-                  <button className="text-button" onClick={() => { setTypeFilter('All'); setSourceFilter('All'); setYearFilter('All'); }}>Clear filters</button>
+                  {(typeFilter !== 'All' || sourceFilter !== 'All' || yearFilter !== 'All') && <button className="text-button" onClick={() => { setTypeFilter('All'); setSourceFilter('All'); setYearFilter('All'); }}>Clear filters</button>}
                 </div>
                 <div className="pool-summary"><span><b>{visibleQuestions.length}</b> shown</span><span className="summary-divider" /><span><b>{poolBySection.B.length}</b> short</span><span><b>{poolBySection.C.length}</b> long</span><span className="summary-spacer" /><span className="legend-item"><i className="legend-dot dot-b" /> B</span><span className="legend-item"><i className="legend-dot dot-c" /> C</span><span className="legend-item"><i className="legend-dot dot-unknown" /> ?</span></div>
                 <div className="question-list">
@@ -586,23 +576,16 @@ function App() {
                 </div>
               </section>
 
-              <section className="panel source-panel">
-                <div className="panel-heading compact"><div><div className="panel-kicker">REFERENCE MATERIAL</div><h2>Related source PDFs</h2><p>The matching PDF follows the selected class and subject automatically.</p></div><button className="icon-button" onClick={() => pdfInputRef.current?.click()} aria-label="Add source PDF"><Icon name="plus" size={17} /></button></div>
-                {(selectedSourcePdf || pdfFiles.length) ? <div className="pdf-list">
-                  {selectedSourcePdf && <div className={`pdf-row built-in ${previewPdf?.url === selectedSourcePdf.url ? 'selected' : ''}`}><div className="pdf-icon"><Icon name="pdf" size={18} /></div><div className="pdf-copy"><strong>{selectedSourcePdf.name}</strong><span>Selected class & subject · bundled source</span></div><span className="source-badge">AUTO</span><button className="small-button" onClick={() => setPreviewPdf(selectedSourcePdf)}>{previewPdf?.url === selectedSourcePdf.url ? 'Viewing' : 'Preview'}</button></div>}
-                  {pdfFiles.map((item) => <div className={`pdf-row ${previewPdf?.url === item.url ? 'selected' : ''}`} key={item.url}><div className="pdf-icon"><Icon name="pdf" size={18} /></div><div className="pdf-copy"><strong>{item.name}</strong><span>{(item.file.size / 1024).toFixed(0)} KB · uploaded</span></div><button className="small-button" onClick={() => setPreviewPdf(item)}>{previewPdf?.url === item.url ? 'Viewing' : 'Preview'}</button><button className="remove-button" onClick={() => { URL.revokeObjectURL(item.url); setPdfFiles((current) => current.filter((pdf) => pdf.url !== item.url)); if (previewPdf?.url === item.url) setPreviewPdf(null); }} aria-label={`Remove ${item.name}`}><Icon name="x" size={15} /></button></div>)}
-                </div> : <button className="pdf-dropzone" onClick={() => pdfInputRef.current?.click()}><span className="dropzone-icon"><Icon name="pdf" size={22} /></span><span><strong>No matching bundled PDF</strong><small>Browse your files to add a related source paper</small></span><Icon name="arrow" size={17} /></button>}
-              </section>
             </div>
 
             <div className="right-column">
-              <section className="panel chapter-panel">
+              <section className="panel chapter-panel" ref={(node) => { sectionRefs.current[2] = node; }}>
                 <div className="panel-heading compact"><div><div className="panel-kicker">STEP 02 — BALANCE</div><h2>Chapter contribution</h2><p>Every selected chapter gets a fair chance when the pool allows.</p></div><div className={`total-badge ${allocationTotal === 100 ? 'valid' : ''}`}><strong>{allocationTotal}%</strong><span>{allocationTotal === 100 ? 'balanced' : 'adjust to 100%'}</span></div></div>
                 <div className="chapter-list">{chapters.map((chapter, index) => { const chapterQuestions = selectedBank.questions.filter((question) => question.chapter === chapter); return <div className={`chapter-row ${chapterConfig[chapter]?.selected ? 'selected' : ''}`} key={chapter}><button className="chapter-toggle" onClick={() => toggleChapter(chapter)} aria-label={`Toggle ${chapter}`}><span className="chapter-check"><Icon name="check" size={13} /></span></button><div className="chapter-stamp">{chapter === UNKNOWN_CHAPTER ? '?' : String(index + 1).padStart(2, '0')}</div><div className="chapter-name"><strong>{chapter}</strong><span>{chapterQuestions.length} questions</span></div><div className="percent-input"><input type="number" min="0" max="100" value={chapterConfig[chapter]?.percent ?? 0} onChange={(event) => changePercent(chapter, event.target.value)} /><span>%</span></div></div>})}</div>
                 <div className="chapter-footnote"><span><Icon name="info" size={14} /> Percentages are normalized during generation.</span><button className="text-button" onClick={balanceSelectedChapters}>Balance evenly</button></div>
               </section>
 
-              <section className="panel shape-panel">
+              <section className="panel shape-panel" ref={(node) => { sectionRefs.current[3] = node; }}>
                 <div className="panel-heading compact"><div><div className="panel-kicker">STEP 03 — SHAPE</div><h2>Paper structure</h2><p>Choose how many questions to draw from the curated pool.</p></div><div className="shape-icon"><Icon name="sliders" size={20} /></div></div>
                 <div className="count-grid">
                   <label className="count-card"><span className="count-label"><i className="legend-dot dot-b" /> Section B <small>questions</small></span><input type="number" min="0" max={poolBySection.B.length} value={shortCount} onChange={(event) => setShortCount(event.target.value)} /><span className="availability">of {poolBySection.B.length} available</span><span className="inline-setting">Marks each <input type="number" min="0" value={shortMarks} onChange={(event) => setShortMarks(event.target.value)} /></span></label>
@@ -623,7 +606,7 @@ function App() {
                 <div className="generation-note"><span className="spark">✦</span> Chapter-aware, filter-aware, and reproducible when you provide a seed.</div>
               </section>
 
-              <section className="panel preview-panel">
+              <section className="panel preview-panel" ref={(node) => { sectionRefs.current[4] = node; }}>
                 <div className="panel-heading compact preview-heading"><div><div className="panel-kicker">STEP 04 — REVIEW</div><h2>Paper preview</h2><p>Review the exact printable output before export.</p></div><div className="export-actions"><button className="small-button" onClick={() => window.print()} disabled={!hasPaper}>Print</button><button className="small-button" onClick={downloadWord} disabled={!hasPaper}><Icon name="word" size={15} /> Word</button><button className="small-button dark" onClick={downloadPdf} disabled={!hasPaper}><Icon name="pdf" size={15} /> PDF</button></div></div>
                 <div className="paper-frame">
                   <div className="paper-sheet" id="paper-print" ref={paperRef}>
