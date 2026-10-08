@@ -93,7 +93,7 @@ The GitHub Pages workflow deploys pushes to `main`.
 
 ## No-login shared paper library
 
-**Save to shared library** exports a PDF and its question/settings JSON to Cloudflare Workers KV (Free plan, no card required) through a protected Worker. **Shared papers** browses the public library, downloads PDFs/questions and copies direct paper links. Teachers do not need accounts. Public-sharing consent, server-side Turnstile verification, upload/read limits, file-size checks and no anonymous delete/overwrite routes protect the upload flow.
+**Save to shared library** exports a PDF and its question/settings JSON to Cloudflare Workers KV (Free plan, no card required) through a protected Worker. **Shared papers** browses the public library, downloads PDFs/questions and copies direct paper links. Viewing does not need an account; saving or replacing papers requires a private owner publishing key. Public-sharing consent, server-side Turnstile verification, upload/read limits, file-size checks and owner-protected replacement and no anonymous delete routes protect the upload flow.
 
 The GitHub Pages site remains static. Cloud storage uses a separately deployed **Workers Free + KV Free** service. Its public API origin and Turnstile site key are configured in `public/cloud-config.json`; owner maintenance instructions are in [Cloudflare setup](cloudflare/README.md). An empty configuration shows an honest setup-pending state. Cloudflare secrets never belong in frontend code. Public uploads must not contain confidential exams or personal information.
 
@@ -110,3 +110,7 @@ Default structure: eight Section B questions at four marks (attempt five), and t
 With **Balance evenly** enabled, each section gets equal chapter quotas, independent of question-bank size and rounded display percentages. Eight short questions from two chapters means four per chapter. Three long questions means two from one chapter and one from the other; tied extra slots are assigned randomly. Questions are randomly sampled within each quota and shuffled in the paper. A seed preserves repeatability. Custom percentage mode uses proportional integer quotas instead. Chapters with too few questions contribute what is available, and unfilled slots are redistributed among the other selected chapters with eligible questions. No questions are invented or duplicated to fill a shortage. Existing shared PDFs are unchanged.
 
 Run allocator regression tests with `node --test tests/questionAllocation.test.js`.
+
+### Permanent latest-paper sharing links
+
+Each class and subject has one stable public PDF link. Save to shared library updates that link to the latest saved paper without adding duplicate library entries; generating a preview does not publish it. All saves require a private owner publishing key configured as the Worker’s `PUBLISH_KEY` secret. Readers remain public and need no sign-in. The key can optionally be remembered on a trusted device. See the Cloudflare setup guide for configuration and consistency limits.

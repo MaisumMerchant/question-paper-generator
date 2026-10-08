@@ -11,18 +11,18 @@ class Bucket {
   async delete(key) { this.data.delete(key); }
   async list({ prefix, limit, cursor }) { const items = [...this.data.values()].filter(o => o.key.startsWith(prefix)).sort((a,b) => a.key.localeCompare(b.key)); const offset = Number(cursor || 0); return { objects: items.slice(offset,offset+limit), truncated: items.length > offset+limit, cursor: String(offset+limit) }; }
 }
-function environment() { return { ALLOWED_ORIGIN: origin, TURNSTILE_HOSTNAME: 'maisummerchant.github.io', UPLOADS_ENABLED: 'true', TURNSTILE_SECRET_KEY: 'unit-test-only', PAPERS: new Bucket(), UPLOAD_LIMIT: { limit: async () => ({ success: true }) }, READ_LIMIT: { limit: async () => ({ success: true }) } }; }
+function environment() { return { ALLOWED_ORIGIN: origin, TURNSTILE_HOSTNAME: 'maisummerchant.github.io', UPLOADS_ENABLED: 'true', TURNSTILE_SECRET_KEY: 'unit-test-only', PUBLISH_KEY: 'unit-test-publishing-key-only', PAPERS: new Bucket(), UPLOAD_LIMIT: { limit: async () => ({ success: true }) }, READ_LIMIT: { limit: async () => ({ success: true }) } }; }
 function verify(verdict = { success: true, hostname: 'maisummerchant.github.io', action: 'save-paper' }) { globalThis.fetch = async url => { assert.equal(url, 'https://challenges.cloudflare.com/turnstile/v0/siteverify'); return Response.json(verdict); }; }
 function uploadRequest(changes = {}) {
   const form = new FormData();
   form.append('pdf', changes.pdf || new File(['%PDF-1.7\nunit-test\n%%EOF'], 'paper.pdf', { type: 'application/pdf' }));
   form.append('snapshot', new File([changes.snapshot || JSON.stringify({ version: 1, class: 'XI', subject: 'Physics', questions: [{ section: 'B', text: 'Define work.' }] })], 'paper.json', { type: 'application/json' }));
-  form.append('title', changes.title ?? 'Class XI Physics'); form.append('turnstileToken', changes.token ?? 'unit-test-token'); form.append('publicConsent', changes.consent ?? 'yes');
+  form.append('publisherKey', changes.key ?? 'unit-test-publishing-key-only'); form.append('title', changes.title ?? 'Class XI Physics'); form.append('turnstileToken', changes.token ?? 'unit-test-token'); form.append('publicConsent', changes.consent ?? 'yes');
   return new Request(base+'/papers', { method: 'POST', body: form, headers: { Origin: changes.origin ?? origin, 'CF-Connecting-IP': '192.0.2.1', ...(changes.headers || {}) } });
 }
 async function save(env) { verify(); const response = await worker.fetch(uploadRequest(), env); assert.equal(response.status,201); return response.json(); }
 test.afterEach(() => { globalThis.fetch = originalFetch; });
-test('successful anonymous upload stores PDF and question snapshot', async () => { const env=environment(); const r=await save(env);assert.equal(r.title,'Class XI Physics');assert.equal(env.PAPERS.data.size,3);assert.ok(env.PAPERS.data.has(`papers/${r.id}.pdf`)); });
+test('owner-protected upload stores PDF and question snapshot', async () => { const env=environment(); const r=await save(env);assert.equal(r.title,'Class XI Physics');assert.equal(env.PAPERS.data.size,3);assert.ok(env.PAPERS.data.has(`papers/${r.id}.pdf`)); });
 test('public listing and both downloads work without sign-in', async () => { const env=environment(),r=await save(env);const list=await worker.fetch(new Request(base+'/papers'),env);assert.deepEqual((await list.json()).papers.map(p=>p.id),[r.id]);for(const kind of ['pdf','settings']){const d=await worker.fetch(new Request(`${base}/papers/${r.id}/${kind}`),env);assert.equal(d.status,200);assert.match(d.headers.get('Content-Disposition'),/^attachment/);assert.equal(d.headers.get('X-Content-Type-Options'),'nosniff');assert.ok((await d.arrayBuffer()).byteLength);} });
 test('valid CORS preflight is allowed without credentials',async()=>{const r=await worker.fetch(new Request(base+'/papers',{method:'OPTIONS',headers:{Origin:origin,'Access-Control-Request-Method':'POST'}}),environment());assert.equal(r.status,204);assert.equal(r.headers.get('Access-Control-Allow-Origin'),origin);assert.equal(r.headers.get('Access-Control-Allow-Credentials'),null);});
 test('foreign origins and originless uploads are rejected',async()=>{const env=environment();let r=await worker.fetch(uploadRequest({origin:'https://evil.example'}),env);assert.equal(r.status,403);assert.equal(env.PAPERS.data.size,0);const req=uploadRequest();req.headers.delete('Origin');r=await worker.fetch(req,env);assert.equal(r.status,403);});
@@ -38,11 +38,11 @@ test('oversized uploads are rejected',async()=>{const r=await worker.fetch(uploa
 test('invalid JSON snapshots and missing titles are rejected',async()=>{assert.equal((await worker.fetch(uploadRequest({snapshot:'invalid'}),environment())).status,400);assert.equal((await worker.fetch(uploadRequest({title:''}),environment())).status,400);});
 test('unexpected methods and path traversal are rejected',async()=>{for(const method of ['DELETE','PUT','PATCH'])assert.equal((await worker.fetch(new Request(base+'/papers',{method}),environment())).status,405);assert.equal((await worker.fetch(new Request(base+'/papers/not-a-safe-id/pdf'),environment())).status,404);});
 test('partial storage failures roll back orphan settings and do not claim success',async()=>{verify();const env=environment();const put=env.PAPERS.put.bind(env.PAPERS);env.PAPERS.put=async(key,...args)=>{if(key.startsWith('papers/'))throw Error('unavailable');return put(key,...args);};assert.equal((await worker.fetch(uploadRequest(),env)).status,503);assert.equal(env.PAPERS.data.size,0);});
-test('R2 cursor pagination returns the next page',async()=>{const env=environment();for(let i=0;i<31;i++){const id=String(i).padStart(13,'0')+'-00000000-0000-0000-0000-000000000000';env.PAPERS.data.set(`papers/${id}.pdf`,{key:`papers/${id}.pdf`,customMetadata:{record:JSON.stringify({id,title:'Paper '+i})}});}const first=await(await worker.fetch(new Request(base+'/papers'),env)).json();assert.equal(first.papers.length,30);assert.ok(first.cursor);const second=await(await worker.fetch(new Request(base+'/papers?cursor='+first.cursor),env)).json();assert.equal(second.papers.length,1);assert.equal(second.cursor,null);});
+test('latest-slot cursor pagination returns the next page',async()=>{const env=environment();for(let i=0;i<31;i++){const id=String(i).padStart(13,'0')+'-00000000-0000-0000-0000-000000000000';env.PAPERS.data.set(`links/${String(i).padStart(12,'0')}`,{key:`links/${String(i).padStart(12,'0')}`,customMetadata:{record:JSON.stringify({id,savedAt:new Date().toISOString(),title:'Paper '+i})}});}const first=await(await worker.fetch(new Request(base+'/papers'),env)).json();assert.equal(first.papers.length,30);assert.ok(first.cursor);const second=await(await worker.fetch(new Request(base+'/papers?cursor='+first.cursor),env)).json();assert.equal(second.papers.length,1);assert.equal(second.cursor,null);});
 
 class KV {
   data = new Map();
-  async put(key,value,options={}) { this.data.set(key,{value:typeof value==='string'?new TextEncoder().encode(value):new Uint8Array(value),metadata:options.metadata}); }
+  async put(key,value,options={}) { this.data.set(key,{value:typeof value==='string'?new TextEncoder().encode(value):new Uint8Array(value),metadata:options.metadata,expirationTtl:options.expirationTtl}); }
   async get(key,{type}) { assert.equal(type,'arrayBuffer'); const v=this.data.get(key); return v?v.value.slice().buffer:null; }
   async delete(key) { this.data.delete(key); }
   async list({prefix,limit,cursor}) { const keys=[...this.data.keys()].filter(k=>k.startsWith(prefix)).sort();const offset=Number(cursor||0);return {keys:keys.slice(offset,offset+limit).map(name=>({name,metadata:this.data.get(name).metadata})),list_complete:keys.length<=offset+limit,cursor:String(offset+limit)}; }
@@ -55,3 +55,38 @@ test('short links serve the raw PDF inline with no webpage or login',async()=>{c
 test('compact legacy links work without migration',async()=>{const env=kvEnvironment(),saved=await save(env);const bytes=new Uint8Array(22);let n=Number(saved.id.slice(0,13));for(let i=5;i>=0;i--){bytes[i]=n%256;n=Math.floor(n/256);}const hex=saved.id.slice(14).replace(/-/g,'');for(let i=0;i<16;i++)bytes[6+i]=parseInt(hex.slice(i*2,i*2+2),16);const code=Buffer.from(bytes).toString('base64url');assert.equal(code.length,30);assert.equal((await worker.fetch(new Request(`${base}/p/${code}`),env)).status,200);});
 test('missing and malformed short links return not found',async()=>{for(const code of ['aaaaaaaaaaaa','bad','x'.repeat(30),'..'])assert.equal((await worker.fetch(new Request(`${base}/p/${code}`),kvEnvironment())).status,404);});
 
+
+
+test('publishing key is required and fails closed before writes',async()=>{
+  for(const key of ['', 'incorrect']) {const env=environment();verify();const r=await worker.fetch(uploadRequest({key}),env);assert.equal(r.status,403);assert.equal(env.PAPERS.data.size,0);}
+  const env=environment();delete env.PUBLISH_KEY;assert.equal((await worker.fetch(uploadRequest(),env)).status,503);
+});
+test('same class and subject retain one permanent link to the newest PDF and JSON',async()=>{
+  const env=kvEnvironment();const first=await save(env);
+  const snapshot=JSON.stringify({version:1,class:'XI',subject:'physics',questions:[{section:'B',text:'Latest question.'}]});
+  const pdf=new File(['%PDF-1.7\nlatest version\n%%EOF'],'latest.pdf',{type:'application/pdf'});
+  const response=await worker.fetch(uploadRequest({title:'New paper',snapshot,pdf}),env);assert.equal(response.status,200);const latest=await response.json();
+  assert.equal(latest.shortCode,first.shortCode);assert.notEqual(latest.id,first.id);
+  const listing=await(await worker.fetch(new Request(base+'/papers'),env)).json();assert.equal(listing.papers.length,1);assert.equal(listing.papers[0].id,latest.id);
+  const shared=await worker.fetch(new Request(`${base}/p/${first.shortCode}`),env);assert.match(await shared.text(),/latest version/);assert.match(shared.headers.get('Content-Disposition'),/^inline/);assert.equal(shared.headers.get('Cache-Control'),'no-store');
+  const settings=await(await worker.fetch(new Request(`${base}/papers/${latest.id}/settings`),env)).json();assert.equal(settings.questions[0].text,'Latest question.');assert.equal(settings.publisherKey,undefined);
+  assert.equal(env.PAPERS_KV.data.get(`papers/${first.id}.pdf`).expirationTtl,86400);assert.equal(env.PAPERS_KV.data.get(`papers/${latest.id}.pdf`).expirationTtl,undefined);
+});
+test('class and subject have independent slots, names canonicalize',async()=>{
+  const env=environment();verify();const first=await save(env);
+  for(const [className,subject] of [['X','Physics'],['XI','Biology']]) {
+    const snapshot=JSON.stringify({version:1,class:className,subject,questions:[{section:'B',text:'Question.'}]});
+    const r=await(await worker.fetch(uploadRequest({snapshot}),env)).json();assert.notEqual(r.shortCode,first.shortCode);
+  }
+  const maths=async subject=>await(await worker.fetch(uploadRequest({snapshot:JSON.stringify({version:1,class:'IX',subject,questions:[{section:'B',text:'Question.'}]})}),env)).json();
+  assert.equal((await maths('Maths')).shortCode,(await maths('Mathematics')).shortCode);
+});
+test('failed replacement leaves the old alias, PDF and JSON intact',async()=>{
+  const env=environment();const first=await save(env);const put=env.PAPERS.put.bind(env.PAPERS);
+  for(const failure of ['papers/','links/']) {
+    env.PAPERS.put=async(key,...args)=>{if(key.startsWith(failure))throw Error('storage unavailable');return put(key,...args);};
+    assert.equal((await worker.fetch(uploadRequest({title:'replacement'}),env)).status,503);
+    assert.equal(env.PAPERS.data.size,3);assert.equal(await new Response((await env.PAPERS.get(`links/${first.shortCode}`)).body).text(),first.id);
+    assert.equal((await worker.fetch(new Request(`${base}/p/${first.shortCode}`),env)).status,200);
+  }
+});

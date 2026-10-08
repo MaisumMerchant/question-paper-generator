@@ -622,7 +622,7 @@ function App() {
     catch { showNotice('PDF export failed. Please try again.'); }
   }
 
-  async function saveCloudPaper({ title, token }) {
+  async function saveCloudPaper({ title, token, publisherKey }) {
     const pdf = await createPdf();
     if (!pdf) throw new Error('Generate a paper before saving.');
     const blob = pdf.output('blob');
@@ -631,7 +631,7 @@ function App() {
     const form = new FormData();
     form.append('pdf', blob, 'paper.pdf');
     form.append('snapshot', new Blob([JSON.stringify(snapshot)], { type: 'application/json' }), 'paper.json');
-    form.append('title', title); form.append('turnstileToken', token); form.append('publicConsent', 'yes');
+    form.append('publisherKey', publisherKey); form.append('title', title); form.append('turnstileToken', token); form.append('publicConsent', 'yes');
     const response = await fetch(`${cloudConfig.apiUrl}/papers`, { method: 'POST', body: form, signal: AbortSignal.timeout(60000) });
     let result; try { result = await response.json(); } catch { throw new Error('Unexpected response from cloud storage. Save was not confirmed.'); }
     if (!response.ok) throw new Error(result.error || 'Cloud save failed.');
