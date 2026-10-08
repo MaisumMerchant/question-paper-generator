@@ -34,7 +34,7 @@ Teachers do **not** sign in. GitHub Pages remains the frontend. A Cloudflare Wor
 
 ## Free plan — no billing setup
 
-Workers KV Free includes 1 GB storage, 100,000 reads/day, 1,000 writes/day and 1,000 list operations/day. A saved paper uses two writes (PDF + JSON). Other operations and retries consume quota too. On the Free plan, excess operations fail instead of causing overage charges. Free storage is limited, not unlimited; the owner must remove older papers as needed. Keep the account on Free. See [current KV pricing](https://developers.cloudflare.com/kv/platform/pricing/).
+Workers KV Free includes 1 GB storage, 100,000 reads/day, 1,000 writes/day and 1,000 list operations/day. A saved paper uses three writes (PDF + JSON + short-link alias). Other operations and retries consume quota too. On the Free plan, excess operations fail instead of causing overage charges. Free storage is limited, not unlimited; the owner must remove older papers as needed. Keep the account on Free. See [current KV pricing](https://developers.cloudflare.com/kv/platform/pricing/).
 
 KV is eventually consistent: newly saved papers can take about a minute or longer to appear or download from another location. Refresh later rather than saving duplicates. PDFs use native compression and have a 5 MiB per-file limit.
 
@@ -49,7 +49,7 @@ KV is eventually consistent: newly saved papers can take about a minute or longe
 - Public downloads are served as attachments with fixed content types and `nosniff`. No uploaded HTML is rendered. PDF signature checking is not malware scanning.
 - No end-user identities are stored. Public paper names, questions, class/subject, creation time and files are visible. Do not upload confidential/unreleased exams, student information or personal data. **No-login means the library is not private.**
 - Keep Turnstile credentials server-side. No storage admin token is needed in GitHub Pages.
-- To stop new saves, change `UPLOADS_ENABLED` to `"false"` in `wrangler.jsonc` and deploy. Existing papers remain readable. To remove inappropriate papers, the owner deletes their matching `papers/<id>.pdf` and `settings/<id>.json` keys through the Cloudflare Workers KV dashboard.
+- To stop new saves, change `UPLOADS_ENABLED` to `"false"` in `wrangler.jsonc` and deploy. Existing papers remain readable. To remove inappropriate papers, the owner deletes their matching `papers/<id>.pdf`, `settings/<id>.json` and `links/<shortCode>` keys through the Cloudflare Workers KV dashboard.
 
 ## Question snapshots
 
@@ -69,3 +69,7 @@ Official references:
 - [KV bindings](https://developers.cloudflare.com/kv/concepts/kv-bindings/)
 - [Worker rate-limit bindings](https://developers.cloudflare.com/workers/runtime-apis/bindings/rate-limit/)
 - [Turnstile server validation](https://developers.cloudflare.com/turnstile/get-started/server-side-validation/)
+
+## Short public links
+
+Copy link uses `/p/<12-character-code>` for newly saved papers. Older papers get lossless compact links with no migration. Both serve the same PDF directly; original `/papers/<id>/pdf` URLs remain valid. No third-party URL shortener or tracking service is used.

@@ -72,12 +72,15 @@ async function upload(request, env) {
   if (!snapshot.questions.every(q => q && ['B','C'].includes(q.section) && typeof q.text === 'string' && q.text.length <= 20000 && (!q.parts || (Array.isArray(q.parts) && q.parts.length <= 100)))) throw new HttpError(400, 'Invalid questions in paper settings.');
   await validateChallenge(form.get('turnstileToken'), request, env);
   const id = `${String(9999999999999 - Date.now()).padStart(13, '0')}-${crypto.randomUUID()}`;
-  const record = { id, title, class: snapshot.class, subject, savedAt: new Date().toISOString(), questionCount: snapshot.questions.length, bytes: pdf.size };
+  const shortCode = btoa(String.fromCharCode(...crypto.getRandomValues(new Uint8Array(9)))).replace(/\+/g, '-').replace(/\//g, '_');
+  if (await env.PAPERS.get(`links/${shortCode}`)) throw new HttpError(503, 'Please retry saving.');
+  const record = { id, shortCode, title, class: snapshot.class, subject, savedAt: new Date().toISOString(), questionCount: snapshot.questions.length, bytes: pdf.size };
   // PDF is the listing/commit marker. Write it last so failed settings uploads do not appear in the library.
   try {
     await env.PAPERS.put(`settings/${id}.json`, JSON.stringify(snapshot), { httpMetadata: { contentType: 'application/json' } });
+    await env.PAPERS.put(`links/${shortCode}`, id);
     await env.PAPERS.put(`papers/${id}.pdf`, await pdf.arrayBuffer(), { httpMetadata: { contentType: 'application/pdf' }, customMetadata: { record: JSON.stringify(record) } });
-  } catch { try { await env.PAPERS.delete(`settings/${id}.json`); } catch {} throw new HttpError(503, 'Storage is unavailable. The paper was not confirmed saved.'); }
+  } catch { try { await env.PAPERS.delete(`settings/${id}.json`); await env.PAPERS.delete(`links/${shortCode}`); } catch {} throw new HttpError(503, 'Storage is unavailable. The paper was not confirmed saved.'); }
   return json(record, 201);
 }
 async function route(request, env) {
@@ -92,6 +95,28 @@ async function route(request, env) {
     if (cursor && cursor.length > 4096) throw new HttpError(400, 'Invalid page cursor.');
     const page = await env.PAPERS.list({ prefix: 'papers/', limit: 30, cursor, include: ['customMetadata'] });
     return json({ papers: page.objects.map(recordOf).filter(Boolean), cursor: page.truncated ? page.cursor : null });
+  }
+  const short = url.pathname.match(/^\/p\/([A-Za-z0-9_-]{12}|[A-Za-z0-9_-]{30})$/);
+  if (short) {
+    let id;
+    if (short[1].length === 12) {
+      const alias = await env.PAPERS.get(`links/${short[1]}`);
+      if (alias) id = await new Response(alias.body).text();
+    } else {
+      try {
+        const raw = atob(short[1].replace(/-/g, '+').replace(/_/g, '/') + '==');
+        if (raw.length === 22) {
+          let timestamp = 0; for (let i = 0; i < 6; i++) timestamp = timestamp * 256 + raw.charCodeAt(i);
+          const hex = [...raw.slice(6)].map(c => c.charCodeAt(0).toString(16).padStart(2, '0')).join('');
+          id = `${String(timestamp).padStart(13,'0')}-${hex.slice(0,8)}-${hex.slice(8,12)}-${hex.slice(12,16)}-${hex.slice(16,20)}-${hex.slice(20)}`;
+        }
+      } catch {}
+    }
+    if (!id || !ID.test(id)) throw new HttpError(404, 'Paper not found.');
+    // Serve the PDF directly: no redirect, tracking, login or third-party shortener.
+    const object = await env.PAPERS.get(`papers/${id}.pdf`);
+    if (!object) throw new HttpError(404, 'Paper not found.');
+    return new Response(object.body, { headers: { 'Content-Type': 'application/pdf', 'Content-Disposition': `attachment; filename="paperloom-${id}.pdf"`, 'Cache-Control': 'public, max-age=300' } });
   }
   const match = url.pathname.match(/^\/papers\/([^/]+)\/(pdf|settings)$/);
   if (!match || !ID.test(match[1])) throw new HttpError(404, 'Paper not found.');

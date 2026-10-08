@@ -116,11 +116,22 @@ export default function SharedLibrary({ mode, onClose, config, defaultTitle, onS
     } catch (e) { setError(e.message); } finally { setBusy(false); }
   }
   const fileUrl = (id, kind = 'pdf') => `${config.apiUrl}/papers/${encodeURIComponent(id)}/${kind}`;
-  async function copy(id) {
-    try { await navigator.clipboard.writeText(fileUrl(id)); setMessage('Paper link copied.'); }
+  function shareUrl(record) {
+    if (/^[A-Za-z0-9_-]{12}$/.test(record.shortCode || '')) return `${config.apiUrl}/p/${record.shortCode}`;
+    // Older records use a lossless compact ID; no migration or extra KV writes.
+    const timestamp = Number(record.id.slice(0,13));
+    const bytes = new Uint8Array(22); let n = timestamp;
+    for (let i = 5; i >= 0; i--) { bytes[i] = n % 256; n = Math.floor(n / 256); }
+    const hex = record.id.slice(14).replace(/-/g, '');
+    for (let i = 0; i < 16; i++) bytes[6+i] = parseInt(hex.slice(i*2,i*2+2),16);
+    const code = btoa(String.fromCharCode(...bytes)).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,'');
+    return `${config.apiUrl}/p/${code}`;
+  }
+  async function copy(record) {
+    try { await navigator.clipboard.writeText(shareUrl(record)); setMessage('Paper link copied.'); }
     catch { setMessage('Could not copy automatically. Use the download link to copy the address.'); }
   }
-  function links(record) { return <div className="cloud-paper-actions"><a className="small-button dark" href={fileUrl(record.id)} target="_blank" rel="noreferrer">Download PDF</a><a className="small-button" href={fileUrl(record.id, 'settings')} target="_blank" rel="noreferrer">Question JSON</a><button className="small-button" onClick={() => copy(record.id)}>Copy link</button></div>; }
+  function links(record) { return <div className="cloud-paper-actions"><a className="small-button dark" href={fileUrl(record.id)} target="_blank" rel="noreferrer">Download PDF</a><a className="small-button" href={fileUrl(record.id, 'settings')} target="_blank" rel="noreferrer">Question JSON</a><button className="small-button" onClick={() => copy(record)}>Copy link</button></div>; }
   return <div className="modal-backdrop cloud-backdrop" onClick={() => { if (!busy || mode === 'browse') onClose(); }}>
     <section className="cloud-dialog" ref={dialog} tabIndex={-1} role="dialog" aria-modal="true" aria-labelledby="cloud-title" onClick={e => e.stopPropagation()}>
       <header className="cloud-dialog-header"><div><div className="panel-kicker">SHARED CLOUD LIBRARY</div><h2 id="cloud-title">{mode === 'save' ? 'Save this paper' : 'Shared papers'}</h2></div><button className="icon-button" aria-label="Close shared library" onClick={onClose} disabled={busy && mode === 'save'}>×</button></header>
