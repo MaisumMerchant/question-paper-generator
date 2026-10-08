@@ -113,10 +113,10 @@ async function route(request, env) {
       } catch {}
     }
     if (!id || !ID.test(id)) throw new HttpError(404, 'Paper not found.');
-    // Serve the PDF directly: no redirect, tracking, login or third-party shortener.
+    // Shared links open the PDF inline; explicit download routes remain attachments.
     const object = await env.PAPERS.get(`papers/${id}.pdf`);
     if (!object) throw new HttpError(404, 'Paper not found.');
-    return new Response(object.body, { headers: { 'Content-Type': 'application/pdf', 'Content-Disposition': `attachment; filename="paperloom-${id}.pdf"`, 'Cache-Control': 'public, max-age=300' } });
+    return new Response(object.body, { headers: { 'Content-Type': 'application/pdf', 'Content-Disposition': `inline; filename="paperloom-${id}.pdf"`, 'Cache-Control': 'no-store' } });
   }
   const match = url.pathname.match(/^\/papers\/([^/]+)\/(pdf|settings)$/);
   if (!match || !ID.test(match[1])) throw new HttpError(404, 'Paper not found.');
