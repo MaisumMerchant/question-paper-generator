@@ -1,3 +1,20 @@
+function pdfViewer(id) {
+  const nonce = crypto.randomUUID().replace(/-/g, '');
+  const cdn = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38';
+  const html = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Paperloom · Shared paper</title><style nonce="${nonce}">
+  *{box-sizing:border-box}body{margin:0;background:#edf1ed;color:#163b35;font:14px Arial,sans-serif}header{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;background:#fffdf7;border-bottom:1px solid #d3deda;padding:14px 22px}h1{font:600 23px Georgia,serif;margin:0}small{display:block;color:#526b64;margin-top:4px}nav,.controls{display:flex;align-items:center;gap:8px;flex-wrap:wrap}button,a{min-height:44px;display:inline-flex;align-items:center;justify-content:center;padding:10px 13px;border:1px solid #bdccc7;border-radius:8px;background:#fff;color:#163b35;font:600 14px Arial,sans-serif;text-decoration:none;cursor:pointer}button:disabled{opacity:.45;cursor:default}button:focus-visible,a:focus-visible{outline:3px solid #c6a958;outline-offset:2px}.download{background:#163b35;color:#fff;border-color:#163b35}main{padding:22px 12px 40px;text-align:center}#status{margin:4px auto 18px;max-width:650px;line-height:1.6}#sheet{display:inline-block;background:#fff;box-shadow:0 4px 24px #173d3520;max-width:100%;overflow:auto}canvas{display:block;max-width:100%;height:auto}#page{min-width:90px;text-align:center}#zoom{min-width:55px;text-align:center}#error{padding:18px;background:#fff2e9;border:1px solid #eacdb7;border-radius:8px;max-width:620px;margin:12px auto;line-height:1.7;text-align:left}#error[hidden]{display:none}@media(max-width:700px){header{padding:12px;gap:12px}.controls{justify-content:center;width:100%}nav{width:100%;justify-content:space-between}h1{font-size:21px}button,a{padding:10px}main{padding:16px 8px 30px}}
+  </style></head><body><header><div><h1>Paperloom</h1><small>Shared paper · view only · no sign-in</small></div><nav aria-label="Paper actions"><a class="download" href="/papers/${id}/pdf">Download PDF</a></nav><div class="controls" aria-label="PDF controls"><button id="prev" disabled aria-label="Previous page">←</button><span id="page" aria-live="polite">Loading…</span><button id="next" disabled aria-label="Next page">→</button><button id="less" disabled aria-label="Zoom out">−</button><span id="zoom">100%</span><button id="more" disabled aria-label="Zoom in">+</button><button id="fit" disabled>Fit width</button></div></header><main><p id="status" role="status">Opening your paper…</p><div id="error" role="alert" hidden>We could not display this paper. Please refresh, or use Download PDF to open it with another PDF reader.</div><div id="sheet"><canvas id="canvas" aria-label="PDF page"></canvas></div></main><script type="module" nonce="${nonce}">
+  import * as pdfjs from '${cdn}/pdf.min.mjs';
+  pdfjs.GlobalWorkerOptions.workerSrc='${cdn}/pdf.worker.min.mjs';
+  const el=id=>document.getElementById(id);let pdf,current=1,zoom=1,rendering=false;const canvas=el('canvas');
+  function controls(){el('prev').disabled=rendering||!pdf||current<=1;el('next').disabled=rendering||!pdf||current>=pdf.numPages;for(const name of ['less','more','fit'])el(name).disabled=rendering||!pdf;el('page').textContent=pdf?'Page '+current+' of '+pdf.numPages:'Loading…';el('zoom').textContent=Math.round(zoom*100)+'%';}
+  async function render(){if(rendering||!pdf)return;rendering=true;controls();try{const page=await pdf.getPage(current);const natural=page.getViewport({scale:1});const width=Math.min(innerWidth-32,1000);const scale=width/natural.width*zoom;const viewport=page.getViewport({scale});const dpr=Math.min(devicePixelRatio||1,2);canvas.width=Math.floor(viewport.width*dpr);canvas.height=Math.floor(viewport.height*dpr);canvas.style.width=viewport.width+'px';canvas.style.height=viewport.height+'px';el('sheet').style.maxWidth=zoom>1?'none':'100%';await page.render({canvasContext:canvas.getContext('2d'),viewport,transform:dpr===1?null:[dpr,0,0,dpr,0,0]}).promise;el('status').textContent='';canvas.setAttribute('aria-label','Page '+current+' of '+pdf.numPages);}catch{el('error').hidden=false;}finally{rendering=false;controls();}}
+  el('prev').onclick=()=>{if(current>1){current--;render();}};el('next').onclick=()=>{if(current<pdf.numPages){current++;render();}};el('less').onclick=()=>{zoom=Math.max(.5,zoom-.25);render();};el('more').onclick=()=>{zoom=Math.min(2.5,zoom+.25);render();};el('fit').onclick=()=>{zoom=1;render();};let resize;addEventListener('resize',()=>{clearTimeout(resize);resize=setTimeout(render,200);});
+  try{pdf=await pdfjs.getDocument({url:'/papers/${id}/pdf',isEvalSupported:false}).promise;await render();}catch{el('status').textContent='';el('error').hidden=false;el('page').textContent='Unavailable';}
+  </script></body></html>`;
+  return new Response(html, { headers: { 'Content-Type':'text/html; charset=utf-8', 'Cache-Control':'no-store', 'Content-Security-Policy':`default-src 'none'; script-src 'nonce-${nonce}' https://cdnjs.cloudflare.com; style-src 'nonce-${nonce}'; connect-src 'self' https://cdnjs.cloudflare.com; worker-src blob: https://cdnjs.cloudflare.com; img-src data: blob:; font-src data: blob:; base-uri 'none'; frame-ancestors 'none'; form-action 'none'` } });
+}
+
 // Free-plan Workers KV adapter. No R2 subscription or payment method is needed.
 function kvStorage(namespace) {
   return {
@@ -116,7 +133,7 @@ async function route(request, env) {
     // Shared links open the PDF inline; explicit download routes remain attachments.
     const object = await env.PAPERS.get(`papers/${id}.pdf`);
     if (!object) throw new HttpError(404, 'Paper not found.');
-    return new Response(object.body, { headers: { 'Content-Type': 'application/pdf', 'Content-Disposition': `inline; filename="paperloom-${id}.pdf"`, 'Cache-Control': 'no-store' } });
+    return pdfViewer(id);
   }
   const match = url.pathname.match(/^\/papers\/([^/]+)\/(pdf|settings)$/);
   if (!match || !ID.test(match[1])) throw new HttpError(404, 'Paper not found.');
@@ -133,7 +150,7 @@ export default {
     const allowed = env.ALLOWED_ORIGIN;
     let response;
     try {
-      if (!allowed || (origin && origin !== allowed)) throw new HttpError(403, 'This website is not allowed.');
+      if (!allowed || (origin && origin !== allowed && !(request.method === 'GET' && origin === new URL(request.url).origin))) throw new HttpError(403, 'This website is not allowed.');
       if (request.method === 'OPTIONS') {
         if (origin !== allowed || !['GET','POST'].includes(request.headers.get('Access-Control-Request-Method'))) throw new HttpError(403, 'Request not allowed.');
         response = new Response(null, { status: 204, headers: { 'Access-Control-Allow-Methods': 'GET, POST, OPTIONS', 'Access-Control-Allow-Headers': 'Content-Type', 'Access-Control-Max-Age': '600' } });
@@ -146,7 +163,7 @@ export default {
     const headers = new Headers(response.headers);
     if (origin === allowed) headers.set('Access-Control-Allow-Origin', allowed);
     headers.set('Vary', 'Origin'); headers.set('X-Content-Type-Options', 'nosniff'); headers.set('Referrer-Policy', 'no-referrer');
-    headers.set('Content-Security-Policy', "default-src 'none'; sandbox");
+    if (!headers.has('Content-Security-Policy')) headers.set('Content-Security-Policy', "default-src 'none'; sandbox");
     return new Response(response.body, { status: response.status, headers });
   }
 };

@@ -46,7 +46,7 @@ KV is eventually consistent: newly saved papers can take about a minute or longe
 - Upload rate limit: 5 attempts per minute per source IP; read limit: 120 requests per minute per source IP. Cloudflare's binding is location-local and eventually consistent; it is **not** a strict global storage/billing quota or a complete abuse guarantee.
 - Exact CORS origin: `https://maisummerchant.github.io`. CORS is not authentication; Turnstile and rate limits are independent protections. Other apps on that same GitHub Pages origin are not isolated by CORS.
 - Newest-first listing, 30 papers per page, with opaque KV cursor pagination.
-- Explicit downloads are served as attachments; shared `/p/` links open PDFs inline. Both use fixed content types and `nosniff`. No uploaded HTML is rendered. PDF signature checking is not malware scanning.
+- Explicit downloads are served as attachments; shared `/p/` links open a browser-independent PDF viewer. Both use fixed content types and `nosniff`. No uploaded HTML is rendered. PDF signature checking is not malware scanning.
 - No end-user identities are stored. Public paper names, questions, class/subject, creation time and files are visible. Do not upload confidential/unreleased exams, student information or personal data. **No-login means the library is not private.**
 - Keep Turnstile credentials server-side. No storage admin token is needed in GitHub Pages.
 - To stop new saves, change `UPLOADS_ENABLED` to `"false"` in `wrangler.jsonc` and deploy. Existing papers remain readable. To remove inappropriate papers, the owner deletes their matching `papers/<id>.pdf`, `settings/<id>.json` and `links/<shortCode>` keys through the Cloudflare Workers KV dashboard.
@@ -72,4 +72,4 @@ Official references:
 
 ## Short public links
 
-Copy link uses `/p/<12-character-code>` for newly saved papers. Older papers get lossless compact links with no migration. Both open the same PDF in the browser using `Content-Disposition: inline`; the separate Download PDF button still uses attachment delivery. Original `/papers/<id>/pdf` URLs remain valid. No third-party URL shortener or tracking service is used.
+Copy link uses `/p/<12-character-code>` for newly saved papers. Older papers get lossless compact links with no migration. Both open a responsive HTML PDF viewer with page navigation and zoom controls; the separate Download PDF button still uses attachment delivery. The viewer uses PDF.js 4.10.38 from cdnjs and a nonce-restricted Content Security Policy; no uploaded HTML is rendered. Original `/papers/<id>/pdf` URLs remain valid. No third-party URL shortener or tracking service is used.
