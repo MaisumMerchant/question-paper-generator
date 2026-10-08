@@ -100,3 +100,7 @@ The GitHub Pages site remains static. Cloud storage uses a separately deployed *
 ## Professional exam PDF layout
 
 PDF export and Save to shared library use the same A4 exam renderer: white pages, black text, 14-point body text, clear section headings, aligned marks, monospace code/output, automatic pagination and page-number footers. Questions and subparts remain together when possible. Prose and code are searchable PDF text; mathematical formulae are rendered as high-resolution artwork. The on-screen paper preview uses the same plain exam styling.
+
+### Optional exam questions
+
+Default structure: eight Section B questions at four marks (attempt five), and three Section C questions at ten marks (attempt two). Set questions-to-attempt independently of questions printed; the header and PDF totals count attempted questions, not all offered choices. Leave an attempt field blank for all questions. Sections without questions contribute zero marks.

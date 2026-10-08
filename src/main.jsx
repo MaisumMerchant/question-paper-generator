@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import katex from 'katex';
-import { createExamPdf, formatExamText } from './examPdf.js';
+import { createExamPdf, formatExamText, calculateExamMarks } from './examPdf.js';
 import 'katex/dist/katex.min.css';
 import './styles.css';
 import SharedLibrary, { useCloudConfig } from './SharedLibrary.jsx';
@@ -320,17 +320,19 @@ function App() {
   const [chapterSearch, setChapterSearch] = useState('');
   const [chapterView, setChapterView] = useState('All');
   const [autoBalance, setAutoBalance] = useState(true);
-  const [shortCount, setShortCount] = useState(5);
+  const [shortCount, setShortCount] = useState(8);
   const [longCount, setLongCount] = useState(3);
-  const [shortMarks, setShortMarks] = useState(2);
-  const [longMarks, setLongMarks] = useState(5);
+  const [shortMarks, setShortMarks] = useState(4);
+  const [longMarks, setLongMarks] = useState(10);
   const [seed, setSeed] = useState('');
   const [paperMeta, setPaperMeta] = useState({
     institution: '',
     exam: '',
     time: '2 hours',
-    instructionsB: 'Attempt all questions.',
-    instructionsC: 'Attempt any required questions.',
+    attemptB: 5,
+    attemptC: 2,
+    instructionsB: 'Attempt any 5 questions. Each question carries 4 marks.',
+    instructionsC: 'Attempt any 2 questions. Each question carries 10 marks.',
     showHeader: true,
     showMarks: true,
     showChapter: false,
@@ -676,7 +678,7 @@ function App() {
 
   const hasPaper = generatedPaper.B.length > 0 || generatedPaper.C.length > 0;
   const totalQuestions = (selectedBank?.questions || []).filter((question) => question.section === 'B' || question.section === 'C').length;
-  const totalMarks = generatedPaper.B.length * Math.max(0, Number(shortMarks) || 0) + generatedPaper.C.length * Math.max(0, Number(longMarks) || 0);
+  const totalMarks = calculateExamMarks(generatedPaper, paperMeta, shortMarks, longMarks);
 
   return (
     <div className="app-shell">
@@ -769,6 +771,8 @@ function App() {
                   <label>Exam title<input value={paperMeta.exam} onChange={(event) => setPaperMeta({ ...paperMeta, exam: event.target.value })} placeholder="Midterm examination" /></label>
                   <label>Time allowed<input value={paperMeta.time} onChange={(event) => setPaperMeta({ ...paperMeta, time: event.target.value })} /></label>
                   <label>Repeatable seed<input value={seed} onChange={(event) => setSeed(event.target.value)} placeholder="Leave blank for new random paper" /></label>
+                  <label>Section B questions to attempt<input type="number" min="0" max={shortCount} value={paperMeta.attemptB} onChange={(event) => setPaperMeta({ ...paperMeta, attemptB: event.target.value, instructionsB: event.target.value === '' ? 'Attempt all questions.' : `Attempt any ${event.target.value} questions. Each question carries ${shortMarks} marks.` })} placeholder="Blank means all" /></label>
+                  <label>Section C questions to attempt<input type="number" min="0" max={longCount} value={paperMeta.attemptC} onChange={(event) => setPaperMeta({ ...paperMeta, attemptC: event.target.value, instructionsC: event.target.value === '' ? 'Attempt all questions.' : `Attempt any ${event.target.value} questions. Each question carries ${longMarks} marks.` })} placeholder="Blank means all" /></label>
                   <label className="wide-setting">Section B instructions<input value={paperMeta.instructionsB} onChange={(event) => setPaperMeta({ ...paperMeta, instructionsB: event.target.value })} /></label>
                   <label className="wide-setting">Section C instructions<input value={paperMeta.instructionsC} onChange={(event) => setPaperMeta({ ...paperMeta, instructionsC: event.target.value })} /></label>
                 </div>

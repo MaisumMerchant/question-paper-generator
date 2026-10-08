@@ -8,6 +8,13 @@ const BODY = 14, PART = 13.5, MARGIN = 44;
 const clean = value => String(value ?? '').replace(/[‘’]/g, "'").replace(/[“”]/g, '"').replace(/[–—]/g, '-').replace(/\u00a0/g, ' ');
 const mathPattern = /(\$\$[\s\S]*?\$\$|\$[^$\n]+\$|\\\([\s\S]*?\\\)|\\\[[\s\S]*?\\\]|`[^`\n]+`)/g;
 
+export function calculateExamMarks(paper, meta, shortMarks, longMarks) {
+  const attempted = (available, value) => value === '' || value === undefined || value === null
+    ? available : Math.min(available, Math.max(0, Math.floor(Number(value) || 0)));
+  return attempted(paper.B.length, meta.attemptB) * Math.max(0, Number(shortMarks) || 0)
+    + attempted(paper.C.length, meta.attemptC) * Math.max(0, Number(longMarks) || 0);
+}
+
 // Render numeric output tables in aligned monospace columns, without changing
 // the underlying question bank or interpreting literal C string escapes.
 export function formatExamText(value) {
@@ -29,7 +36,7 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
   pdf.setProperties({ title: `Class ${className} - ${subject}${meta.exam ? ' - ' + meta.exam : ''}`, subject: 'Question paper', creator: 'Paperloom' });
   pdf.setTextColor(0); pdf.setDrawColor(0);
   const W = pdf.internal.pageSize.getWidth(), H = pdf.internal.pageSize.getHeight(), RIGHT = W - MARGIN, BOTTOM = H - 56;
-  const total = paper.B.length * shortMarks + paper.C.length * longMarks;
+  const total = calculateExamMarks(paper, meta, shortMarks, longMarks);
   const formulaCache = new Map();
   let y = MARGIN, page = 1;
   function font(size, style = 'normal', family = 'helvetica') { pdf.setFont(family, style); pdf.setFontSize(size); }
