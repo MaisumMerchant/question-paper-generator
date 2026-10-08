@@ -5,6 +5,7 @@ import html2canvas from 'html2canvas';
 import { jsPDF } from 'jspdf';
 import 'katex/dist/katex.min.css';
 import './styles.css';
+import SharedLibrary, { useCloudConfig } from './SharedLibrary.jsx';
 
 const embeddedBankModules = import.meta.glob('../Data/**/*.json', { eager: true, import: 'default' });
 const embeddedPdfModules = import.meta.glob(
@@ -333,6 +334,8 @@ function App() {
   });
   const [generatedPaper, setGeneratedPaper] = useState({ B: [], C: [] });
   const [previewPdf, setPreviewPdf] = useState(null);
+  const [cloudMode, setCloudMode] = useState(null);
+  const cloudConfig = useCloudConfig();
   const jsonInputRef = useRef(null);
   const paperRef = useRef(null);
   const sectionRefs = useRef({});
@@ -642,7 +645,7 @@ function App() {
     downloadBlob(html, 'paperloom-paper.doc', 'application/msword');
   }
 
-  async function downloadPdf() {
+  async function createPdf() {
     if (!paperRef.current || (!generatedPaper.B.length && !generatedPaper.C.length)) return;
     const canvas = await html2canvas(paperRef.current, { scale: 2, backgroundColor: '#fffdf8', useCORS: true });
     const pdf = new jsPDF({ orientation: 'portrait', unit: 'pt', format: 'a4' });
@@ -656,7 +659,28 @@ function App() {
       pdf.addImage(image, 'PNG', 0, -offset, pageWidth, imageHeight);
       offset += pageHeight;
     }
-    pdf.save('paperloom-paper.pdf');
+    return pdf;
+  }
+
+  async function downloadPdf() {
+    try { const pdf = await createPdf(); if (pdf) pdf.save('paperloom-paper.pdf'); }
+    catch { showNotice('PDF export failed. Please try again.'); }
+  }
+
+  async function saveCloudPaper({ title, token }) {
+    const pdf = await createPdf();
+    if (!pdf) throw new Error('Generate a paper before saving.');
+    const blob = pdf.output('blob');
+    if (blob.size > 20 * 1024 * 1024) throw new Error('PDF exceeds the 20 MB upload limit. Reduce the question count.');
+    const snapshot = { version: 1, class: selectedClass, subject: selectedSubject, questions: [...generatedPaper.B, ...generatedPaper.C], paper: { meta: paperMeta, shortCount, longCount, shortMarks, longMarks, seed, chapterConfig } };
+    const form = new FormData();
+    form.append('pdf', blob, 'paper.pdf');
+    form.append('snapshot', new Blob([JSON.stringify(snapshot)], { type: 'application/json' }), 'paper.json');
+    form.append('title', title); form.append('turnstileToken', token); form.append('publicConsent', 'yes');
+    const response = await fetch(`${cloudConfig.apiUrl}/papers`, { method: 'POST', body: form, signal: AbortSignal.timeout(60000) });
+    let result; try { result = await response.json(); } catch { throw new Error('Unexpected response from cloud storage. Save was not confirmed.'); }
+    if (!response.ok) throw new Error(result.error || 'Cloud save failed.');
+    return result;
   }
 
   const hasPaper = generatedPaper.B.length > 0 || generatedPaper.C.length > 0;
@@ -672,6 +696,7 @@ function App() {
             <div className="eyebrow">QUESTION PAPER GENERATOR <span className="eyebrow-line" /></div>
             <h1>Build a paper with <em>intent.</em></h1>
             <p className="topbar-subtitle">Choose a class and subject, tune the balance, and leave the formatting to Paperloom.</p>
+            <div className="cloud-launch"><button className="control-button" onClick={() => setCloudMode('browse')}><Icon name="layers" size={16} /> Shared papers</button><span>{cloudConfig.loading ? 'Checking cloud…' : cloudConfig.apiUrl && cloudConfig.turnstileSiteKey ? 'No sign-in · public library' : 'Cloud setup pending'}</span></div>
           </div>
         </header>
 
@@ -777,12 +802,15 @@ function App() {
                     </> : <div className="paper-empty"><div className="empty-paper-mark"><Icon name="file" size={24} /></div><strong>Your paper will appear here</strong><span>Set the balance, then generate a random paper.</span></div>}
                   </div>
                 </div>
+                <div className="cloud-preview-actions"><button className="control-button" onClick={() => { goToStep(4); setCloudMode('save'); }} disabled={!hasPaper}><Icon name="upload" size={16} /> Save to shared library</button><span>PDF + question JSON · public sharing · no sign-in</span></div>
                 {hasPaper && <div className="preview-foot"><span><span className="status-dot" /> Ready to export</span><span>{generatedPaper.B.length + generatedPaper.C.length} questions · {totalMarks} marks</span></div>}
                 </>}
               </section>
           </div>
         ) : <div className="loading-state">No bank selected. Use Import JSON to add a question bank.</div>}
       </main>
+
+      {cloudMode && <SharedLibrary mode={cloudMode} onClose={() => setCloudMode(null)} config={cloudConfig} defaultTitle={`Class ${selectedClass} — ${selectedSubject}${paperMeta.exam ? ` — ${paperMeta.exam}` : ''}`} onSave={saveCloudPaper} />}
 
       {previewPdf && <div className="modal-backdrop" onClick={() => setPreviewPdf(null)}><div className="pdf-modal" onClick={(event) => event.stopPropagation()}><div className="modal-header"><div><div className="panel-kicker">SOURCE PDF</div><h2>{previewPdf.name}</h2></div><div className="modal-actions"><a className="small-button" href={previewPdf.url} target="_blank" rel="noreferrer">Open in new tab</a><button className="icon-button" onClick={() => setPreviewPdf(null)} aria-label="Close PDF preview"><Icon name="close" size={18} /></button></div></div><iframe src={previewPdf.url} title={`Preview of ${previewPdf.name}`} /></div></div>}
     </div>

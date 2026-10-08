@@ -90,3 +90,9 @@ npm run build
 ```
 
 The GitHub Pages workflow deploys pushes to `main`.
+
+## No-login shared paper library
+
+**Save to shared library** exports a PDF and its question/settings JSON to Cloudflare R2 through a protected Worker. **Shared papers** browses the public library, downloads PDFs/questions and copies direct paper links. Teachers do not need accounts. Public-sharing consent, server-side Turnstile verification, upload/read limits, file-size checks and no anonymous delete/overwrite routes protect the upload flow.
+
+The GitHub Pages site remains static. Cloud storage is **not live until the owner completes [Cloudflare setup](cloudflare/README.md)** and supplies the actual API origin and public Turnstile site key in `public/cloud-config.json`. An empty configuration shows an honest setup-pending state. Cloudflare secrets never belong in frontend code. Public uploads must not contain confidential exams or personal information.

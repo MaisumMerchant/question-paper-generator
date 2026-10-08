@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "paperloom-library",
+  "main": "src/index.js",
+  "compatibility_date": "2025-01-01",
+  "workers_dev": true,
+  "r2_buckets": [{ "binding": "PAPERS", "bucket_name": "paperloom-papers" }],
+  "vars": {
+    "ALLOWED_ORIGIN": "https://maisummerchant.github.io",
+    "TURNSTILE_HOSTNAME": "maisummerchant.github.io",
+    "UPLOADS_ENABLED": "true"
+  },
+  "ratelimits": [
+    { "name": "UPLOAD_LIMIT", "namespace_id": "71001", "simple": { "limit": 5, "period": 60 } },
+    { "name": "READ_LIMIT", "namespace_id": "71002", "simple": { "limit": 120, "period": 60 } }
+  ]
+}

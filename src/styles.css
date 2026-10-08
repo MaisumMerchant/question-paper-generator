@@ -322,3 +322,47 @@ h2 { font: 600 22px/1 'Newsreader', serif; letter-spacing: -.025em; }
   #paper-print { position: absolute; left: 0; top: 0; width: 100%; min-height: 0; border: 0; box-shadow: none; background-image: none; }
   #paper-print::before { display: none; }
 }
+
+/* No-login shared paper library. No credentials are kept in the frontend. */
+.cloud-launch { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; margin-top: 18px; }
+.cloud-launch > span, .cloud-preview-actions > span { font-size: 11px; color: var(--ink-3); }
+.cloud-preview-actions { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; padding: 16px 22px; border-top: 1px solid var(--line); }
+.cloud-dialog { width: min(760px, 100%); max-height: 90dvh; display: flex; flex-direction: column; overflow: hidden; background: var(--paper); border-radius: 12px; box-shadow: var(--shadow); }
+.cloud-dialog-header { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 24px; border-bottom: 1px solid var(--line); }
+.cloud-dialog-header .icon-button { min-width: 44px; min-height: 44px; font-size: 24px; }
+.cloud-dialog-header h2 { margin-top: 8px; }
+.cloud-dialog-body { overflow: auto; padding: 24px; font-size: 14px; line-height: 1.6; }
+.cloud-dialog a { color: var(--ink); }
+.cloud-public-note { padding: 14px 16px; background: #fbebde; border: 1px solid #e8cfb6; border-radius: 8px; margin-bottom: 20px; color: #65472c; }
+.cloud-setup { display: grid; gap: 14px; }
+.cloud-save-form { display: grid; gap: 16px; }
+.cloud-save-form > label:first-child { display: grid; gap: 8px; font-weight: 600; }
+.cloud-save-form input:not([type=checkbox]) { width: 100%; border: 1px solid var(--line-strong); border-radius: 8px; padding: 12px; background: white; color: var(--ink); }
+.cloud-consent { display: flex; align-items: flex-start; gap: 10px; font-weight: 400; }
+.cloud-consent input { margin-top: 5px; width: 18px; height: 18px; flex: 0 0 auto; accent-color: var(--ink); }
+.cloud-dialog button, .cloud-dialog .small-button { min-height: 44px; }
+.cloud-save-button { width: 100%; }
+.cloud-dialog .small-button { font-size: 12px; padding: 10px 12px; text-decoration: none; display: inline-flex; justify-content: center; align-items: center; }
+.cloud-dialog .small-button.dark { color: #fff; }
+.cloud-challenge { min-height: 68px; max-width: 100%; }
+.cloud-error, .cloud-challenge > p { padding: 12px; color: #8b2727; background: #fce9e7; border-radius: 8px; margin-top: 16px; }
+.cloud-saved { display: grid; gap: 12px; background: var(--mint); padding: 16px; border-radius: 8px; }
+.cloud-list-header { display: flex; align-items: center; justify-content: space-between; gap: 12px; color: var(--ink-3); font-size: 12px; margin-bottom: 16px; }
+.cloud-paper-list { display: grid; gap: 16px; }
+.cloud-paper { padding: 16px; border: 1px solid var(--line); border-radius: 8px; background: #fff; overflow-wrap: anywhere; }
+.cloud-paper h3 { font-size: 16px; line-height: 1.4; }
+.cloud-paper p, .cloud-paper time { color: var(--ink-3); font-size: 12px; }
+.cloud-paper-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+.cloud-empty { padding: 20px 0; color: var(--ink-3); }
+@media (max-width: 600px) {
+  .cloud-dialog-header, .cloud-dialog-body { padding: 16px; }
+  .cloud-preview-actions { padding: 14px 16px; }
+  .cloud-paper-actions > * { flex: 1 1 120px; }
+  .cloud-dialog { max-height: 94dvh; }
+  .cloud-launch > span { flex-basis: 100%; }
+}
+.cloud-launch > span, .cloud-preview-actions > span, .cloud-list-header, .cloud-paper p, .cloud-paper time, .cloud-empty { color: #4d6862; font-size: 14px; }
+.cloud-launch .control-button, .cloud-preview-actions .control-button, .cloud-dialog .control-button, .cloud-dialog .small-button, .cloud-dialog .text-button { font-size: 14px; min-height: 44px; }
+.cloud-dialog .text-button { color: var(--ink); }
+.cloud-save-button { color: #fff; background: var(--ink); }
+.cloud-save-button:hover { color: #fff; background: var(--ink-2); }
