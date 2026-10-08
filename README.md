@@ -96,3 +96,7 @@ The GitHub Pages workflow deploys pushes to `main`.
 **Save to shared library** exports a PDF and its question/settings JSON to Cloudflare Workers KV (Free plan, no card required) through a protected Worker. **Shared papers** browses the public library, downloads PDFs/questions and copies direct paper links. Teachers do not need accounts. Public-sharing consent, server-side Turnstile verification, upload/read limits, file-size checks and no anonymous delete/overwrite routes protect the upload flow.
 
 The GitHub Pages site remains static. Cloud storage uses a separately deployed **Workers Free + KV Free** service. Its public API origin and Turnstile site key are configured in `public/cloud-config.json`; owner maintenance instructions are in [Cloudflare setup](cloudflare/README.md). An empty configuration shows an honest setup-pending state. Cloudflare secrets never belong in frontend code. Public uploads must not contain confidential exams or personal information.
+
+## Professional exam PDF layout
+
+PDF export and Save to shared library use the same A4 exam renderer: white pages, black text, 14-point body text, clear section headings, aligned marks, monospace code/output, automatic pagination and page-number footers. Questions and subparts remain together when possible. Prose and code are searchable PDF text; mathematical formulae are rendered as high-resolution artwork. The on-screen paper preview uses the same plain exam styling.

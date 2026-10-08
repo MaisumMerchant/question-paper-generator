@@ -1,8 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import katex from 'katex';
-import html2canvas from 'html2canvas';
-import { jsPDF } from 'jspdf';
+import { createExamPdf, formatExamText } from './examPdf.js';
 import 'katex/dist/katex.min.css';
 import './styles.css';
 import SharedLibrary, { useCloudConfig } from './SharedLibrary.jsx';
@@ -62,18 +61,23 @@ function escapeHtml(value) {
 }
 
 function richTextHtml(value) {
-  const source = String(value ?? '').replace(/\\n/g, '\n');
-  const matcher = /(\$\$[\s\S]*?\$\$|\$[^$\n]+\$|\\\([\s\S]*?\\\)|\\\[[\s\S]*?\\\])/g;
+  const source = formatExamText(value);
+  const matcher = /(```[\s\S]*?```|`[^`\n]+`|\$\$[\s\S]*?\$\$|\$[^$\n]+\$|\\\([\s\S]*?\\\)|\\\[[\s\S]*?\\\])/g;
   let html = '';
   let cursor = 0;
   let match;
   while ((match = matcher.exec(source))) {
     html += escapeHtml(source.slice(cursor, match.index)).replace(/\n/g, '<br/>');
     const token = match[0];
+    if (token.startsWith('```')) {
+      html += `<pre class="paper-code"><code>${escapeHtml(token.replace(/^```[^\n]*\n/, '').replace(/```$/, '').trimEnd())}</code></pre>`;
+      cursor = matcher.lastIndex; continue;
+    }
+    if (token.startsWith('`')) { html += `<code>${escapeHtml(token.slice(1,-1))}</code>`; cursor = matcher.lastIndex; continue; }
     const displayMode = token.startsWith('$$') || token.startsWith('\\[');
     const latex = token.replace(/^\$\$|\$\$$/g, '').replace(/^\$|\$$/g, '').replace(/^\\\(|\\\)$/g, '').replace(/^\\\[|\\\]$/g, '');
     try {
-      html += katex.renderToString(latex, { displayMode, throwOnError: false, output: 'htmlAndMathml' });
+      html += katex.renderToString(latex, { displayMode, throwOnError: false, errorColor: '#000000', output: 'htmlAndMathml' });
     } catch {
       html += `<span class="math-fallback">${escapeHtml(latex)}</span>`;
     }
@@ -646,20 +650,7 @@ function App() {
   }
 
   async function createPdf() {
-    if (!paperRef.current || (!generatedPaper.B.length && !generatedPaper.C.length)) return;
-    const canvas = await html2canvas(paperRef.current, { scale: 2, backgroundColor: '#fffdf8', useCORS: true });
-    const pdf = new jsPDF({ compress: true, orientation: 'portrait', unit: 'pt', format: 'a4' });
-    const pageWidth = pdf.internal.pageSize.getWidth();
-    const pageHeight = pdf.internal.pageSize.getHeight();
-    const imageHeight = canvas.height * pageWidth / canvas.width;
-    const image = canvas.toDataURL('image/png');
-    let offset = 0;
-    while (offset < imageHeight) {
-      if (offset > 0) pdf.addPage();
-      pdf.addImage(image, 'PNG', 0, -offset, pageWidth, imageHeight);
-      offset += pageHeight;
-    }
-    return pdf;
+    return createExamPdf({ paper: generatedPaper, meta: paperMeta, className: selectedClass, subject: selectedSubject, shortMarks: Math.max(0, Number(shortMarks) || 0), longMarks: Math.max(0, Number(longMarks) || 0) });
   }
 
   async function downloadPdf() {
