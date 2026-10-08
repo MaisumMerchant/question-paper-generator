@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import katex from 'katex';
 import { createExamPdf, formatExamText, calculateExamMarks } from './examPdf.js';
+import { allocateQuestions } from './questionAllocation.js';
 import 'katex/dist/katex.min.css';
 import './styles.css';
 import SharedLibrary, { useCloudConfig } from './SharedLibrary.jsx';
@@ -155,45 +156,6 @@ function seededRandom(seedText = '') {
     t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
     return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
   };
-}
-
-function shuffle(items, random = Math.random) {
-  const copy = [...items];
-  for (let i = copy.length - 1; i > 0; i -= 1) {
-    const j = Math.floor(random() * (i + 1));
-    [copy[i], copy[j]] = [copy[j], copy[i]];
-  }
-  return copy;
-}
-
-function allocateQuestions(candidates, count, percentages, random = Math.random) {
-  if (!count || !candidates.length) return [];
-  const byChapter = candidates.reduce((acc, question) => {
-    (acc[question.chapter] ||= []).push(question);
-    return acc;
-  }, {});
-  const eligible = Object.keys(byChapter).filter((chapter) => byChapter[chapter].length > 0);
-  if (!eligible.length) return [];
-  const totalWeight = eligible.reduce((sum, chapter) => sum + Math.max(0, Number(percentages[chapter] ?? 0)), 0);
-  const weight = (chapter) => totalWeight ? Math.max(0, Number(percentages[chapter] ?? 0)) / totalWeight : 1 / eligible.length;
-  const target = Math.min(count, candidates.length);
-  const chosen = [];
-  const chosenIds = new Set();
-  const orderedChapters = shuffle(eligible, random).sort((a, b) => weight(b) - weight(a));
-  const chapterSlots = target >= eligible.length ? orderedChapters : orderedChapters.slice(0, target);
-  chapterSlots.forEach((chapter) => {
-    const question = shuffle(byChapter[chapter], random)[0];
-    if (question && !chosenIds.has(question.id)) {
-      chosen.push(question);
-      chosenIds.add(question.id);
-    }
-  });
-  const remaining = shuffle(candidates.filter((question) => !chosenIds.has(question.id)), random)
-    .map((question) => ({ question, score: random() * (0.12 + weight(question.chapter)) }))
-    .sort((a, b) => b.score - a.score)
-    .slice(0, target - chosen.length)
-    .map(({ question }) => question);
-  return shuffle([...chosen, ...remaining], random);
 }
 
 function downloadBlob(content, filename, type) {
@@ -637,8 +599,8 @@ function App() {
     }
     const random = seededRandom(seed.trim() || `${Date.now()}-${selectedBankId}`);
     const paper = {
-      B: allocateQuestions(poolBySection.B, Math.max(0, Number(shortCount) || 0), percentages, random),
-      C: allocateQuestions(poolBySection.C, Math.max(0, Number(longCount) || 0), percentages, random)
+      B: allocateQuestions(poolBySection.B, Math.max(0, Number(shortCount) || 0), percentages, random, autoBalance),
+      C: allocateQuestions(poolBySection.C, Math.max(0, Number(longCount) || 0), percentages, random, autoBalance)
     };
     setGeneratedPaper(paper);
     goToStep(4);
@@ -780,7 +742,7 @@ function App() {
                   {[['showHeader', 'Paper header'], ['showMarks', 'Marks'], ['showChapter', 'Chapter labels'], ['showSource', 'Source/year']].map(([key, label]) => <label key={key}><input type="checkbox" checked={paperMeta[key]} onChange={(event) => setPaperMeta({ ...paperMeta, [key]: event.target.checked })} /><span>{label}</span></label>)}
                 </div>
                 <button className="generate-button" onClick={generatePaper}><span><Icon name="shuffle" size={18} /> Generate random paper</span><Icon name="arrow" size={18} /></button>
-                <div className="generation-note"><span className="spark">✦</span> Chapter-aware, selection-aware, and reproducible when you provide a seed.</div>
+                <div className="generation-note"><span className="spark">✦</span> Chapter quotas apply separately to short and long questions. Extras are assigned randomly; shortages are filled from other selected chapters. A seed makes the selection repeatable.</div>
                 </>}
               </section>
 
