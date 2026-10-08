@@ -4,7 +4,7 @@
   "main": "src/index.js",
   "compatibility_date": "2025-01-01",
   "workers_dev": true,
-  "r2_buckets": [{ "binding": "PAPERS", "bucket_name": "paperloom-papers" }],
+  "kv_namespaces": [{ "binding": "PAPERS_KV", "id": "275bef86f5fa4019998873c40e016b2e" }],
   "vars": {
     "ALLOWED_ORIGIN": "https://maisummerchant.github.io",
     "TURNSTILE_HOSTNAME": "maisummerchant.github.io",

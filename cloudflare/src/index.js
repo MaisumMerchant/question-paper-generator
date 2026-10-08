@@ -1,4 +1,23 @@
-const MAX_PDF = 20 * 1024 * 1024;
+// Free-plan Workers KV adapter. No R2 subscription or payment method is needed.
+function kvStorage(namespace) {
+  return {
+    async put(key, value, options = {}) {
+      const metadata = options.customMetadata?.record ? JSON.parse(options.customMetadata.record) : undefined;
+      if (metadata && new TextEncoder().encode(JSON.stringify(metadata)).length > 1024) throw new Error('Metadata too large');
+      await namespace.put(key, value, metadata ? { metadata } : {});
+    },
+    async get(key) {
+      const value = await namespace.get(key, { type: 'arrayBuffer' });
+      return value === null ? null : { body: value };
+    },
+    async delete(key) { await namespace.delete(key); },
+    async list({ prefix, limit, cursor }) {
+      const page = await namespace.list({ prefix, limit, ...(cursor ? { cursor } : {}) });
+      return { objects: page.keys.map(key => ({ key: key.name, customMetadata: { record: JSON.stringify(key.metadata || null) } })), truncated: !page.list_complete, cursor: page.cursor };
+    }
+  };
+}
+const MAX_PDF = 5 * 1024 * 1024;
 const MAX_SNAPSHOT = 256 * 1024;
 const MAX_BODY = MAX_PDF + MAX_SNAPSHOT + 64 * 1024;
 const ID = /^\d{13}-[a-f0-9-]{36}$/;
@@ -43,7 +62,7 @@ async function upload(request, env) {
   if (form.get('publicConsent') !== 'yes') throw new HttpError(400, 'Confirm that this paper may be publicly shared.');
   const pdf = form.get('pdf'); const draft = form.get('snapshot');
   if (!pdf || typeof pdf === 'string' || pdf.type !== 'application/pdf' || !pdf.size) throw new HttpError(400, 'A PDF file is required.');
-  if (pdf.size > MAX_PDF) throw new HttpError(413, 'PDF must be 20 MB or smaller.');
+  if (pdf.size > MAX_PDF) throw new HttpError(413, 'PDF must be 5 MB or smaller.');
   if (!draft || typeof draft === 'string' || draft.size > MAX_SNAPSHOT) throw new HttpError(400, 'Paper settings are missing or too large.');
   if (await pdf.slice(0, 5).text() !== '%PDF-') throw new HttpError(400, 'The file is not a PDF.');
   let snapshot; try { snapshot = JSON.parse(await draft.text()); } catch { throw new HttpError(400, 'Invalid paper settings.'); }
@@ -80,10 +99,11 @@ async function route(request, env) {
   const object = await env.PAPERS.get(kind === 'pdf' ? `papers/${id}.pdf` : `settings/${id}.json`);
   if (!object) throw new HttpError(404, 'Paper not found.');
   const filename = kind === 'pdf' ? `paperloom-${id}.pdf` : `paperloom-${id}.json`;
-  return new Response(object.body, { headers: { 'Content-Type': kind === 'pdf' ? 'application/pdf' : 'application/json', 'Content-Disposition': `attachment; filename="${filename}"`, 'Cache-Control': 'public, max-age=300', 'ETag': object.httpEtag } });
+  return new Response(object.body, { headers: { 'Content-Type': kind === 'pdf' ? 'application/pdf' : 'application/json', 'Content-Disposition': `attachment; filename="${filename}"`, 'Cache-Control': 'public, max-age=300' } });
 }
 export default {
   async fetch(request, env) {
+    if (env.PAPERS_KV) env = { ...env, PAPERS: kvStorage(env.PAPERS_KV) };
     const origin = request.headers.get('Origin');
     const allowed = env.ALLOWED_ORIGIN;
     let response;

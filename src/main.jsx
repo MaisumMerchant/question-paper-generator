@@ -648,7 +648,7 @@ function App() {
   async function createPdf() {
     if (!paperRef.current || (!generatedPaper.B.length && !generatedPaper.C.length)) return;
     const canvas = await html2canvas(paperRef.current, { scale: 2, backgroundColor: '#fffdf8', useCORS: true });
-    const pdf = new jsPDF({ orientation: 'portrait', unit: 'pt', format: 'a4' });
+    const pdf = new jsPDF({ compress: true, orientation: 'portrait', unit: 'pt', format: 'a4' });
     const pageWidth = pdf.internal.pageSize.getWidth();
     const pageHeight = pdf.internal.pageSize.getHeight();
     const imageHeight = canvas.height * pageWidth / canvas.width;
@@ -671,7 +671,7 @@ function App() {
     const pdf = await createPdf();
     if (!pdf) throw new Error('Generate a paper before saving.');
     const blob = pdf.output('blob');
-    if (blob.size > 20 * 1024 * 1024) throw new Error('PDF exceeds the 20 MB upload limit. Reduce the question count.');
+    if (blob.size > 5 * 1024 * 1024) throw new Error('PDF exceeds the 5 MB upload limit. Reduce the question count.');
     const snapshot = { version: 1, class: selectedClass, subject: selectedSubject, questions: [...generatedPaper.B, ...generatedPaper.C], paper: { meta: paperMeta, shortCount, longCount, shortMarks, longMarks, seed, chapterConfig } };
     const form = new FormData();
     form.append('pdf', blob, 'paper.pdf');
