@@ -1,0 +1,1826 @@
+{
+  "subject": "Chemistry",
+  "class": "XII",
+  "questions": [
+    {
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Melting and boiling points regularly decrease down the group in:",
+      "options": {
+        "A": "Group IA",
+        "B": "Group IIA",
+        "C": "Group VIIA",
+        "D": "Group VIIIA"
+      }
+    },
+    {
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The s-block element forms super oxide when burned in air is:",
+      "options": {
+        "A": "Li",
+        "B": "Na",
+        "C": "K",
+        "D": "Mg"
+      }
+    },
+    {
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The general formula of nitrides for alkaline earth metal is:",
+      "options": {
+        "A": "$MN_3$",
+        "B": "$M_2N_3$",
+        "C": "$M_3N$",
+        "D": "$M_3N_2$"
+      }
+    },
+    {
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The alkali metal that gives a yellow color during a flame test is:",
+      "options": {
+        "A": "Na",
+        "B": "K",
+        "C": "Rb",
+        "D": "Cs"
+      }
+    },
+    {
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The chemical commonly used in fireworks is:",
+      "options": {
+        "A": "Sodium bicarbonate",
+        "B": "Bleaching powder",
+        "C": "Potassium nitrate",
+        "D": "Potash Alum"
+      }
+    },
+    {
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Cathode in Castner Kellner cell is:",
+      "options": {
+        "A": "Titanium blocks",
+        "B": "Carbon rods",
+        "C": "Mercury",
+        "D": "Iron container"
+      }
+    },
+    {
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The diagonal member of beryllium is:",
+      "options": {
+        "A": "Mg",
+        "B": "Al",
+        "C": "Si",
+        "D": "C"
+      }
+    },
+    {
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The catalyst commonly used in the conversion of sulfur dioxide to sulfur trioxide during the preparation of sulphuric acid is:",
+      "options": {
+        "A": "Vanadium pentoxide ($V_2O_5$)",
+        "B": "Copper (Cu)",
+        "C": "Iron (Fe)",
+        "D": "Nickel (Ni)"
+      }
+    },
+    {
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Oil of vitriol refers to:",
+      "options": {
+        "A": "Borax",
+        "B": "Sulphuric acid",
+        "C": "Alum",
+        "D": "Caustic soda"
+      }
+    },
+    {
+      "chapter": "1 - Chemistry of Representative Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The best oxidizing agent among halogens is:",
+      "options": {
+        "A": "F",
+        "B": "Cl",
+        "C": "Br",
+        "D": "I"
+      }
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$Zn^{2+}$ ion is colourless because:",
+      "options": {
+        "A": "Its undergoes d-d transition of electron",
+        "B": "Its 3d orbitals have all unpaired electrons",
+        "C": "Its 3d orbitals have all paired electrons",
+        "D": "Its d orbitals split up into $t_{2g}$ and $e_g$"
+      }
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The coordination number of cobalt in $Na_3[Co(C_2O_4)_3]$ is:",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "6",
+        "D": "7"
+      }
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An example of a bidentate ligand among the following is:",
+      "options": {
+        "A": "$OH^-$",
+        "B": "$C_2O_4^{2-}$",
+        "C": "$Cl^-$",
+        "D": "$CN^-$"
+      }
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A highly paramagnetic ion among the following is:",
+      "options": {
+        "A": "$Fe^{2+}$",
+        "B": "$Fe^{3+}$",
+        "C": "$Co^{2+}$",
+        "D": "$Cr^{3+}$"
+      }
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The highest oxidation state of chromium is:",
+      "options": {
+        "A": "+4",
+        "B": "+5",
+        "C": "+6",
+        "D": "+7"
+      }
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The element is not used for electroplating:",
+      "options": {
+        "A": "Zinc",
+        "B": "Tin",
+        "C": "Chromium",
+        "D": "Manganese"
+      }
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The steel is typically used in making Fry pans:",
+      "options": {
+        "A": "Carbon steel",
+        "B": "Stainless steel",
+        "C": "Tool Steel",
+        "D": "Alloy Steel"
+      }
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The step which involved in the extraction of copper from chalcopyrite ore in the elimination of gangue impurities is:",
+      "options": {
+        "A": "Concentration",
+        "B": "Roasting",
+        "C": "Smelting",
+        "D": "Bessemerization"
+      }
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "5d series of outer transition elements is:",
+      "options": {
+        "A": "Sc to Zn",
+        "B": "Y to Cd",
+        "C": "La to Hg",
+        "D": "Ac to Cn"
+      }
+    },
+    {
+      "chapter": "2 - Chemistry of Outer Transition (d-Block) Elements",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Oxidation of manganese in air gives the following oxide:",
+      "options": {
+        "A": "$MnO$",
+        "B": "$MnO_3$",
+        "C": "$Mn_2O_3$",
+        "D": "$Mn_3O_4$"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The functional group that contains a nitrogen atom is:",
+      "options": {
+        "A": "Alcohol",
+        "B": "Ketone",
+        "C": "Ester",
+        "D": "Amide"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The compound belongs to the alkene family is:",
+      "options": {
+        "A": "$CH_4$",
+        "B": "$C_2H_6$",
+        "C": "$C_3H_6$",
+        "D": "$C_6H_6$"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Destructive distillation of coal gives coke, coaltar, coal gas and:",
+      "options": {
+        "A": "Natural gas",
+        "B": "Petroleum",
+        "C": "Naphtha",
+        "D": "Ammonia liquor"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The knocking of internal combustion engine can be reduced by the following petroleum process:",
+      "options": {
+        "A": "Reforming",
+        "B": "Refining",
+        "C": "Distillation",
+        "D": "Condensation"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The general formula of the homologous series of alcohol is:",
+      "options": {
+        "A": "$C_nH_{2n}$",
+        "B": "$C_nH_{2n+2}$",
+        "C": "$C_nH_{2n+1}OH$",
+        "D": "$C_nH_{2n-1}OH$"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of five membered and six membered rings in $C_{60}$ Bucky ball are respectively:",
+      "options": {
+        "A": "12 and 12",
+        "B": "5 and 15",
+        "C": "12 and 20",
+        "D": "40 and 20"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The pair of compounds that exhibit isomerism is:",
+      "options": {
+        "A": "$C_2H_5-OH$ and $C_3H_7-OH$",
+        "B": "$CH_3-CH_2-CH_2-CH_3$ and $CH_3-CH(CH_3)-CH_3$",
+        "C": "$C_2H_5-CH_2-Cl$ and $C_3H_7-CH_2-Cl$",
+        "D": "$CH_3-NH_2$ and $CH_3-CH_2-NH_2$"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of coal that is hard and high ranked is:",
+      "options": {
+        "A": "Peat",
+        "B": "Lignite",
+        "C": "Bituminous",
+        "D": "Anthracite"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following hydrocarbon is the chief constituent of natural gas?",
+      "options": {
+        "A": "$CH_4$",
+        "B": "$C_2H_6$",
+        "C": "$C_3H_8$",
+        "D": "$C_4H_{10}$"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Urea was first synthesized by Wohler from an inorganic material named as:",
+      "options": {
+        "A": "Ammonium nitrate",
+        "B": "Ammonium chloride",
+        "C": "Ammonium cyanate",
+        "D": "Ammonium bicarbonate"
+      }
+    },
+    {
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following molecule possess acyl functional group:",
+      "options": {
+        "A": "$R-CO-X$",
+        "B": "$R-CONH_2$",
+        "C": "$R-COO-CH_3$",
+        "D": "$R-CO-R$"
+      }
+    },
+    {
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A hydrocarbon with the molecular formula $C_7H_{12}$ is possibly:",
+      "options": {
+        "A": "Heptane",
+        "B": "Heptene",
+        "C": "Heptyne",
+        "D": "Hepta diene"
+      }
+    },
+    {
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$CH_3CH = CH - C \\equiv CH$, its correct IUPAC name is:",
+      "options": {
+        "A": "1-pentyne-3-ene",
+        "B": "3-pentene-1-pentyne",
+        "C": "3-penten-1-yne",
+        "D": "2-pentene-3-yne"
+      }
+    },
+    {
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "IUPAC name of isopropyl alcohol is:",
+      "options": {
+        "A": "1-propanol",
+        "B": "2-propanol",
+        "C": "1-butanol",
+        "D": "2-butanol"
+      }
+    },
+    {
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Resorcinol is a phenol, it contains two OH groups at:",
+      "options": {
+        "A": "Position 1 and 2",
+        "B": "Position 1 and 3",
+        "C": "Position 1 and 4",
+        "D": "Position 2 and 4"
+      }
+    },
+    {
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Formula of a saturated hydrocarbon is $C_4H_8$, it should be:",
+      "options": {
+        "A": "Butane",
+        "B": "Butene",
+        "C": "Butyne",
+        "D": "Cyclobutane"
+      }
+    },
+    {
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the IUPAC naming of ketones the ending -e of main carbon chain is replaced by:",
+      "options": {
+        "A": "yl",
+        "B": "ol",
+        "C": "al",
+        "D": "one"
+      }
+    },
+    {
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the common system, carboxylic acid with six carbon atoms in straight chain is named as:",
+      "options": {
+        "A": "propionic acid",
+        "B": "valeric acid",
+        "C": "caproic acid",
+        "D": "stearic acid"
+      }
+    },
+    {
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The correct structure of 1,3-penta diene is:",
+      "options": {
+        "A": "$CH_3-CH=CH-CH=CH-CH_3$",
+        "B": "$CH \\equiv CH-CH_2-CH=CH_2$",
+        "C": "$CH_2=CH-CH=CH-CH_3$",
+        "D": "$CH_3-CH=C=CH-CH_3$"
+      }
+    },
+    {
+      "chapter": "4 - Nomenclature of Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The IUPAC name of $CH_3COOCH(CH_3)_2$ is:",
+      "options": {
+        "A": "propyl ethanoate",
+        "B": "ethyl propanoate",
+        "C": "isopropyl acetate",
+        "D": "isopropyl ethanoate"
+      }
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The final product obtained when hydrogen bromide ($HBr$) is added to an ethyne molecule:",
+      "options": {
+        "A": "Bromo ethene",
+        "B": "1,1-dibromo ethane",
+        "C": "1,2-dibromo ethane",
+        "D": "1,1,2,2 tetra bromoethane"
+      }
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The formula of a saturated hydrocarbon is $C_3H_8$, it should be:",
+      "options": {
+        "A": "Propane",
+        "B": "Propene",
+        "C": "Propyne",
+        "D": "Cyclopropane"
+      }
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ozonide on heating with zinc dust produce:",
+      "options": {
+        "A": "Alcohol",
+        "B": "Aldehyde",
+        "C": "Alkene",
+        "D": "Ether"
+      }
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following pairs of compounds represent functional group isomerism?",
+      "options": {
+        "A": "1-butene and 2-butene",
+        "B": "Ethanol and dimethyl ether",
+        "C": "n-butane and iso butane",
+        "D": "Diethyl ketone and methyl propyl ketone"
+      }
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The substituent that can act as a meta director is:",
+      "options": {
+        "A": "-Cl",
+        "B": "-$CH_3$",
+        "C": "-OH",
+        "D": "-$COOH$"
+      }
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Welding gas among the following is:",
+      "options": {
+        "A": "Ethylene",
+        "B": "Acetylene",
+        "C": "Ethane",
+        "D": "Methane"
+      }
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Benzene burns with smokey flame because of its:",
+      "options": {
+        "A": "Inflammability",
+        "B": "High carbon % age",
+        "C": "High resonance energy",
+        "D": "Aromaticity"
+      }
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Select the suitable chemical to distinguish between Ethene and Ethyne:",
+      "options": {
+        "A": "Alkaline $KMnO_4$",
+        "B": "Acidified $KMnO_4$",
+        "C": "Bromine water",
+        "D": "Ammoniacal $AgNO_3$"
+      }
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Meta directing group among the following is:",
+      "options": {
+        "A": "-OH",
+        "B": "-$NH_2$",
+        "C": "-$CH_3$",
+        "D": "-$NO_2$"
+      }
+    },
+    {
+      "chapter": "5 - Introduction to Hydrocarbons",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Acylation of benzene in the presence of $AlCl_3$ gives:",
+      "options": {
+        "A": "Toluene",
+        "B": "Acetophenone",
+        "C": "Phenol",
+        "D": "Xylene"
+      }
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following composition justifies the secondary alkyl halide?",
+      "options": {
+        "A": "$R_3CX$",
+        "B": "$R_2CHX$",
+        "C": "$RCH_2X$",
+        "D": "$CH_3X$"
+      }
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following alkyl halide cannot produce an alkene while treated with alcoholic potassium hydroxide:",
+      "options": {
+        "A": "Methyl bromide",
+        "B": "Ethyl bromide",
+        "C": "Propyl bromide",
+        "D": "Butyl bromide"
+      }
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ethyl magnesium bromide with carbon dioxide yields.",
+      "options": {
+        "A": "Methanoic acid",
+        "B": "Ethanoic acid",
+        "C": "Propanoic acid",
+        "D": "Butanoic acid"
+      }
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Grignard reagent with ester produces:",
+      "options": {
+        "A": "Aldehyde",
+        "B": "Carboxylic acid",
+        "C": "Ketone",
+        "D": "Ether"
+      }
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Amines act as bases because:",
+      "options": {
+        "A": "They accept $OH^-$",
+        "B": "They accept $H^+$",
+        "C": "They donate $H^+$",
+        "D": "They donate the $OH^-$"
+      }
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The structure of Primary amine is:",
+      "options": {
+        "A": "Planar trigonal",
+        "B": "Linear",
+        "C": "Pyramidal",
+        "D": "Regular tetrahedral"
+      }
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Alkyl amine when reacts with nitrous acid in the presence of hydrochloric acid, yields:",
+      "options": {
+        "A": "Diazonium salt",
+        "B": "Aldehyde",
+        "C": "Ketone",
+        "D": "Alcohol"
+      }
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$S_N2$ reaction occurs most easily if the substrate molecule is:",
+      "options": {
+        "A": "A methyl iodide",
+        "B": "An ethyl iodide",
+        "C": "2-iodo propane",
+        "D": "2-iodo butane"
+      }
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Suitable reagent required for the synthesis of propane from methyl magnesium iodide is:",
+      "options": {
+        "A": "$H_2O$",
+        "B": "$NH_3$",
+        "C": "$CH_3OH$",
+        "D": "$CH_3NH_2$"
+      }
+    },
+    {
+      "chapter": "6 - Alkyl Halides and Amines",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The rate of $S_N1$ mechanism depends upon:",
+      "options": {
+        "A": "Conc. of substrate only",
+        "B": "Conc. of attacking nucleophile only",
+        "C": "Conc. of both substrate and attacking nucleophile",
+        "D": "Polar solvent"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the molecule of phenol, the carbon atom which is attached to hydroxyl group is:",
+      "options": {
+        "A": "sp-hybridized",
+        "B": "$sp^2$-hybridized",
+        "C": "$sp^3$-hybridized",
+        "D": "Unhybridized"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a trihydric phenol?",
+      "options": {
+        "A": "Resorcinol",
+        "B": "Cresol",
+        "C": "Pyrogallol",
+        "D": "Catechol"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ethanol reacts with $PCl_5$ to form.",
+      "options": {
+        "A": "Diethyl ether",
+        "B": "Ethene",
+        "C": "Ethyl chloride",
+        "D": "Ethanoic acid"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following alcohols has highest boiling point?",
+      "options": {
+        "A": "Ethyl alcohol",
+        "B": "n-pentyl alcohol",
+        "C": "iso-pentyl alcohol",
+        "D": "neo-pentyl alcohol"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following products is mainly formed if ethanol is dehydrated with concentrated sulphuric acid at 170$^\\circ$C?",
+      "options": {
+        "A": "Ethene",
+        "B": "Ethyne",
+        "C": "Ethanol",
+        "D": "Diethyl ether"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Lucas reagent is a mixture of",
+      "options": {
+        "A": "Zn and Hg",
+        "B": "Zn and HCl",
+        "C": "$ZnCl_2$ and HCl",
+        "D": "NaOH and CaO"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Oxidative cleavage of 1,2-diol occur in the presence of",
+      "options": {
+        "A": "$K_2Cr_2O_7$",
+        "B": "$KMnO_4$",
+        "C": "$HNO_3$",
+        "D": "$HIO_4$"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following molecule cannot form hydrogen bonding with water molecule?",
+      "options": {
+        "A": "Phenol",
+        "B": "Resorcinol",
+        "C": "Ethyl chloride",
+        "D": "Ethyl alcohol"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Secondary alcohols, undergo oxidation with potassium dichromate to produce carboxylic acid through an intermediate product known as:",
+      "options": {
+        "A": "Aldehyde",
+        "B": "Ketone",
+        "C": "Ether",
+        "D": "Alkyl halide"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is an anaesthetic agent",
+      "options": {
+        "A": "Phenol",
+        "B": "Ethyl alcohol",
+        "C": "Diethyl ether",
+        "D": "Acetone"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ketones when treated with $LiAlH_4$, they reduce to:",
+      "options": {
+        "A": "Primary alcohol",
+        "B": "Secondary alcohol",
+        "C": "Tertiary alcohol",
+        "D": "Dihydric alcohol"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The reagent used to oxidizes ketones into carboxylic acids is:",
+      "options": {
+        "A": "Ammoniacal silver nitrate",
+        "B": "Potassium dichromate",
+        "C": "Fehling solution",
+        "D": "Benedict solution"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The carbonyl carbon of aldehydes and ketones is:",
+      "options": {
+        "A": "sp hybridized",
+        "B": "$sp^2$ hybridized",
+        "C": "$sp^3$ hybridized",
+        "D": "$dsp^2$ hybridized"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Acetophenone is the member of ketone family, it contains:",
+      "options": {
+        "A": "Two alkyl groups",
+        "B": "Two aryl group",
+        "C": "One alkyl and one aryl group",
+        "D": "One aryl and one hydrogen atom"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The most reactive molecule towards nucleophilic addition in the following is:",
+      "options": {
+        "A": "Formaldehyde",
+        "B": "Acetaldehyde",
+        "C": "Diethyl ketone",
+        "D": "Acetophenone"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Clemmensen reduction is the conversion of aldehydes and ketones into:",
+      "options": {
+        "A": "Alkanes",
+        "B": "Alkenes",
+        "C": "Alkyl halides",
+        "D": "Alcohols"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Hydration of propyne in the presence of $H_2SO_4$ and $HgSO_4$ gives:",
+      "options": {
+        "A": "Formaldehyde",
+        "B": "Methyl ethyl ketone",
+        "C": "Acetone",
+        "D": "Acetaldehyde"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following carbonyl compound is most soluble in water?",
+      "options": {
+        "A": "Formaldehyde",
+        "B": "Acetaldehyde",
+        "C": "Benzaldehyde",
+        "D": "Acetophenone"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following gives silver test with Tollen's reagent?",
+      "options": {
+        "A": "$HCHO$",
+        "B": "$CH_3-O-CH_3$",
+        "C": "$C_6H_5OH$",
+        "D": "$CH_3COOH$"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "On reduction of a carbonyl compound by Zn-Hg and Conc. HCl, it is converted to an alkane. This reaction is known as;",
+      "options": {
+        "A": "Dow reduction",
+        "B": "Cope reduction",
+        "C": "Clemmensen reduction",
+        "D": "Wolf-Kishner reduction"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The most common compound found in pineapple is:",
+      "options": {
+        "A": "Acetic acid",
+        "B": "Ethanol",
+        "C": "Acetone",
+        "D": "Ethyl butanoate"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two molecules of acetic acid on condensation gives:",
+      "options": {
+        "A": "Ethyl acetate",
+        "B": "Acetamide",
+        "C": "Acylhalide",
+        "D": "Acetic anhydride"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Carboxylic acid is stronger acid than:",
+      "options": {
+        "A": "$HCl$",
+        "B": "$HNO_3$",
+        "C": "$C_6H_5OH$",
+        "D": "$H_2SO_4$"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The reagent that cannot produce an acyl halide in reaction with a carboxylic acid is:",
+      "options": {
+        "A": "$PCl_5$",
+        "B": "$PCl_3$",
+        "C": "HCl",
+        "D": "$SOCl_2$"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Benzoic acid is the product of oxidation of:",
+      "options": {
+        "A": "Benzene",
+        "B": "Ethyl Benzene",
+        "C": "Aniline",
+        "D": "Phenol"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Formation of acyl halide and amide by carboxylic acid involved",
+      "options": {
+        "A": "Replacement of hydrogen",
+        "B": "Replacement of carbonyl group",
+        "C": "Replacement of hydroxyl group",
+        "D": "Replacement of oxygen"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Formic acid is naturally found in:",
+      "options": {
+        "A": "Venom of ants",
+        "B": "Bees string",
+        "C": "Vinegar",
+        "D": "Butter"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Among the following compounds, the one with the highest boiling point is:",
+      "options": {
+        "A": "Ethanol",
+        "B": "Acetaldehyde",
+        "C": "Acetic acid",
+        "D": "Ethyl chloride"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The formula of caproic acid is:",
+      "options": {
+        "A": "$C_4H_9COOH$",
+        "B": "$C_5H_{11}COOH$",
+        "C": "$C_6H_{13}COOH$",
+        "D": "$C_7H_{15}COOH$"
+      }
+    },
+    {
+      "chapter": "3 - Organic Compounds",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The reaction of acetic acid with ethanol in the presence of conc. sulphuric acid gives:",
+      "options": {
+        "A": "Ethyl acetate",
+        "B": "Acetamide",
+        "C": "Ethane",
+        "D": "Acetic anhydride"
+      }
+    },
+    {
+      "chapter": "10 - Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Starch and Sucrose are examples of:",
+      "options": {
+        "A": "Monosaccharides and Disaccharides",
+        "B": "Disaccharides and Oligosaccharides",
+        "C": "Polysaccharides and Disaccharides",
+        "D": "Monosaccharides and Polysaccharides"
+      }
+    },
+    {
+      "chapter": "10 - Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Amino acid units bonded in protein molecule through:",
+      "options": {
+        "A": "Glycosidic linkage",
+        "B": "Ether linkage",
+        "C": "Peptide linkage",
+        "D": "Hydrogen bridge"
+      }
+    },
+    {
+      "chapter": "10 - Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Proteins are composed of:",
+      "options": {
+        "A": "Amino acids",
+        "B": "Carbohydrates",
+        "C": "Lipids",
+        "D": "Nucleic acids"
+      }
+    },
+    {
+      "chapter": "10 - Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A condensation polymer of amino acid is:",
+      "options": {
+        "A": "Protein",
+        "B": "Lipids",
+        "C": "Starch",
+        "D": "Glycogen"
+      }
+    },
+    {
+      "chapter": "10 - Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Saponification is the formation of soap by the reaction of fat and oil with:",
+      "options": {
+        "A": "An alkali",
+        "B": "An acid",
+        "C": "Sugar",
+        "D": "Glycerol"
+      }
+    },
+    {
+      "chapter": "10 - Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following mineral is considered to be essential for immune system:",
+      "options": {
+        "A": "Iron",
+        "B": "Zinc",
+        "C": "Magnesium",
+        "D": "Calcium"
+      }
+    },
+    {
+      "chapter": "10 - Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Rancidity is a chemical process involving:",
+      "options": {
+        "A": "Oxidation and hydrolysis",
+        "B": "Condensation and reduction",
+        "C": "Polymerization",
+        "D": "Decarboxylation"
+      }
+    },
+    {
+      "chapter": "10 - Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Lipid which is a major component of cell membrane is:",
+      "options": {
+        "A": "Triglyceride",
+        "B": "Phospholipid",
+        "C": "Glycolipid",
+        "D": "Steroid"
+      }
+    },
+    {
+      "chapter": "10 - Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Total numbers of alpha amino acids are:",
+      "options": {
+        "A": "19",
+        "B": "22",
+        "C": "25",
+        "D": "28"
+      }
+    },
+    {
+      "chapter": "10 - Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Sugar molecules are classified as:",
+      "options": {
+        "A": "Fats",
+        "B": "Proteins",
+        "C": "Carbohydrates",
+        "D": "Lipids"
+      }
+    },
+    {
+      "chapter": "11 - Industrial Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Super glue is chemically named as:",
+      "options": {
+        "A": "Cyano acrylate",
+        "B": "Polyvinyl acetate",
+        "C": "Epoxy resins",
+        "D": "Polyurethane"
+      }
+    },
+    {
+      "chapter": "11 - Industrial Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "DDT is a chemical which commercially known as:",
+      "options": {
+        "A": "Insecticide",
+        "B": "Herbicide",
+        "C": "Pesticide",
+        "D": "Fungicide"
+      }
+    },
+    {
+      "chapter": "11 - Industrial Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Nail polish remover is mainly consists of:",
+      "options": {
+        "A": "Pigments",
+        "B": "Acetone",
+        "C": "Diethyl ether",
+        "D": "Ethyl alcohol"
+      }
+    },
+    {
+      "chapter": "11 - Industrial Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Antimalarial drug among the following is:",
+      "options": {
+        "A": "Ibuprofin",
+        "B": "Chloroquine",
+        "C": "Paracetamol",
+        "D": "Diphenyl hdramine"
+      }
+    },
+    {
+      "chapter": "11 - Industrial Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Asprin is a pain reliever, its chemical name is:",
+      "options": {
+        "A": "Ascorbic acid",
+        "B": "Nicotinic acid",
+        "C": "Acetyl salisylic acid",
+        "D": "Benzoic acid"
+      }
+    },
+    {
+      "chapter": "11 - Industrial Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Nylon 6, 6 is a condensation polymer of hexamethylene diamine and:",
+      "options": {
+        "A": "Benzoic acid",
+        "B": "Adipic acid",
+        "C": "Pthalic acid",
+        "D": "Valeric acid"
+      }
+    },
+    {
+      "chapter": "11 - Industrial Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is not a synthetic plastic:",
+      "options": {
+        "A": "Nylon",
+        "B": "Teflon",
+        "C": "Cellulose",
+        "D": "Polyethene"
+      }
+    },
+    {
+      "chapter": "11 - Industrial Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Drugs that lower the body temperature to normal are known as:",
+      "options": {
+        "A": "Antibiotics",
+        "B": "Antipyretic",
+        "C": "Antiallergic",
+        "D": "Anti histamins"
+      }
+    },
+    {
+      "chapter": "11 - Industrial Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following chemical is used as an oxidizing agent in permanent hair dyes:",
+      "options": {
+        "A": "Acetone",
+        "B": "Hydrogen peroxide",
+        "C": "Polyvinyl acetate",
+        "D": "Resorcinol"
+      }
+    },
+    {
+      "chapter": "11 - Industrial Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An example of thermosetting plastic is:",
+      "options": {
+        "A": "Polyethene",
+        "B": "PVC",
+        "C": "Nylon",
+        "D": "Bakelite"
+      }
+    },
+    {
+      "chapter": "12 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The greenhouse gas is:",
+      "options": {
+        "A": "Oxygen ($O_2$)",
+        "B": "Nitrogen ($N_2$)",
+        "C": "Argon (Ar)",
+        "D": "Carbon dioxide ($CO_2$)"
+      }
+    },
+    {
+      "chapter": "12 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The pH of acid rain is:",
+      "options": {
+        "A": "Between 7 to 8",
+        "B": "Between 6 to 7",
+        "C": "Below 5",
+        "D": "Above 8"
+      }
+    },
+    {
+      "chapter": "12 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ozone depletion in upper atmosphere is mainly caused by:",
+      "options": {
+        "A": "Sulphur dioxide ($SO_2$)",
+        "B": "Nitrogen oxides ($NO_x$)",
+        "C": "Carbon monoxide ($CO$)",
+        "D": "Chlorofluorocarbons (CFCs)"
+      }
+    },
+    {
+      "chapter": "12 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The region of sphere which extend from 11km to 50km from our Earth's is known as:",
+      "options": {
+        "A": "Troposphere",
+        "B": "Stratosphere",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      }
+    },
+    {
+      "chapter": "12 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The increase in global average temperatures is primarily attributed to:",
+      "options": {
+        "A": "Solar radiations",
+        "B": "Oxides of sulphur ($SO_x$)",
+        "C": "Green house gases emission",
+        "D": "Natural climate variations"
+      }
+    },
+    {
+      "chapter": "12 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The primary goal of green chemistry is:",
+      "options": {
+        "A": "Maximizing industrial production",
+        "B": "Minimizing waste generation",
+        "C": "Reducing energy consumption",
+        "D": "Developing environmentally friendly chemicals"
+      }
+    },
+    {
+      "chapter": "12 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Smog is word used for the combination of:",
+      "options": {
+        "A": "Water vapours and frog",
+        "B": "Smoke and fog",
+        "C": "Sediments and colloids",
+        "D": "Oxides of nitrogen and sulphur"
+      }
+    },
+    {
+      "chapter": "12 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The catalyst used in automobile catalytic converter is a mixture of:",
+      "options": {
+        "A": "Pt and Pd",
+        "B": "Ni and Fe",
+        "C": "Cu and Cr",
+        "D": "Pb and Hg"
+      }
+    },
+    {
+      "chapter": "12 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ozone layer is present in which of the following region of atmosphere:",
+      "options": {
+        "A": "Troposphere",
+        "B": "Stratosphere",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      }
+    },
+    {
+      "chapter": "12 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The major source of water pollution is:",
+      "options": {
+        "A": "Organic farming",
+        "B": "Global warming",
+        "C": "Industrial activities",
+        "D": "Renewable energy sources"
+      }
+    },
+    {
+      "chapter": "13 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The energy of IR radiations is:",
+      "options": {
+        "A": "Higher than radio waves",
+        "B": "Higher than U.V waves",
+        "C": "Lower than micro waves",
+        "D": "Higher than x-rays"
+      }
+    },
+    {
+      "chapter": "13 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The fingerprint region of an IR spectrum typically found in the range of:",
+      "options": {
+        "A": "1500-4000$cm^{-1}$",
+        "B": "2000-4000$cm^{-1}$",
+        "C": "1500-500$cm^{-1}$",
+        "D": "4000-8000$cm^{-1}$"
+      }
+    },
+    {
+      "chapter": "13 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which unit of measurement is used for the wave number of IR spectrum:",
+      "options": {
+        "A": "Nanometer (nm)",
+        "B": "Angstrom ($\\AA$)",
+        "C": "Centimeter$^{-1}$ ($cm^{-1}$)",
+        "D": "Hertz (Hz)"
+      }
+    },
+    {
+      "chapter": "13 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Electronic excitation occurs in electromagnetic spectrum if the molecule absorbs:",
+      "options": {
+        "A": "IR radiations",
+        "B": "U.V-visible radiations",
+        "C": "Radio waves",
+        "D": "Micro waves"
+      }
+    },
+    {
+      "chapter": "13 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In NMR spectroscopy, the hydroxyl proton of $C_2H_5OH$ appears as a broad singlet around:",
+      "options": {
+        "A": "1-2 ppm",
+        "B": "2-3 ppm",
+        "C": "4-5 ppm",
+        "D": "6-7 ppm"
+      }
+    },
+    {
+      "chapter": "13 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Atomic absorption spectrum is represented by:",
+      "options": {
+        "A": "Dark lines against bright background",
+        "B": "Bright lines against dark background",
+        "C": "Bright lines against bright background",
+        "D": "Dark lines against dark background"
+      }
+    },
+    {
+      "chapter": "13 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Infrared spectroscopy is a technique use to determine in the given organic molecule:",
+      "options": {
+        "A": "Double and triple bonds",
+        "B": "Mass to charge ratio",
+        "C": "Functional group",
+        "D": "Conjugated system"
+      }
+    },
+    {
+      "chapter": "13 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Highest U.V-visible absorption energy require for the transition of:",
+      "options": {
+        "A": "$\\sigma$ to $\\sigma^*$",
+        "B": "$\\pi$ to $\\pi^*$",
+        "C": "$n$ to $\\sigma^*$",
+        "D": "$n$ to $\\pi^*$"
+      }
+    },
+    {
+      "chapter": "13 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "NMR spectroscopy is carried out if radiations interact with molecules in high magnetic field:",
+      "options": {
+        "A": "U.V-visible rays",
+        "B": "Radio rays",
+        "C": "X-rays",
+        "D": "Infrared rays"
+      }
+    },
+    {
+      "chapter": "13 - Environmental Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In which of the following spectroscopy technique $D_2O$ can be used as solvent:",
+      "options": {
+        "A": "Mass spectroscopy",
+        "B": "NMR spectroscopy",
+        "C": "Atomic absorption spectroscopy",
+        "D": "IR spectroscopy"
+      }
+    }
+  ]
+}

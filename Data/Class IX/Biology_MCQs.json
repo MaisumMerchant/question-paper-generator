@@ -1,0 +1,2834 @@
+{
+  "subject": "Biology",
+  "class": "IX",
+  "questions": [
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Biology is the study of:",
+      "options": {
+        "A": "living things",
+        "B": "non-living things",
+        "C": "both living and non-living things",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The word 'Biology' has been derived from which language?",
+      "options": {
+        "A": "Latin",
+        "B": "Greek",
+        "C": "Arabic",
+        "D": "French"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a major division (branch) of biology?",
+      "options": {
+        "A": "Botany",
+        "B": "Zoology",
+        "C": "Both Botany and Zoology",
+        "D": "Chemistry"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The study of plants is called:",
+      "options": {
+        "A": "Zoology",
+        "B": "Botany",
+        "C": "Mycology",
+        "D": "Entomology"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The study of animals is called:",
+      "options": {
+        "A": "Botany",
+        "B": "Zoology",
+        "C": "Ichthyology",
+        "D": "Ornithology"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The study of microorganisms is called:",
+      "options": {
+        "A": "Microbiology",
+        "B": "Molecular biology",
+        "C": "Ecology",
+        "D": "Parasitology"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The study of fossils is called:",
+      "options": {
+        "A": "Paleontology",
+        "B": "Geology",
+        "C": "Taxonomy",
+        "D": "Paleogeography"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The study of tissues is called:",
+      "options": {
+        "A": "Histology",
+        "B": "Cytology",
+        "C": "Anatomy",
+        "D": "Pathology"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The study of cells and their organelles is called:",
+      "options": {
+        "A": "Cytology",
+        "B": "Histology",
+        "C": "Physiology",
+        "D": "Embryology"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The branch of biology which deals with the study of functions of different parts of organisms is:",
+      "options": {
+        "A": "Anatomy",
+        "B": "Morphology",
+        "C": "Physiology",
+        "D": "Histology"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The study of organisms in relation to their environment is called:",
+      "options": {
+        "A": "Ecology",
+        "B": "Taxonomy",
+        "C": "Sociology",
+        "D": "Ethology"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The study of parasites and their hosts is called:",
+      "options": {
+        "A": "Parasitology",
+        "B": "Ecology",
+        "C": "Pathology",
+        "D": "Immunology"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a career/field of biology?",
+      "options": {
+        "A": "Medicine",
+        "B": "Fisheries",
+        "C": "Agriculture",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The arrangement of organisms into groups on the basis of similarities is called:",
+      "options": {
+        "A": "Classification",
+        "B": "Identification",
+        "C": "Nomenclature",
+        "D": "Identification and classification"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Binomial nomenclature was introduced by:",
+      "options": {
+        "A": "Carolus Linnaeus",
+        "B": "Aristotle",
+        "C": "Theophrastus",
+        "D": "Charles Darwin"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In binomial nomenclature, the first name denotes:",
+      "options": {
+        "A": "species",
+        "B": "genus",
+        "C": "family",
+        "D": "order"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The scientific name of man is:",
+      "options": {
+        "A": "Homo sapiens",
+        "B": "Homo erectus",
+        "C": "Pan troglodytes",
+        "D": "Homo habilis"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a unicellular prokaryotic organism?",
+      "options": {
+        "A": "Amoeba",
+        "B": "Bacteria",
+        "C": "Euglena",
+        "D": "Paramecium"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The basic unit of classification is:",
+      "options": {
+        "A": "species",
+        "B": "genus",
+        "C": "family",
+        "D": "individual"
+      }
+    },
+    {
+      "chapter": "Introduction to Biology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The organisms which cannot make their own food are called:",
+      "options": {
+        "A": "Autotrophs",
+        "B": "Heterotrophs",
+        "C": "Saprotrophs",
+        "D": "Chemotrophs"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The first step of the biological method is:",
+      "options": {
+        "A": "observation",
+        "B": "hypothesis",
+        "C": "experimentation",
+        "D": "deduction"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A statement which can be tested experimentally is called:",
+      "options": {
+        "A": "theory",
+        "B": "law",
+        "C": "hypothesis",
+        "D": "principle"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Hypothesis is a statement which is:",
+      "options": {
+        "A": "based on observations and can be tested",
+        "B": "always true",
+        "C": "cannot be tested",
+        "D": "the final conclusion"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The logical consequences of a hypothesis are called:",
+      "options": {
+        "A": "observations",
+        "B": "deductions",
+        "C": "experiments",
+        "D": "results"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The hypothesis which survives repeated experiments and is universally accepted is called:",
+      "options": {
+        "A": "theory or law",
+        "B": "deduction",
+        "C": "observation",
+        "D": "prediction"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ronald Ross was awarded the Nobel Prize for his work on:",
+      "options": {
+        "A": "malaria",
+        "B": "tuberculosis",
+        "C": "polio",
+        "D": "smallpox"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ronald Ross performed his experiments on the transmission of malaria in:",
+      "options": {
+        "A": "Africa",
+        "B": "India",
+        "C": "Pakistan",
+        "D": "America"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The malarial parasite is transmitted by:",
+      "options": {
+        "A": "male Anopheles mosquito",
+        "B": "female Anopheles mosquito",
+        "C": "female Culex mosquito",
+        "D": "male Culex mosquito"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The malarial parasite Plasmodium was discovered by:",
+      "options": {
+        "A": "Ronald Ross",
+        "B": "Laveran",
+        "C": "Aristotle",
+        "D": "Leeuwenhoek"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the experiments of Ross, sparrows were kept in the nest built by:",
+      "options": {
+        "A": "Culex mosquitoes",
+        "B": "Anopheles mosquitoes",
+        "C": "Aedes mosquitoes",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ross kept sparrows in the nest made by Anopheles mosquitoes to test whether the malarial parasite is present in:",
+      "options": {
+        "A": "blood of sparrows",
+        "B": "saliva of mosquitoes",
+        "C": "excreta of mosquitoes",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The experiments of biological method on malaria were carried out by Ross with the help of:",
+      "options": {
+        "A": "quinine",
+        "B": "sparrows and mosquitoes",
+        "C": "human volunteers",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Malaria is caused by a protozoan named:",
+      "options": {
+        "A": "Plasmodium",
+        "B": "Entamoeba",
+        "C": "Trypanosoma",
+        "D": "Euglena"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In which of the following steps of biological method is mathematics used?",
+      "options": {
+        "A": "Observation",
+        "B": "Hypothesis",
+        "C": "Reporting of results",
+        "D": "Deduction"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The organism in which the malarial parasite multiplies asexually is:",
+      "options": {
+        "A": "man",
+        "B": "female Anopheles mosquito",
+        "C": "sparrow",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Solving a Biological Problem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Female Anopheles mosquito transmits malarial parasite as it feeds on:",
+      "options": {
+        "A": "plant juices",
+        "B": "human blood",
+        "C": "nectar",
+        "D": "decaying matter"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The variety of life forms present in a particular ecosystem is called:",
+      "options": {
+        "A": "biodiversity",
+        "B": "biosphere",
+        "C": "population",
+        "D": "habitat"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The total number of living species on earth is estimated to be about:",
+      "options": {
+        "A": "2 million",
+        "B": "5 million",
+        "C": "10 million",
+        "D": "1 million"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is the correct sequence of the classification groups?",
+      "options": {
+        "A": "Species, genus, family, order",
+        "B": "Genus, species, family, order",
+        "C": "Species, family, genus, order",
+        "D": "Order, family, genus, species"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of kingdoms proposed by Whittaker is:",
+      "options": {
+        "A": "three",
+        "B": "five",
+        "C": "four",
+        "D": "six"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The five kingdom classification was proposed by:",
+      "options": {
+        "A": "Robert Whittaker",
+        "B": "Carolus Linnaeus",
+        "C": "Ernst Mayr",
+        "D": "Aristotle"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following kingdoms contains prokaryotic organisms?",
+      "options": {
+        "A": "Protista",
+        "B": "Monera",
+        "C": "Fungi",
+        "D": "Plantae"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the five kingdom system, fungi are placed in the kingdom:",
+      "options": {
+        "A": "Plantae",
+        "B": "Fungi",
+        "C": "Protista",
+        "D": "Monera"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following organisms is placed in the kingdom Protista?",
+      "options": {
+        "A": "Bacteria",
+        "B": "Amoeba",
+        "C": "Mushroom",
+        "D": "Moss"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The organisms having a true nucleus are called:",
+      "options": {
+        "A": "prokaryotes",
+        "B": "eukaryotes",
+        "C": "protists",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Bacteria were placed in the kingdom:",
+      "options": {
+        "A": "Monera",
+        "B": "Protista",
+        "C": "Plantae",
+        "D": "Fungi"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Viruses are considered non-living because they:",
+      "options": {
+        "A": "do not respire outside the host",
+        "B": "can be crystallized",
+        "C": "have no organelles",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The genetic material of viruses is:",
+      "options": {
+        "A": "DNA only",
+        "B": "RNA only",
+        "C": "DNA or RNA",
+        "D": "both DNA and RNA"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following viral diseases is common in plants?",
+      "options": {
+        "A": "leaf curl of papaya",
+        "B": "tomato yellow leaf curl",
+        "C": "tobacco mosaic",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The protein coat of a virus is called:",
+      "options": {
+        "A": "capsid",
+        "B": "cell wall",
+        "C": "capsule",
+        "D": "pellicle"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The group of organisms which has no nuclear membrane around its genetic material is:",
+      "options": {
+        "A": "prokaryotes",
+        "B": "eukaryotes",
+        "C": "protists",
+        "D": "fungi"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Blue-green algae are also called:",
+      "options": {
+        "A": "cyanobacteria",
+        "B": "archaebacteria",
+        "C": "eubacteria",
+        "D": "protists"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following are decomposers?",
+      "options": {
+        "A": "Bacteria and fungi",
+        "B": "Algae and fungi",
+        "C": "All bacteria",
+        "D": "All protozoans"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The fungi which feed on dead organic matter are called:",
+      "options": {
+        "A": "saprotrophs",
+        "B": "parasites",
+        "C": "autotrophs",
+        "D": "predators"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The study of fungi is called:",
+      "options": {
+        "A": "mycology",
+        "B": "bacteriology",
+        "C": "phycology",
+        "D": "botany"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The body of a fungus is made of thread-like structures called:",
+      "options": {
+        "A": "hyphae",
+        "B": "mycelium",
+        "C": "spores",
+        "D": "rhizoids"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is an example of a sac fungus?",
+      "options": {
+        "A": "Penicillium",
+        "B": "Yeast",
+        "C": "Mushroom",
+        "D": "Rhizopus"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Penicillin is obtained from:",
+      "options": {
+        "A": "Penicillium",
+        "B": "Aspergillus",
+        "C": "Mucor",
+        "D": "Agaricus"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is not a characteristic of algae?",
+      "options": {
+        "A": "They are photosynthetic",
+        "B": "They have chlorophyll",
+        "C": "They are heterotrophic",
+        "D": "They are mostly aquatic"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the five kingdom system, multicellular photosynthetic organisms are placed in the kingdom:",
+      "options": {
+        "A": "Plantae",
+        "B": "Protista",
+        "C": "Fungi",
+        "D": "Animalia"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Bryophytes are amphibians of the plant kingdom because they:",
+      "options": {
+        "A": "live in water and land both",
+        "B": "need water for fertilization",
+        "C": "have vascular tissue",
+        "D": "lack chlorophyll"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The vascular plants which produce seeds but not fruits are called:",
+      "options": {
+        "A": "gymnosperms",
+        "B": "angiosperms",
+        "C": "bryophytes",
+        "D": "pteridophytes"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The plants which produce flowers, seeds and fruits are called:",
+      "options": {
+        "A": "gymnosperms",
+        "B": "angiosperms",
+        "C": "thallophytes",
+        "D": "bryophytes"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is the largest group of plants?",
+      "options": {
+        "A": "Bryophyta",
+        "B": "Tracheophyta",
+        "C": "Algae",
+        "D": "Fungi"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The animals which lack a backbone are called:",
+      "options": {
+        "A": "vertebrates",
+        "B": "invertebrates",
+        "C": "chordates",
+        "D": "mammals"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Invertebrates which have segmented bodies and jointed legs are:",
+      "options": {
+        "A": "annelids",
+        "B": "arthropods",
+        "C": "molluscs",
+        "D": "echinoderms"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The animals in which the body is divided into head, thorax and abdomen are:",
+      "options": {
+        "A": "annelids",
+        "B": "arthropods",
+        "C": "molluscs",
+        "D": "coelenterates"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following groups is the largest phylum of the animal kingdom?",
+      "options": {
+        "A": "Mollusca",
+        "B": "Arthropoda",
+        "C": "Annelida",
+        "D": "Echinodermata"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The animals which have a notochord, dorsal hollow nervous system and gill slits at some stage of life are:",
+      "options": {
+        "A": "non-chordates",
+        "B": "chordates",
+        "C": "protozoans",
+        "D": "echinoderms"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The warm-blooded animals which have hairs and mammary glands are:",
+      "options": {
+        "A": "aves",
+        "B": "mammals",
+        "C": "reptiles",
+        "D": "amphibians"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The class of animals which has feathers and forelimbs modified into wings is:",
+      "options": {
+        "A": "mammalia",
+        "B": "aves",
+        "C": "reptilia",
+        "D": "amphibia"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Amphibians are the animals which live:",
+      "options": {
+        "A": "only in water",
+        "B": "on land only",
+        "C": "in water and on land",
+        "D": "in air"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is an example of an endangered species?",
+      "options": {
+        "A": " Houbara bustard",
+        "B": "House sparrow",
+        "C": "Crow",
+        "D": "Pigeon"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The conservation of biodiversity is necessary to:",
+      "options": {
+        "A": "maintain the balance of nature",
+        "B": "provide food and medicines",
+        "C": "prevent extinction of species",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Biodiversity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Extinction of species occurs due to:",
+      "options": {
+        "A": "destruction of habitats",
+        "B": "hunting",
+        "C": "pollution",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The structural and functional unit of life is:",
+      "options": {
+        "A": "cell",
+        "B": "tissue",
+        "C": "organ",
+        "D": "organ system"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cell was discovered by:",
+      "options": {
+        "A": "Robert Hooke",
+        "B": "Robert Brown",
+        "C": "Schwann",
+        "D": "Schleiden"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cell theory was proposed by:",
+      "options": {
+        "A": "Schleiden and Schwann",
+        "B": "Robert Hooke and Leeuwenhoek",
+        "C": "Watson and Crick",
+        "D": "Darwin and Wallace"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cells which have a true nucleus and membrane-bounded organelles are:",
+      "options": {
+        "A": "prokaryotic cells",
+        "B": "eukaryotic cells",
+        "C": "both",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following organelles is absent in prokaryotic cells?",
+      "options": {
+        "A": "ribosomes",
+        "B": "cell wall",
+        "C": "nucleus",
+        "D": "cell membrane"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The outermost boundary of an animal cell is:",
+      "options": {
+        "A": "cell wall",
+        "B": "cell membrane",
+        "C": "capsule",
+        "D": "nuclear membrane"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The structure which controls all the activities of the cell is:",
+      "options": {
+        "A": "nucleus",
+        "B": "mitochondria",
+        "C": "ribosome",
+        "D": "lysosome"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The site of protein synthesis in a cell is:",
+      "options": {
+        "A": "ribosome",
+        "B": "mitochondria",
+        "C": "nucleus",
+        "D": "Golgi apparatus"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The power house of the cell is:",
+      "options": {
+        "A": "ribosome",
+        "B": "mitochondria",
+        "C": "nucleus",
+        "D": "lysosome"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which organelle is called the 'suicidal bag' of the cell?",
+      "options": {
+        "A": "ribosome",
+        "B": "lysosome",
+        "C": "mitochondria",
+        "D": "Golgi apparatus"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The organelle involved in the packaging and secretion of cellular materials is:",
+      "options": {
+        "A": "Golgi apparatus",
+        "B": "endoplasmic reticulum",
+        "C": "lysosome",
+        "D": "ribosome"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The network of tubules and vesicles extending from nuclear membrane to cell membrane is:",
+      "options": {
+        "A": "endoplasmic reticulum",
+        "B": "Golgi apparatus",
+        "C": "mitochondria",
+        "D": "vacuole"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cells of plants and fungi have an outer covering called:",
+      "options": {
+        "A": "cell membrane",
+        "B": "cell wall",
+        "C": "capsule",
+        "D": "plasma lemma"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cell wall of plant cells is mainly made of:",
+      "options": {
+        "A": "chitin",
+        "B": "cellulose",
+        "C": "peptidoglycan",
+        "D": "lignin"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is present in plant cells but absent in animal cells?",
+      "options": {
+        "A": "mitochondria",
+        "B": "chloroplast",
+        "C": "ribosomes",
+        "D": "nucleus"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The organelle which is the site of photosynthesis in plant cells is:",
+      "options": {
+        "A": "mitochondria",
+        "B": "chloroplast",
+        "C": "leucoplast",
+        "D": "ribosome"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The space in the cytoplasm of a cell filled with sap is called:",
+      "options": {
+        "A": "vacuole",
+        "B": "vesicle",
+        "C": "lysosome",
+        "D": "cavity"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The chemical compound of which cell membrane is made is:",
+      "options": {
+        "A": "cellulose",
+        "B": "lipids and proteins",
+        "C": "chitin",
+        "D": "peptidoglycan"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Plastids are found in the cells of:",
+      "options": {
+        "A": "animals only",
+        "B": "plants only",
+        "C": "both plants and animals",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The organelles which store starch, proteins and lipids in plant cells are:",
+      "options": {
+        "A": "chloroplasts",
+        "B": "leucoplasts",
+        "C": "vacuoles",
+        "D": "chromoplasts"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is present in animal cells only?",
+      "options": {
+        "A": "centrioles",
+        "B": "chloroplast",
+        "C": "cell wall",
+        "D": "plastids"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The protoplasm of a cell excluding the nucleus is called:",
+      "options": {
+        "A": "cytoplasm",
+        "B": "nucleoplasm",
+        "C": "hyaloplasm",
+        "D": "sap"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The fluid present inside the nucleus is called:",
+      "options": {
+        "A": "cytoplasm",
+        "B": "nucleoplasm",
+        "C": "protoplasm",
+        "D": "ground substance"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the nucleus of a eukaryotic cell the chromosomes are made of:",
+      "options": {
+        "A": "proteins only",
+        "B": "DNA only",
+        "C": "DNA and proteins",
+        "D": "RNA and lipids"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A group of similar cells performing a common function is called:",
+      "options": {
+        "A": "organ",
+        "B": "tissue",
+        "C": "organelle",
+        "D": "organ system"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The tissues which are composed of cells having similar structure and functions are called:",
+      "options": {
+        "A": "simple tissues",
+        "B": "compound tissues",
+        "C": "complex tissues",
+        "D": "meristematic tissues"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The plant tissues which have the ability to divide are called:",
+      "options": {
+        "A": "permanent tissues",
+        "B": "meristematic tissues",
+        "C": "epidermal tissues",
+        "D": "vascular tissues"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The tissues in which cells have lost the ability to divide are called:",
+      "options": {
+        "A": "meristematic tissues",
+        "B": "permanent tissues",
+        "C": "apical tissues",
+        "D": "lateral tissues"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Xylem and phloem are the examples of:",
+      "options": {
+        "A": "meristematic tissues",
+        "B": "permanent tissues",
+        "C": "ground tissues",
+        "D": "epidermal tissues"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The tissue which conducts water and minerals in plants is:",
+      "options": {
+        "A": "phloem",
+        "B": "xylem",
+        "C": "cambium",
+        "D": "cortex"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The tissue which conducts food in plants is:",
+      "options": {
+        "A": "xylem",
+        "B": "phloem",
+        "C": "pith",
+        "D": "epidermis"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following animal tissues covers the surfaces of organs?",
+      "options": {
+        "A": "muscular tissue",
+        "B": "epithelial tissue",
+        "C": "connective tissue",
+        "D": "nervous tissue"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The tissue which joins different parts of the body is:",
+      "options": {
+        "A": "epithelial tissue",
+        "B": "connective tissue",
+        "C": "muscular tissue",
+        "D": "nervous tissue"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The tissue which contracts to cause movement is:",
+      "options": {
+        "A": "nervous tissue",
+        "B": "muscular tissue",
+        "C": "epithelial tissue",
+        "D": "connective tissue"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The tissue which transmits messages from one part of the body to another is:",
+      "options": {
+        "A": "muscular tissue",
+        "B": "nervous tissue",
+        "C": "connective tissue",
+        "D": "epithelial tissue"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cells which are long, cylindrical and multinucleated are the cells of:",
+      "options": {
+        "A": "smooth muscles",
+        "B": "skeletal muscles",
+        "C": "cardiac muscles",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The muscles present in the walls of the heart are:",
+      "options": {
+        "A": "skeletal muscles",
+        "B": "smooth muscles",
+        "C": "cardiac muscles",
+        "D": "voluntary muscles"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The blood is an example of:",
+      "options": {
+        "A": "epithelial tissue",
+        "B": "muscular tissue",
+        "C": "connective tissue",
+        "D": "nervous tissue"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The non-cellular matrix of blood is called:",
+      "options": {
+        "A": "plasma",
+        "B": "serum",
+        "C": "cytoplasm",
+        "D": "tissue fluid"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cells of nervous tissue which transmit impulses are:",
+      "options": {
+        "A": "neurons",
+        "B": "neuroglia",
+        "C": "dendrites",
+        "D": "axons"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is an example of compound tissues in animals?",
+      "options": {
+        "A": "muscle",
+        "B": "blood",
+        "C": "bone",
+        "D": "cartilage"
+      }
+    },
+    {
+      "chapter": "Cells and Tissues",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The size and shape of cells are related to their:",
+      "options": {
+        "A": "function",
+        "B": "age",
+        "C": "colour",
+        "D": "number"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The catalysts of life which speed up biochemical reactions are:",
+      "options": {
+        "A": "vitamins",
+        "B": "enzymes",
+        "C": "hormones",
+        "D": "minerals"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Enzymes are chemically:",
+      "options": {
+        "A": "proteins",
+        "B": "lipids",
+        "C": "carbohydrates",
+        "D": "nucleic acids"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The amount of energy required to start a chemical reaction is called:",
+      "options": {
+        "A": "kinetic energy",
+        "B": "activation energy",
+        "C": "potential energy",
+        "D": "chemical energy"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The molecules on which enzymes act are called:",
+      "options": {
+        "A": "products",
+        "B": "substrates",
+        "C": "cofactors",
+        "D": "coenzymes"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The region of the enzyme where the substrate binds is called:",
+      "options": {
+        "A": "active site",
+        "B": "binding site",
+        "C": "allosteric site",
+        "D": "catalytic domain"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is true about enzymes?",
+      "options": {
+        "A": "they are consumed in reactions",
+        "B": "they are unchanged after the reaction",
+        "C": "they increase activation energy",
+        "D": "they are lipids"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The enzymes which work inside the cells are called:",
+      "options": {
+        "A": "extracellular enzymes",
+        "B": "intracellular enzymes",
+        "C": "activators",
+        "D": "inhibitors"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The enzymes which work outside the cells are called:",
+      "options": {
+        "A": "intracellular enzymes",
+        "B": "extracellular enzymes",
+        "C": "cofactors",
+        "D": "prosthetic groups"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The enzyme which acts on starch is:",
+      "options": {
+        "A": "protease",
+        "B": "amylase",
+        "C": "lipase",
+        "D": "maltase"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The enzyme pepsin acts on:",
+      "options": {
+        "A": "proteins",
+        "B": "fats",
+        "C": "starch",
+        "D": "sugars"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The optimum temperature for most human enzymes is about:",
+      "options": {
+        "A": "$37 \\, ^\\circ C$",
+        "B": "$45 \\, ^\\circ C$",
+        "C": "$20 \\, ^\\circ C$",
+        "D": "$60 \\, ^\\circ C$"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The optimum pH for the enzyme pepsin is about:",
+      "options": {
+        "A": "2 (acidic)",
+        "B": "7 (neutral)",
+        "C": "8 (alkaline)",
+        "D": "10 (strongly alkaline)"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The optimum pH for the enzyme trypsin is about:",
+      "options": {
+        "A": "2",
+        "B": "6",
+        "C": "8",
+        "D": "4"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The enzymes of the small intestine work best at pH:",
+      "options": {
+        "A": "2",
+        "B": "5",
+        "C": "8",
+        "D": "11"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The non-protein part of an enzyme is called:",
+      "options": {
+        "A": "apoenzyme",
+        "B": "cofactor",
+        "C": "holoenzyme",
+        "D": "substrate"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An enzyme with its cofactor is called:",
+      "options": {
+        "A": "apoenzyme",
+        "B": "holoenzyme",
+        "C": "coenzyme",
+        "D": "activator"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the cofactor is an organic molecule, it is called a:",
+      "options": {
+        "A": "coenzyme",
+        "B": "activator",
+        "C": "prosthetic group",
+        "D": "apoenzyme"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process by which an enzyme loses its shape and activity due to high temperature is called:",
+      "options": {
+        "A": "denaturation",
+        "B": "activation",
+        "C": "inhibition",
+        "D": "hydrolysis"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The substances which reduce the activity of enzymes are called:",
+      "options": {
+        "A": "inhibitors",
+        "B": "activators",
+        "C": "substrates",
+        "D": "coenzymes"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A competitive inhibitor resembles:",
+      "options": {
+        "A": "the substrate",
+        "B": "the product",
+        "C": "the cofactor",
+        "D": "the active site shape of enzyme protein"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In feedback inhibition, an enzyme is inhibited by:",
+      "options": {
+        "A": "its own product",
+        "B": "its substrate",
+        "C": "the temperature",
+        "D": "the pH"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one of the following is not an enzyme?",
+      "options": {
+        "A": "amylase",
+        "B": "pepsin",
+        "C": "lipase",
+        "D": "insulin"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The enzymes are named by adding the suffix:",
+      "options": {
+        "A": "-ose",
+        "B": "-ase",
+        "C": "-ine",
+        "D": "-in"
+      }
+    },
+    {
+      "chapter": "Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Lock and key model of enzyme action was proposed by:",
+      "options": {
+        "A": "Emil Fischer",
+        "B": "Michaelis",
+        "C": "Koshland",
+        "D": "Hooke"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The study of energy relationships and energy transformations in living organisms is called:",
+      "options": {
+        "A": "bioenergetics",
+        "B": "metabolism",
+        "C": "photosynthesis",
+        "D": "respiration"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The sum of all chemical reactions taking place inside the cells of an organism is called:",
+      "options": {
+        "A": "anabolism",
+        "B": "catabolism",
+        "C": "metabolism",
+        "D": "digestion"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The reactions in which simpler molecules are joined to form complex molecules are called:",
+      "options": {
+        "A": "catabolic reactions",
+        "B": "anabolic reactions",
+        "C": "digestive reactions",
+        "D": "hydrolytic reactions"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The reactions in which complex molecules are broken into simpler molecules are called:",
+      "options": {
+        "A": "anabolic reactions",
+        "B": "catabolic reactions",
+        "C": "synthetic reactions",
+        "D": "photosynthetic reactions"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The chief source of energy in living organisms is:",
+      "options": {
+        "A": "sun",
+        "B": "moon",
+        "C": "stars",
+        "D": "volcanoes"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process by which green plants prepare their own food is called:",
+      "options": {
+        "A": "respiration",
+        "B": "photosynthesis",
+        "C": "transpiration",
+        "D": "digestion"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The site of photosynthesis in a plant cell is the:",
+      "options": {
+        "A": "mitochondria",
+        "B": "chloroplast",
+        "C": "ribosome",
+        "D": "nucleus"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the overall reaction of photosynthesis, the raw materials are $CO_2$ and:",
+      "options": {
+        "A": "$O_2$",
+        "B": "water",
+        "C": "glucose",
+        "D": "chlorophyll"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The oxygen released during photosynthesis comes from the splitting of:",
+      "options": {
+        "A": "carbon dioxide",
+        "B": "water",
+        "C": "glucose",
+        "D": "chlorophyll"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In which of the following photosynthesis takes place most actively?",
+      "options": {
+        "A": "green leaves",
+        "B": "roots",
+        "C": "bark",
+        "D": "flowers"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Light reactions of photosynthesis take place in the:",
+      "options": {
+        "A": "stroma of chloroplast",
+        "B": "thylakoid membranes of chloroplast",
+        "C": "mitochondria",
+        "D": "cytoplasm"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Dark reactions of photosynthesis take place in the:",
+      "options": {
+        "A": "thylakoid membranes",
+        "B": "stroma of chloroplast",
+        "C": "grana",
+        "D": "nucleus"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Chlorophyll is present in which part of the chloroplast?",
+      "options": {
+        "A": "stroma",
+        "B": "thylakoids",
+        "C": "outer membrane",
+        "D": "intermembrane space"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is not a limiting factor of photosynthesis?",
+      "options": {
+        "A": "light intensity",
+        "B": "carbon dioxide concentration",
+        "C": "temperature",
+        "D": "oxygen concentration"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In photosynthesis, the carbon dioxide is used in which phase?",
+      "options": {
+        "A": "light reactions",
+        "B": "dark reactions",
+        "C": "photolysis",
+        "D": "electron transport chain"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The ATP produced during light reactions is used in the:",
+      "options": {
+        "A": "dark reactions",
+        "B": "light reactions",
+        "C": "respiration",
+        "D": "transpiration"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process of photosynthesis occurs in the green parts of plants in the presence of:",
+      "options": {
+        "A": "sunlight and chlorophyll",
+        "B": "darkness",
+        "C": "oxygen",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The organisms which can make their own food are called:",
+      "options": {
+        "A": "heterotrophs",
+        "B": "autotrophs",
+        "C": "saprotrophs",
+        "D": "parasites"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process in which food is broken down to release energy in living organisms is:",
+      "options": {
+        "A": "photosynthesis",
+        "B": "respiration",
+        "C": "transpiration",
+        "D": "condensation"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The site of aerobic respiration in the cell is the:",
+      "options": {
+        "A": "ribosome",
+        "B": "mitochondrion",
+        "C": "chloroplast",
+        "D": "nucleus"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In aerobic respiration the final products are:",
+      "options": {
+        "A": "$CO_2 + H_2O +$ energy",
+        "B": "lactic acid",
+        "C": "alcohol",
+        "D": "starch"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In anaerobic respiration (fermentation) glucose is converted into:",
+      "options": {
+        "A": "$CO_2$ and $H_2O$",
+        "B": "lactic acid or alcohol",
+        "C": "starch",
+        "D": "protein"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process by which food is oxidized without the use of oxygen is called:",
+      "options": {
+        "A": "aerobic respiration",
+        "B": "anaerobic respiration",
+        "C": "breathing",
+        "D": "photosynthesis"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which gas is produced during alcoholic fermentation?",
+      "options": {
+        "A": "$O_2$",
+        "B": "$CO_2$",
+        "C": "nitrogen",
+        "D": "hydrogen"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The energy released in respiration is stored in the form of:",
+      "options": {
+        "A": "ATP",
+        "B": "ADP",
+        "C": "glucose",
+        "D": "lactic acid"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is not a product of anaerobic respiration in muscles?",
+      "options": {
+        "A": "lactic acid",
+        "B": "energy",
+        "C": "$CO_2$ and water",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In which of the following does anaerobic respiration take place?",
+      "options": {
+        "A": "yeast",
+        "B": "bacteria",
+        "C": "human muscles during hard exercise",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The respiration which takes place in the presence of oxygen is called:",
+      "options": {
+        "A": "aerobic respiration",
+        "B": "anaerobic respiration",
+        "C": "fermentation",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The gaseous exchange in respiration occurs through:",
+      "options": {
+        "A": "stomata",
+        "B": "lenticels",
+        "C": "general body surface",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process by which organisms obtain food and utilize it for growth and repair is:",
+      "options": {
+        "A": "respiration",
+        "B": "nutrition",
+        "C": "excretion",
+        "D": "circulation"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The components of food which are required by the body are called:",
+      "options": {
+        "A": "nutrients",
+        "B": "enzymes",
+        "C": "hormones",
+        "D": "vitamins"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The nutrients which are the main source of energy are:",
+      "options": {
+        "A": "carbohydrates",
+        "B": "proteins",
+        "C": "lipids",
+        "D": "vitamins"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The nutrients which are the body's main building material are:",
+      "options": {
+        "A": "carbohydrates",
+        "B": "proteins",
+        "C": "vitamins",
+        "D": "minerals"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following nutrients are required in very small amounts for normal health?",
+      "options": {
+        "A": "carbohydrates",
+        "B": "lipids",
+        "C": "vitamins",
+        "D": "proteins"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The amount of energy provided by one gram of carbohydrates is about:",
+      "options": {
+        "A": "9 kilocalories",
+        "B": "4 kilocalories",
+        "C": "2 kilocalories",
+        "D": "12 kilocalories"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "One gram of lipids provides energy of about:",
+      "options": {
+        "A": "4 kilocalories",
+        "B": "9 kilocalories",
+        "C": "2 kilocalories",
+        "D": "6 kilocalories"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Scurvy is caused by the deficiency of vitamin:",
+      "options": {
+        "A": "A",
+        "B": "C",
+        "C": "D",
+        "D": "K"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Rickets is caused by the deficiency of vitamin:",
+      "options": {
+        "A": "A",
+        "B": "C",
+        "C": "D",
+        "D": "B"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Night blindness is caused by the deficiency of vitamin:",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Goitre is caused by the deficiency of:",
+      "options": {
+        "A": "iodine",
+        "B": "iron",
+        "C": "calcium",
+        "D": "sodium"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Anemia is caused by the deficiency of:",
+      "options": {
+        "A": "iodine",
+        "B": "iron",
+        "C": "calcium",
+        "D": "potassium"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The mineral required for the formation of bones and teeth is:",
+      "options": {
+        "A": "iron",
+        "B": "iodine",
+        "C": "calcium",
+        "D": "sodium"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a water-soluble vitamin?",
+      "options": {
+        "A": "vitamin A",
+        "B": "vitamin C",
+        "C": "vitamin D",
+        "D": "vitamin K"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The vitamins which cannot be stored in the body are:",
+      "options": {
+        "A": "fat-soluble vitamins",
+        "B": "water-soluble vitamins",
+        "C": "all vitamins",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process of taking in food is called:",
+      "options": {
+        "A": "digestion",
+        "B": "ingestion",
+        "C": "absorption",
+        "D": "egestion"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process of breaking down large food molecules into simpler molecules is:",
+      "options": {
+        "A": "ingestion",
+        "B": "digestion",
+        "C": "assimilation",
+        "D": "egestion"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The part of the alimentary canal where most of the digestion and absorption takes place is:",
+      "options": {
+        "A": "stomach",
+        "B": "small intestine",
+        "C": "large intestine",
+        "D": "oesophagus"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The enzyme present in saliva which digests starch is:",
+      "options": {
+        "A": "pepsin",
+        "B": "amylase",
+        "C": "trypsin",
+        "D": "lipase"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The gastric juice contains hydrochloric acid and the enzyme:",
+      "options": {
+        "A": "amylase",
+        "B": "pepsin",
+        "C": "trypsin",
+        "D": "maltase"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The enzymes present in the pancreatic juice are:",
+      "options": {
+        "A": "amylase, trypsin and lipase",
+        "B": "pepsin only",
+        "C": "maltase only",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Bile is secreted by the:",
+      "options": {
+        "A": "liver",
+        "B": "pancreas",
+        "C": "stomach",
+        "D": "small intestine"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The function of bile is to:",
+      "options": {
+        "A": "digest fats",
+        "B": "emulsify fats",
+        "C": "digest proteins",
+        "D": "digest starch"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The finger-like projections present in the wall of the small intestine are called:",
+      "options": {
+        "A": "villi",
+        "B": "cilia",
+        "C": "flagella",
+        "D": "microvilli"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process in which digested food enters the blood is called:",
+      "options": {
+        "A": "digestion",
+        "B": "absorption",
+        "C": "assimilation",
+        "D": "egestion"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Diarrhoea in children is mostly caused by:",
+      "options": {
+        "A": "bacteria",
+        "B": "viruses",
+        "C": "protozoa",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a disease caused by malnutrition?",
+      "options": {
+        "A": "anorexia nervosa",
+        "B": "obesity",
+        "C": "bulimia",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Transport",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The transport of materials in living organisms is carried out by:",
+      "options": {
+        "A": "blood",
+        "B": "lymph",
+        "C": "xylem and phloem",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Transport",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In plants the substances are transported through:",
+      "options": {
+        "A": "xylem and phloem",
+        "B": "blood and lymph",
+        "C": "stomata",
+        "D": "roots only"
+      }
+    },
+    {
+      "chapter": "Transport",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The tissue which conducts water and dissolved mineral salts upward in plants is:",
+      "options": {
+        "A": "xylem",
+        "B": "phloem",
+        "C": "cambium",
+        "D": "cortex"
+      }
+    },
+    {
+      "chapter": "Transport",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The translocation of organic food in plants takes place through:",
+      "options": {
+        "A": "xylem",
+        "B": "phloem",
+        "C": "pith",
+        "D": "epidermis"
+      }
+    },
+    {
+      "chapter": "Transport",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The evaporation of water from the surfaces of plants is called:",
+      "options": {
+        "A": "transpiration",
+        "B": "respiration",
+        "C": "translocation",
+        "D": "condensation"
+      }
+    }
+  ]
+}

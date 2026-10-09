@@ -1,0 +1,1968 @@
+{
+  "subject": "Physics",
+  "class": "XI",
+  "questions": [
+    {
+      "chapter": "Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The respective number of significant figures for the numbers 23.023, 0.0003 and $2.1 \\times 10^{-3}$ are:",
+      "options": {
+        "A": "5, 1, 2",
+        "B": "5, 1, 5",
+        "C": "5, 5, 2",
+        "D": "4, 4, 2"
+      }
+    },
+    {
+      "chapter": "Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which among the following is the supplementary Quantity:",
+      "options": {
+        "A": "Mass",
+        "B": "Time",
+        "C": "Solid angle",
+        "D": "Luminosity"
+      }
+    },
+    {
+      "chapter": "Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The unit of solid angle is",
+      "options": {
+        "A": "Second",
+        "B": "Steradian",
+        "C": "Kilogram",
+        "D": "Candela"
+      }
+    },
+    {
+      "chapter": "Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The quantity having the same unit in all system of unit is:",
+      "options": {
+        "A": "mass",
+        "B": "time",
+        "C": "length",
+        "D": "temperature"
+      }
+    },
+    {
+      "chapter": "Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Random errors can be eliminated by:",
+      "options": {
+        "A": "taking number of observations and their mean.",
+        "B": "measuring the quantity with more than one instrument",
+        "C": "eliminating the cause",
+        "D": "careful observations"
+      }
+    },
+    {
+      "chapter": "Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Systemic error can be:",
+      "options": {
+        "A": "either positive or negative",
+        "B": "negative only",
+        "C": "positive only",
+        "D": "zero error"
+      }
+    },
+    {
+      "chapter": "Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$[MLT^{-2}]$ is dimensional formula of :",
+      "options": {
+        "A": "strain",
+        "B": "force",
+        "C": "displacement",
+        "D": "pressure"
+      }
+    },
+    {
+      "chapter": "Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following pair has the same dimension?",
+      "options": {
+        "A": "moment of inertia and torque",
+        "B": "surface tension and force",
+        "C": "impulse and momentum",
+        "D": "specific heat and latent heat"
+      }
+    },
+    {
+      "chapter": "Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Dependent variable is:",
+      "options": {
+        "A": "cause",
+        "B": "effect",
+        "C": "cause and effect",
+        "D": "reason"
+      }
+    },
+    {
+      "chapter": "Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Dimensions of kinetic energy is the same as that of :",
+      "options": {
+        "A": "Acceleration",
+        "B": "Velocity",
+        "C": "Work",
+        "D": "Force"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "To get a resultant displacement of 10m, two displacement vectors of magnitude 6m and 8m should be combined:",
+      "options": {
+        "A": "Parallel",
+        "B": "Antiparallel",
+        "C": "At an angle of $45^\\circ$",
+        "D": "Perpendicular to each other"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The velocity of a particle at an instant is 10 m/s and after 5 sec the velocity of particle is 20m/s. The velocity at 3 sec before in before 10m/s is:",
+      "options": {
+        "A": "8",
+        "B": "4",
+        "C": "6",
+        "D": "7"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A ball is thrown upwards with a velocity of 100 m/s. It will reach the ground after:",
+      "options": {
+        "A": "10 sec",
+        "B": "20 sec",
+        "C": "5 sec",
+        "D": "40 sec"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two projectiles are fired from the same point with the same speed at angles of projection $60^\\circ$ and $30^\\circ$ respectively. Which one of the following is true?",
+      "options": {
+        "A": "The range will be same",
+        "B": "Their maximum height will be same",
+        "C": "Their landing velocity will be same",
+        "D": "their time of flight will be same"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The ratio of numerical values of average velocity and average speed of a body is always:",
+      "options": {
+        "A": "Unity",
+        "B": "Unity or less",
+        "C": "Unity or more",
+        "D": "Less than unity"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the average velocities of a body become equal to the instantaneous velocity, body is said to be moving with:",
+      "options": {
+        "A": "Uniform acceleration",
+        "B": "Uniform velocity",
+        "C": "Variable velocity",
+        "D": "Variable acceleration"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "At the top of a trajectory of a projectile, the acceleration is:",
+      "options": {
+        "A": "maximum",
+        "B": "minimum",
+        "C": "zero",
+        "D": "$g$"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "At what angle the range of projectile becomes equal to the height of projectile?",
+      "options": {
+        "A": "$65^\\circ$",
+        "B": "$45^\\circ$",
+        "C": "$76^\\circ$",
+        "D": "$30^\\circ$"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The angle at which dot product becomes equal to the cross product is:",
+      "options": {
+        "A": "$65^\\circ$",
+        "B": "$45^\\circ$",
+        "C": "$76^\\circ$",
+        "D": "$30^\\circ$"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the dot product of two non-zero vectors vanishes; the vectors will be:",
+      "options": {
+        "A": "in the same direction",
+        "B": "opposite direction to each other",
+        "C": "perpendicular to each other",
+        "D": "zero"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The rate of change of linear momentum of a body is called a:",
+      "options": {
+        "A": "Linear force",
+        "B": "Angular force",
+        "C": "Power",
+        "D": "Impulse"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The term mass refers to the same physical concept as:",
+      "options": {
+        "A": "weight",
+        "B": "inertia",
+        "C": "force",
+        "D": "acceleration"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one of the following force is also called as self adjusting force ?",
+      "options": {
+        "A": "frictional force",
+        "B": "tension",
+        "C": "Weight",
+        "D": "Thrust"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The laws of motion shows the relationship between:",
+      "options": {
+        "A": "velocity and acceleration",
+        "B": "mass and velocity",
+        "C": "mass and acceleration",
+        "D": "force and acceleration"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The motion of rocket in the space is according to the law of conservation of:",
+      "options": {
+        "A": "Energy",
+        "B": "linear momentum",
+        "C": "mass",
+        "D": "angular momentum"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A bomb of mass 12 kg initially at rest explodes into two pieces of masses 4kg and 8kg . The speed of 8kg mass is 6 m/s. The kinetic energy The kinetic energy of 4 kg mass is:",
+      "options": {
+        "A": "32J",
+        "B": "48 J",
+        "C": "144J",
+        "D": "288 J"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If momentum is increased by 20% then K.E increases by:",
+      "options": {
+        "A": "44%",
+        "B": "55%",
+        "C": "66%",
+        "D": "77%"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The kinetic energy of body of mass 2kg and momentum of 2 Ns is:",
+      "options": {
+        "A": "1J",
+        "B": "2J",
+        "C": "3J",
+        "D": "4J"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "For the same kinetic energy, the momentum is maximum for:",
+      "options": {
+        "A": "an electron",
+        "B": "a proton",
+        "C": "a deuteron",
+        "D": "alpha particle"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A 3kg bowling ball experiences a net force of 15N. What will be its acceleration.",
+      "options": {
+        "A": "35 $m/s^2$",
+        "B": "7 $m/s^2$",
+        "C": "5 $m/s^2$",
+        "D": "35 $m/s^2$"
+      }
+    },
+    {
+      "chapter": "Rotational and Circular Motion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "One radian is about",
+      "options": {
+        "A": "$25^\\circ$",
+        "B": "$37^\\circ$",
+        "C": "$45^\\circ$",
+        "D": "$57^\\circ$"
+      }
+    },
+    {
+      "chapter": "Rotational and Circular Motion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Wheel turns with constant angular speed then:",
+      "options": {
+        "A": "each point on its rim moves with constant velocity",
+        "B": "each point on its rim moves with constant acceleration",
+        "C": "the wheel turns through equal angles in equal times",
+        "D": "the angle through which the wheel turns in each second increases as time goes on",
+        "E": "the angle through which the wheel turns in each second decreases as time goes on"
+      }
+    },
+    {
+      "chapter": "Rotational and Circular Motion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The rotational inertia of a wheel about its axle does not depend upon its",
+      "options": {
+        "A": "diameter",
+        "B": "mass",
+        "C": "distribution of mass",
+        "D": "speed of rotation"
+      }
+    },
+    {
+      "chapter": "Rotational and Circular Motion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A force with at given magnitude is to be applied to a wheel. The torque can be maximized by",
+      "options": {
+        "A": "applying the force near the axle, radially outward from the axle.",
+        "B": "applying the force near the rim, radially outward.",
+        "C": "applying the force near the axle, parallel to a tangent to the wheel.",
+        "D": "applying the force at the rim, tangent to the rim"
+      }
+    },
+    {
+      "chapter": "Rotational and Circular Motion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An object rotating about a fixed axis, $I$ is its rotational inertia and $\\alpha$ is its angular acceleration. Its $I\\alpha$:",
+      "options": {
+        "A": "is the definition of torque",
+        "B": "is the definition of rotational inertia",
+        "C": "is definition of angular acceleration",
+        "D": "follows directly from Newton's second law."
+      }
+    },
+    {
+      "chapter": "Rotational and Circular Motion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The angular momentum vector of Earth about its rotation axis, due to its daily rotation is, directed",
+      "options": {
+        "A": "tangent to the equator towards east",
+        "B": "tangent to the equator towards the west",
+        "C": "north",
+        "D": "towards the Sun."
+      }
+    },
+    {
+      "chapter": "Rotational and Circular Motion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A stone of 2 kg is tied to a 0.50 m long string and swung around a circle at angular velocity of 12 rad/s . The net torque on the stone about the center of the circle is",
+      "options": {
+        "A": "0 N.m",
+        "B": "6 N.m",
+        "C": "12 N.m",
+        "D": "72 N.m"
+      }
+    },
+    {
+      "chapter": "Rotational and Circular Motion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A man, with his arms at his sides, is spinning on a light frictionless turntable . When he extends his arms",
+      "options": {
+        "A": "his angular velocity increases",
+        "B": "his angular velocity remains same",
+        "C": "his rotational inertia decreases",
+        "D": "his angular momentum remains the same."
+      }
+    },
+    {
+      "chapter": "Rotational and Circular Motion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A space station revolves around the earth as a satellite, 100 km above the Earth's surface. What is the net force on an astronaut at rest inside the space station?",
+      "options": {
+        "A": "equal to her weight on earth",
+        "B": "a little less than her weight on earth",
+        "C": "less than half her weight on earth",
+        "D": "zero (she is weightless)"
+      }
+    },
+    {
+      "chapter": "Rotational and Circular Motion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the external torque acting on a body is zero, then its",
+      "options": {
+        "A": "angular momentum is zero",
+        "B": "angular momentum is conserved",
+        "C": "angular acceleration is maximum.",
+        "D": "rotational motion is maximum"
+      }
+    },
+    {
+      "chapter": "Work, Energy and Power",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Work done by centripetal force is always:",
+      "options": {
+        "A": "Maximum",
+        "B": "Minimum",
+        "C": "Zero",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Work, Energy and Power",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A body of mass 5 kg is moving with a momentum of 10 kg m/s . A force of 0.2 N acts on it in the direction of motion of the body for 10 seconds. The increase in kinetic energy is:",
+      "options": {
+        "A": "2.8J",
+        "B": "3.2J",
+        "C": "3.8J",
+        "D": "4.4J"
+      }
+    },
+    {
+      "chapter": "Work, Energy and Power",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The kinetic energy of a light and a heavy object is same. Which object has maximum momentum?",
+      "options": {
+        "A": "Light object",
+        "B": "Heavy object",
+        "C": "Both have same momentum",
+        "D": "N.O.T"
+      }
+    },
+    {
+      "chapter": "Work, Energy and Power",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two bodies of mass 1 kg and 2 kg have equal momentum. Then the ratio of their kinetic energies is:",
+      "options": {
+        "A": "2:1",
+        "B": "3:1",
+        "C": "1:3",
+        "D": "1:1"
+      }
+    },
+    {
+      "chapter": "Work, Energy and Power",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A body fallen from height $h$ . After it has fallen a height $h/2$ , its will possess :",
+      "options": {
+        "A": "only potential energy",
+        "B": "only kinetic energy",
+        "C": "half potential half kinetic energy",
+        "D": "more kinetic and less potential"
+      }
+    },
+    {
+      "chapter": "Work, Energy and Power",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following quantity can be calculated by multiplying force and velocity ?",
+      "options": {
+        "A": "acceleration",
+        "B": "power",
+        "C": "torque",
+        "D": "work"
+      }
+    },
+    {
+      "chapter": "Work, Energy and Power",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The minimum velocity given to an object so that it emerges out from the gravitational field of earth is about :",
+      "options": {
+        "A": "11.2 km/s",
+        "B": "15.3 km/s",
+        "C": "5 km/s",
+        "D": "9.8 km/s"
+      }
+    },
+    {
+      "chapter": "Work, Energy and Power",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "When one joule of work is done on a body in one second, power of body is said to be :",
+      "options": {
+        "A": "One watt",
+        "B": "0.5 watt",
+        "C": "zero",
+        "D": "100 watt"
+      }
+    },
+    {
+      "chapter": "Work, Energy and Power",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The absolute potential energy of an object depends on:",
+      "options": {
+        "A": "The object's mass and height",
+        "B": "The object's mass and speed",
+        "C": "The object's shape and size",
+        "D": "The object's color and temperature"
+      }
+    },
+    {
+      "chapter": "Work, Energy and Power",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The escape velocity of a planet depends on which of the following factors?",
+      "options": {
+        "A": "The mass of the planet only",
+        "B": "The radius of the planet only",
+        "C": "Both the mass and the radius of the planet",
+        "D": "The density of the planet"
+      }
+    },
+    {
+      "chapter": "Fluid Statics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A completely submerged object always displaces its own",
+      "options": {
+        "A": "weight of fluid",
+        "B": "volume of a fluid",
+        "C": "density of a fluid",
+        "D": "Area of fluid"
+      }
+    },
+    {
+      "chapter": "Fluid Statics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The pressure exerted on the ground by a man is greatest when:",
+      "options": {
+        "A": "he stands with both feet flat on the ground",
+        "B": "he stands flat on one foot",
+        "C": "he stands on the toes of one foot",
+        "D": "he lies down on the ground"
+      }
+    },
+    {
+      "chapter": "Fluid Statics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a stationary homogeneous liquid:",
+      "options": {
+        "A": "pressure is the same at all points",
+        "B": "pressure depends on the direction",
+        "C": "pressure is independent of any atmospheric pressure on the upper surface of the liquid",
+        "D": "pressure is the same at all points at the same level"
+      }
+    },
+    {
+      "chapter": "Fluid Statics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "One piston in a hydraulic lift has an area that is twice the area of the other. When the pressure at the smaller piston is increased by $\\Delta p$ the pressure at the larger piston:",
+      "options": {
+        "A": "increases by $2\\Delta p$",
+        "B": "increases by $\\Delta p/2$",
+        "C": "increases by $\\Delta p$",
+        "D": "increases by $4\\Delta p$"
+      }
+    },
+    {
+      "chapter": "Fluid Statics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a vacuum, an object has",
+      "options": {
+        "A": "No buoyant force",
+        "B": "no mass",
+        "C": "no weight",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "Fluid Statics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The pressure at the bottom of a pond does NOT depend on",
+      "options": {
+        "A": "Water density",
+        "B": "the depth of the pond",
+        "C": "the surface area of the pond",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Fluid Statics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A rock suspended by a weighing scale weighs 5N out of water and 3 N when submerged in water. What is the buoyant force on the rock?",
+      "options": {
+        "A": "3N",
+        "B": "5N",
+        "C": "8N",
+        "D": "1N"
+      }
+    },
+    {
+      "chapter": "Fluid Statics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "“An object completely submerged in a fluid displaces its own volume of fluid”. This is:",
+      "options": {
+        "A": "Pascal's paradox",
+        "B": "Archimedes' principle",
+        "C": "Pascal's principle",
+        "D": "true, but none of the above"
+      }
+    },
+    {
+      "chapter": "Fluid Statics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Salt water has greater density than freshwater. A boat floats in both freshwater and saltwater. The buoyant force on the boat in salt water is ----- that in freshwater.",
+      "options": {
+        "A": "equal to",
+        "B": "smaller than",
+        "C": "larger than",
+        "D": "same as"
+      }
+    },
+    {
+      "chapter": "Fluid Statics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "You fill a tall glass with ice and then add water to the level of the glass's rim, so some fraction of the ice floats above rim. When the ice melts, what's happens to the water level?",
+      "options": {
+        "A": "the water overflows the rim",
+        "B": "the water level drops below the rim",
+        "C": "the water level stays at the rim",
+        "D": "it depends on the difference in density between water and ice"
+      }
+    },
+    {
+      "chapter": "Fluid Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "For an incompressible fluid, the flow rate is",
+      "options": {
+        "A": "equal for all surfaces.",
+        "B": "constant throughout the pipe.",
+        "C": "greater for the larger parts of the pipe.",
+        "D": "none of the above"
+      }
+    },
+    {
+      "chapter": "Fluid Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Bernoulli's principle states that for horizontal flow of a fluid through a tube, the sum of the pressure and energy of motion per unit volume is",
+      "options": {
+        "A": "increasing with time",
+        "B": "decreasing with time",
+        "C": "constant",
+        "D": "varying with time"
+      }
+    },
+    {
+      "chapter": "Fluid Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is associated with the law of conservation of energy in fluids?",
+      "options": {
+        "A": "Archimedes' principle",
+        "B": "Pascal's principle",
+        "C": "Bernoulli's principle",
+        "D": "equation of continuity"
+      }
+    },
+    {
+      "chapter": "Fluid Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "As the speed of a moving fluid increases, the pressure in the fluid",
+      "options": {
+        "A": "increases",
+        "B": "remains constant",
+        "C": "decreases",
+        "D": "may increase or decrease, depending on the viscosity"
+      }
+    },
+    {
+      "chapter": "Fluid Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the cross-sectional area of a pipe decreases, what happens to the fluid velocity?",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains the same",
+        "D": "Depends on the fluid density"
+      }
+    },
+    {
+      "chapter": "Fluid Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A sky diver falls through the air at terminal velocity. The force of air resistance on him is",
+      "options": {
+        "A": "half his weight",
+        "B": "equal to his weight",
+        "C": "twice his weight",
+        "D": "Cannot be determined from the information given."
+      }
+    },
+    {
+      "chapter": "Fluid Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Wind speeding up as it blows over the top of a hill",
+      "options": {
+        "A": "Increases atmospheric pressure there.",
+        "B": "decreases atmospheric pressure there.",
+        "C": "doesn't affect atmospheric pressure there.",
+        "D": "equal's atmospheric pressure."
+      }
+    },
+    {
+      "chapter": "Fluid Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A fluid is undergoing “incompressible” flow. This means that:",
+      "options": {
+        "A": "the pressure at a given point cannot change with time",
+        "B": "the velocity at a given point cannot change with time",
+        "C": "the velocity must be the same everywhere",
+        "D": "the pressure must be the same everywhere",
+        "E": "the density cannot change with time or location"
+      }
+    },
+    {
+      "chapter": "Fluid Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A fluid is undergoing steady flow. Therefore:",
+      "options": {
+        "A": "the velocity of any given molecule of fluid does not change",
+        "B": "the pressure does not vary from point to point",
+        "C": "the velocity at any given point does not vary with time",
+        "D": "the density does not vary from point to point"
+      }
+    },
+    {
+      "chapter": "Fluid Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The equation of continuity for fluid flow can be derived from the conservation of:",
+      "options": {
+        "A": "energy",
+        "B": "mass",
+        "C": "volume",
+        "D": "pressure"
+      }
+    },
+    {
+      "chapter": "Electric Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A $2\\mu C$ point charge is located a distance “d” away from $6\\mu C$ point charge, what is the ratio of $F_{12}/F_{21}$?",
+      "options": {
+        "A": "1/3",
+        "B": "3",
+        "C": "1",
+        "D": "12"
+      }
+    },
+    {
+      "chapter": "Electric Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The minimum charge on an object cannot be less than:",
+      "options": {
+        "A": "$1.6 \\times 10^{-19}$ C",
+        "B": "$3.2 \\times 10^{-19}$ C",
+        "C": "$9.1 \\times 10^{-9}$",
+        "D": "No definite value exist"
+      }
+    },
+    {
+      "chapter": "Electric Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two charges are placed at a certain distance. If the magnitude of each charge is doubled the force will become",
+      "options": {
+        "A": "1/4th of its original value",
+        "B": "4 times of its original value",
+        "C": "1/8th of its original value",
+        "D": "8 times of its original value"
+      }
+    },
+    {
+      "chapter": "Electric Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following can be deflected while moving in the electric field?",
+      "options": {
+        "A": "neutron",
+        "B": "photon",
+        "C": "electron",
+        "D": "(a) and (b)"
+      }
+    },
+    {
+      "chapter": "Electric Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The flux through a flat surface of are “A” in a uniform electric field “E” is maximum. when the surface area is:",
+      "options": {
+        "A": "Parallel to E",
+        "B": "perpendicular to E",
+        "C": "placed $45^\\circ$ to E",
+        "D": "placed $60^\\circ$ to E"
+      }
+    },
+    {
+      "chapter": "Electric Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The product of charge “q” and small separation “d” between two charges of same magnitude and opposite in nature is known as:",
+      "options": {
+        "A": "Electric dipole",
+        "B": "Moment arm.",
+        "C": "Electric dipole moment",
+        "D": "Flux of electric field"
+      }
+    },
+    {
+      "chapter": "Electric Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "12 J of work is to be done against an existence electric field to take a charge of 0.01 C from one-point A to another point B. The potential difference between B and A is",
+      "options": {
+        "A": "120 V",
+        "B": "1200 V",
+        "C": "1.2V",
+        "D": "12 V"
+      }
+    },
+    {
+      "chapter": "Electric Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The force between two charges placed in air is F. if air is replaced by a medium of relative permittivity $\\varepsilon_r$ then force is reduced to:",
+      "options": {
+        "A": "$F\\varepsilon_r$",
+        "B": "$F/\\varepsilon_r$",
+        "C": "$\\varepsilon_r/F$",
+        "D": "$\\varepsilon_r^2$"
+      }
+    },
+    {
+      "chapter": "Electric Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The negative gradient of the potential is:",
+      "options": {
+        "A": "potential energy",
+        "B": "voltage",
+        "C": "electric field intensity",
+        "D": "electric flux"
+      }
+    },
+    {
+      "chapter": "Electric Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The electric flux through a plane area will be half of its maximum value when area is held at angle of with electric field",
+      "options": {
+        "A": "$30^\\circ$",
+        "B": "$60^\\circ$",
+        "C": "$45^\\circ$",
+        "D": "$90^\\circ$"
+      }
+    },
+    {
+      "chapter": "Capacitors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The capacitance of a capacitor is NOT influenced by:",
+      "options": {
+        "A": "Plate thickness",
+        "B": "Plate area",
+        "C": "Plate separation",
+        "D": "Nature of the dielectric"
+      }
+    },
+    {
+      "chapter": "Capacitors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the value of capacitance of a capacitor which has a voltage of 4V and has 16C of charge?",
+      "options": {
+        "A": "2F",
+        "B": "4F",
+        "C": "6F",
+        "D": "8F"
+      }
+    },
+    {
+      "chapter": "Capacitors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Capacitors are used in electric power supply system to:",
+      "options": {
+        "A": "Improve power factor",
+        "B": "Reduce line current",
+        "C": "Provide voltage stability",
+        "D": "switching"
+      }
+    },
+    {
+      "chapter": "Capacitors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a variable capacitor, capacitance can be varied by:",
+      "options": {
+        "A": "Turning the rotatable plates in or out",
+        "B": "Changing the plates",
+        "C": "Sliding the rotatable plates",
+        "D": "Changing the material of plates"
+      }
+    },
+    {
+      "chapter": "Capacitors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Energy stored in the capacitor is:",
+      "options": {
+        "A": "$E = \\frac{1}{2}CV$",
+        "B": "$E = \\frac{1}{2}CV^2$",
+        "C": "$E = CV^2$",
+        "D": "$E = \\frac{1}{4}CV^2$"
+      }
+    },
+    {
+      "chapter": "Capacitors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The time constant of a series RC circuit consisting of $100\\mu F$ capacitor in series with a $100\\Omega$ resistor is:",
+      "options": {
+        "A": "0.1s",
+        "B": "0.1 ms",
+        "C": "0.01 s",
+        "D": "0.01 ms"
+      }
+    },
+    {
+      "chapter": "Capacitors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The charging of a capacitor through a resistance follows:",
+      "options": {
+        "A": "linear law",
+        "B": "square law",
+        "C": "exponential law",
+        "D": "none of the above"
+      }
+    },
+    {
+      "chapter": "Capacitors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "When the total charge in a capacitor is doubled, the energy stored",
+      "options": {
+        "A": "remains the same",
+        "B": "is doubled",
+        "C": "is halved",
+        "D": "is quadrupled"
+      }
+    },
+    {
+      "chapter": "Capacitors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The capacitance C is charged through a resistor R. The time constant of the charging circuit is given by:",
+      "options": {
+        "A": "C/R",
+        "B": "1/RC",
+        "C": "RC",
+        "D": "R/C"
+      }
+    },
+    {
+      "chapter": "Capacitors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Capacitor blocks:",
+      "options": {
+        "A": "alternating current",
+        "B": "direct current",
+        "C": "both alternating and direct current",
+        "D": "neither alternating nor direct current"
+      }
+    },
+    {
+      "chapter": "D.C. Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Kirchhoff's laws are useful in determining:",
+      "options": {
+        "A": "current flowing in a circuit",
+        "B": "emf and voltage drops in a circuit",
+        "C": "power in a circuit",
+        "D": "only emf in a circuit"
+      }
+    },
+    {
+      "chapter": "D.C. Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The resistance of a superconductor is:",
+      "options": {
+        "A": "finite",
+        "B": "infinite",
+        "C": "changes with every conductor",
+        "D": "zero"
+      }
+    },
+    {
+      "chapter": "D.C. Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Reciprocal of resistance is called:",
+      "options": {
+        "A": "conductance",
+        "B": "resistivity",
+        "C": "resonance",
+        "D": "capacitance"
+      }
+    },
+    {
+      "chapter": "D.C. Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The graphical representation of Ohms law is:",
+      "options": {
+        "A": "parabola",
+        "B": "hyperbola",
+        "C": "ellipse",
+        "D": "straight line"
+      }
+    },
+    {
+      "chapter": "D.C. Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A potential difference is applied across the ends of a wire. If the potential difference is doubled, then the drift velocity of free electrons will:",
+      "options": {
+        "A": "be quadrupled",
+        "B": "be doubled",
+        "C": "be halved",
+        "D": "remain unchanged"
+      }
+    },
+    {
+      "chapter": "D.C. Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Internal resistance is the resistance offered by:",
+      "options": {
+        "A": "Capacitor",
+        "B": "resistor",
+        "C": "Conductor",
+        "D": "source of emf"
+      }
+    },
+    {
+      "chapter": "D.C. Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Power dissipation in a resistor can be calculated using which formula:",
+      "options": {
+        "A": "$P=V^2/R$",
+        "B": "$P=I^2R$",
+        "C": "$P=V \\times I$",
+        "D": "$P=R/(V \\times I)$"
+      }
+    },
+    {
+      "chapter": "D.C. Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a potentiometer primarily used for?",
+      "options": {
+        "A": "Measuring electric current",
+        "B": "Measuring electric charge",
+        "C": "Measuring potential difference (voltage)",
+        "D": "Measuring electric resistance"
+      }
+    },
+    {
+      "chapter": "D.C. Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A heat-sensitive device whose resistivity changes with the change in temperature is called:",
+      "options": {
+        "A": "conductor",
+        "B": "resistor",
+        "C": "thermistor",
+        "D": "thermometer"
+      }
+    },
+    {
+      "chapter": "D.C. Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A wire of uniform area of cross-section A length L and resistance R is cut into two parts. The resistivity of each part:",
+      "options": {
+        "A": "Becomes zero",
+        "B": "is halved",
+        "C": "Is doubled",
+        "D": "remains same"
+      }
+    },
+    {
+      "chapter": "Oscillations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two simple pendulums A and B with same lengths, and equal amplitude of vibrations, but the mass of A is twice the mass of B, their period are $T_a$ and $T_b$ and energies are $E_a$ and $E_b$ respectively. Choose the correct statement.",
+      "options": {
+        "A": "$T_a = T_b$ and $E_a > E_b$",
+        "B": "$T_a < T_b$ and $E_a > E_b$",
+        "C": "$T_a > T_b$ and $E_a < E_b$",
+        "D": "$T_a = T_b$ and $E_a < E_b$"
+      }
+    },
+    {
+      "chapter": "Oscillations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In order to double the period of a simple pendulum:",
+      "options": {
+        "A": "Its length should be doubled",
+        "B": "Its length should be quadrupled",
+        "C": "The mass should be doubled",
+        "D": "The mass should be quadrupled"
+      }
+    },
+    {
+      "chapter": "Oscillations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A simple harmonic oscillator has amplitude A and time period t. Its maximum speed is:",
+      "options": {
+        "A": "$4A/t$",
+        "B": "$2A/t$",
+        "C": "$4\\pi A/t$",
+        "D": "$2\\pi A/t$"
+      }
+    },
+    {
+      "chapter": "Oscillations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A spring attached by a load of weight W is vibrating with a period T. If the spring is divided in four equal parts and the same load is suspended from one of these parts, the new time period is:",
+      "options": {
+        "A": "$T/4$",
+        "B": "$2T$",
+        "C": "$T/2$",
+        "D": "$4T$"
+      }
+    },
+    {
+      "chapter": "Oscillations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The total energy of a particle executing simple harmonic motion is proportional to:",
+      "options": {
+        "A": "frequency of oscillation",
+        "B": "maximum velocity of motion",
+        "C": "amplitude of motion",
+        "D": "square of amplitude of motion."
+      }
+    },
+    {
+      "chapter": "Oscillations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A child swinging on a swing in sitting position, stands up, then the time period of the swing will:",
+      "options": {
+        "A": "Increase",
+        "B": "decrease",
+        "C": "remains the same",
+        "D": "increases if the child is long and decreases if the child is short"
+      }
+    },
+    {
+      "chapter": "Oscillations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If a body oscillates at the angular frequency $\\omega$ of the driving force, then the oscillations are called:",
+      "options": {
+        "A": "Forced oscillations",
+        "B": "Coupled oscillations",
+        "C": "Free oscillations",
+        "D": "Maintained oscillations"
+      }
+    },
+    {
+      "chapter": "Oscillations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A simple harmonic oscillator with a natural frequency $\\omega_n$ is force to oscillate with a driving frequency $\\omega_d$. The Resonance occurred when:",
+      "options": {
+        "A": "$\\omega_n < \\omega_d$",
+        "B": "$\\omega_n > \\omega_d$",
+        "C": "$\\omega_n = \\omega_d$",
+        "D": "$\\omega_n \\neq \\omega_d$"
+      }
+    },
+    {
+      "chapter": "Oscillations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In vehicles, shock absorber reduced the jerks:",
+      "options": {
+        "A": "The shock absorber is the application of damped oscillations.",
+        "B": "Damping effect is due to the fractional loss of energy",
+        "C": "Shock absorbers in vehicles reduced jerk",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "Oscillations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A heavily damped system has a fairly flat resonance curve in:",
+      "options": {
+        "A": "An acceleration time graph",
+        "B": "An amplitude frequency graph",
+        "C": "Velocity time graph",
+        "D": "Distance-time graph"
+      }
+    },
+    {
+      "chapter": "Acoustics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The speed v of a wave represented by $y= A \\sin(\\omega t-kx)$ is:",
+      "options": {
+        "A": "$k/\\omega$",
+        "B": "$\\omega/k$",
+        "C": "$\\omega k$",
+        "D": "$1/\\omega k$"
+      }
+    },
+    {
+      "chapter": "Acoustics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two sound waves are $y = A \\sin(\\omega t-kx)$ and $y = A \\cos(\\omega t-kx)$. The phase difference between the two waves is:",
+      "options": {
+        "A": "$\\pi/2$",
+        "B": "$\\pi/4$",
+        "C": "$\\pi$",
+        "D": "zero"
+      }
+    },
+    {
+      "chapter": "Acoustics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $v_a$, $v_H$ and $v_m$ are the speeds of sound in air, hydrogen gas, and a metal at the same temperature, then:",
+      "options": {
+        "A": "$v_a > v_H > v_m$",
+        "B": "$v_m > v_H > v_a$",
+        "C": "$v_H > v_m > v_a$",
+        "D": "$v_H > v_a > v_m$"
+      }
+    },
+    {
+      "chapter": "Acoustics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The speed of sound in air at STP is 332 m/s. If the air pressure becomes double at the same temperatue, the speed of sound become:",
+      "options": {
+        "A": "1382 m/s",
+        "B": "664m/s",
+        "C": "332 m/s",
+        "D": "166 m/s"
+      }
+    },
+    {
+      "chapter": "Acoustics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "How does the speed of sound v in air depend on the atmospheric pressure P:",
+      "options": {
+        "A": "$v \\propto P^0$",
+        "B": "$v \\propto P$",
+        "C": "$v \\propto P^2$",
+        "D": "$v \\propto 1/P$"
+      }
+    },
+    {
+      "chapter": "Acoustics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The speed of sound in a gas is proportional to:",
+      "options": {
+        "A": "square root of isothermal elasticity",
+        "B": "square root of adiabatic elasticity",
+        "C": "isothermal elasticity",
+        "D": "adiabatic elasticity"
+      }
+    },
+    {
+      "chapter": "Acoustics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The length of a pipe closed at one end is L. In the standing wave whose frequency is 7 times the fundamental frequency, what is the closest distance between nodes?",
+      "options": {
+        "A": "$L/14$",
+        "B": "$L/7$",
+        "C": "$2L/7$",
+        "D": "$4L/7$"
+      }
+    },
+    {
+      "chapter": "Acoustics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A 620 Hz frequency song of a ice cream trolley approaches with speed v to a boy standing at the door of his house is heard with frequency $f_1$. If the trolley is stopped and the boy approaches to the ice cream trolley with same speed v; the boy now hears the sound with frequency $f_2$. choose the correct statement:",
+      "options": {
+        "A": "$f_1 = f_2$; both are greater than 620Hz",
+        "B": "$f_2 > f_1 > 620Hz$",
+        "C": "$f_1 = f_2$; both are lesser than 620Hz",
+        "D": "$f_1 > f_2 > 620Hz$."
+      }
+    },
+    {
+      "chapter": "Acoustics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The speed of sound in a gas in which two waves of wavelength 50 cm and 50.4 cm produce 6 beats per second is:",
+      "options": {
+        "A": "338 m/s",
+        "B": "350 m/s",
+        "C": "378m/s",
+        "D": "400 m/s"
+      }
+    },
+    {
+      "chapter": "Acoustics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The speed of a wave in a medium is 760 m/s. If 3600 waves are passing through a point in the medium in 2 minutes, then its wave length is:",
+      "options": {
+        "A": "13.85 m",
+        "B": "25.3m",
+        "C": "41.5m",
+        "D": "57.2m"
+      }
+    },
+    {
+      "chapter": "Physical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the wavelength of an electromagnetic wave is about the diameter of a cricket ball, what type of radiation is it.",
+      "options": {
+        "A": "X-ray",
+        "B": "Ultraviolet",
+        "C": "Radio waves",
+        "D": "Visible light"
+      }
+    },
+    {
+      "chapter": "Physical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Electromagnetic waves from an unknown source in space are found to be diffracted when passing through gaps of the order of $10^{-5}$ m, which type of the wave are they most likely to be?",
+      "options": {
+        "A": "microwaves",
+        "B": "Ultraviolet",
+        "C": "Radio waves",
+        "D": "infra-red waves"
+      }
+    },
+    {
+      "chapter": "Physical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Huygens's conception of secondary waves",
+      "options": {
+        "A": "helps us to find the focal length of a thick lens",
+        "B": "is a geometrical method to find a wavefront",
+        "C": "is used to determine the velocity of light",
+        "D": "is used to explain the polarization of light"
+      }
+    },
+    {
+      "chapter": "Physical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Interference fringes are produced using monochromatic light of same intensity from a double slit screen. If the intensity of light emerging from one of the slit is reduced, the effect on interference pattern will be",
+      "options": {
+        "A": "All the dark and bright fringes become brighter.",
+        "B": "All the dark and bright fringes become darker.",
+        "C": "Bright fringes become brighter and dark fringes become darker.",
+        "D": "Bright fringes become darker and dark fringes become brighter."
+      }
+    },
+    {
+      "chapter": "Physical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In Young's experiment when the distance between slits and screen is doubled, while separation of slits is halved, then fringe width will be;",
+      "options": {
+        "A": "4 times",
+        "B": "$\\frac{1}{4}$ times",
+        "C": "doubled",
+        "D": "unchanged"
+      }
+    },
+    {
+      "chapter": "Physical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A ray of light passes from air into water. Striking the surface of the water with an angle of incidence $45^\\circ$. Which of these quantities change as the light enters the water. i) Wavelength ii) frequency iii) speed of propagation iv) direction of propagation",
+      "options": {
+        "A": "i and ii only.",
+        "B": "iii and iv only.",
+        "C": "i, iii, and iv only.",
+        "D": "all of them."
+      }
+    },
+    {
+      "chapter": "Physical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A hill separates a television (TV) transmitter from a house. The Transmitter cannot be seen from the house but still the TV in the house has good reception. What wave phenomena make it possible?",
+      "options": {
+        "A": "Coherence of waves",
+        "B": "Diffraction of waves",
+        "C": "Interference of waves",
+        "D": "Refraction of waves"
+      }
+    },
+    {
+      "chapter": "Physical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Monochromatic light is incident on a diffraction grating and a diffraction pattern is observed. Which effects is observed by replacing the grating with one that has more lines per millimeter?",
+      "options": {
+        "A": "Number of maxima decreases with decrease in angle between first and second order maxima.",
+        "B": "Number of maxima decreases with increase in angle between first and second order maxima.",
+        "C": "Number of maxima increases with decrease in angle between first and second order maxima.",
+        "D": "Number of maxima increases with increase in angle between first and second order maxima."
+      }
+    },
+    {
+      "chapter": "Physical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Optically active substances are those substances which",
+      "options": {
+        "A": "produce polarized light",
+        "B": "rotate the plane of polarization of polarized light",
+        "C": "produce double refraction",
+        "D": "convert a plane polarized light into circularly polarized light"
+      }
+    },
+    {
+      "chapter": "Physical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Plane polarized light is passed through a Polaroid. On viewing through the Polaroid we find that when Polaroid is given one complete rotation about the direction of light",
+      "options": {
+        "A": "The intensity of light gradually decreases to zero and remains at zero.",
+        "B": "The intensity of light gradually increases to maximum and remains at maximum.",
+        "C": "There is no change in the intensity of light.",
+        "D": "The intensity of light varies such that it is twice maximum and twice zero."
+      }
+    },
+    {
+      "chapter": "Communication",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In Radio and Television broadcast, the information signal is in the form of :",
+      "options": {
+        "A": "analog signal",
+        "B": "digital signal",
+        "C": "Both analog & digital signals",
+        "D": "neither analog nor digital signal"
+      }
+    },
+    {
+      "chapter": "Communication",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A communication channel consists of:",
+      "options": {
+        "A": "transmission line only",
+        "B": "optical fibre only",
+        "C": "free space only",
+        "D": "All of them"
+      }
+    },
+    {
+      "chapter": "Communication",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Voltage signal generated by a microphone is:",
+      "options": {
+        "A": "digital in nature",
+        "B": "analog in nature",
+        "C": "hybrid in nature",
+        "D": "consists of bits & bytes"
+      }
+    },
+    {
+      "chapter": "Communication",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "As compared to sound waves frequency of radio waves is:",
+      "options": {
+        "A": "higher",
+        "B": "equal",
+        "C": "lower",
+        "D": "may be higher or lower"
+      }
+    },
+    {
+      "chapter": "Communication",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process of superimposing signal frequency on the carrier wave is known as:",
+      "options": {
+        "A": "transmission",
+        "B": "detection",
+        "C": "reception",
+        "D": "modulation"
+      }
+    },
+    {
+      "chapter": "Communication",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the frequency range of signals that can be transmitted in case of twisted pair of wires?",
+      "options": {
+        "A": "10MHz. to 15MHz.",
+        "B": "5MHz. to 10MHz.",
+        "C": "100Hz. to 5MHz.",
+        "D": "10Hz. to 100Hz."
+      }
+    },
+    {
+      "chapter": "Communication",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The maintenance of a satellite's orbital position is called:",
+      "options": {
+        "A": "maintenance keeping",
+        "B": "station keeping",
+        "C": "station maintenance",
+        "D": "attitude control"
+      }
+    },
+    {
+      "chapter": "Communication",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Process of mapping the sampled analog voltage values to discrete voltage levels is called:",
+      "options": {
+        "A": "sampling",
+        "B": "sampling frequency",
+        "C": "quantizing",
+        "D": "encoding"
+      }
+    },
+    {
+      "chapter": "Communication",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "AM is used for broadcasting because:",
+      "options": {
+        "A": "it requires less transmitting power compare with other systems",
+        "B": "it is more noise immune than other modulation system",
+        "C": "No other modulation can provide the necessary bandwidth faithful transmission",
+        "D": "its use avoids receiver complexity"
+      }
+    },
+    {
+      "chapter": "Communication",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Data in compact disc is stored in the form of :",
+      "options": {
+        "A": "analog signal",
+        "B": "digital signal",
+        "C": "noise",
+        "D": "both (a) & (b)"
+      }
+    }
+  ]
+}

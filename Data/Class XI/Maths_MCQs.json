@@ -1,0 +1,1840 @@
+{
+  "subject": "Mathematics",
+  "class": "XI",
+  "questions": [
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The conjugate of $-3 + 4i$ is:",
+      "options": {
+        "A": "$3 + 4i$",
+        "B": "$3 - 4i$",
+        "C": "$-3 - 4i$",
+        "D": "$4 + 3i$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$i^{19}$ is equal to:",
+      "options": {
+        "A": "$i$",
+        "B": "$-i$",
+        "C": "$1$",
+        "D": "$-1$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The multiplicative inverse of $1 + i$ is:",
+      "options": {
+        "A": "$1 - i$",
+        "B": "$\\frac{1}{2}(1 - i)$",
+        "C": "$-\\frac{1}{2}(1 + i)$",
+        "D": "$\\frac{1}{2}(1 + i)$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The set of real numbers $x$ and $y$ satisfying $(1 + i)x - 2i = 3 + iy$ is:",
+      "options": {
+        "A": "$x = 3$, $y = 3$",
+        "B": "$x = 1$, $y = 1$",
+        "C": "$x = -1$, $y = -1$",
+        "D": "$x = 2$, $y = 3$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $z = \\frac{1}{1 - i}$, then $|z|$ is equal to:",
+      "options": {
+        "A": "$1$",
+        "B": "$\\frac{1}{2}$",
+        "C": "$\\sqrt{2}$",
+        "D": "$\\frac{1}{\\sqrt{2}}$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $z_1 = 2 + 3i$ and $z_2 = 1 - 2i$, then $z_1 z_2$ equals:",
+      "options": {
+        "A": "$8 + i$",
+        "B": "$8 - i$",
+        "C": "$-8 + i$",
+        "D": "$2 - 6i$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The value of $\\sqrt{-16}$ is:",
+      "options": {
+        "A": "$4i$",
+        "B": "$-4i$",
+        "C": "$\\pm 4i$",
+        "D": "$4$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $(a + ib)^2 = 3 + 4i$, then $a^2 + b^2$ equals:",
+      "options": {
+        "A": "$5$",
+        "B": "$3$",
+        "C": "$4$",
+        "D": "$7$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The modulus of $\\frac{1 + i}{1 - i}$ is:",
+      "options": {
+        "A": "$1$",
+        "B": "$2$",
+        "C": "$0$",
+        "D": "$\\sqrt{2}$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $z = x + iy$ and $|z - 1| = |z + 1|$, then the locus of $z$ is:",
+      "options": {
+        "A": "the real axis",
+        "B": "the imaginary axis",
+        "C": "the line $y = x$",
+        "D": "the circle $x^2 + y^2 = 1$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The real part of $(1 + i)^2$ is:",
+      "options": {
+        "A": "$0$",
+        "B": "$2$",
+        "C": "$-2$",
+        "D": "$1$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The imaginary part of $\\frac{1}{i}$ is:",
+      "options": {
+        "A": "$1$",
+        "B": "$-1$",
+        "C": "$0$",
+        "D": "$i$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$1 + i^2 + i^4 + i^6 + i^8$ equals:",
+      "options": {
+        "A": "$1$",
+        "B": "$5$",
+        "C": "$0$",
+        "D": "$-1$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $z = 1 + i$, then $z^4$ equals:",
+      "options": {
+        "A": "$4$",
+        "B": "$-4$",
+        "C": "$4i$",
+        "D": "$-4i$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The conjugate of $\\overline{z}$ is:",
+      "options": {
+        "A": "$z$",
+        "B": "$-z$",
+        "C": "$iz$",
+        "D": "$-iz$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$i^7 + i^8 + i^9$ equals:",
+      "options": {
+        "A": "$1 + i$",
+        "B": "$1 - i$",
+        "C": "$-1 + i$",
+        "D": "$i$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $z = 2 - 3i$, then $z \\overline{z}$ equals:",
+      "options": {
+        "A": "$13$",
+        "B": "$-13$",
+        "C": "$4 - 9i$",
+        "D": "$13i$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The value of $(1 + i)^6$ is:",
+      "options": {
+        "A": "$-8i$",
+        "B": "$8i$",
+        "C": "$8$",
+        "D": "$-8$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $x + iy = (a + ib)(c + id)$, then $(x^2 + y^2)$ equals:",
+      "options": {
+        "A": "$(a^2 + b^2)(c^2 + d^2)$",
+        "B": "$(a + b)(c + d)$",
+        "C": "$(ac + bd)^2$",
+        "D": "$(ad + bc)^2$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The square root of $i$ is:",
+      "options": {
+        "A": "$\\pm\\frac{1}{\\sqrt{2}}(1 + i)$",
+        "B": "$\\pm(1 + i)$",
+        "C": "$\\pm\\frac{1}{2}(1 + i)$",
+        "D": "$\\pm i$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A$ is a square matrix of order $n$, then $|kA|$ equals:",
+      "options": {
+        "A": "$k^n |A|$",
+        "B": "$k|A|$",
+        "C": "$k^2|A|$",
+        "D": "$|A|^n$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A$ and $B$ are matrices of the same order, then $(A + B)^T$ equals:",
+      "options": {
+        "A": "$A^T + B^T$",
+        "B": "$A^T B^T$",
+        "C": "$B^T A^T$",
+        "D": "$AB$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A$ is a $3 \\times 3$ matrix with $|A| = 5$, then $|2A|$ equals:",
+      "options": {
+        "A": "$40$",
+        "B": "$10$",
+        "C": "$25$",
+        "D": "$80$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The determinant $\\begin{vmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\\\ 7 & 8 & 9 \\end{vmatrix}$ equals:",
+      "options": {
+        "A": "$0$",
+        "B": "$1$",
+        "C": "$12$",
+        "D": "$-12$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A$ is a non-singular matrix of order $3$ and $|A| = 3$, then $|A^{-1}|$ equals:",
+      "options": {
+        "A": "$\\frac{1}{3}$",
+        "B": "$3$",
+        "C": "$9$",
+        "D": "$\\frac{1}{9}$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A square matrix $A$ is called symmetric if:",
+      "options": {
+        "A": "$A^T = A$",
+        "B": "$A^T = -A$",
+        "C": "$A^T = 0$",
+        "D": "$|A| = 0$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A$ is a skew-symmetric matrix, then its diagonal elements are:",
+      "options": {
+        "A": "all zero",
+        "B": "all one",
+        "C": "all positive",
+        "D": "all negative"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $AB = BA = I$, then $B$ is called:",
+      "options": {
+        "A": "the inverse of $A$",
+        "B": "the transpose of $A$",
+        "C": "the adjoint of $A$",
+        "D": "a scalar multiple of $A$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$, then $A^2$ equals:",
+      "options": {
+        "A": "$A$",
+        "B": "$0$",
+        "C": "$-A$",
+        "D": "$2A$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A$ is a $2 \\times 3$ matrix, then $A^T$ is of order:",
+      "options": {
+        "A": "$2 \\times 3$",
+        "B": "$3 \\times 2$",
+        "C": "$2 \\times 2$",
+        "D": "$3 \\times 3$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The value of $\\begin{vmatrix} 2 & 3 \\\\ 4 & 5 \\end{vmatrix}$ is:",
+      "options": {
+        "A": "$-2$",
+        "B": "$2$",
+        "C": "$22$",
+        "D": "$-22$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $|A| = 0$, then $A$ is called:",
+      "options": {
+        "A": "a singular matrix",
+        "B": "a non-singular matrix",
+        "C": "a symmetric matrix",
+        "D": "a unit matrix"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The adjoint of $A$ satisfies $A \\cdot \\text{adj}(A)$ equals:",
+      "options": {
+        "A": "$|A| I$",
+        "B": "$0$",
+        "C": "$I$",
+        "D": "$A$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A$ and $B$ are square matrices of the same order, then $|AB|$ equals:",
+      "options": {
+        "A": "$|A||B|$",
+        "B": "$|A| + |B|$",
+        "C": "$|A| - |B|$",
+        "D": "$|A|/|B|$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A$ is a $3 \\times 3$ matrix, then $|\\text{adj}(A)|$ equals:",
+      "options": {
+        "A": "$|A|^2$",
+        "B": "$|A|^3$",
+        "C": "$|A|$",
+        "D": "$1$"
+      }
+    },
+    {
+      "chapter": "Trigonometric Identities of Sum and Difference of Angles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\sin 75^\\circ \\cos 15^\\circ + \\cos 75^\\circ \\sin 15^\\circ$ equals:",
+      "options": {
+        "A": "$\\frac{1}{2}$",
+        "B": "$\\frac{\\sqrt{3}}{2}$",
+        "C": "$1$",
+        "D": "$0$"
+      }
+    },
+    {
+      "chapter": "Trigonometric Identities of Sum and Difference of Angles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\cos 20^\\circ \\cos 40^\\circ - \\sin 20^\\circ \\sin 40^\\circ$ equals:",
+      "options": {
+        "A": "$\\cos 60^\\circ$",
+        "B": "$\\sin 60^\\circ$",
+        "C": "$\\cos 20^\\circ$",
+        "D": "$\\sin 80^\\circ$"
+      }
+    },
+    {
+      "chapter": "Trigonometric Identities of Sum and Difference of Angles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\sin 15^\\circ$ equals:",
+      "options": {
+        "A": "$\\frac{\\sqrt{3} - 1}{2\\sqrt{2}}$",
+        "B": "$\\frac{\\sqrt{3} + 1}{2\\sqrt{2}}$",
+        "C": "$\\frac{\\sqrt{2} - 1}{2}$",
+        "D": "$\\frac{1}{2\\sqrt{2}}$"
+      }
+    },
+    {
+      "chapter": "Trigonometric Identities of Sum and Difference of Angles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\cos 105^\\circ + \\cos 15^\\circ$ equals:",
+      "options": {
+        "A": "$\\frac{\\sqrt{3}}{2}$",
+        "B": "$\\frac{\\sqrt{3}}{2\\sqrt{2}}$",
+        "C": "$\\frac{1}{2}$",
+        "D": "$\\frac{1}{\\sqrt{2}}$"
+      }
+    },
+    {
+      "chapter": "Trigonometric Identities of Sum and Difference of Angles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\tan 15^\\circ$ equals:",
+      "options": {
+        "A": "$2 - \\sqrt{3}$",
+        "B": "$2 + \\sqrt{3}$",
+        "C": "$\\sqrt{3} - 1$",
+        "D": "$\\frac{1}{\\sqrt{3}}$"
+      }
+    },
+    {
+      "chapter": "Trigonometric Identities of Sum and Difference of Angles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\frac{\\sin 2A}{1 + \\cos 2A}$ equals:",
+      "options": {
+        "A": "$\\tan A$",
+        "B": "$\\cot A$",
+        "C": "$\\sin A$",
+        "D": "$\\cos A$"
+      }
+    },
+    {
+      "chapter": "Trigonometric Identities of Sum and Difference of Angles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\sin A = \\frac{3}{5}$ and $A$ is acute, then $\\sin 2A$ equals:",
+      "options": {
+        "A": "$\\frac{24}{25}$",
+        "B": "$\\frac{12}{25}$",
+        "C": "$\\frac{6}{25}$",
+        "D": "$\\frac{9}{25}$"
+      }
+    },
+    {
+      "chapter": "Trigonometric Identities of Sum and Difference of Angles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\cos^2 A - \\sin^2 A$ equals:",
+      "options": {
+        "A": "$\\cos 2A$",
+        "B": "$\\sin 2A$",
+        "C": "$1 - 2\\sin^2 A$",
+        "D": "Both (a) and (c)"
+      }
+    },
+    {
+      "chapter": "Trigonometric Identities of Sum and Difference of Angles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\tan A = \\frac{1}{2}$, then $\\tan 2A$ equals:",
+      "options": {
+        "A": "$\\frac{4}{3}$",
+        "B": "$\\frac{3}{4}$",
+        "C": "$1$",
+        "D": "$\\frac{2}{3}$"
+      }
+    },
+    {
+      "chapter": "Trigonometric Identities of Sum and Difference of Angles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$2 \\sin 45^\\circ \\cos 45^\\circ$ equals:",
+      "options": {
+        "A": "$1$",
+        "B": "$0$",
+        "C": "$\\frac{1}{2}$",
+        "D": "$\\sqrt{2}$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In any triangle $ABC$, with usual notation, the area of the triangle is:",
+      "options": {
+        "A": "$\\frac{1}{2}ab \\sin C$",
+        "B": "$\\frac{1}{2}bc \\sin A$",
+        "C": "$\\frac{1}{2}ca \\sin B$",
+        "D": "(All of these)"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In any triangle $ABC$, $a \\cos B + b \\cos A$ equals:",
+      "options": {
+        "A": "$c$",
+        "B": "$b$",
+        "C": "$a$",
+        "D": "$0$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The law of sines states that in any triangle $ABC$:",
+      "options": {
+        "A": "$\\frac{a}{\\sin A} = \\frac{b}{\\sin B} = \\frac{c}{\\sin C}$",
+        "B": "$\\frac{a}{\\cos A} = \\frac{b}{\\cos B} = \\frac{c}{\\cos C}$",
+        "C": "$a^2 = b^2 + c^2 - 2bc\\cos A$",
+        "D": "$a = b = c$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cosine rule for side $a$ in triangle $ABC$ is:",
+      "options": {
+        "A": "$a^2 = b^2 + c^2 - 2bc \\cos A$",
+        "B": "$a^2 = b^2 + c^2 + 2bc \\cos A$",
+        "C": "$a^2 = b^2 - c^2 + 2bc \\cos A$",
+        "D": "$a = b + c$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the angles of a triangle are in the ratio $1 : 2 : 3$, then the smallest angle is:",
+      "options": {
+        "A": "$30^\\circ$",
+        "B": "$45^\\circ$",
+        "C": "$60^\\circ$",
+        "D": "$90^\\circ$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In any triangle, the largest side is opposite to:",
+      "options": {
+        "A": "the largest angle",
+        "B": "the smallest angle",
+        "C": "the right angle always",
+        "D": "the vertex $A$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The area of a triangle whose sides are $a$, $b$ and $c$ and semi-perimeter is $s$ (Heron's formula) is:",
+      "options": {
+        "A": "$\\sqrt{s(s-a)(s-b)(s-c)}$",
+        "B": "$\\frac{1}{2}(a + b + c)$",
+        "C": "$\\sqrt{(a+b+c)s}$",
+        "D": "$\\frac{abc}{4s}$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The radius of the circum-circle of a triangle $ABC$ is:",
+      "options": {
+        "A": "$\\frac{a}{2 \\sin A}$",
+        "B": "$\\frac{\\Delta}{s}$",
+        "C": "$\\frac{\\Delta}{s - a}$",
+        "D": "$\\frac{a}{2 \\cos A}$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The radius of the in-circle of a triangle is:",
+      "options": {
+        "A": "$\\frac{\\Delta}{s}$",
+        "B": "$\\frac{\\Delta}{s - a}$",
+        "C": "$\\frac{abc}{4\\Delta}$",
+        "D": "$\\frac{2\\Delta}{a + b + c}$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In an equilateral triangle of side $a$, each angle is:",
+      "options": {
+        "A": "$60^\\circ$",
+        "B": "$90^\\circ$",
+        "C": "$30^\\circ$",
+        "D": "$45^\\circ$"
+      }
+    },
+    {
+      "chapter": "Mathematical Induction and Binomial Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The sum of the first $n$ natural numbers is:",
+      "options": {
+        "A": "$\\frac{n(n+1)}{2}$",
+        "B": "$\\frac{n(n-1)}{2}$",
+        "C": "$n^2$",
+        "D": "$2n$"
+      }
+    },
+    {
+      "chapter": "Mathematical Induction and Binomial Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The sum of the squares of the first $n$ natural numbers is:",
+      "options": {
+        "A": "$\\frac{n(n+1)(2n+1)}{6}$",
+        "B": "$\\frac{n(n+1)}{2}$",
+        "C": "$\\left(\\frac{n(n+1)}{2}\\right)^2$",
+        "D": "$\\frac{n(n+1)(n+2)}{6}$"
+      }
+    },
+    {
+      "chapter": "Mathematical Induction and Binomial Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The sum of the cubes of the first $n$ natural numbers is:",
+      "options": {
+        "A": "$\\left(\\frac{n(n+1)}{2}\\right)^2$",
+        "B": "$\\frac{n(n+1)(2n+1)}{6}$",
+        "C": "$\\frac{n^2(n+1)^2}{4}$",
+        "D": "Both (a) and (c)"
+      }
+    },
+    {
+      "chapter": "Mathematical Induction and Binomial Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The binomial theorem gives $(a + b)^n$ as the sum of:",
+      "options": {
+        "A": "$n + 1$ terms",
+        "B": "$n$ terms",
+        "C": "$2n$ terms",
+        "D": "$n - 1$ terms"
+      }
+    },
+    {
+      "chapter": "Mathematical Induction and Binomial Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the expansion of $(a + b)^n$, the $(r+1)$-th term is:",
+      "options": {
+        "A": "$\\binom{n}{r} a^{n-r} b^r$",
+        "B": "$\\binom{n}{r} a^r b^{n-r}$",
+        "C": "$\\binom{r}{n} a^{n-r} b^r$",
+        "D": "$\\frac{n!}{r!} a^r b^r$"
+      }
+    },
+    {
+      "chapter": "Mathematical Induction and Binomial Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of terms in the expansion of $(a + b)^{10}$ is:",
+      "options": {
+        "A": "$11$",
+        "B": "$10$",
+        "C": "$20$",
+        "D": "$9$"
+      }
+    },
+    {
+      "chapter": "Mathematical Induction and Binomial Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The middle term in the expansion of $(1 + x)^8$ is:",
+      "options": {
+        "A": "the 5th term",
+        "B": "the 4th term",
+        "C": "the 6th term",
+        "D": "there are two middle terms"
+      }
+    },
+    {
+      "chapter": "Mathematical Induction and Binomial Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the expansion of $(1 - x)^n$, the coefficients of the terms are:",
+      "options": {
+        "A": "alternately positive and negative",
+        "B": "all positive",
+        "C": "all negative",
+        "D": "positive only for even terms"
+      }
+    },
+    {
+      "chapter": "Mathematical Induction and Binomial Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The sum of the binomial coefficients in the expansion of $(1 + x)^n$ is:",
+      "options": {
+        "A": "$2^n$",
+        "B": "$2^{n-1}$",
+        "C": "$n^2$",
+        "D": "$n!$"
+      }
+    },
+    {
+      "chapter": "Mathematical Induction and Binomial Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $n$ is a positive integer, then the sum of the coefficients in the expansion of $(a + b)^{2n}$ is:",
+      "options": {
+        "A": "$2^{2n}$",
+        "B": "$2^n$",
+        "C": "$4n$",
+        "D": "$0$"
+      }
+    },
+    {
+      "chapter": "Permutation, Combination and Probability",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of ways of arranging $n$ distinct objects is:",
+      "options": {
+        "A": "$n!$",
+        "B": "$n^2$",
+        "C": "$\\frac{n!}{2}$",
+        "D": "$n(n-1)$"
+      }
+    },
+    {
+      "chapter": "Permutation, Combination and Probability",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of diagonals of a polygon with $n$ sides is:",
+      "options": {
+        "A": "$\\frac{n(n-3)}{2}$",
+        "B": "$\\frac{n(n-1)}{2}$",
+        "C": "$n(n-3)$",
+        "D": "$\\frac{n(n+1)}{2}$"
+      }
+    },
+    {
+      "chapter": "Permutation, Combination and Probability",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The value of $\\binom{n}{r}$ is:",
+      "options": {
+        "A": "$\\frac{n!}{r!(n-r)!}$",
+        "B": "$\\frac{n!}{r!}$",
+        "C": "$\\frac{n!}{(n-r)!}$",
+        "D": "$\\frac{r!}{n!(n-r)!}$"
+      }
+    },
+    {
+      "chapter": "Permutation, Combination and Probability",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\binom{n}{r} = \\binom{n}{n-r}$ is true for:",
+      "options": {
+        "A": "$0 \\le r \\le n$",
+        "B": "$r > n$",
+        "C": "$r = n$ only",
+        "D": "no value of $r$"
+      }
+    },
+    {
+      "chapter": "Permutation, Combination and Probability",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The probability of a sure event is:",
+      "options": {
+        "A": "$1$",
+        "B": "$0$",
+        "C": "$\\frac{1}{2}$",
+        "D": "between 0 and 1"
+      }
+    },
+    {
+      "chapter": "Permutation, Combination and Probability",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $P(A) = \\frac{1}{3}$, then the probability of the event not $A$ is:",
+      "options": {
+        "A": "$\\frac{2}{3}$",
+        "B": "$\\frac{1}{3}$",
+        "C": "$1$",
+        "D": "$0$"
+      }
+    },
+    {
+      "chapter": "Permutation, Combination and Probability",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two coins are tossed. The probability of getting exactly one head is:",
+      "options": {
+        "A": "$\\frac{1}{2}$",
+        "B": "$\\frac{1}{4}$",
+        "C": "$\\frac{3}{4}$",
+        "D": "$\\frac{1}{3}$"
+      }
+    },
+    {
+      "chapter": "Permutation, Combination and Probability",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A die is rolled once. The probability of getting a prime number is:",
+      "options": {
+        "A": "$\\frac{1}{2}$",
+        "B": "$\\frac{1}{3}$",
+        "C": "$\\frac{2}{3}$",
+        "D": "$\\frac{1}{6}$"
+      }
+    },
+    {
+      "chapter": "Permutation, Combination and Probability",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of ways of selecting $r$ objects from $n$ distinct objects is:",
+      "options": {
+        "A": "$\\binom{n}{r}$",
+        "B": "$n^r$",
+        "C": "$\\frac{n!}{r!}$",
+        "D": "$r!$"
+      }
+    },
+    {
+      "chapter": "Permutation, Combination and Probability",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $P(A) = 0$, then the event $A$ is called:",
+      "options": {
+        "A": "an impossible event",
+        "B": "a sure event",
+        "C": "an equally likely event",
+        "D": "a certain event"
+      }
+    },
+    {
+      "chapter": "Sequence and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The $n$-th term of an arithmetic progression with first term $a$ and common difference $d$ is:",
+      "options": {
+        "A": "$a + (n-1)d$",
+        "B": "$a + nd$",
+        "C": "$ar^{n-1}$",
+        "D": "$a - (n-1)d$"
+      }
+    },
+    {
+      "chapter": "Sequence and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The sum of the first $n$ terms of an arithmetic progression is:",
+      "options": {
+        "A": "$\\frac{n}{2}[2a + (n-1)d]$",
+        "B": "$\\frac{n}{2}[2a + nd]$",
+        "C": "$na + d$",
+        "D": "$a r^{n-1}$"
+      }
+    },
+    {
+      "chapter": "Sequence and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The $n$-th term of a geometric progression with first term $a$ and common ratio $r$ is:",
+      "options": {
+        "A": "$ar^{n-1}$",
+        "B": "$ar^n$",
+        "C": "$a + (n-1)r$",
+        "D": "$\\frac{a}{r^{n-1}}$"
+      }
+    },
+    {
+      "chapter": "Sequence and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The sum of an infinite geometric series with first term $a$ and common ratio $r$ ($|r| < 1$) is:",
+      "options": {
+        "A": "$\\frac{a}{1 - r}$",
+        "B": "$\\frac{a}{1 + r}$",
+        "C": "$\\frac{1}{1 - r}$",
+        "D": "$\\infty$"
+      }
+    },
+    {
+      "chapter": "Sequence and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The arithmetic mean between two numbers $a$ and $b$ is:",
+      "options": {
+        "A": "$\\frac{a + b}{2}$",
+        "B": "$\\sqrt{ab}$",
+        "C": "$\\frac{b - a}{2}$",
+        "D": "$\\frac{2ab}{a + b}$"
+      }
+    },
+    {
+      "chapter": "Sequence and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The geometric mean between two positive numbers $a$ and $b$ is:",
+      "options": {
+        "A": "$\\sqrt{ab}$",
+        "B": "$\\frac{a + b}{2}$",
+        "C": "$\\frac{2ab}{a + b}$",
+        "D": "$ab$"
+      }
+    },
+    {
+      "chapter": "Sequence and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the sum of an infinite G.P. is $6$ and its first term is $2$, then its common ratio is:",
+      "options": {
+        "A": "$\\frac{2}{3}$",
+        "B": "$\\frac{1}{3}$",
+        "C": "$\\frac{3}{2}$",
+        "D": "$3$"
+      }
+    },
+    {
+      "chapter": "Sequence and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The sum of the first $n$ natural numbers which are divisible by $3$ is:",
+      "options": {
+        "A": "$\\frac{3n(n+1)}{2}$",
+        "B": "$\\frac{n(n+1)}{2}$",
+        "C": "$3n^2$",
+        "D": "$\\frac{n(3n+1)}{2}$"
+      }
+    },
+    {
+      "chapter": "Sequence and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A sequence is called an arithmetic progression if:",
+      "options": {
+        "A": "each term differs from the preceding term by a constant",
+        "B": "the ratio of each term to the preceding term is constant",
+        "C": "the terms are all equal",
+        "D": "the terms are natural numbers"
+      }
+    },
+    {
+      "chapter": "Sequence and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The sum of the first $n$ terms of the series $1 + 3 + 5 + 7 + \\cdots$ is:",
+      "options": {
+        "A": "$n^2$",
+        "B": "$2n$",
+        "C": "$\\frac{n(n+1)}{2}$",
+        "D": "$n(n+1)$"
+      }
+    },
+    {
+      "chapter": "Functions and Graph",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A relation $f$ from set $A$ to set $B$ is called a function if:",
+      "options": {
+        "A": "every element of $A$ has exactly one image in $B$",
+        "B": "every element of $B$ has exactly one pre-image in $A$",
+        "C": "every element of $A$ has one or more images in $B$",
+        "D": "every element of $B$ has at least one pre-image in $A$"
+      }
+    },
+    {
+      "chapter": "Functions and Graph",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The domain of $f(x) = \\sqrt{x - 2}$ is:",
+      "options": {
+        "A": "$x \\ge 2$",
+        "B": "$x > 2$",
+        "C": "$x \\le 2$",
+        "D": "all real numbers"
+      }
+    },
+    {
+      "chapter": "Functions and Graph",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The domain of $f(x) = \\frac{1}{x - 1}$ is:",
+      "options": {
+        "A": "$\\mathbb{R} - \\{1\\}$",
+        "B": "$\\mathbb{R} - \\{-1\\}$",
+        "C": "$\\mathbb{R}$",
+        "D": "$\\{1\\}$"
+      }
+    },
+    {
+      "chapter": "Functions and Graph",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $f(x) = x^2$, then $f(x + h) - f(x)$ equals:",
+      "options": {
+        "A": "$2xh + h^2$",
+        "B": "$h^2$",
+        "C": "$2xh$",
+        "D": "$x^2 + h^2$"
+      }
+    },
+    {
+      "chapter": "Functions and Graph",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The graph of $y = |x|$ is:",
+      "options": {
+        "A": "a V-shaped graph",
+        "B": "a straight line through the origin",
+        "C": "a parabola",
+        "D": "a hyperbola"
+      }
+    },
+    {
+      "chapter": "Functions and Graph",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A function $f$ is one-to-one if:",
+      "options": {
+        "A": "distinct elements of the domain have distinct images",
+        "B": "every element of the range has a pre-image",
+        "C": "the domain and range are equal",
+        "D": "the range is a single element"
+      }
+    },
+    {
+      "chapter": "Functions and Graph",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $f(x) = 2x + 3$ and $g(x) = x^2$, then $(f \\circ g)(x)$ equals:",
+      "options": {
+        "A": "$2x^2 + 3$",
+        "B": "$(2x + 3)^2$",
+        "C": "$2x^2 + 3x$",
+        "D": "$x^2 + 3$"
+      }
+    },
+    {
+      "chapter": "Functions and Graph",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The range of $f(x) = x^2$ over the set of real numbers is:",
+      "options": {
+        "A": "$y \\ge 0$",
+        "B": "all real numbers",
+        "C": "$y > 0$",
+        "D": "$y \\le 0$"
+      }
+    },
+    {
+      "chapter": "Functions and Graph",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The graph of $y = a^x$ ($a > 1$) is:",
+      "options": {
+        "A": "an increasing curve passing through $(0, 1)$",
+        "B": "a straight line",
+        "C": "a decreasing curve",
+        "D": "a parabola"
+      }
+    },
+    {
+      "chapter": "Functions and Graph",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An even function satisfies:",
+      "options": {
+        "A": "$f(-x) = f(x)$",
+        "B": "$f(-x) = -f(x)$",
+        "C": "$f(x) = 0$",
+        "D": "$f(-x) = x$"
+      }
+    },
+    {
+      "chapter": "Vectors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If two vectors have the same magnitude and direction, they are called:",
+      "options": {
+        "A": "equal vectors",
+        "B": "parallel vectors",
+        "C": "unit vectors",
+        "D": "position vectors"
+      }
+    },
+    {
+      "chapter": "Vectors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A vector of magnitude one is called:",
+      "options": {
+        "A": "a unit vector",
+        "B": "a null vector",
+        "C": "a position vector",
+        "D": "a free vector"
+      }
+    },
+    {
+      "chapter": "Vectors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The dot product of two perpendicular non-zero vectors is:",
+      "options": {
+        "A": "$0$",
+        "B": "$1$",
+        "C": "$|\\vec{a}||\\vec{b}|$",
+        "D": "$-1$"
+      }
+    },
+    {
+      "chapter": "Vectors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\vec{a} \\cdot \\vec{b} = 0$ and neither vector is zero, then the vectors are:",
+      "options": {
+        "A": "perpendicular",
+        "B": "parallel",
+        "C": "equal",
+        "D": "opposite"
+      }
+    },
+    {
+      "chapter": "Vectors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The magnitude of the vector $3\\hat{i} + 4\\hat{j}$ is:",
+      "options": {
+        "A": "$5$",
+        "B": "$7$",
+        "C": "$1$",
+        "D": "$25$"
+      }
+    },
+    {
+      "chapter": "Vectors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cross product of two parallel vectors is:",
+      "options": {
+        "A": "a null vector",
+        "B": "a unit vector",
+        "C": "$\\vec{a} \\cdot \\vec{b}$",
+        "D": "a scalar"
+      }
+    },
+    {
+      "chapter": "Vectors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\vec{a}$ and $\\vec{b}$ are non-zero vectors, then $|\\vec{a} \\times \\vec{b}|$ equals:",
+      "options": {
+        "A": "$|\\vec{a}||\\vec{b}|\\sin\\theta$",
+        "B": "$|\\vec{a}||\\vec{b}|\\cos\\theta$",
+        "C": "$|\\vec{a}||\\vec{b}|$",
+        "D": "$\\vec{a} \\cdot \\vec{b}$"
+      }
+    },
+    {
+      "chapter": "Vectors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A vector whose initial point is at the origin is called:",
+      "options": {
+        "A": "a position vector",
+        "B": "a unit vector",
+        "C": "a null vector",
+        "D": "a local vector"
+      }
+    },
+    {
+      "chapter": "Vectors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The dot product $\\vec{a} \\cdot \\vec{a}$ equals:",
+      "options": {
+        "A": "$|\\vec{a}|^2$",
+        "B": "$|\\vec{a}|$",
+        "C": "$0$",
+        "D": "$\\vec{a}$"
+      }
+    },
+    {
+      "chapter": "Vectors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\vec{a} = \\hat{i} + \\hat{j}$ and $\\vec{b} = \\hat{j} + \\hat{k}$, then $\\vec{a} \\cdot \\vec{b}$ equals:",
+      "options": {
+        "A": "$1$",
+        "B": "$2$",
+        "C": "$0$",
+        "D": "$3$"
+      }
+    },
+    {
+      "chapter": "Graphs of Trigonometric and Inverse Trigonometric Functions and Solution of Trigonometric Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The period of $\\sin x$ is:",
+      "options": {
+        "A": "$2\\pi$",
+        "B": "$\\pi$",
+        "C": "$\\frac{\\pi}{2}$",
+        "D": "$4\\pi$"
+      }
+    },
+    {
+      "chapter": "Graphs of Trigonometric and Inverse Trigonometric Functions and Solution of Trigonometric Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The period of $\\tan x$ is:",
+      "options": {
+        "A": "$\\pi$",
+        "B": "$2\\pi$",
+        "C": "$\\frac{\\pi}{2}$",
+        "D": "$4\\pi$"
+      }
+    },
+    {
+      "chapter": "Graphs of Trigonometric and Inverse Trigonometric Functions and Solution of Trigonometric Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The range of $\\sin x$ is:",
+      "options": {
+        "A": "$-1 \\le y \\le 1$",
+        "B": "$0 \\le y \\le 1$",
+        "C": "$y \\ge 0$",
+        "D": "all real numbers"
+      }
+    },
+    {
+      "chapter": "Graphs of Trigonometric and Inverse Trigonometric Functions and Solution of Trigonometric Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The domain of $\\sin^{-1} x$ is:",
+      "options": {
+        "A": "$-1 \\le x \\le 1$",
+        "B": "all real numbers",
+        "C": "$x \\ge 0$",
+        "D": "$-\\pi \\le x \\le \\pi$"
+      }
+    },
+    {
+      "chapter": "Graphs of Trigonometric and Inverse Trigonometric Functions and Solution of Trigonometric Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The range of $\\cos^{-1} x$ is:",
+      "options": {
+        "A": "$0 \\le y \\le \\pi$",
+        "B": "$-\\frac{\\pi}{2} \\le y \\le \\frac{\\pi}{2}$",
+        "C": "$-\\pi \\le y \\le \\pi$",
+        "D": "$0 \\le y \\le 1$"
+      }
+    },
+    {
+      "chapter": "Graphs of Trigonometric and Inverse Trigonometric Functions and Solution of Trigonometric Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The general solution of $\\sin x = 0$ is:",
+      "options": {
+        "A": "$x = n\\pi$, $n \\in \\mathbb{Z}$",
+        "B": "$x = 2n\\pi$, $n \\in \\mathbb{Z}$",
+        "C": "$x = (2n + 1)\\pi$, $n \\in \\mathbb{Z}$",
+        "D": "$x = n\\frac{\\pi}{2}$, $n \\in \\mathbb{Z}$"
+      }
+    },
+    {
+      "chapter": "Graphs of Trigonometric and Inverse Trigonometric Functions and Solution of Trigonometric Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The general solution of $\\cos x = 1$ is:",
+      "options": {
+        "A": "$x = 2n\\pi$, $n \\in \\mathbb{Z}$",
+        "B": "$x = n\\pi$, $n \\in \\mathbb{Z}$",
+        "C": "$x = (2n + 1)\\pi$, $n \\in \\mathbb{Z}$",
+        "D": "$x = 0$ only"
+      }
+    },
+    {
+      "chapter": "Graphs of Trigonometric and Inverse Trigonometric Functions and Solution of Trigonometric Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The graph of $y = \\cos x$ is symmetric about:",
+      "options": {
+        "A": "the y-axis",
+        "B": "the origin",
+        "C": "the line $y = x$",
+        "D": "the x-axis"
+      }
+    },
+    {
+      "chapter": "Graphs of Trigonometric and Inverse Trigonometric Functions and Solution of Trigonometric Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The principal value of $\\sin^{-1}\\left(\\frac{1}{2}\\right)$ is:",
+      "options": {
+        "A": "$\\frac{\\pi}{6}$",
+        "B": "$\\frac{\\pi}{3}$",
+        "C": "$\\frac{\\pi}{2}$",
+        "D": "$-\\frac{\\pi}{6}$"
+      }
+    },
+    {
+      "chapter": "Graphs of Trigonometric and Inverse Trigonometric Functions and Solution of Trigonometric Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of solutions of $\\sin x = \\frac{1}{2}$ in the interval $0 \\le x \\le 2\\pi$ is:",
+      "options": {
+        "A": "$2$",
+        "B": "$1$",
+        "C": "$3$",
+        "D": "$4$"
+      }
+    },
+    {
+      "chapter": "Linear Programming (LP)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The region of a system of linear inequalities that satisfies all the constraints is called:",
+      "options": {
+        "A": "the feasible region",
+        "B": "the optimal region",
+        "C": "the infeasible region",
+        "D": "the constraint region"
+      }
+    },
+    {
+      "chapter": "Linear Programming (LP)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a linear programming problem, the objective function is:",
+      "options": {
+        "A": "a linear function to be maximised or minimised",
+        "B": "a system of inequalities",
+        "C": "the feasible region",
+        "D": "a quadratic function"
+      }
+    },
+    {
+      "chapter": "Linear Programming (LP)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The optimal value of the objective function in a linear programming problem occurs:",
+      "options": {
+        "A": "at a corner (vertex) of the feasible region",
+        "B": "at the centre of the feasible region",
+        "C": "anywhere in the feasible region",
+        "D": "outside the feasible region"
+      }
+    },
+    {
+      "chapter": "Linear Programming (LP)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A feasible region that can be enclosed in a circle of finite radius is called:",
+      "options": {
+        "A": "a bounded (closed) region",
+        "B": "an unbounded region",
+        "C": "an open region",
+        "D": "an empty region"
+      }
+    },
+    {
+      "chapter": "Linear Programming (LP)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The inequalities in a linear programming problem are called:",
+      "options": {
+        "A": "constraints",
+        "B": "objectives",
+        "C": "variables",
+        "D": "vertices"
+      }
+    },
+    {
+      "chapter": "Miscellaneous and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\alpha$ and $\\beta$ are the roots of $x^2 - 5x + 6 = 0$, then $\\alpha + \\beta$ equals:",
+      "options": {
+        "A": "$5$",
+        "B": "$6$",
+        "C": "$-5$",
+        "D": "$1$"
+      }
+    },
+    {
+      "chapter": "Miscellaneous and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\alpha \\beta = 6$ and $\\alpha + \\beta = 5$, then the quadratic equation with roots $\\alpha$ and $\\beta$ is:",
+      "options": {
+        "A": "$x^2 - 5x + 6 = 0$",
+        "B": "$x^2 + 5x + 6 = 0$",
+        "C": "$x^2 - 6x + 5 = 0$",
+        "D": "$x^2 + 5x - 6 = 0$"
+      }
+    },
+    {
+      "chapter": "Miscellaneous and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The discriminant of $ax^2 + bx + c = 0$ is:",
+      "options": {
+        "A": "$b^2 - 4ac$",
+        "B": "$b^2 + 4ac$",
+        "C": "$4ac - b^2$",
+        "D": "$b - 4ac$"
+      }
+    },
+    {
+      "chapter": "Miscellaneous and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The roots of $ax^2 + bx + c = 0$ are real and distinct if:",
+      "options": {
+        "A": "$b^2 - 4ac > 0$",
+        "B": "$b^2 - 4ac = 0$",
+        "C": "$b^2 - 4ac < 0$",
+        "D": "$a = c$"
+      }
+    },
+    {
+      "chapter": "Miscellaneous and Series",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The sum of the roots of $2x^2 - 8x + 6 = 0$ is:",
+      "options": {
+        "A": "$4$",
+        "B": "$3$",
+        "C": "$8$",
+        "D": "$-4$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In any triangle $ABC$, the projection formula gives $b \\cos C + c \\cos B$ equals:",
+      "options": {
+        "A": "$a$",
+        "B": "$b$",
+        "C": "$c$",
+        "D": "$0$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In any triangle $ABC$ with usual notations, $\\frac{a}{\\sin A}$ is equal to:",
+      "options": {
+        "A": "$\\frac{b}{\\sin B}$",
+        "B": "$\\frac{b}{\\cos B}$",
+        "C": "$\\frac{c}{\\cos C}$",
+        "D": "$\\frac{a}{\\cos A}$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the circum-radius $R$ of a triangle is $\\frac{1}{2}$ and a side is $a$, then $\\sin A$ equals:",
+      "options": {
+        "A": "$2aR$",
+        "B": "$\\frac{a}{2R}$",
+        "C": "$\\frac{2R}{a}$",
+        "D": "$aR$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In any triangle $ABC$, $\\frac{\\tan \\frac{A - B}{2}}{\\tan \\frac{A + B}{2}}$ equals:",
+      "options": {
+        "A": "$\\frac{a - b}{a + b}$",
+        "B": "$\\frac{a + b}{a - b}$",
+        "C": "$\\frac{ab}{a + b}$",
+        "D": "$1$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In any triangle $ABC$, Hero's formula for area in terms of in-radius $r$ and semi-perimeter $s$ is:",
+      "options": {
+        "A": "$\\Delta = rs$",
+        "B": "$\\Delta = 2rs$",
+        "C": "$\\Delta = \\frac{r}{s}$",
+        "D": "$\\Delta = r + s$"
+      }
+    },
+    {
+      "chapter": "Application of Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The circum-radius of an equilateral triangle of side $a$ is:",
+      "options": {
+        "A": "$\\frac{a}{\\sqrt{3}}$",
+        "B": "$\\frac{a}{2\\sqrt{3}}$",
+        "C": "$\\frac{2a}{\\sqrt{3}}$",
+        "D": "$\\frac{a\\sqrt{3}}{2}$"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1658 @@
+{
+  "subject": "Physics",
+  "class": "X",
+  "questions": [
+    {
+      "chapter": "General Waves Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Water waves can be used to show reflection, refraction, and diffraction. For each of these, which row shows whether or not the speed of the water waves changes?",
+      "options": {
+        "A": "Yes, Yes, Yes",
+        "B": "Yes, No, Yes",
+        "C": "No, Yes, No",
+        "D": "No, No, No"
+      }
+    },
+    {
+      "chapter": "General Waves Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The diagrams show water waves that move more slowly after passing into shallow water. Which diagram shows what happens to the waves?",
+      "options": {
+        "A": "Diagram 1",
+        "B": "Diagram 2",
+        "C": "Diagram 3",
+        "D": "Diagram 4"
+      }
+    },
+    {
+      "chapter": "General Waves Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The diagram shows a water wave approaching a barrier with a gap. The wave reaches point P. What is the name of the effect that causes the wave to reach point P?",
+      "options": {
+        "A": "Diffraction",
+        "B": "Dispersion",
+        "C": "Reflection",
+        "D": "Refraction"
+      }
+    },
+    {
+      "chapter": "General Waves Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Water waves pass from deep into the shallow region then refracted. The characteristics of wave which will remains constant is:",
+      "options": {
+        "A": "Direction",
+        "B": "Frequency",
+        "C": "Speed",
+        "D": "Wavelength"
+      }
+    },
+    {
+      "chapter": "General Waves Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which is not a characteristic of wave?",
+      "options": {
+        "A": "Amplitude",
+        "B": "Period",
+        "C": "Mass",
+        "D": "Velocity"
+      }
+    },
+    {
+      "chapter": "General Waves Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "When an oscillating object is in simple harmonic motion, its maximum speed occurs when the object is at its",
+      "options": {
+        "A": "Highest point",
+        "B": "Lowest point",
+        "C": "Equilibrium point",
+        "D": "Extreme point"
+      }
+    },
+    {
+      "chapter": "General Waves Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In an oscillating pendulum, the bob accelerates from its extreme position due to",
+      "options": {
+        "A": "Inertia",
+        "B": "Tension in the string",
+        "C": "Wind",
+        "D": "Gravitational force"
+      }
+    },
+    {
+      "chapter": "General Waves Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the ball and bowl system, the mean position is at",
+      "options": {
+        "A": "The earth",
+        "B": "Floor of the bowl",
+        "C": "Center of bowl",
+        "D": "Extreme position"
+      }
+    },
+    {
+      "chapter": "General Waves Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Oscillations are damped due to the presence of",
+      "options": {
+        "A": "Linear motion",
+        "B": "Restoring force",
+        "C": "Frictional force",
+        "D": "Mechanical force"
+      }
+    },
+    {
+      "chapter": "Sound",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Sound is a form of:",
+      "options": {
+        "A": "Electrical energy",
+        "B": "Mechanical energy",
+        "C": "Thermal energy",
+        "D": "Chemical energy"
+      }
+    },
+    {
+      "chapter": "Sound",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Audible frequencies range that a normal human ear can detect is:",
+      "options": {
+        "A": "$10$ Hz to $10$ kHz",
+        "B": "$20$ Hz to $20$ kHz",
+        "C": "$25$ Hz to $25$ kHz",
+        "D": "$30$ Hz to $30$ kHz"
+      }
+    },
+    {
+      "chapter": "Sound",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The approximate value of the speed of sound in air at $0^\\circ C$ temperature is:",
+      "options": {
+        "A": "$331$ m/s",
+        "B": "$340$ m/s",
+        "C": "$170$ m/s",
+        "D": "$680$ m/s"
+      }
+    },
+    {
+      "chapter": "Sound",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Sound travel faster in solid as compare to gases because of:",
+      "options": {
+        "A": "Gas molecules are packed loosely.",
+        "B": "Sound does not travel faster through a solid than a gas.",
+        "C": "Solid molecules are packed tightly.",
+        "D": "Gas molecules move faster."
+      }
+    },
+    {
+      "chapter": "Sound",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The two factors that affect the speed of sound in air are:",
+      "options": {
+        "A": "Humidity and volume of the air",
+        "B": "Temperature and mass of the air",
+        "C": "Volume and mass of the air",
+        "D": "Temperature and humidity of the air"
+      }
+    },
+    {
+      "chapter": "Sound",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The separation between two consecutive compressions of the sound wave is called:",
+      "options": {
+        "A": "Time period",
+        "B": "Amplitude",
+        "C": "Frequency",
+        "D": "Wavelength"
+      }
+    },
+    {
+      "chapter": "Sound",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The order of speed of the sound in different mediums from faster to slowest is",
+      "options": {
+        "A": "Gas $\\rightarrow$ Liquid $\\rightarrow$ Solid",
+        "B": "Liquid $>$ Solid $>$ Gas",
+        "C": "Solid $>$ Liquid $>$ Gas",
+        "D": "Gas $\\rightarrow$ Solid $\\rightarrow$ Liquid"
+      }
+    },
+    {
+      "chapter": "Sound",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ultrasound has several uses in medicine and industry. Which one has use of ultrasound?",
+      "options": {
+        "A": "Absorption",
+        "B": "Pre-natal scanning",
+        "C": "Dispersion",
+        "D": "Measuring humidity of air"
+      }
+    },
+    {
+      "chapter": "Sound",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The causes of the echo is:",
+      "options": {
+        "A": "Absorption",
+        "B": "Dispersion",
+        "C": "Reflection",
+        "D": "Refraction"
+      }
+    },
+    {
+      "chapter": "Sound",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which type of wave cannot travel through a vacuum?",
+      "options": {
+        "A": "Sound waves",
+        "B": "Infra-red radiation",
+        "C": "Microwaves",
+        "D": "X-rays"
+      }
+    },
+    {
+      "chapter": "Electromagnetic Spectrum",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The waves that have maximum penetrating power to treat tumors are;",
+      "options": {
+        "A": "Ultraviolet radiation",
+        "B": "Microwaves",
+        "C": "Gamma-rays",
+        "D": "Radio waves"
+      }
+    },
+    {
+      "chapter": "Electromagnetic Spectrum",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The electromagnetic rays used in radiotherapy to destroy cancer cells are;",
+      "options": {
+        "A": "Infrared rays",
+        "B": "Visible rays",
+        "C": "X-rays",
+        "D": "Ultraviolet rays"
+      }
+    },
+    {
+      "chapter": "Electromagnetic Spectrum",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Velocity of light in a diamond is (whereas the refractive index of a diamond with respect to vacuum is 2.5)",
+      "options": {
+        "A": "$1.2 \\times 10^8$ m/s",
+        "B": "$5 \\times 10^8$ m/s",
+        "C": "$1.2 \\times 10^{10}$ m/s",
+        "D": "$2.5 \\times 10^8$ m/s"
+      }
+    },
+    {
+      "chapter": "Electromagnetic Spectrum",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The group containing only electromagnetic waves is;",
+      "options": {
+        "A": "Light waves, Radio waves, Microwaves",
+        "B": "Light waves, Radio waves, Sound waves",
+        "C": "Light waves, Sound waves, Microwaves",
+        "D": "Radio waves, Sound waves, Microwaves"
+      }
+    },
+    {
+      "chapter": "Electromagnetic Spectrum",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The list that shows electromagnetic waves in order of an increasing wavelength is;",
+      "options": {
+        "A": "Microwaves, X-rays, Gamma-rays",
+        "B": "Microwaves, Gamma-rays, X-rays",
+        "C": "X-rays, gamma-rays, Microwaves",
+        "D": "Gamma-rays, X-rays, Microwaves"
+      }
+    },
+    {
+      "chapter": "Electromagnetic Spectrum",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of electromagnetic wave used in security scanners at night is;",
+      "options": {
+        "A": "Infra-red",
+        "B": "Microwaves",
+        "C": "Radio waves",
+        "D": "X-ray"
+      }
+    },
+    {
+      "chapter": "Electromagnetic Spectrum",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A narrow beam of white light passes from air into the glass and is refracted. The wave characteristic remains unchanged in its;",
+      "options": {
+        "A": "Direction",
+        "B": "Frequency",
+        "C": "Speed",
+        "D": "Wavelength"
+      }
+    },
+    {
+      "chapter": "Electromagnetic Spectrum",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of waves that are used in the television remote controllers;",
+      "options": {
+        "A": "Radio waves",
+        "B": "Infra-red waves",
+        "C": "Ultra-violet waves",
+        "D": "Visible light"
+      }
+    },
+    {
+      "chapter": "Electromagnetic Spectrum",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The color that is least deviated by a prism;",
+      "options": {
+        "A": "Violet ray",
+        "B": "Green ray",
+        "C": "Red ray",
+        "D": "Yellow ray"
+      }
+    },
+    {
+      "chapter": "Electromagnetic Spectrum",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The optical phenomenon in which the splitting of white light into seven distinct colors occur is called;",
+      "options": {
+        "A": "Refraction",
+        "B": "Reflection",
+        "C": "Dispersion",
+        "D": "Diffraction"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a concave mirror, the image size depends upon",
+      "options": {
+        "A": "Size of the object",
+        "B": "Position of the object",
+        "C": "Area covered by the object",
+        "D": "The shape of the object"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the normal human eye, the image is formed",
+      "options": {
+        "A": "In front of the retina",
+        "B": "Behind the retina",
+        "C": "On the retina",
+        "D": "In between lens and retina"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "When a light ray enters from a denser medium to a rare medium, it bends",
+      "options": {
+        "A": "Perpendicular to normal",
+        "B": "Parallel to normal",
+        "C": "Toward normal",
+        "D": "Away from normal"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a compound microscope, as compared to an objective, the eyepiece lens has a focal length",
+      "options": {
+        "A": "Zero",
+        "B": "Negative",
+        "C": "Small",
+        "D": "Large"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "When the angle of refraction is $90^\\circ$ and the refractive index for water is 1.33, the critical angle is",
+      "options": {
+        "A": "$48.8^\\circ$",
+        "B": "$49.1^\\circ$",
+        "C": "$50.0^\\circ$",
+        "D": "$51.0^\\circ$"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "To view dim stars, we use",
+      "options": {
+        "A": "Compound microscope",
+        "B": "Simple microscope",
+        "C": "Endoscope",
+        "D": "Telescope"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The human eye acts like a",
+      "options": {
+        "A": "Camera",
+        "B": "Projector",
+        "C": "Telescope",
+        "D": "Microscope"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A magnifying glass forms an enlarged",
+      "options": {
+        "A": "Real and upright image",
+        "B": "Real and inverted",
+        "C": "Virtual and upright image",
+        "D": "Virtual and inverted image"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The entire light is reflected into the same denser medium, which is called total",
+      "options": {
+        "A": "External reflection",
+        "B": "Internal reflection",
+        "C": "External refraction",
+        "D": "Internal refraction"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the optic fiber, the core is made of glass or plastic of relatively",
+      "options": {
+        "A": "Zero refractive index",
+        "B": "High refractive index",
+        "C": "Low refractive index",
+        "D": "No refractive index"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A magnifying glass is also called",
+      "options": {
+        "A": "Endoscope",
+        "B": "Compound microscope",
+        "C": "Simple microscope",
+        "D": "Telescope"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The defect in which the image is formed beyond the retina is called,",
+      "options": {
+        "A": "Long-sightedness",
+        "B": "Short-sightedness",
+        "C": "Blind spotting",
+        "D": "Image defect"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The short-sightedness can be corrected by using.",
+      "options": {
+        "A": "Convex glasses",
+        "B": "Convex mirror",
+        "C": "Concave mirror",
+        "D": "Concave glasses"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Lenses form images through",
+      "options": {
+        "A": "Dispersion",
+        "B": "Refraction",
+        "C": "Diffraction",
+        "D": "Reflection"
+      }
+    },
+    {
+      "chapter": "Geometrical Optics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "To illuminate the inaccessible places in the tooth, dentists use",
+      "options": {
+        "A": "Concave mirror",
+        "B": "Convex mirror",
+        "C": "Convex lens",
+        "D": "Concave lens"
+      }
+    },
+    {
+      "chapter": "Electrostatics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Branch of physics which deals with the charges at rest is called",
+      "options": {
+        "A": "Electricity",
+        "B": "Electrostatic",
+        "C": "Quantum",
+        "D": "Magnetism"
+      }
+    },
+    {
+      "chapter": "Electrostatics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The magnitude of force between two unit positive charges when the distance between them is $1$ m would be",
+      "options": {
+        "A": "$0$ N",
+        "B": "$1$ N",
+        "C": "$2$ N",
+        "D": "Coulomb's Constant"
+      }
+    },
+    {
+      "chapter": "Electrostatics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Coulombs law most closely resembles with",
+      "options": {
+        "A": "Law of conservation of Energy",
+        "B": "Newton's Law of Gravitation",
+        "C": "Newton's 2nd law of Motion",
+        "D": "Faraday's law"
+      }
+    },
+    {
+      "chapter": "Electrostatics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the electrostatic force between two electrons is $F$ Newton, then the electrostatic force between two protons at the same distance is",
+      "options": {
+        "A": "$0$ N",
+        "B": "$2F$",
+        "C": "$\\frac{2}{3} F$",
+        "D": "$F$"
+      }
+    },
+    {
+      "chapter": "Electrostatics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The direction of electric force and electric field intensity is",
+      "options": {
+        "A": "Parallel to each other",
+        "B": "Perpendicular to each other",
+        "C": "Opposite to each other",
+        "D": "In any direction"
+      }
+    },
+    {
+      "chapter": "Electrostatics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The work done on a unit charge against electric field intensity is called",
+      "options": {
+        "A": "Electric field",
+        "B": "Electric current",
+        "C": "Electric potential",
+        "D": "Electric field"
+      }
+    },
+    {
+      "chapter": "Electrostatics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The capacitance of capacitors increases when they connected in",
+      "options": {
+        "A": "Parallel",
+        "B": "Series",
+        "C": "Both",
+        "D": "None of them"
+      }
+    },
+    {
+      "chapter": "Electrostatics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two capacitors of $8$ $\\mu$F are connected in series then the equivalent capacitance is",
+      "options": {
+        "A": "$16$ $\\mu$F",
+        "B": "$2$ $\\mu$F",
+        "C": "$4$ $\\mu$F",
+        "D": "$6$ $\\mu$F"
+      }
+    },
+    {
+      "chapter": "Electrostatics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The presence of a dielectric between the plates of capacitors, the capacitance of capacitor",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remain constant",
+        "D": "Remain unchanged"
+      }
+    },
+    {
+      "chapter": "Electrostatics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the area of the parallel plate capacitor is doubled then the capacitance will be",
+      "options": {
+        "A": "Remain unchanged",
+        "B": "Half",
+        "C": "Double",
+        "D": "Increased two times"
+      }
+    },
+    {
+      "chapter": "Current Electricity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In an Electric circuit when Electrons move from low to high potential they will:",
+      "options": {
+        "A": "Gain Energy",
+        "B": "Lose their identity",
+        "C": "Lose Energy",
+        "D": "Gain Potential"
+      }
+    },
+    {
+      "chapter": "Current Electricity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In an electric circuit an ammeter is always connected in",
+      "options": {
+        "A": "Series",
+        "B": "Parallel",
+        "C": "Mixed",
+        "D": "None of the above"
+      }
+    },
+    {
+      "chapter": "Current Electricity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Resistance of a conductor does not depend on",
+      "options": {
+        "A": "Length of the conductor",
+        "B": "Area of cross-section",
+        "C": "Density",
+        "D": "Resistivity"
+      }
+    },
+    {
+      "chapter": "Current Electricity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ohm's law states that:",
+      "options": {
+        "A": "Resistance increases as current increases",
+        "B": "Resistance decreases as current increases",
+        "C": "Resistance increases as voltage increases",
+        "D": "Current increases as voltage increases"
+      }
+    },
+    {
+      "chapter": "Current Electricity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The condition when the resistance of a circuit is zero is known as",
+      "options": {
+        "A": "Closed-circuit",
+        "B": "Open circuit",
+        "C": "Short circuit",
+        "D": "Zero circuit"
+      }
+    },
+    {
+      "chapter": "Current Electricity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The condition for the validity of Ohm's law is that the",
+      "options": {
+        "A": "Temperature should remain constant",
+        "B": "Current should be proportional to voltage",
+        "C": "Resistance must be wire wound type",
+        "D": "All of the above"
+      }
+    },
+    {
+      "chapter": "Current Electricity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ohm's law is not applicable to",
+      "options": {
+        "A": "Semiconductors",
+        "B": "D.C. circuits",
+        "C": "Small resistors",
+        "D": "High currents"
+      }
+    },
+    {
+      "chapter": "Current Electricity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two resistances of $6$ $\\Omega$ and $12$ $\\Omega$ are connected in parallel. Their net resistance is",
+      "options": {
+        "A": "$72$ $\\Omega$",
+        "B": "$6$ $\\Omega$",
+        "C": "$4$ $\\Omega$",
+        "D": "$5$ $\\Omega$"
+      }
+    },
+    {
+      "chapter": "Current Electricity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The property of a body to oppose the flow of electric charge through it is called electric",
+      "options": {
+        "A": "Capacitance",
+        "B": "Potential",
+        "C": "Resistance",
+        "D": "Conductance"
+      }
+    },
+    {
+      "chapter": "Current Electricity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is the purpose of connecting a battery in an electric circuit?",
+      "options": {
+        "A": "To maintain resistance across the conductor.",
+        "B": "To vary resistance across the conductors.",
+        "C": "To maintain constant potential difference across the conductor.",
+        "D": "To maintain varying potential difference across the conductor."
+      }
+    },
+    {
+      "chapter": "Electromagnetism",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which statement is true about the magnetic poles?",
+      "options": {
+        "A": "Unlike poles repel",
+        "B": "Like poles attract",
+        "C": "Magnetic poles do not affect each other",
+        "D": "A single magnetic pole does not exist"
+      }
+    },
+    {
+      "chapter": "Electromagnetism",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the direction of the magnetic field lines inside a bar magnet?",
+      "options": {
+        "A": "From north pole to south pole",
+        "B": "From south pole to north pole",
+        "C": "From side to side",
+        "D": "There are no magnetic field lines"
+      }
+    },
+    {
+      "chapter": "Electromagnetism",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The presence of a magnetic field can be detected by a",
+      "options": {
+        "A": "Small mass",
+        "B": "Stationary positive charge",
+        "C": "Stationary negative charge",
+        "D": "Magnetic compass"
+      }
+    },
+    {
+      "chapter": "Electromagnetism",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the current in a wire which is placed perpendicular to a magnetic field increases, the force on the wire",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains the same",
+        "D": "Will be zero"
+      }
+    },
+    {
+      "chapter": "Electromagnetism",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A D.C motor converts",
+      "options": {
+        "A": "Mechanical energy into electrical energy",
+        "B": "Mechanical energy into chemical energy",
+        "C": "Electrical energy into mechanical energy",
+        "D": "Electrical energy into chemical energy"
+      }
+    },
+    {
+      "chapter": "Electromagnetism",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which part of a D.C motor reverses the direction of current through the coil every half-cycle?",
+      "options": {
+        "A": "The armature",
+        "B": "The commutator",
+        "C": "The brushes",
+        "D": "The slip rings"
+      }
+    },
+    {
+      "chapter": "Electromagnetism",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The direction of induced e.m.f. in a circuit is in accordance with conservation of",
+      "options": {
+        "A": "Mass",
+        "B": "Charge",
+        "C": "Momentum",
+        "D": "Energy"
+      }
+    },
+    {
+      "chapter": "Electromagnetism",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The step-up transformer",
+      "options": {
+        "A": "Increases the input current",
+        "B": "Increases the input voltage",
+        "C": "Has more turns in the primary",
+        "D": "Has less turns in the secondary coil"
+      }
+    },
+    {
+      "chapter": "Electromagnetism",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The turn ratios of a transformer is 10. It means",
+      "options": {
+        "A": "$I_s = 10 I_p$",
+        "B": "$N_p = 10 N_s$",
+        "C": "$N_s = 10 N_p$",
+        "D": "$V_s = 10 V_p$"
+      }
+    },
+    {
+      "chapter": "Introductory Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Metals are good conductors of electricity because they have free:",
+      "options": {
+        "A": "Electrons",
+        "B": "Protons",
+        "C": "Neutrons",
+        "D": "Photons"
+      }
+    },
+    {
+      "chapter": "Introductory Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The continuous flow of electrons is made possible by a device called:",
+      "options": {
+        "A": "Cathode",
+        "B": "Electron gun",
+        "C": "Anode",
+        "D": "Filament"
+      }
+    },
+    {
+      "chapter": "Introductory Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The electric field can be detect:",
+      "options": {
+        "A": "Photon",
+        "B": "Neutron",
+        "C": "Proton",
+        "D": "Electron"
+      }
+    },
+    {
+      "chapter": "Introductory Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the direction of magnetic field is reversed, the direction of force is:",
+      "options": {
+        "A": "Reversed",
+        "B": "Not reversed",
+        "C": "May or may not be reversed",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Introductory Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process of emission of electrons from the hot metal surfaces is called",
+      "options": {
+        "A": "Plastic emission",
+        "B": "Thermionic emission",
+        "C": "Static emission",
+        "D": "Current emission"
+      }
+    },
+    {
+      "chapter": "Introductory Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If input of a NOT gate is \"1\" then its output is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "May be 1 or may be 0",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Introductory Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Boolean expression of an AND gate is:",
+      "options": {
+        "A": "A.B",
+        "B": "A+B",
+        "C": "A X B",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Introductory Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Electronics comprises the:",
+      "options": {
+        "A": "Physics",
+        "B": "Engineering",
+        "C": "Technology",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "Introductory Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Boolean expression of an OR gate is:",
+      "options": {
+        "A": "A.B",
+        "B": "A+B",
+        "C": "A-B",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Introductory Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cathode ray carry",
+      "options": {
+        "A": "Positive charge",
+        "B": "Neutral",
+        "C": "Negative charge",
+        "D": "Positrons"
+      }
+    },
+    {
+      "chapter": "Information and Communication Technology ICT",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Another name for a supercomputer is a:",
+      "options": {
+        "A": "High-performance computer",
+        "B": "Maxi computer",
+        "C": "Mainframe computer",
+        "D": "None"
+      }
+    },
+    {
+      "chapter": "Information and Communication Technology ICT",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Input, processing, output, and storage are collectively referred to as:",
+      "options": {
+        "A": "Information processing cycle",
+        "B": "Software life cycle",
+        "C": "Hardware life cycle",
+        "D": "Information technology"
+      }
+    },
+    {
+      "chapter": "Information and Communication Technology ICT",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "___ is the output from a computer that ranks from processing input data",
+      "options": {
+        "A": "Data",
+        "B": "Information",
+        "C": "Computer",
+        "D": "Mouse"
+      }
+    },
+    {
+      "chapter": "Information and Communication Technology ICT",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one of the following is not considered as a system software?",
+      "options": {
+        "A": "Assembler",
+        "B": "Interpreter",
+        "C": "Compiler",
+        "D": "Tally"
+      }
+    },
+    {
+      "chapter": "Information and Communication Technology ICT",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is suitable for connecting different computers in an organized manner within an office building?",
+      "options": {
+        "A": "MAN",
+        "B": "WAN",
+        "C": "ANN",
+        "D": "LAN"
+      }
+    },
+    {
+      "chapter": "Information and Communication Technology ICT",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A computer program that translates one program instruction at a time into machine language is called?",
+      "options": {
+        "A": "Interpreter",
+        "B": "CPU",
+        "C": "Compiler",
+        "D": "Simulator"
+      }
+    },
+    {
+      "chapter": "Information and Communication Technology ICT",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The name given to a sequence of instructions in a computer language, to get the desired result is?",
+      "options": {
+        "A": "Program",
+        "B": "Decision table",
+        "C": "Pseudo code",
+        "D": "Algorithm"
+      }
+    },
+    {
+      "chapter": "Information and Communication Technology ICT",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "USB stands for",
+      "options": {
+        "A": "Ultra Serial Bus",
+        "B": "Unlimited Structured Bit",
+        "C": "Universal Serial Bus",
+        "D": "Unified Status Bus"
+      }
+    },
+    {
+      "chapter": "Information and Communication Technology ICT",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which is the extension not suitable to an ms-word file",
+      "options": {
+        "A": ".doc",
+        "B": ".docx",
+        "C": ".rtf",
+        "D": ".jpeg"
+      }
+    },
+    {
+      "chapter": "Information and Communication Technology ICT",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "ICT stands for",
+      "options": {
+        "A": "Information and Communications Technology",
+        "B": "Integrated Circular Technology",
+        "C": "Intensive Computer Techniques",
+        "D": "Interfacing Computer Theories"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "${}^{1}H$ and ${}^{3}H$ are:",
+      "options": {
+        "A": "Isotopes",
+        "B": "Isobars",
+        "C": "Isotones",
+        "D": "Isochores"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The neutral atoms of all of the isotopes of the same element have",
+      "options": {
+        "A": "Different numbers of protons",
+        "B": "Exact numbers of neutrons",
+        "C": "An exact number of protons",
+        "D": "An exact number of nucleons"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Consider the species ${}_{17}^{35}Cl$ and ${}_{17}^{37}Cl$. These species have:",
+      "options": {
+        "A": "The exact number of nucleons",
+        "B": "The exact number of protons",
+        "C": "The exact number of neutrons",
+        "D": "The exact mass number"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Atomic mass of an element is equal to",
+      "options": {
+        "A": "Mass of protons and neutrons",
+        "B": "Mass of protons and electrons",
+        "C": "Mass of electrons and neutrons",
+        "D": "Mass of protons only"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The maximum mass of an atom is concentrated in:",
+      "options": {
+        "A": "Nucleus",
+        "B": "Neutrons",
+        "C": "Protons",
+        "D": "Electrons"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Consider isotope ${}_{92}^{237}U$ of uranium. The number of neutrons in it is:",
+      "options": {
+        "A": "92",
+        "B": "237",
+        "C": "145",
+        "D": "329"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The symbol denotes the proton number is:",
+      "options": {
+        "A": "P",
+        "B": "A",
+        "C": "N",
+        "D": "Z"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of neutron(s) in Protium is:",
+      "options": {
+        "A": "No",
+        "B": "One",
+        "C": "Two",
+        "D": "Three"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In an atom, the nucleus when compared to the extra-nuclear part, is",
+      "options": {
+        "A": "More significant in volume and heavier in mass",
+        "B": "Smaller in volume but heavier in mass",
+        "C": "More significant in volume but lighter in mass",
+        "D": "Smaller in volume and lighter in mass"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If an element B has five protons and six neutrons what will be the symbol of element B",
+      "options": {
+        "A": "${}_{6}^{11}B$",
+        "B": "${}_{5}^{11}B$",
+        "C": "${}^{6}B^{11}$",
+        "D": "${}^{5}B^{11}$"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The $\\alpha$-radiation is",
+      "options": {
+        "A": "A stream of fast-moving electrons",
+        "B": "A form of electromagnetic radiation",
+        "C": "Highly ionizing than $\\gamma$-radiation",
+        "D": "More penetrating than $\\beta$-radiation"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A radioactive nuclide emits a $\\beta$-particle. The atomic number (proton number) of the nucleus",
+      "options": {
+        "A": "Stays the same",
+        "B": "Increases by 1",
+        "C": "Decreases by 2",
+        "D": "Decreases by 4"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A radioactive element emits a particle from the nucleus of one of its atoms. The particle comprises two protons and two neutrons. The name of this process is called",
+      "options": {
+        "A": "$\\alpha$-emission",
+        "B": "$\\beta$-emission",
+        "C": "$\\gamma$-emission",
+        "D": "Nuclear fission"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A radioactive decay can be represented as shown. ${}_{91}^{233}Pa \\rightarrow {}_{92}^{233}U + ......$ The emitted particle is a/an",
+      "options": {
+        "A": "Gamma-ray",
+        "B": "Proton",
+        "C": "$\\alpha$-particle",
+        "D": "$\\beta$-particle"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of radiation that travels in a straight line across an electric field is a/an",
+      "options": {
+        "A": "Proton",
+        "B": "Electron",
+        "C": "Alpha particle",
+        "D": "Gamma-ray"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A powder contains $100$ mg of a radioactive material that emits $\\alpha$-particles. The half-life of the isotope is five days. The mass of isotope that remains after ten days will be",
+      "options": {
+        "A": "$0$ mg",
+        "B": "$25$ mg",
+        "C": "$50$ mg",
+        "D": "$75$ mg"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The main source of energy in the stars is.",
+      "options": {
+        "A": "Chemical reaction",
+        "B": "Nuclear fission",
+        "C": "Nuclear fusion",
+        "D": "Mechanical energy"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The splitting of a heavy nucleus into smaller nuclei is called",
+      "options": {
+        "A": "Fusion",
+        "B": "Fission",
+        "C": "Half-life",
+        "D": "Gamma decay"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A process in which two light nuclei combine to form a heavier nucleus is called",
+      "options": {
+        "A": "Nuclear fusion",
+        "B": "Nuclear fission",
+        "C": "Beta-decay",
+        "D": "Alpha-decay"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which rows show the nature and the penetrating ability of $\\beta$-particles?",
+      "options": {
+        "A": "Helium nucleus, a few mm of aluminum",
+        "B": "Helium nucleus, a thin sheet of paper",
+        "C": "Electron, a few mm of aluminum",
+        "D": "Electron, a thin sheet of paper"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Compared with $\\alpha$-particles and $\\beta$-particles, $\\gamma$-rays,",
+      "options": {
+        "A": "Are a type of radiation to carry a charge",
+        "B": "Have the most significant ionizing effect",
+        "C": "Have the most significant penetrating effect",
+        "D": "Have the most negligible mass"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The severe health hazards caused by radioactive emissions is/are.",
+      "options": {
+        "A": "Cancer",
+        "B": "Genetic change",
+        "C": "Deep-sited burns",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Radioactive materials should be handled carefully. Which safety measure does not reduce the risk of using radioactive material?",
+      "options": {
+        "A": "Keeping the material a long distance",
+        "B": "Keeping the material at a low temperature",
+        "C": "Using lead screening",
+        "D": "Using the material for a short time"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A scientist experiments using a sealed source that emits $\\beta$-particles. The range of the $\\beta$-particles in the air is about $30$ cm. The precaution that is the most effective to protect the scientist from the radiation is,",
+      "options": {
+        "A": "Handling the source with long tongs",
+        "B": "Keeping the temperature of the source low",
+        "C": "Opening all windows in the laboratory",
+        "D": "Washing his hands before leaving the laboratory"
+      }
+    },
+    {
+      "chapter": "Nuclear Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The safest way to dispose of a large quantity of radioactive waste is,",
+      "options": {
+        "A": "Burying it in a dry rock deep underground",
+        "B": "Washing it in the drain",
+        "C": "Burning it on a fire",
+        "D": "Draining it into the sea"
+      }
+    }
+  ]
+}

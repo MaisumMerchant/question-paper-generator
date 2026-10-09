@@ -1,0 +1,916 @@
+{
+  "subject": "Computer Science",
+  "class": "X",
+  "questions": [
+    {
+      "chapter": "Problem Solving and Algorithm Designing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "To \"bake a cake\" is an example of:",
+      "options": {
+        "A": "problem",
+        "B": "strategy",
+        "C": "algorithm",
+        "D": "solution"
+      }
+    },
+    {
+      "chapter": "Problem Solving and Algorithm Designing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "To find a feasible solution to a problem, the first step is to:",
+      "options": {
+        "A": "establish starting point",
+        "B": "find available solutions",
+        "C": "create a strategy",
+        "D": "identify and analyze the problem"
+      }
+    },
+    {
+      "chapter": "Problem Solving and Algorithm Designing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Step by step solution of a problem in simple language is called:",
+      "options": {
+        "A": "Problem Solving",
+        "B": "Algorithm",
+        "C": "Flowchart",
+        "D": "Data Structure"
+      }
+    },
+    {
+      "chapter": "Problem Solving and Algorithm Designing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "______ shows the logic of program graphically.",
+      "options": {
+        "A": "Data Structure",
+        "B": "Graph",
+        "C": "Algorithm",
+        "D": "Flowchart"
+      }
+    },
+    {
+      "chapter": "Problem Solving and Algorithm Designing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "______ Symbol is used for input/output in flowchart.",
+      "options": {
+        "A": "Triangle",
+        "B": "Square",
+        "C": "Parallelogram",
+        "D": "Oval"
+      }
+    },
+    {
+      "chapter": "Problem Solving and Algorithm Designing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Elements of data structure are not connected sequentially.",
+      "options": {
+        "A": "Array",
+        "B": "Graph",
+        "C": "Queue",
+        "D": "Stack"
+      }
+    },
+    {
+      "chapter": "Problem Solving and Algorithm Designing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "______ stores data in hierarchal manner.",
+      "options": {
+        "A": "Stack",
+        "B": "Queue",
+        "C": "Array",
+        "D": "Tree"
+      }
+    },
+    {
+      "chapter": "Problem Solving and Algorithm Designing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "When that data is Pushed in stack, it means that data is:",
+      "options": {
+        "A": "inserted",
+        "B": "deleted",
+        "C": "sorted",
+        "D": "edited"
+      }
+    },
+    {
+      "chapter": "Problem Solving and Algorithm Designing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In binary tree, each child can have maximum:",
+      "options": {
+        "A": "one node",
+        "B": "two nodes",
+        "C": "three nodes",
+        "D": "four nodes"
+      }
+    },
+    {
+      "chapter": "Problem Solving and Algorithm Designing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Traversing an array means accessing:",
+      "options": {
+        "A": "first element",
+        "B": "last element",
+        "C": "any specific element",
+        "D": "each and every element of the array"
+      }
+    },
+    {
+      "chapter": "Basics of Programming in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A computer program is a collection of:",
+      "options": {
+        "A": "Tasks",
+        "B": "Instructions",
+        "C": "Computers",
+        "D": "Programmers"
+      }
+    },
+    {
+      "chapter": "Basics of Programming in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "High-level languages have syntax that is:",
+      "options": {
+        "A": "Easily readable by humans",
+        "B": "Easily readable by machines",
+        "C": "Easily readable by both",
+        "D": "None of the above"
+      }
+    },
+    {
+      "chapter": "Basics of Programming in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Low-level languages have syntax that is:",
+      "options": {
+        "A": "Easily readable by humans",
+        "B": "Easily readable by machines",
+        "C": "Easily readable by both",
+        "D": "None of the above"
+      }
+    },
+    {
+      "chapter": "Basics of Programming in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The primary characteristic of a compiler is to:",
+      "options": {
+        "A": "Translate codes line-by-line",
+        "B": "Translate low-level code to machine language",
+        "C": "Detect logical errors",
+        "D": "Translate codes all at once"
+      }
+    },
+    {
+      "chapter": "Basics of Programming in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The primary characteristic of an interpreter is to:",
+      "options": {
+        "A": "Translate codes line-by-line",
+        "B": "Translate low-level code to machine language",
+        "C": "Detect logical errors",
+        "D": "Translate codes all at once"
+      }
+    },
+    {
+      "chapter": "Basics of Programming in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An Integrated Development Environment facilitates a programmer to:",
+      "options": {
+        "A": "Edit source code",
+        "B": "Complete and highlight syntaxes",
+        "C": "Debug and compile codes",
+        "D": "All of the above"
+      }
+    },
+    {
+      "chapter": "Basics of Programming in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "All errors, detected by users are typically:",
+      "options": {
+        "A": "Syntax Errors",
+        "B": "Semantic Errors",
+        "C": "Run-Time Errors",
+        "D": "Logical Errors"
+      }
+    },
+    {
+      "chapter": "Basics of Programming in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Allowed names for declaring a variable:",
+      "options": {
+        "A": "Can contain whitespaces",
+        "B": "Can be one of the reserved words",
+        "C": "Can contain letters, digits and underscores",
+        "D": "Can be the same as its data type"
+      }
+    },
+    {
+      "chapter": "Basics of Programming in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A bool data can store following type of value:",
+      "options": {
+        "A": "Numbers",
+        "B": "Strings",
+        "C": "Fractional numbers",
+        "D": "True or false"
+      }
+    },
+    {
+      "chapter": "Basics of Programming in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which data type occupies the most space in memory?",
+      "options": {
+        "A": "Character",
+        "B": "Integer",
+        "C": "Floating point",
+        "D": "Double floating point"
+      }
+    },
+    {
+      "chapter": "Input/Output Handling in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The C++ header file ______ contains function prototype for the standard Input and Output functions.",
+      "options": {
+        "A": "<iostream.h>",
+        "B": "<iostream>",
+        "C": "<fstream.h>",
+        "D": "<cstdio.h>"
+      }
+    },
+    {
+      "chapter": "Input/Output Handling in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which operator is used for input stream?",
+      "options": {
+        "A": ">",
+        "B": "<<",
+        "C": ">>",
+        "D": "<"
+      }
+    },
+    {
+      "chapter": "Input/Output Handling in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "gets stands for ______.",
+      "options": {
+        "A": "get stream",
+        "B": "get string",
+        "C": "get str",
+        "D": "get std."
+      }
+    },
+    {
+      "chapter": "Input/Output Handling in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "getch() and getche() are included in ______ header file.",
+      "options": {
+        "A": "<cstdio.h>",
+        "B": "<conio.h>",
+        "C": "<stdlib.h>",
+        "D": "<stdio.h>"
+      }
+    },
+    {
+      "chapter": "Input/Output Handling in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which operator is used for logical AND operation?",
+      "options": {
+        "A": "&",
+        "B": "&&",
+        "C": "||",
+        "D": "!"
+      }
+    },
+    {
+      "chapter": "Input/Output Handling in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following operator is correct to compare two values of variables?",
+      "options": {
+        "A": "=",
+        "B": "<=",
+        "C": "==",
+        "D": "both b and c"
+      }
+    },
+    {
+      "chapter": "Input/Output Handling in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following needs pressing Enter Key from the keyboard?",
+      "options": {
+        "A": "getch()",
+        "B": "getche()",
+        "C": "getchar()",
+        "D": "gets()"
+      }
+    },
+    {
+      "chapter": "Input/Output Handling in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "!= operator belong to which type of operator.",
+      "options": {
+        "A": "Relational",
+        "B": "Logical",
+        "C": "Arithmetic",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Input/Output Handling in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which operator add the first operand to the second operand and gives the result to first operand.",
+      "options": {
+        "A": "*=",
+        "B": "+=",
+        "C": "++",
+        "D": "+"
+      }
+    },
+    {
+      "chapter": "Input/Output Handling in C++",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "cout << $12 - 6/2$; What will be the result on screen?",
+      "options": {
+        "A": "3",
+        "B": "9",
+        "C": "6",
+        "D": "12"
+      }
+    },
+    {
+      "chapter": "Control Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Loop within a loop is called ______ loop.",
+      "options": {
+        "A": "inner",
+        "B": "outer",
+        "C": "enclosed",
+        "D": "nested"
+      }
+    },
+    {
+      "chapter": "Control Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "\"case\" and ______ are also part of \"switch\" statement.",
+      "options": {
+        "A": "have",
+        "B": "default",
+        "C": "for",
+        "D": "if"
+      }
+    },
+    {
+      "chapter": "Control Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "\"for\" Loop expression has ______ parts.",
+      "options": {
+        "A": "one",
+        "B": "two",
+        "C": "three",
+        "D": "four"
+      }
+    },
+    {
+      "chapter": "Control Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "exit() function is used to ______.",
+      "options": {
+        "A": "close function",
+        "B": "close loop",
+        "C": "close program",
+        "D": "close switch"
+      }
+    },
+    {
+      "chapter": "Control Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "\"continue\" statement takes control to the:",
+      "options": {
+        "A": "top of loop",
+        "B": "end of loop",
+        "C": "top of function",
+        "D": "end of function"
+      }
+    },
+    {
+      "chapter": "Control Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In \"goto\" statement label is followed by ______ character.",
+      "options": {
+        "A": "colon (:)",
+        "B": "semi colon (;)",
+        "C": "single quote (')",
+        "D": "double quote (\")"
+      }
+    },
+    {
+      "chapter": "Control Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "To send value to the calling function we use ______ statement.",
+      "options": {
+        "A": "throw",
+        "B": "return",
+        "C": "send",
+        "D": "back"
+      }
+    },
+    {
+      "chapter": "Control Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "\"break\" statement is used with:",
+      "options": {
+        "A": "if",
+        "B": "switch",
+        "C": "for",
+        "D": "while"
+      }
+    },
+    {
+      "chapter": "Control Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Using \"else\" is ______ with \"if\" statement.",
+      "options": {
+        "A": "prohibited",
+        "B": "advised",
+        "C": "compulsory",
+        "D": "optional"
+      }
+    },
+    {
+      "chapter": "Control Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "\"if\" and loop expressions use ______ operators to test condition.",
+      "options": {
+        "A": "arithmetic",
+        "B": "relational",
+        "C": "insertion",
+        "D": "bitwise"
+      }
+    },
+    {
+      "chapter": "Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The functions that are defined by the programmer are called:",
+      "options": {
+        "A": "Built-In function",
+        "B": "User-defined-function",
+        "C": "Subfunction",
+        "D": "Function"
+      }
+    },
+    {
+      "chapter": "Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A programmer creates a function for a particular task and the programmer wants to include that function in program. Which extension is required to save that function?",
+      "options": {
+        "A": ".obj",
+        "B": ".h",
+        "C": ".cpp",
+        "D": ".exe"
+      }
+    },
+    {
+      "chapter": "Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In C++, int main() returns which datatype value by default?",
+      "options": {
+        "A": "float",
+        "B": "int",
+        "C": "char",
+        "D": "double"
+      }
+    },
+    {
+      "chapter": "Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The parameters specified in the function header are called:",
+      "options": {
+        "A": "formal parameters",
+        "B": "actual parameters",
+        "C": "default parameters",
+        "D": "command line parameters"
+      }
+    },
+    {
+      "chapter": "Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The word \"prototype\" means:",
+      "options": {
+        "A": "Declaration",
+        "B": "Calling",
+        "C": "Definition",
+        "D": "Both a & b"
+      }
+    },
+    {
+      "chapter": "Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The function prototype consists of:",
+      "options": {
+        "A": "Name of function",
+        "B": "the parameters are passed to the function",
+        "C": "The value return from function",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "All variables declared in function definition are called:",
+      "options": {
+        "A": "Local variable",
+        "B": "Instance variable",
+        "C": "Global variable",
+        "D": "Static variable"
+      }
+    },
+    {
+      "chapter": "Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which are not the built-In function?",
+      "options": {
+        "A": "sqrt()",
+        "B": "time()",
+        "C": "exp()",
+        "D": "sin()"
+      }
+    },
+    {
+      "chapter": "Digital Logic and Design",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The universal gate is ______.",
+      "options": {
+        "A": "NAND Gate",
+        "B": "AND Gate",
+        "C": "OR Gate",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Digital Logic and Design",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The ______ is Inverter.",
+      "options": {
+        "A": "AND",
+        "B": "OR Gate",
+        "C": "NOT",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Digital Logic and Design",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In Boolean Algebra, the bar sign (-) indicates ______.",
+      "options": {
+        "A": "OR Operation",
+        "B": "NOR Operation",
+        "C": "NOT Operation",
+        "D": "Both b and c"
+      }
+    },
+    {
+      "chapter": "Digital Logic and Design",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Boolean Algebra is used for ______.",
+      "options": {
+        "A": "Creating Circuits",
+        "B": "Apply 12 rules of Boolean",
+        "C": "Simplify the Boolean expression",
+        "D": "Differentiate the gates"
+      }
+    },
+    {
+      "chapter": "Digital Logic and Design",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "With the combination of three variables, how many outputs are expected altogether?",
+      "options": {
+        "A": "Three",
+        "B": "Six",
+        "C": "Eight",
+        "D": "Nine"
+      }
+    },
+    {
+      "chapter": "Digital Logic and Design",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$A + A = A$ is a ______ rule of Boolean Algebra.",
+      "options": {
+        "A": "3rd",
+        "B": "6th",
+        "C": "5th",
+        "D": "7th"
+      }
+    },
+    {
+      "chapter": "Digital Logic and Design",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$A \\cdot \\bar{A} = 0$ is a ______ rule of Boolean Algebra.",
+      "options": {
+        "A": "1st",
+        "B": "8th",
+        "C": "6th",
+        "D": "10th"
+      }
+    },
+    {
+      "chapter": "Digital Logic and Design",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Simply form of Boolean expression of $ABC + \\bar{A}BC + \\bar{A}\\bar{B}C$ is ______.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "B"
+      }
+    },
+    {
+      "chapter": "Digital Logic and Design",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Simplify form of Boolean expression of $ABC + \\bar{A}BC$ is ______.",
+      "options": {
+        "A": "AC",
+        "B": "BC",
+        "C": "B",
+        "D": "A"
+      }
+    },
+    {
+      "chapter": "Introduction to Scratch",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The feature of Scratch is ______.",
+      "options": {
+        "A": "It is a visual",
+        "B": "Its free forever",
+        "C": "No need to remember codes",
+        "D": "All of above"
+      }
+    },
+    {
+      "chapter": "Introduction to Scratch",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In Scratch, the character which moves on the Stage is called a:",
+      "options": {
+        "A": "Sprite",
+        "B": "Command",
+        "C": "Script",
+        "D": "Event"
+      }
+    },
+    {
+      "chapter": "Introduction to Scratch",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Repeat 10, forever and if ... then codes are available in ______.",
+      "options": {
+        "A": "Motion",
+        "B": "Control",
+        "C": "Look",
+        "D": "Sensing"
+      }
+    },
+    {
+      "chapter": "Introduction to Scratch",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Looks of Sprite can be changed by using ______.",
+      "options": {
+        "A": "Backdrop Tab",
+        "B": "Costume Tab",
+        "C": "Script Tab",
+        "D": "Control Tab"
+      }
+    },
+    {
+      "chapter": "Introduction to Scratch",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A Scratch Program is at last made up with ______.",
+      "options": {
+        "A": "Many Sprites",
+        "B": "One Sprite and Code",
+        "C": "One Sprite",
+        "D": "One Sprite and Backdrop"
+      }
+    },
+    {
+      "chapter": "Introduction to Scratch",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "To change the position of Sprite on screen, we use ______.",
+      "options": {
+        "A": "Coordinates",
+        "B": "Stage Information",
+        "C": "Command Pallets",
+        "D": "Costume Tab"
+      }
+    },
+    {
+      "chapter": "Introduction to Scratch",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The \"move 10 steps\" command is available in ______.",
+      "options": {
+        "A": "Look",
+        "B": "Motion",
+        "C": "Sound",
+        "D": "Control"
+      }
+    },
+    {
+      "chapter": "Introduction to Scratch",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Turn command, turns Sprite to specified:",
+      "options": {
+        "A": "Coordinate",
+        "B": "Steps",
+        "C": "Degree",
+        "D": "Seconds"
+      }
+    }
+  ]
+}

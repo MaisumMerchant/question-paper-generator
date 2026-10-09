@@ -1,0 +1,1356 @@
+{
+  "subject": "Physics",
+  "class": "IX",
+  "questions": [
+    {
+      "chapter": "Physical Quantities and Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Figure (1.26) shows part of a Vernier scale, what is the reading on the Vernier scale:",
+      "options": {
+        "A": "6.50 cm",
+        "B": "6.55 cm",
+        "C": "7.00 cm",
+        "D": "7.45 cm"
+      }
+    },
+    {
+      "chapter": "Physical Quantities and Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ten identical steel balls each of mass 27g, are immersed in a measuring cylinder having $20\\ cm^3$ of water. The reading of water level rises to $50\\ cm^3$. What is the density of the steel?",
+      "options": {
+        "A": "$0.90\\ gm/cm^3$",
+        "B": "$8.1\\ gm/cm^3$",
+        "C": "$9.0\\ gm/cm^3$",
+        "D": "$13.5\\ gm/cm^3$"
+      }
+    },
+    {
+      "chapter": "Physical Quantities and Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An object of mass 100g is immersed in water as shown in the figure (1.27), what is the density of the material from which object is made?",
+      "options": {
+        "A": "$0.4\\ gcm^{-3}$",
+        "B": "$0.9\\ gcm^{-3}$",
+        "C": "$1.1\\ gcm^{-3}$",
+        "D": "$2.5\\ gcm^{-3}$"
+      }
+    },
+    {
+      "chapter": "Physical Quantities and Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the reading of this micrometer in figure (1.28)?",
+      "options": {
+        "A": "$5.43\\ mm$",
+        "B": "$6.63\\ mm$",
+        "C": "$7.30\\ mm$",
+        "D": "$8.13\\ mm$"
+      }
+    },
+    {
+      "chapter": "Physical Quantities and Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A chips wrapper is 4.5 cm long and 5.9 cm wide. Its area upto significant figures will be",
+      "options": {
+        "A": "$30\\ cm^2$",
+        "B": "$28\\ cm^2$",
+        "C": "$26.55\\ cm^2$",
+        "D": "$32\\ cm^2$"
+      }
+    },
+    {
+      "chapter": "Physical Quantities and Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A worldwide system of measurements in which the units of base quantities were introduced is called:",
+      "options": {
+        "A": "prefixes",
+        "B": "international system of units",
+        "C": "hexadecimal system",
+        "D": "none of above"
+      }
+    },
+    {
+      "chapter": "Physical Quantities and Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "All accurately known digits and first doubtful digit in an expression are known as:",
+      "options": {
+        "A": "non-significant figures",
+        "B": "significant figures",
+        "C": "estimated figures",
+        "D": "crossed figures"
+      }
+    },
+    {
+      "chapter": "Physical Quantities and Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If zero line of Vernier scale coincides with zero of main scale, then zero error is:",
+      "options": {
+        "A": "positive",
+        "B": "zero",
+        "C": "negative",
+        "D": "one"
+      }
+    },
+    {
+      "chapter": "Physical Quantities and Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "zero error of the instrument is:",
+      "options": {
+        "A": "systematic error",
+        "B": "human error",
+        "C": "random error",
+        "D": "classified error"
+      }
+    },
+    {
+      "chapter": "Physical Quantities and Measurement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Length, mass, electric current, time, intensity of light and amount of substance are examples of:",
+      "options": {
+        "A": "base quantities",
+        "B": "derived quantities",
+        "C": "prefixes",
+        "D": "fundamental quantities"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Scalar Quantities have ............. and suitable unit.",
+      "options": {
+        "A": "magnitude",
+        "B": "direction",
+        "C": "both (a) and (b)"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Vector quantities have ............. along with magnitude and unit.",
+      "options": {
+        "A": "Magnitude",
+        "B": "direction",
+        "C": "both (a) and (b)"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one is a vector quantity .............",
+      "options": {
+        "A": "Mass",
+        "B": "Weight",
+        "C": "time"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one is a scalar Quantity.............",
+      "options": {
+        "A": "time",
+        "B": "Force",
+        "C": "Velocity"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Distance is a ............. quantity.",
+      "options": {
+        "A": "Vector",
+        "B": "Scalar",
+        "C": "both (a) and (b)"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is SI unit of acceleration",
+      "options": {
+        "A": "$ms^{-1}$",
+        "B": "$ms^{-2}$",
+        "C": "Nm"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is a SI Unit of Velocity..............",
+      "options": {
+        "A": "Nm",
+        "B": "$ms^{-1}$",
+        "C": "$ms^{-2}$"
+      }
+    },
+    {
+      "chapter": "Kinematics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Shortest distance between two points is called",
+      "options": {
+        "A": "distance",
+        "B": "speed",
+        "C": "displacement"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Newton's First law of motion is also known as law of",
+      "options": {
+        "A": "speed",
+        "B": "rest",
+        "C": "inertia",
+        "D": "force"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Quantity of matter contained in body is called.",
+      "options": {
+        "A": "mass",
+        "B": "volume",
+        "C": "area",
+        "D": "weight"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Quantity of motion contained in a body is called",
+      "options": {
+        "A": "force",
+        "B": "inertia",
+        "C": "momentum",
+        "D": "gravity"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Law of conservation of momentum defines that the total momentum of a system of two bodies before and after collision.",
+      "options": {
+        "A": "remains constant",
+        "B": "retains more momentum",
+        "C": "losses some momentum",
+        "D": "None of above is true"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Weight of a body can be measured using a spring balance, it differs from place to place because of variation in ----------.",
+      "options": {
+        "A": "acceleration",
+        "B": "gravitational pull",
+        "C": "velocity",
+        "D": "size of spring balance"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "It is easier to push an empty shopping cart than a full one, because the filled cart has more mass than the empty one. This can be expressed by",
+      "options": {
+        "A": "$F > m$",
+        "B": "$F < m$",
+        "C": "$F \\propto 1/m$",
+        "D": "$F \\propto m$"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Centrifugal force is always directed:",
+      "options": {
+        "A": "towards centre",
+        "B": "away from centre",
+        "C": "along the circular path",
+        "D": "all sides"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Friction opposes motion between two bodies in contact because of:",
+      "options": {
+        "A": "charges on bodies",
+        "B": "weight of bodies",
+        "C": "roughness of surfaces",
+        "D": "None of above"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which statement is true for limiting frictional force.",
+      "options": {
+        "A": "it is greater than rolling friction",
+        "B": "it is greater than sliding friction",
+        "C": "it is greater than kinetic friction",
+        "D": "all are true"
+      }
+    },
+    {
+      "chapter": "Dynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A man pulls a crate of mass 25 kg across leveled ground with a horizontal force of 60 N. A constant force of friction of 20 N acts on the sledge. What is the acceleration of the sledge?",
+      "options": {
+        "A": "$0.63\\ ms^{-2}$",
+        "B": "$1.6\\ ms^{-2}$",
+        "C": "$2.4\\ ms^{-2}$",
+        "D": "$3.2\\ ms^{-2}$"
+      }
+    },
+    {
+      "chapter": "Turning Effect of Forces",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A pair of unlike parallel forces having different lines force produce----------.",
+      "options": {
+        "A": "equilibrium",
+        "B": "torque",
+        "C": "a couple",
+        "D": "unstable equilibrium"
+      }
+    },
+    {
+      "chapter": "Turning Effect of Forces",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Head-to-tail rule can be used to add------------ forces.",
+      "options": {
+        "A": "two",
+        "B": "three",
+        "C": "five",
+        "D": "any number of"
+      }
+    },
+    {
+      "chapter": "Turning Effect of Forces",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A force of 15 N makes an angle of $60^\\circ$ with horizontal. Its vertical component will be:",
+      "options": {
+        "A": "15 N",
+        "B": "10 N",
+        "C": "13 N",
+        "D": "7 N"
+      }
+    },
+    {
+      "chapter": "Turning Effect of Forces",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A body is in equilibrium when it has",
+      "options": {
+        "A": "uniform speed",
+        "B": "uniform acceleration",
+        "C": "both (a) and (b)",
+        "D": "zero acceleration"
+      }
+    },
+    {
+      "chapter": "Turning Effect of Forces",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A body is in stable equilibrium after slight tilt if its Centre of gravity",
+      "options": {
+        "A": "remains above the point of contact",
+        "B": "remains on one side of point of contact",
+        "C": "passes over the point of contact",
+        "D": "is at lowest position"
+      }
+    },
+    {
+      "chapter": "Turning Effect of Forces",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A body is in unstable equilibrium after slight tilt if its center of gravity",
+      "options": {
+        "A": "remains on one side of the point of contact",
+        "B": "remains above the point of contact",
+        "C": "passes over the point of contact",
+        "D": "is positioned at its bottom"
+      }
+    },
+    {
+      "chapter": "Turning Effect of Forces",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A body is in neutral equilibrium when its Centre of gravity",
+      "options": {
+        "A": "Is at the lowest position",
+        "B": "Remains at same height",
+        "C": "Is at highest position",
+        "D": "Is at its base"
+      }
+    },
+    {
+      "chapter": "Turning Effect of Forces",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Bunsen burner is made stable by",
+      "options": {
+        "A": "Increasing its length",
+        "B": "Increasing its mass",
+        "C": "Decreasing its base area",
+        "D": "Increasing its base area"
+      }
+    },
+    {
+      "chapter": "Turning Effect of Forces",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A tight rope walker carries a long pole to",
+      "options": {
+        "A": "Increase his weight",
+        "B": "Raise his Centre of gravity",
+        "C": "Lower his Centre of gravity",
+        "D": "Keep his Centre of gravity in fixed position"
+      }
+    },
+    {
+      "chapter": "Turning Effect of Forces",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Stability of a racing car is increased by",
+      "options": {
+        "A": "Increasing its height",
+        "B": "Raising its Centre of gravity",
+        "C": "Decreasing its width",
+        "D": "Lowering its Centre of gravity"
+      }
+    },
+    {
+      "chapter": "Forces and Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The springs in brakes and clutches are used",
+      "options": {
+        "A": "To restore original position",
+        "B": "To measure forces",
+        "C": "To absorb shocks",
+        "D": "To absorb strain energy"
+      }
+    },
+    {
+      "chapter": "Forces and Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the material recovers the original dimensions, when an external force is removed, this deformation is known as ---------- deformation.",
+      "options": {
+        "A": "Inelastic",
+        "B": "Permanent",
+        "C": "Elastic",
+        "D": "Irreversible"
+      }
+    },
+    {
+      "chapter": "Forces and Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following material is more elastic?",
+      "options": {
+        "A": "Rubber",
+        "B": "Glass",
+        "C": "Steel",
+        "D": "Wood"
+      }
+    },
+    {
+      "chapter": "Forces and Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If a spring stretches easily then its spring constant has ----------.",
+      "options": {
+        "A": "Large value",
+        "B": "Small value",
+        "C": "Constant Value",
+        "D": "Both (a) and (b)"
+      }
+    },
+    {
+      "chapter": "Forces and Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the unit for the spring constant?",
+      "options": {
+        "A": "Nm",
+        "B": "$Nm^{-2}$",
+        "C": "$Nm^{-3}$",
+        "D": "$Nm^{2}$"
+      }
+    },
+    {
+      "chapter": "Forces and Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The spring obeys Hooke's law for the earlier extensions and when the spring becomes damaged it does not appear to do so; Fig 5.12. Estimate, from graph, after addition of which weight the spring damaged.",
+      "options": {
+        "A": "15 N",
+        "B": "8 N",
+        "C": "1.6 N",
+        "D": "2.0 N"
+      }
+    },
+    {
+      "chapter": "Forces and Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is not a unit of pressure?",
+      "options": {
+        "A": "Pascal",
+        "B": "Bar",
+        "C": "Atmosphere",
+        "D": "Newton"
+      }
+    },
+    {
+      "chapter": "Forces and Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If a metal block applies a force of 20 N on an area of $5\\ cm^2$, Find the pressure being applied by the block on the area of ----------.",
+      "options": {
+        "A": "$100\\ Ncm^{-2}$",
+        "B": "$0.8\\ Ncm^{-2}$",
+        "C": "$0.25\\ Ncm^{-2}$",
+        "D": "$4\\ Ncm^{-2}$"
+      }
+    },
+    {
+      "chapter": "Forces and Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Fig (5.13) shows a container with three spouts. The container is filled with water. Jets of water pour out of the spouts. Why does the jet of water from the bottom spout goes farthest out from the container?",
+      "options": {
+        "A": "Pressure decreases with depth.",
+        "B": "Pressure increases with depth.",
+        "C": "More water available to flow out from the bottom.",
+        "D": "Density of water different at different places."
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The motion of a falling ball towards Earth is due to the ---------.",
+      "options": {
+        "A": "Weightlessness",
+        "B": "Gravitational force",
+        "C": "Acceleration due to gravity",
+        "D": "Both 'a' and 'b'"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Newton's law of gravitation holds between every two objects on the -----------.",
+      "options": {
+        "A": "on Earth",
+        "B": "on Jupiter",
+        "C": "on Moon",
+        "D": "on Universe"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Numerical value of G is -------------.",
+      "options": {
+        "A": "$G = 6.673 \\times 10^{-11}\\ Nm^2 kg^{-2}$",
+        "B": "$G = 6.673 \\times 10^{-10}\\ Nm^2 kg^{-2}$",
+        "C": "$G = 6.763 \\times 10^{-10}\\ Nm^2 kg^{-2}$",
+        "D": "$G = 6.763 \\times 10^{-12}\\ Nm^2 kg^{-2}$"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Gravitational field of Earth is directed --------------.",
+      "options": {
+        "A": "towards the Earth",
+        "B": "towards the Sun",
+        "C": "towards the Moon",
+        "D": "away from Earth"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "----------------- was the first scientist who gave the concept of gravitation.",
+      "options": {
+        "A": "Einstein",
+        "B": "Newton",
+        "C": "Faraday",
+        "D": "Maxwell"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "According to Newton's law of universal gravitation force (F) $\\propto$ --------------.",
+      "options": {
+        "A": "$m_1 m_2$",
+        "B": "$\\frac{1}{r^2}$",
+        "C": "r",
+        "D": "Both (a) and (b)"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Gravitational force is always -------------.",
+      "options": {
+        "A": "Repulsive",
+        "B": "Attractive",
+        "C": "Both a and b",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Numerical value of ------------- remains constant everywhere.",
+      "options": {
+        "A": "g",
+        "B": "G",
+        "C": "F",
+        "D": "W"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Gravitation force is ------------- of the medium between the objects.",
+      "options": {
+        "A": "Dependent",
+        "B": "Independent",
+        "C": "Both 'a' and 'b'",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Near Earth's surface (g) = -------------.",
+      "options": {
+        "A": "$10\\ ms^{-2}$",
+        "B": "$1.6\\ ms^{-2}$",
+        "C": "Both (a) and (b)",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Newton's law of gravitation is consistent with Newton's ------------------ law of motion.",
+      "options": {
+        "A": "1st",
+        "B": "2nd",
+        "C": "3rd",
+        "D": "All of them"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Spring balance is used to measure ---------------.",
+      "options": {
+        "A": "Mass",
+        "B": "Weight",
+        "C": "Elasticity",
+        "D": "Density"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Your weight as measured on Earth will be --------- on Moon.",
+      "options": {
+        "A": "Increased",
+        "B": "Decreased",
+        "C": "Remains same",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Mass of Earth is ----------------.",
+      "options": {
+        "A": "$6.0 \\times 10^{22}\\ kg$",
+        "B": "$6.0 \\times 10^{24}\\ kg$",
+        "C": "$6.0 \\times 10^{25}\\ kg$",
+        "D": "$6.0 \\times 10^{20}\\ kg$"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "------------- is a natural satellite.",
+      "options": {
+        "A": "Earth",
+        "B": "Jupiter",
+        "C": "Moon",
+        "D": "Mars"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A communication satellite completes its one revolution around the Earth in --------------- hours.",
+      "options": {
+        "A": "6",
+        "B": "12",
+        "C": "18",
+        "D": "24"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The velocity of a satellite is ------------- of its mass.",
+      "options": {
+        "A": "Independent",
+        "B": "Dependent",
+        "C": "Equal",
+        "D": "Double"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "----------------- are used to put satellites into orbits.",
+      "options": {
+        "A": "Helicopter",
+        "B": "Aeroplane",
+        "C": "Rocket",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Gravitation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The critical velocity ($v_c$) = --------------.",
+      "options": {
+        "A": "$gR$",
+        "B": "$\\frac{g}{R}$",
+        "C": "$\\sqrt{gR}$",
+        "D": "$\\sqrt{\\frac{g}{R}}$"
+      }
+    },
+    {
+      "chapter": "Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An object with particles close together and vibrating describes a ______.",
+      "options": {
+        "A": "Gas",
+        "B": "Liquid",
+        "C": "Solid",
+        "D": "All three"
+      }
+    },
+    {
+      "chapter": "Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A burning candle is an example of --------- state of matter.",
+      "options": {
+        "A": "Gas",
+        "B": "Liquid",
+        "C": "Solid",
+        "D": "All three"
+      }
+    },
+    {
+      "chapter": "Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "During which process a gas becomes a liquid",
+      "options": {
+        "A": "Melting",
+        "B": "Freezing",
+        "C": "Condensing",
+        "D": "Boiling"
+      }
+    },
+    {
+      "chapter": "Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A solid can",
+      "options": {
+        "A": "have a fixed shape",
+        "B": "be easily compressed",
+        "C": "take a shape of container",
+        "D": "have freely moving molecules (KMT)"
+      }
+    },
+    {
+      "chapter": "Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "According to kinetic molecular theory, the pressure exerted by a gas is caused by the",
+      "options": {
+        "A": "bombardment of the gas molecules on the walls of the container.",
+        "B": "collision between gas molecules.",
+        "C": "large distances between gas molecules.",
+        "D": "random motion of the gas molecules."
+      }
+    },
+    {
+      "chapter": "Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If a gas is heated in a sealed cylinder, then, ---------- increases.",
+      "options": {
+        "A": "pressure inside the container",
+        "B": "average kinetic energy of the particles",
+        "C": "temperature of the gas",
+        "D": "All of them"
+      }
+    },
+    {
+      "chapter": "Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A gas in a container of fixed volume is heated. What happens to the molecules of the gas?",
+      "options": {
+        "A": "They collide less frequently.",
+        "B": "They expand.",
+        "C": "They move faster.",
+        "D": "They move further apart."
+      }
+    },
+    {
+      "chapter": "Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a liquid, some energetic molecules break free from the surface even when the liquid is too cold for bubbles to form. What is the name of this process?",
+      "options": {
+        "A": "boiling",
+        "B": "condensation",
+        "C": "convection",
+        "D": "evaporation"
+      }
+    },
+    {
+      "chapter": "Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What happens to the molecules of a gas when the gas changes into a liquid?",
+      "options": {
+        "A": "They move closer and lose energy.",
+        "B": "They move closer and gain energy.",
+        "C": "They move apart and lose energy.",
+        "D": "They move apart and gain energy"
+      }
+    },
+    {
+      "chapter": "Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A substance has a melting point of $-17^\\circ C$ and a boiling point of $117^\\circ C$. In which state does the substance exist at $-10^\\circ C$ and at $110^\\circ C$?",
+      "options": {
+        "A": "Solid at $-10^\\circ C$, liquid at $110^\\circ C$",
+        "B": "Solid at $-10^\\circ C$, gas at $110^\\circ C$",
+        "C": "Liquid at $-10^\\circ C$, liquid at $110^\\circ C$",
+        "D": "Liquid at $-10^\\circ C$, gas at $110^\\circ C$"
+      }
+    },
+    {
+      "chapter": "Energy Sources and Transfer of Energy",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If force of 6N displaces an object 2m in the direction of force, then work done will be",
+      "options": {
+        "A": "0 Joule",
+        "B": "12 Joule",
+        "C": "3 Joule",
+        "D": "12 N"
+      }
+    },
+    {
+      "chapter": "Energy Sources and Transfer of Energy",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If a body of mass 1 kg is moving with velocity of 1m/sec then K.E of the body will be.",
+      "options": {
+        "A": "10 Joules",
+        "B": "0.5 Joules",
+        "C": "2 Joules",
+        "D": "1 Joule"
+      }
+    },
+    {
+      "chapter": "Energy Sources and Transfer of Energy",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If a machine performs 20J of work in 10sec then its power is ----------.",
+      "options": {
+        "A": "200 watt",
+        "B": "20 watt",
+        "C": "2 watt",
+        "D": "0.2 watt"
+      }
+    },
+    {
+      "chapter": "Energy Sources and Transfer of Energy",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A body of mass 1kg is lifted through a height of 1m. The energy possessed in the body will be. (consider $g = 10\\ ms^{-2}$)",
+      "options": {
+        "A": "1 J",
+        "B": "10 Joule",
+        "C": "100 Joule",
+        "D": "1000 Joule"
+      }
+    },
+    {
+      "chapter": "Energy Sources and Transfer of Energy",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The energy released during fission or fusion reaction is called ----------.",
+      "options": {
+        "A": "Solar energy",
+        "B": "Geothermal energy",
+        "C": "Tidal energy",
+        "D": "Nuclear energy"
+      }
+    },
+    {
+      "chapter": "Energy Sources and Transfer of Energy",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which is the renewable source of energy",
+      "options": {
+        "A": "Solar and wind",
+        "B": "Coal",
+        "C": "Natural gas",
+        "D": "Petroleum"
+      }
+    },
+    {
+      "chapter": "Energy Sources and Transfer of Energy",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The ratio of output to input is called",
+      "options": {
+        "A": "Energy",
+        "B": "Work",
+        "C": "Power",
+        "D": "Efficiency"
+      }
+    },
+    {
+      "chapter": "Energy Sources and Transfer of Energy",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Work done per unit time is called ----------.",
+      "options": {
+        "A": "Efficiency",
+        "B": "Energy",
+        "C": "Power",
+        "D": "Force"
+      }
+    },
+    {
+      "chapter": "Energy Sources and Transfer of Energy",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Coal, gas and oil are all examples of.",
+      "options": {
+        "A": "Tidal energy",
+        "B": "Nuclear energy",
+        "C": "Fossil fuel energy",
+        "D": "Biomass energy"
+      }
+    },
+    {
+      "chapter": "Energy Sources and Transfer of Energy",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "---------- is not a renewable source of energy.",
+      "options": {
+        "A": "Solar energy",
+        "B": "Coal",
+        "C": "Wind energy",
+        "D": "Geothermal energy"
+      }
+    },
+    {
+      "chapter": "Thermal Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Heat is the form of",
+      "options": {
+        "A": "Pressure",
+        "B": "Weight",
+        "C": "Energy",
+        "D": "All"
+      }
+    },
+    {
+      "chapter": "Thermal Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Heat capacity is the product of mass and",
+      "options": {
+        "A": "Boiling point",
+        "B": "Freezing point",
+        "C": "Energy",
+        "D": "Specific heat of material"
+      }
+    },
+    {
+      "chapter": "Thermal Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The amount of heat needed to convert a substance from liquid to gas is called",
+      "options": {
+        "A": "Heat of Vaporization",
+        "B": "Specific heat",
+        "C": "latent heat of fusion",
+        "D": "All"
+      }
+    },
+    {
+      "chapter": "Thermal Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Thermal energy transfer required per unit mass to increase the temperature by $1^\\circ C$ or 1 K is called ----------.",
+      "options": {
+        "A": "Latent heat of Vaporization",
+        "B": "Specific heat capacity",
+        "C": "Latent heat of fusion",
+        "D": "Thermal capacity"
+      }
+    },
+    {
+      "chapter": "Thermal Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A fixed temperature at which a pure liquid boils is called.",
+      "options": {
+        "A": "melting point",
+        "B": "freezing point",
+        "C": "boiling point",
+        "D": "Both (a) and (b)."
+      }
+    },
+    {
+      "chapter": "Thermal Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The melting point of ice at normal atmospheric pressure is ----------.",
+      "options": {
+        "A": "$0^\\circ C$",
+        "B": "0 K",
+        "C": "$100^\\circ C$",
+        "D": "Both (a) and (b)"
+      }
+    },
+    {
+      "chapter": "Thermal Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Thermal energy transfer required to change a solid into liquid without changing its temperature is called",
+      "options": {
+        "A": "Latent heat of fusion",
+        "B": "latent heat of vaporization",
+        "C": "latent heat of boiling",
+        "D": "specific heat capacity"
+      }
+    },
+    {
+      "chapter": "Thermal Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Thermal energy transfer required to change a liquid into gas without changing its temperature is called",
+      "options": {
+        "A": "latent heat of freezing",
+        "B": "latent heat of vaporization",
+        "C": "latent heat of boiling",
+        "D": "latent heat of melting"
+      }
+    },
+    {
+      "chapter": "Thermal Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Evaporation can occur at",
+      "options": {
+        "A": "freezing point",
+        "B": "melting point",
+        "C": "boiling point",
+        "D": "all temperatures"
+      }
+    },
+    {
+      "chapter": "Thermal Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Rate of evaporation of a liquid can be increased by.",
+      "options": {
+        "A": "increasing humidity",
+        "B": "decreasing temperature",
+        "C": "increasing its boiling point",
+        "D": "decreasing atmospheric pressure"
+      }
+    },
+    {
+      "chapter": "Thermal Properties of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Linear thermal expansion of a solid depends upon.",
+      "options": {
+        "A": "change in temperature",
+        "B": "original length",
+        "C": "properties of material",
+        "D": "all of these"
+      }
+    }
+  ]
+}

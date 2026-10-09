@@ -1,0 +1,1028 @@
+{
+  "subject": "Computer",
+  "class": "XI",
+  "questions": [
+    {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The most essential software required to run a computer is:",
+      "options": {
+        "A": "operating system",
+        "B": "application software",
+        "C": "utility software",
+        "D": "device driver"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A computer is a/an:",
+      "options": {
+        "A": "electronic device",
+        "B": "mechanical device",
+        "C": "electrical device",
+        "D": "magnetic device"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The physical components of a computer are called:",
+      "options": {
+        "A": "software",
+        "B": "hardware",
+        "C": "data",
+        "D": "information"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The set of instructions given to a computer to perform a task is called:",
+      "options": {
+        "A": "software",
+        "B": "hardware",
+        "C": "data",
+        "D": "information"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The processed form of data is called:",
+      "options": {
+        "A": "information",
+        "B": "raw data",
+        "C": "knowledge",
+        "D": "file"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is NOT a type of data?",
+      "options": {
+        "A": "number",
+        "B": "text",
+        "C": "image",
+        "D": "input"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is an operating system?",
+      "options": {
+        "A": "MS Word",
+        "B": "Windows",
+        "C": "Google",
+        "D": "Facebook"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A program that protects a computer from viruses is called:",
+      "options": {
+        "A": "antivirus",
+        "B": "firewall",
+        "C": "browser",
+        "D": "spreadsheet"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is an example of system software?",
+      "options": {
+        "A": "MS Word",
+        "B": "Excel",
+        "C": "Windows",
+        "D": "PowerPoint"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is an input device?",
+      "options": {
+        "A": "printer",
+        "B": "monitor",
+        "C": "keyboard",
+        "D": "speaker"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Information Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A network that covers a small geographical area such as an office or building is called:",
+      "options": {
+        "A": "LAN",
+        "B": "MAN",
+        "C": "WAN",
+        "D": "PAN"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Information Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a benefit of computer networks?",
+      "options": {
+        "A": "resource sharing",
+        "B": "data isolation",
+        "C": "increased cost",
+        "D": "reduced communication"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Information Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The internet is an example of a:",
+      "options": {
+        "A": "LAN",
+        "B": "MAN",
+        "C": "WAN",
+        "D": "PAN"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Information Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which device is used to connect a computer to a network?",
+      "options": {
+        "A": "modem",
+        "B": "printer",
+        "C": "scanner",
+        "D": "speaker"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Information Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A network in which all computers have equal status is called a:",
+      "options": {
+        "A": "peer-to-peer network",
+        "B": "client-server network",
+        "C": "metropolitan network",
+        "D": "wide area network"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Data Communications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process of transferring data from one place to another is called:",
+      "options": {
+        "A": "data communication",
+        "B": "data processing",
+        "C": "data storage",
+        "D": "data entry"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Data Communications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a guided transmission medium?",
+      "options": {
+        "A": "radio waves",
+        "B": "microwaves",
+        "C": "twisted pair cable",
+        "D": "satellite"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Data Communications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is an unguided transmission medium?",
+      "options": {
+        "A": "fiber optic cable",
+        "B": "coaxial cable",
+        "C": "infrared waves",
+        "D": "twisted pair cable"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Data Communications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The device that converts digital signals to analog signals and vice versa is called a:",
+      "options": {
+        "A": "modem",
+        "B": "router",
+        "C": "switch",
+        "D": "hub"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Data Communications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Data transmission in both directions but not at the same time is called:",
+      "options": {
+        "A": "simplex",
+        "B": "half duplex",
+        "C": "full duplex",
+        "D": "multiplex"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Data Communications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Data transmission in only one direction is called:",
+      "options": {
+        "A": "simplex",
+        "B": "half duplex",
+        "C": "full duplex",
+        "D": "multiplex"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Data Communications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The rate at which data is transmitted is measured in:",
+      "options": {
+        "A": "bits per second",
+        "B": "bytes per minute",
+        "C": "characters per second",
+        "D": "words per minute"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Data Communications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is an error detection method?",
+      "options": {
+        "A": "parity bit",
+        "B": "handshaking",
+        "C": "encryption",
+        "D": "compression"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Data Communications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A communication channel is the path through which:",
+      "options": {
+        "A": "data travels",
+        "B": "electricity flows",
+        "C": "programs execute",
+        "D": "users communicate"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Data Communications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Fiber optic cable transmits data in the form of:",
+      "options": {
+        "A": "electrical signals",
+        "B": "light signals",
+        "C": "radio waves",
+        "D": "sound waves"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The brain of the computer is the:",
+      "options": {
+        "A": "CPU",
+        "B": "RAM",
+        "C": "hard disk",
+        "D": "motherboard"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "ALU stands for:",
+      "options": {
+        "A": "Arithmetic Logic Unit",
+        "B": "Array Logic Unit",
+        "C": "Applied Logic Unit",
+        "D": "Arithmetic Local Unit"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The component of the CPU that controls the flow of data is the:",
+      "options": {
+        "A": "control unit",
+        "B": "ALU",
+        "C": "register",
+        "D": "bus"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "RAM is a/an:",
+      "options": {
+        "A": "volatile memory",
+        "B": "non-volatile memory",
+        "C": "permanent storage",
+        "D": "optical storage"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "ROM is a/an:",
+      "options": {
+        "A": "volatile memory",
+        "B": "non-volatile memory",
+        "C": "temporary storage",
+        "D": "removable storage"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is the fastest memory?",
+      "options": {
+        "A": "cache",
+        "B": "RAM",
+        "C": "hard disk",
+        "D": "DVD"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The unit that performs arithmetic and logical operations is the:",
+      "options": {
+        "A": "ALU",
+        "B": "control unit",
+        "C": "memory unit",
+        "D": "input unit"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A bus that carries data between components is called the:",
+      "options": {
+        "A": "data bus",
+        "B": "address bus",
+        "C": "control bus",
+        "D": "power bus"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a storage device?",
+      "options": {
+        "A": "hard disk",
+        "B": "keyboard",
+        "C": "mouse",
+        "D": "monitor"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Architecture",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The machine cycle consists of fetch, decode and:",
+      "options": {
+        "A": "execute",
+        "B": "delete",
+        "C": "copy",
+        "D": "move"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A program designed to damage a computer system is called a:",
+      "options": {
+        "A": "virus",
+        "B": "antivirus",
+        "C": "firewall",
+        "D": "browser"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a type of malware?",
+      "options": {
+        "A": "worm",
+        "B": "firewall",
+        "C": "router",
+        "D": "modem"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Software that protects a network from unauthorized access is called a:",
+      "options": {
+        "A": "firewall",
+        "B": "antivirus",
+        "C": "browser",
+        "D": "modem"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The illegal copying of software is called:",
+      "options": {
+        "A": "piracy",
+        "B": "encryption",
+        "C": "hacking",
+        "D": "phishing"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A person who gains unauthorized access to a computer system is called a:",
+      "options": {
+        "A": "hacker",
+        "B": "programmer",
+        "C": "user",
+        "D": "administrator"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Tricking users into revealing personal information through fake emails is called:",
+      "options": {
+        "A": "phishing",
+        "B": "filtering",
+        "C": "blogging",
+        "D": "surfing"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The legal protection given to the creator of original work is called:",
+      "options": {
+        "A": "copyright",
+        "B": "trademark",
+        "C": "patent",
+        "D": "license"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A secret word used to protect access to a computer system is called a:",
+      "options": {
+        "A": "password",
+        "B": "username",
+        "C": "file name",
+        "D": "domain name"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is an antivirus software?",
+      "options": {
+        "A": "Norton",
+        "B": "Windows",
+        "C": "Google",
+        "D": "Excel"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Security, Copyright and the Law",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Backing up data means:",
+      "options": {
+        "A": "making a copy of data for safety",
+        "B": "deleting old data",
+        "C": "formatting the disk",
+        "D": "sharing data online"
+      }
+    },
+    {
+      "chapter": "Chapter 7: Operating System (Windows)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An operating system is:",
+      "options": {
+        "A": "system software",
+        "B": "application software",
+        "C": "utility program",
+        "D": "device driver"
+      }
+    },
+    {
+      "chapter": "Chapter 7: Operating System (Windows)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a function of an operating system?",
+      "options": {
+        "A": "memory management",
+        "B": "scanning images",
+        "C": "printing documents",
+        "D": "browsing the internet"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a web browser?",
+      "options": {
+        "A": "Internet Explorer",
+        "B": "Windows",
+        "C": "Google Docs",
+        "D": "Outlook"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "WWW stands for:",
+      "options": {
+        "A": "World Wide Web",
+        "B": "Wide World Web",
+        "C": "World Web Wide",
+        "D": "Web Wide World"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The address of a webpage is called a:",
+      "options": {
+        "A": "URL",
+        "B": "ISP",
+        "C": "HTTP",
+        "D": "HTML"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is used to send and receive email?",
+      "options": {
+        "A": "email client",
+        "B": "web browser only",
+        "C": "spreadsheet",
+        "D": "compiler"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The protocol used to transfer web pages is:",
+      "options": {
+        "A": "HTTP",
+        "B": "SMTP",
+        "C": "FTP",
+        "D": "POP3"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The protocol used to send email is:",
+      "options": {
+        "A": "SMTP",
+        "B": "HTTP",
+        "C": "FTP",
+        "D": "IMAP"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A search engine is used to:",
+      "options": {
+        "A": "find information on the internet",
+        "B": "send emails",
+        "C": "print documents",
+        "D": "edit videos"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a search engine?",
+      "options": {
+        "A": "Google",
+        "B": "Facebook",
+        "C": "Twitter",
+        "D": "WhatsApp"
+      }
+    },
+    {
+      "chapter": "Miscellaneous Questions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a portable storage device?",
+      "options": {
+        "A": "USB flash drive",
+        "B": "CPU",
+        "C": "monitor",
+        "D": "printer"
+      }
+    },
+    {
+      "chapter": "Miscellaneous Questions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The smallest unit of data in a computer is a:",
+      "options": {
+        "A": "bit",
+        "B": "byte",
+        "C": "kilobyte",
+        "D": "nibble"
+      }
+    },
+    {
+      "chapter": "Miscellaneous Questions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "How many bits are there in a byte?",
+      "options": {
+        "A": "8",
+        "B": "4",
+        "C": "16",
+        "D": "32"
+      }
+    },
+    {
+      "chapter": "Miscellaneous Questions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a programming language?",
+      "options": {
+        "A": "C++",
+        "B": "Windows",
+        "C": "Google",
+        "D": "Oracle"
+      }
+    },
+    {
+      "chapter": "Miscellaneous Questions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is an example of application software?",
+      "options": {
+        "A": "MS Word",
+        "B": "Windows",
+        "C": "Linux",
+        "D": "BIOS"
+      }
+    },
+    {
+      "chapter": "Miscellaneous Questions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A scanner is an example of a/an:",
+      "options": {
+        "A": "input device",
+        "B": "output device",
+        "C": "storage device",
+        "D": "processing device"
+      }
+    },
+    {
+      "chapter": "Miscellaneous Questions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is an output device?",
+      "options": {
+        "A": "printer",
+        "B": "keyboard",
+        "C": "mouse",
+        "D": "scanner"
+      }
+    },
+    {
+      "chapter": "Miscellaneous Questions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The device used to point and select items on the screen is the:",
+      "options": {
+        "A": "mouse",
+        "B": "printer",
+        "C": "speaker",
+        "D": "scanner"
+      }
+    },
+    {
+      "chapter": "Miscellaneous Questions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which memory loses its contents when the power is turned off?",
+      "options": {
+        "A": "RAM",
+        "B": "ROM",
+        "C": "hard disk",
+        "D": "flash drive"
+      }
+    },
+    {
+      "chapter": "Miscellaneous Questions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The collection of unprocessed facts and figures is called:",
+      "options": {
+        "A": "data",
+        "B": "information",
+        "C": "knowledge",
+        "D": "wisdom"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which search query is most suitable for finding a reliable PDF report about internet usage in Pakistan?",
+      "options": {
+        "A": "internet usage in Pakistan",
+        "B": "best internet use in Pakistan social media",
+        "C": "\"internet usage in Pakistan\" filetype:pdf",
+        "D": "Pakistan internet websites latest"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which option is the best example of primary data?",
+      "options": {
+        "A": "A government report downloaded from the internet",
+        "B": "A research article written by another author",
+        "C": "Survey responses collected directly from Class XI students",
+        "D": "Statistics copied from an online database"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Why are spreadsheets useful when presenting research data?",
+      "options": {
+        "A": "They automatically make the research question correct",
+        "B": "They help organize data, perform calculations, and create charts",
+        "C": "They remove the need for collecting original data",
+        "D": "They ensure all online information is reliable"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A digital artifact created after research should mainly:",
+      "options": {
+        "A": "repeat long paragraphs from websites",
+        "B": "communicate results and conclusions clearly",
+        "C": "include decoration only",
+        "D": "avoid any data visuals"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Data collected directly by the researcher is called:",
+      "options": {
+        "A": "Secondary data",
+        "B": "Processed data",
+        "C": "Primary data",
+        "D": "Digital data"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which search operator helps search within a specific website or domain?",
+      "options": {
+        "A": "OR",
+        "B": "AND",
+        "C": "NOT",
+        "D": "site:"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Copying someone else's work without giving credit is called:",
+      "options": {
+        "A": "Credit",
+        "B": "Plagiarism",
+        "C": "Citation",
+        "D": "Referencing"
+      }
+    },
+    {
+      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Asking permission before collecting responses is part of research:",
+      "options": {
+        "A": "Analysis",
+        "B": "Sampling",
+        "C": "Presentation",
+        "D": "Ethics"
+      }
+    }
+  ]
+}

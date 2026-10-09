@@ -1,0 +1,1294 @@
+{
+  "subject": "Biology",
+  "class": "X",
+  "questions": [
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The biological functions which perform gaseous exchange:",
+      "options": {
+        "A": "Photosynthesis",
+        "B": "Respiration",
+        "C": "Both a & b",
+        "D": "Growth"
+      }
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Plants do exchange of gases through:",
+      "options": {
+        "A": "Roots",
+        "B": "Stomata",
+        "C": "Stem",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Each stoma is formed by:",
+      "options": {
+        "A": "one guard cell",
+        "B": "two guard cells",
+        "C": "three guard cells",
+        "D": "four guard cells"
+      }
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Respiratory surface possess following property:",
+      "options": {
+        "A": "thin and wet",
+        "B": "permeable",
+        "C": "very large",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Inspiration involves:",
+      "options": {
+        "A": "Contraction of intercostals muscles",
+        "B": "contraction of diaphragm",
+        "C": "Inward movement of ribs",
+        "D": "Both a & b"
+      }
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Larynx is located on:",
+      "options": {
+        "A": "Lungs",
+        "B": "Trachea",
+        "C": "Bronchus",
+        "D": "Bronchiole"
+      }
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The main respiratory surface of human is:",
+      "options": {
+        "A": "Nostril",
+        "B": "Bronchiole",
+        "C": "Alveoli",
+        "D": "Trachea"
+      }
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Increase in rate of breathing is due to the following:",
+      "options": {
+        "A": "increase $CO_2$ in blood",
+        "B": "Increase $O_2$ in blood",
+        "C": "decrease $CO_2$ in blood",
+        "D": "decrease $O_2$ in blood"
+      }
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following disorder is associated with degeneration of alveoli?",
+      "options": {
+        "A": "Bronchitis",
+        "B": "Lung cancer",
+        "C": "Asthma",
+        "D": "Emphysema"
+      }
+    },
+    {
+      "chapter": "Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following disorder is associated with inflammation of air passage ways?",
+      "options": {
+        "A": "Bronchitis",
+        "B": "Lung cancer",
+        "C": "Asthma",
+        "D": "Emphysema"
+      }
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The internal condition of an organism is referred as:",
+      "options": {
+        "A": "Homeostasis",
+        "B": "Internal environment",
+        "C": "Internal metabolism",
+        "D": "Feedback mechanism"
+      }
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A set of metabolism reaction which maintain internal environment is:",
+      "options": {
+        "A": "Positive feedback",
+        "B": "Negative feedback",
+        "C": "Osmoregulation",
+        "D": "Homeostasis"
+      }
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Removal of extra liquid water is:",
+      "options": {
+        "A": "Exudation",
+        "B": "Guttation",
+        "C": "Respiration",
+        "D": "Transpiration"
+      }
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Plant grow near coastal area called:",
+      "options": {
+        "A": "Xerophyte",
+        "B": "Halophyte",
+        "C": "Epiphyte",
+        "D": "Hydrophyte"
+      }
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Organ of human body which is considered as the largest organ is:",
+      "options": {
+        "A": "Skin",
+        "B": "Digestive tract",
+        "C": "Liver",
+        "D": "Brain"
+      }
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The maintenance of body temperature with in suitable limit is called:",
+      "options": {
+        "A": "Homeothermy",
+        "B": "Thermoregulation",
+        "C": "Osmoregulation",
+        "D": "Heterothermy"
+      }
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The kidney is enclosed in a membrane called:",
+      "options": {
+        "A": "Pericard",
+        "B": "Peritoneum",
+        "C": "Pleural membrane",
+        "D": "Plumule"
+      }
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The network of blood capillaries present in the layer of skin:",
+      "options": {
+        "A": "Epidermis",
+        "B": "Dermis",
+        "C": "Hypodermis",
+        "D": "Endodermis"
+      }
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Selective reabsorption in nephron takes place at:",
+      "options": {
+        "A": "Glomerulus",
+        "B": "Malpighian body",
+        "C": "Convoluted tubules",
+        "D": "Loop of Henle's"
+      }
+    },
+    {
+      "chapter": "Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The hormone ADH release from:",
+      "options": {
+        "A": "Pituitary gland",
+        "B": "Kidneys",
+        "C": "Liver",
+        "D": "Lungs"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The activity in relation to changes in environment is:",
+      "options": {
+        "A": "Stimulus",
+        "B": "Response",
+        "C": "Both a & b",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Stimulus is detected by:",
+      "options": {
+        "A": "Receptor",
+        "B": "Effector",
+        "C": "Nerve",
+        "D": "Brain"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of coordination through electrochemical signal is:",
+      "options": {
+        "A": "Nervous",
+        "B": "Chemical",
+        "C": "Mechanical",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The chemicals released from one cell and carried to signal some distant cell through blood are:",
+      "options": {
+        "A": "Neurotransmitters",
+        "B": "Enzymes",
+        "C": "Hormones",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of coordination seen in Plants:",
+      "options": {
+        "A": "Nervous coordination",
+        "B": "Chemical coordination",
+        "C": "Mechanical coordination",
+        "D": "Both a & b"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The part of brain involved in reasoning is:",
+      "options": {
+        "A": "Fore brain",
+        "B": "Cerebrum",
+        "C": "Cortex",
+        "D": "Frontal lobe"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The part of brain involved in balance and precision in movements is:",
+      "options": {
+        "A": "Cerebrum",
+        "B": "Cerebellum",
+        "C": "Pons",
+        "D": "Medulla oblongata"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The involuntary actions for survival of animals are regulated by:",
+      "options": {
+        "A": "CNS",
+        "B": "PNS",
+        "C": "Somatic sub-division",
+        "D": "Autonomic sub-division"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The shortest path of reflex action consists of:",
+      "options": {
+        "A": "1 neuron",
+        "B": "2 neurons",
+        "C": "3 neurons",
+        "D": "many neurons"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of lens in our eye is:",
+      "options": {
+        "A": "Convex",
+        "B": "concave",
+        "C": "Both a&b",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The automatic process of altering focus to get sharper image of near object is:",
+      "options": {
+        "A": "Vision",
+        "B": "Accommodation",
+        "C": "Focus",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The vitamin necessary for proper vision is:",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin B",
+        "C": "Vitamin C",
+        "D": "Vitamin D"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A colour blind person cannot see:",
+      "options": {
+        "A": "Anything",
+        "B": "Red",
+        "C": "White",
+        "D": "Black"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The book “Kitab-ul-manazir” was written by:",
+      "options": {
+        "A": "Jabir bin Hayan",
+        "B": "Ibn-al-Haitham",
+        "C": "Ali Ibn-Isa",
+        "D": "Bu-Ali Sina"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Sensory hair-cells are present in:",
+      "options": {
+        "A": "Retina",
+        "B": "Cochlea",
+        "C": "Skin",
+        "D": "Nose"
+      }
+    },
+    {
+      "chapter": "Coordination and Control",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The gonads are the target organ for:",
+      "options": {
+        "A": "FSH",
+        "B": "LH",
+        "C": "Both a&b",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Irritation caused by stimulus is the main cause of:",
+      "options": {
+        "A": "Tropism",
+        "B": "Movement",
+        "C": "Locomotion",
+        "D": "Arthritis"
+      }
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The frame work which gives shape to any structure:",
+      "options": {
+        "A": "Architecture",
+        "B": "Bone",
+        "C": "Cartilage",
+        "D": "Skeleton"
+      }
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cartilage are made up of cells called:",
+      "options": {
+        "A": "Osteoclast",
+        "B": "Osteocytes",
+        "C": "Chondrocytes",
+        "D": "Chordocytes"
+      }
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The head of femur attached with:",
+      "options": {
+        "A": "Pelvic girdles",
+        "B": "Pectoral girdle",
+        "C": "Scapula",
+        "D": "Acetabulum of pelvic girdles"
+      }
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The large muscles of arm:",
+      "options": {
+        "A": "Bicep",
+        "B": "Tricep",
+        "C": "Tetracep",
+        "D": "Pentacep"
+      }
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The band of tough, connective tissue which are attached to bones called:",
+      "options": {
+        "A": "Ligaments",
+        "B": "Tendon",
+        "C": "Bicep",
+        "D": "Tricep"
+      }
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Softening and weakening of bone in children due to deficiency:",
+      "options": {
+        "A": "Arthritis",
+        "B": "Osteoarthritis",
+        "C": "Rickets",
+        "D": "Rheumatic fever"
+      }
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The muscle which is responsible to straighten the limb is:",
+      "options": {
+        "A": "Adductor",
+        "B": "Skeleton muscle",
+        "C": "Flexor",
+        "D": "Extensor"
+      }
+    },
+    {
+      "chapter": "Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The pair of muscle where both work in opposite direction:",
+      "options": {
+        "A": "Antagonist",
+        "B": "Cardiac",
+        "C": "Smooth",
+        "D": "Abductor"
+      }
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process which is essential for continuing and survival of species is:",
+      "options": {
+        "A": "Digestion",
+        "B": "Respiration",
+        "C": "Reproduction",
+        "D": "Excretion"
+      }
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of reproduction which is necessary for evolution is:",
+      "options": {
+        "A": "Vegetative propagation",
+        "B": "Fragmentation",
+        "C": "Sexual reproduction",
+        "D": "cloning"
+      }
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The unusual cellular structure responsible for asexual reproduction is:",
+      "options": {
+        "A": "Bulb",
+        "B": "Spores",
+        "C": "Rhizome",
+        "D": "Pollen grains"
+      }
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which plant reproduce vegetatively by bulb:",
+      "options": {
+        "A": "Mint",
+        "B": "Ginger",
+        "C": "Onion",
+        "D": "Bryophyllum"
+      }
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Plant stem that arise from buds on the base of parent plants are:",
+      "options": {
+        "A": "Bulb",
+        "B": "Rhizome",
+        "C": "Sucker",
+        "D": "Runner"
+      }
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of seed production without fusion of male and female gametes is:",
+      "options": {
+        "A": "Parthenocarpy",
+        "B": "Apomixes",
+        "C": "Grafting",
+        "D": "Scion"
+      }
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The female gametophyte of angiospermic plant is:",
+      "options": {
+        "A": "Embryo sac",
+        "B": "Ovule",
+        "C": "Ovary",
+        "D": "Carpel"
+      }
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The 3N zygote in angiosperm develop into:",
+      "options": {
+        "A": "Seed coat",
+        "B": "Cotyledon",
+        "C": "Embryo",
+        "D": "Endosperm"
+      }
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The male gonades in rabbit are:",
+      "options": {
+        "A": "Testis",
+        "B": "Ovaries",
+        "C": "Scrotal sac",
+        "D": "Vasdeferens"
+      }
+    },
+    {
+      "chapter": "Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The female gametes are fertilized in the rear end of:",
+      "options": {
+        "A": "Oviduct",
+        "B": "Follopian tube",
+        "C": "Ovaries",
+        "D": "Both a and b"
+      }
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Branch of biology deals with heredity and variation is called:",
+      "options": {
+        "A": "Inheritance",
+        "B": "Heredity",
+        "C": "Genetics",
+        "D": "Evolution"
+      }
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The way by which genes transmit characters from parents to offspring is:",
+      "options": {
+        "A": "Genetics",
+        "B": "Inheritance",
+        "C": "Heredity",
+        "D": "Allele"
+      }
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two similar chromosomes in a cell which are similar in shape, size and location of genes are:",
+      "options": {
+        "A": "Chromosomes",
+        "B": "Arms",
+        "C": "Homologous",
+        "D": "Homology"
+      }
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The chemical material of a chromosome is called:",
+      "options": {
+        "A": "Chromatin",
+        "B": "Chromeres",
+        "C": "Chromonema",
+        "D": "Chromatid"
+      }
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The outer part of DNA helix made up of sugar and phosphate is called:",
+      "options": {
+        "A": "Nucleoprotein",
+        "B": "uprights",
+        "C": "Rungs",
+        "D": "Phosphoester"
+      }
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The small segment of DNA which has information to code one protein is called:",
+      "options": {
+        "A": "Nucleotide",
+        "B": "Polynucleotide",
+        "C": "Gene",
+        "D": "Exon"
+      }
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The exact duplication of DNA is called:",
+      "options": {
+        "A": "Duplication",
+        "B": "Replication",
+        "C": "Transcription",
+        "D": "Translation"
+      }
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If both the parents donate same factors of a character:",
+      "options": {
+        "A": "Homologous",
+        "B": "Heterologous",
+        "C": "Homozygous",
+        "D": "Heterozygous"
+      }
+    },
+    {
+      "chapter": "Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Genetic constitution of a trait is called:",
+      "options": {
+        "A": "Genotype",
+        "B": "Phenotype",
+        "C": "Genome",
+        "D": "Gene pool"
+      }
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The life sustaining envelop of earth is:",
+      "options": {
+        "A": "Biomass",
+        "B": "Biomes",
+        "C": "Biosphere",
+        "D": "Atmosphere"
+      }
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The group of organisms belong to the same species in particular area called:",
+      "options": {
+        "A": "Community",
+        "B": "Species",
+        "C": "Genes",
+        "D": "Population"
+      }
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An area where community interacts with non-living environment is called:",
+      "options": {
+        "A": "Community",
+        "B": "Ecology",
+        "C": "Ecosystem",
+        "D": "Biome"
+      }
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Any biological region characterized by its climate or vegetation is called:",
+      "options": {
+        "A": "Ecosystem",
+        "B": "Biomes",
+        "C": "Biosphere",
+        "D": "Biomass"
+      }
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The transfer food material from producers through some organisms with repeated eating and being eaten is called:",
+      "options": {
+        "A": "Food pyramid",
+        "B": "Food chain",
+        "C": "Food web",
+        "D": "Ecological pyramid"
+      }
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The elements/nutrients in ecosystem recycle through organisms with environment is called:",
+      "options": {
+        "A": "Food chain",
+        "B": "Food web",
+        "C": "Chemical cycle",
+        "D": "Biogeochemical"
+      }
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Process where nitrogenous compound of living organism convert into nitrates is called:",
+      "options": {
+        "A": "Ammonification",
+        "B": "Nitrification",
+        "C": "Denitrification",
+        "D": "Deamination"
+      }
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cold war between the organisms of a community occupying the same habitat is called:",
+      "options": {
+        "A": "Predation",
+        "B": "Competition",
+        "C": "Mutualism",
+        "D": "Commensalism"
+      }
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The association between two different types of organism which gives benefit to each other, cannot live without each other is:",
+      "options": {
+        "A": "Parasitism",
+        "B": "Commensalism",
+        "C": "Mutualism",
+        "D": "Predation"
+      }
+    },
+    {
+      "chapter": "Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The amount of carbon dioxide or concentration of gases other than oxygen increase in atmosphere is called:",
+      "options": {
+        "A": "Air pollution",
+        "B": "Ozone depletion",
+        "C": "Acid rain",
+        "D": "Greenhouse effect"
+      }
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The artificial manipulation, synthesis and recombination of DNA is:",
+      "options": {
+        "A": "Genetic engineering",
+        "B": "Biotechnology",
+        "C": "Molecular biology",
+        "D": "Genetic science"
+      }
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The earlier biotechnology was used by:",
+      "options": {
+        "A": "Biologist",
+        "B": "Agriculturist",
+        "C": "Genetist",
+        "D": "Farmers"
+      }
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The complete graph of human genome was studied by:",
+      "options": {
+        "A": "PCR",
+        "B": "HGP",
+        "C": "Medicine",
+        "D": "soma-clonal"
+      }
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The large scale production of antibiotics on large scale production by organism is:",
+      "options": {
+        "A": "Environmental biotechnology",
+        "B": "Fermentation",
+        "C": "Biotechnology in industry",
+        "D": "Medicinal biotechnology"
+      }
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Most of the living things use $O_2$ to produce:",
+      "options": {
+        "A": "ATP",
+        "B": "Alcohol",
+        "C": "Organic acid",
+        "D": "Ecological pyramid"
+      }
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In acidic formulation lactic acid produced from:",
+      "options": {
+        "A": "Pyruvic acid",
+        "B": "Acetic acid",
+        "C": "Citric acid",
+        "D": "Glyceric acid"
+      }
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The bread dough rises during alcoholic fermentation is due to:",
+      "options": {
+        "A": "Methyl alcohol",
+        "B": "$CO_2$",
+        "C": "Ethyl alcohol",
+        "D": "$H_2O$"
+      }
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The container use to grow bacteria on large scale are called:",
+      "options": {
+        "A": "Chillers",
+        "B": "Sterilizers",
+        "C": "Fermenters",
+        "D": "Ferments"
+      }
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Naturally occurring enzyme used as a defense chemical by bacteria is:",
+      "options": {
+        "A": "Defense protein",
+        "B": "Restriction enzymes",
+        "C": "Hydrolytic enzyme",
+        "D": "Lysozyme"
+      }
+    },
+    {
+      "chapter": "Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Extra circular DNA which use as vector of gene is:",
+      "options": {
+        "A": "Genome",
+        "B": "Plasmid",
+        "C": "Pilli",
+        "D": "Nucleus"
+      }
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Who is called father of antiseptic?",
+      "options": {
+        "A": "Alexandar Fleming",
+        "B": "Edward Jenner",
+        "C": "Lister",
+        "D": "Oswald Schmiedeberg"
+      }
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following drug is used as sedative?",
+      "options": {
+        "A": "Marijuana",
+        "B": "Morphine",
+        "C": "Diazepam",
+        "D": "Heroine"
+      }
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Drugs for treatment of rheumatoid arthritis can be obtained from:",
+      "options": {
+        "A": "Animals",
+        "B": "Minerals",
+        "C": "Plants",
+        "D": "Microorganisms"
+      }
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Drugs that slow normal brain functioning are categorized as:",
+      "options": {
+        "A": "Narcotics",
+        "B": "Hallucinogen",
+        "C": "Marijuana",
+        "D": "Sedatives"
+      }
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Vaccination can be administered:",
+      "options": {
+        "A": "After infection",
+        "B": "Before infection",
+        "C": "During infection",
+        "D": "All are Correct"
+      }
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The substance which inhibit the growth of bacteria is considered as:",
+      "options": {
+        "A": "Vaccine",
+        "B": "Bactericidal",
+        "C": "Bacteriostatic",
+        "D": "Antibiotic"
+      }
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Haris is addicted to a drug, which left the following effect on Haris: i. Blurred vision ii. Making unseen faces in imagination iii. Euphoria. Identify the drug, to which Haris is addicted?",
+      "options": {
+        "A": "Narcotics",
+        "B": "Hallucinogen",
+        "C": "Antibiotics",
+        "D": "Antiseptic"
+      }
+    },
+    {
+      "chapter": "Pharmacology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one is not the effect of misuse of antibiotics?",
+      "options": {
+        "A": "Diarrhea",
+        "B": "Immunization",
+        "C": "Stomach upset",
+        "D": "Antibiotic resistance"
+      }
+    }
+  ]
+}

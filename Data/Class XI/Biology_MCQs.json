@@ -1,0 +1,1420 @@
+{
+  "subject": "Biology",
+  "class": "XI",
+  "questions": [
+    {
+      "chapter": "1: Biological Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The slight negative charge at one end of one water molecule is attracted to the slight positive charge of another water molecule. What is this attraction called?",
+      "options": {
+        "A": "Covalent bond",
+        "B": "Hydrogen bond",
+        "C": "Ionic bond",
+        "D": "Hydrophilic bond"
+      }
+    },
+    {
+      "chapter": "1: Biological Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Tendency of water to coalesce oil drop into large droplets called?",
+      "options": {
+        "A": "Hydrophilic force",
+        "B": "Hydrophobic exclusion",
+        "C": "Hydrophilic exclusion",
+        "D": "Hydrogen bonding"
+      }
+    },
+    {
+      "chapter": "1: Biological Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The covalent bond between two monosaccharides is called?",
+      "options": {
+        "A": "Peptide bond",
+        "B": "Ester bond",
+        "C": "Phosphodiester bond",
+        "D": "Glycosidic bond"
+      }
+    },
+    {
+      "chapter": "1: Biological Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Most abundant carbohydrate found in nature?",
+      "options": {
+        "A": "Glucose",
+        "B": "Maltose",
+        "C": "Cellulose",
+        "D": "Glycogen"
+      }
+    },
+    {
+      "chapter": "1: Biological Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Most important organic compound of the cell which carry out virtually all of the cell's activities.",
+      "options": {
+        "A": "Protein",
+        "B": "Carbohydrates",
+        "C": "Nucleic acid",
+        "D": "Lipids"
+      }
+    },
+    {
+      "chapter": "1: Biological Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "All amino acids have same formula except?",
+      "options": {
+        "A": "Alpha carbon",
+        "B": "Hydroxyl group",
+        "C": "Radical group",
+        "D": "Amino group"
+      }
+    },
+    {
+      "chapter": "1: Biological Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A trihydroxy alcohol, made of three carbon atoms called?",
+      "options": {
+        "A": "Glycerol",
+        "B": "Maltose",
+        "C": "Glyceraldehyde",
+        "D": "Ribose"
+      }
+    },
+    {
+      "chapter": "1: Biological Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Large and important class of lipid made up of isoprenoid unit called?",
+      "options": {
+        "A": "Phospholipid",
+        "B": "Terpenoids",
+        "C": "Waxes",
+        "D": "Acylglycerol"
+      }
+    },
+    {
+      "chapter": "1: Biological Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "How many molecules of water polymer that are 21 monomers long are needed to completely hydrolyze a polymer?",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "21",
+        "D": "2"
+      }
+    },
+    {
+      "chapter": "1: Biological Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is true of both starch and cellulose?",
+      "options": {
+        "A": "They are both polymers of glucose",
+        "B": "They are geometric isomers of each other.",
+        "C": "They can both be digested by humans",
+        "D": "They are both used for energy storage in plants."
+      }
+    },
+    {
+      "chapter": "2: Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Increasing which of the following would lower the pH of an enzymatic reaction?",
+      "options": {
+        "A": "Denaturation of the enzyme",
+        "B": "Allosteric inhibition",
+        "C": "Competitive inhibition",
+        "D": "Substrate concentration"
+      }
+    },
+    {
+      "chapter": "2: Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "On which of the following is the primary structure of an enzyme primarily dependent?",
+      "options": {
+        "A": "The ability of the enzyme to hold the substrate and move them into a transition state",
+        "B": "The enzyme's ability to stretch chemical bonds that join molecules and move them toward each other",
+        "C": "The enzyme providing a microenvironment conductive to a reaction's occurrence with the reactants",
+        "D": "The enzyme forming covalent bonds with the active site."
+      }
+    },
+    {
+      "chapter": "2: Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A series of enzymes catalyze the reaction X → Y → Z → A. Product A binds to the enzyme that converts X to Y at a position remote from its active site. This binding decreases the activity of the enzyme. What is substance X?",
+      "options": {
+        "A": "A coenzyme",
+        "B": "An allosteric inhibitor",
+        "C": "A substrate",
+        "D": "An intermediate"
+      }
+    },
+    {
+      "chapter": "2: Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If an enzyme is added to a solution where its substrate and product are in equilibrium, what would occur?",
+      "options": {
+        "A": "Additional product would be formed",
+        "B": "Additional substrate would be formed",
+        "C": "The free energy of the system would change",
+        "D": "Nothing; the reaction would stay at equilibrium."
+      }
+    },
+    {
+      "chapter": "2: Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one of the following is the mechanism of action of enzymes?",
+      "options": {
+        "A": "They act upon substrate molecules to release new substrate molecules.",
+        "B": "They actually increase the amount of energy of activation.",
+        "C": "Enzymes dramatically decrease the amount of energy of activation.",
+        "D": "Enzymes break product molecules to release new product molecules."
+      }
+    },
+    {
+      "chapter": "2: Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "How does a noncompetitive inhibitor decrease the rate of an enzyme reaction?",
+      "options": {
+        "A": "By binding at the active site of the enzyme",
+        "B": "By changing the shape of a reactant",
+        "C": "By changing the free energy of the reaction",
+        "D": "By acting as a coenzyme for the reaction"
+      }
+    },
+    {
+      "chapter": "3: Cell Structure and Function",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A primary objective of cell fractionation is to",
+      "options": {
+        "A": "View the structure of cell membranes",
+        "B": "Identify enzymes outside the organelles",
+        "C": "Determine the size of various organelles",
+        "D": "Separate the major organelles so that their particular functions can be determined."
+      }
+    },
+    {
+      "chapter": "3: Cell Structure and Function",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The volume enclosed by the plasma membrane of plant cells is often much larger than the corresponding volume in animal cells. The most reasonable explanation for this observation is that",
+      "options": {
+        "A": "Plant cells are capable of having a much higher surface-to-volume ratio than animal cells",
+        "B": "Plant cells have a much more highly convoluted plasma membrane than animal cells",
+        "C": "Plant cells contain a large vacuole that reduces the volume of the cytoplasm",
+        "D": "Animal cells are more spherical, while plant cells are more elongated."
+      }
+    },
+    {
+      "chapter": "3: Cell Structure and Function",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Large numbers of ribosomes are present in cells that specialize in producing which of the following molecules?",
+      "options": {
+        "A": "Lipids",
+        "B": "Starch",
+        "C": "Steroids",
+        "D": "Proteins"
+      }
+    },
+    {
+      "chapter": "3: Cell Structure and Function",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In animal cells, hydrolytic enzymes are packaged to prevent general destruction of cellular components. Which of the following organelles functions in this compartmentalization?",
+      "options": {
+        "A": "Chloroplast",
+        "B": "Peroxisome",
+        "C": "Central vacuole",
+        "D": "Lysosome"
+      }
+    },
+    {
+      "chapter": "3: Cell Structure and Function",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Tay-Sachs disease is a human genetic abnormality that results in cells accumulating and becoming clogged with very large and complex lipids. Which cellular organelle must be involved in this condition?",
+      "options": {
+        "A": "Endoplasmic reticulum",
+        "B": "Golgi complex",
+        "C": "Lysosome",
+        "D": "Mitochondrion"
+      }
+    },
+    {
+      "chapter": "3: Cell Structure and Function",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which is one of the main energy transformers of cells?",
+      "options": {
+        "A": "Lysosome",
+        "B": "Golgi complex",
+        "C": "Mitochondrion",
+        "D": "Ribosome"
+      }
+    },
+    {
+      "chapter": "3: Cell Structure and Function",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which structure is common to plant and animal cells?",
+      "options": {
+        "A": "Chloroplast",
+        "B": "Central vacuole",
+        "C": "Mitochondrion",
+        "D": "Cell wall"
+      }
+    },
+    {
+      "chapter": "3: Cell Structure and Function",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Chloroplast is concerned with the detoxification of alcohol. Which of the following organelles functions in this compartmentalization?",
+      "options": {
+        "A": "Chloroplast",
+        "B": "Central vacuole",
+        "C": "Peroxisome",
+        "D": "Mitochondrion"
+      }
+    },
+    {
+      "chapter": "3: Cell Structure and Function",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Clarity of image is generally known as",
+      "options": {
+        "A": "Magnification",
+        "B": "Resolution",
+        "C": "Contrast",
+        "D": "Sedimentation"
+      }
+    },
+    {
+      "chapter": "4: Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Chlorophyll-a is almost identical to chlorophyll-b but slight structural difference between them is enough to give",
+      "options": {
+        "A": "Similar energy states during the light gathering",
+        "B": "Different absorption spectra of the two",
+        "C": "Different Calvin cycles",
+        "D": "Different reaction centres in thylakoid membranes"
+      }
+    },
+    {
+      "chapter": "4: Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Chlorophyll is organized along with other molecules into photosystems which are located in the",
+      "options": {
+        "A": "Reaction centre of thylakoid",
+        "B": "Antenna complex",
+        "C": "Thylakoid membranes",
+        "D": "Cytochrome complex"
+      }
+    },
+    {
+      "chapter": "4: Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Select the antenna complex",
+      "options": {
+        "A": "PSI and ATP synthase part of thylakoid membrane are located in the pressed part of thylakoid",
+        "B": "Chlorophyll molecules located in the pressed part of thylakoid membrane",
+        "C": "Chlorophyll molecules located in the stroma",
+        "D": "Chlorophyll molecules located in the stromal lamellae"
+      }
+    },
+    {
+      "chapter": "4: Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The linear flow of electrons from water to NADP+ coupled to ATP synthesis is",
+      "options": {
+        "A": "Cyclic photophosphorylation",
+        "B": "Non-cyclic photophosphorylation",
+        "C": "Chemiosmosis",
+        "D": "Oxidative phosphorylation"
+      }
+    },
+    {
+      "chapter": "4: Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The intermediate carbon fixing compound in the member of grass family to pass CO2 to calvin cycle is",
+      "options": {
+        "A": "Citric acid",
+        "B": "Oxaloacetic acid",
+        "C": "Succinate",
+        "D": "Malate"
+      }
+    },
+    {
+      "chapter": "4: Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Oxidative decarboxylation of ketoglutarate is iso-citrate form of a-ketoglutarate results in the formation of",
+      "options": {
+        "A": "a-ketoglutarate and CO2",
+        "B": "Succinyl-CoA and CO2",
+        "C": "Fumarate and CO2",
+        "D": "Malate and CO2"
+      }
+    },
+    {
+      "chapter": "4: Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "How many ATP molecules are formed during substrate level phosphorylations in krebs's cycle when one glucose is respired aerobically?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      }
+    },
+    {
+      "chapter": "4: Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Enzyme involves during carboxylation",
+      "options": {
+        "A": "Rubisco oxygenase",
+        "B": "Rubisco carboxylase",
+        "C": "Rubisco dehydrogenase",
+        "D": "No need of enzyme during carboxylation"
+      }
+    },
+    {
+      "chapter": "4: Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The oxygen consumed during cellular respiration is involved directly in which process or event?",
+      "options": {
+        "A": "Glycolysis",
+        "B": "Accepting electrons at the end of the electron transport chain",
+        "C": "The citric acid cycle",
+        "D": "The oxidation of pyruvate to acetyl CoA"
+      }
+    },
+    {
+      "chapter": "4: Bioenergetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "How many carbon atoms are fed into the citric acid cycle as a result of the oxidation of one molecule of pyruvate?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      }
+    },
+    {
+      "chapter": "5: Acellular Life",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Viruses evolve by using the",
+      "options": {
+        "A": "Cellular organelles",
+        "B": "Cellular enzymes",
+        "C": "Cellular membranes",
+        "D": "All of them"
+      }
+    },
+    {
+      "chapter": "5: Acellular Life",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The pathogenicity of a virus depends upon",
+      "options": {
+        "A": "the immunity of the host body",
+        "B": "the effective penetration of its genome",
+        "C": "the overall environment inside the body",
+        "D": "the overall environment outside the body"
+      }
+    },
+    {
+      "chapter": "5: Acellular Life",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Bacteriophages escape from host cell by the activity of",
+      "options": {
+        "A": "Lysosome",
+        "B": "Ribozyme",
+        "C": "Peroxisomes",
+        "D": "Glyoxisomes"
+      }
+    },
+    {
+      "chapter": "5: Acellular Life",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The smaller proteins are cut down and forms a new virus structure by the process called",
+      "options": {
+        "A": "Integration",
+        "B": "Transcription",
+        "C": "Budding",
+        "D": "Assembly"
+      }
+    },
+    {
+      "chapter": "5: Acellular Life",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Viruses that severely damage motor neurons and causes paralysis called",
+      "options": {
+        "A": "HIV",
+        "B": "Dengue",
+        "C": "Polio",
+        "D": "Herpes"
+      }
+    },
+    {
+      "chapter": "5: Acellular Life",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Proteins that cause pathogenicity in humans and animals are called",
+      "options": {
+        "A": "Prions",
+        "B": "Viroids",
+        "C": "Antigens",
+        "D": "Antibodies"
+      }
+    },
+    {
+      "chapter": "5: Acellular Life",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Smaller than viruses having single stranded RNA with no protein coat called",
+      "options": {
+        "A": "Prions",
+        "B": "Viroids",
+        "C": "Antigens",
+        "D": "Virions"
+      }
+    },
+    {
+      "chapter": "5: Acellular Life",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Dengue fever, encephalitis and yellow fever are caused by which group of viruses?",
+      "options": {
+        "A": "Arbo-viruses",
+        "B": "Retro-viruses",
+        "C": "Rhado-viruses",
+        "D": "Rhinoviruses"
+      }
+    },
+    {
+      "chapter": "5: Acellular Life",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Aedes mosquitoes is the vector of",
+      "options": {
+        "A": "Dengue viruses",
+        "B": "Ebola viruses",
+        "C": "Hepatitis viruses",
+        "D": "Measles viruses"
+      }
+    },
+    {
+      "chapter": "7: Protoctists and Fungi",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is true about the Kingdom Protista?",
+      "options": {
+        "A": "All organisms are prokaryotes",
+        "B": "All organisms are eukaryotes",
+        "C": "All organisms are autotrophic",
+        "D": "All organisms are heterotrophic"
+      }
+    },
+    {
+      "chapter": "7: Protoctists and Fungi",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "All members of green algae have the pigment combination of chlorophylls a and b along with the pigment",
+      "options": {
+        "A": "Fucoxanthin",
+        "B": "Phycobilins",
+        "C": "Phycoerythrin",
+        "D": "Carotenoids"
+      }
+    },
+    {
+      "chapter": "7: Protoctists and Fungi",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Protists having isomorphic alternation of generation are",
+      "options": {
+        "A": "Chlorella",
+        "B": "Euglena",
+        "C": "Ulva",
+        "D": "Diatoms"
+      }
+    },
+    {
+      "chapter": "7: Protoctists and Fungi",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The amoeboid stage of slime mold is called",
+      "options": {
+        "A": "Plasmodium",
+        "B": "Fruiting bodies",
+        "C": "Myxamoebae",
+        "D": "Pseudoplasmodium"
+      }
+    },
+    {
+      "chapter": "7: Protoctists and Fungi",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Trichomonas and Leishmania are disease causing protists and are",
+      "options": {
+        "A": "Viruses",
+        "B": "Protists",
+        "C": "Prokaryotes",
+        "D": "Fungi"
+      }
+    },
+    {
+      "chapter": "7: Protoctists and Fungi",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ulvа is commonly called",
+      "options": {
+        "A": "Sea lettuce",
+        "B": "Sea urchin",
+        "C": "Sea palm",
+        "D": "Sea anemone"
+      }
+    },
+    {
+      "chapter": "7: Protoctists and Fungi",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The most important cellulose degraders are",
+      "options": {
+        "A": "Slime molds",
+        "B": "Bacteria",
+        "C": "Viruses",
+        "D": "Fungi"
+      }
+    },
+    {
+      "chapter": "7: Protoctists and Fungi",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The most important cellular organelle degrades of the fungal hyphae are",
+      "options": {
+        "A": "Ascomycota",
+        "B": "Zygomycota",
+        "C": "Basidiomycota",
+        "D": "Deuteromycota"
+      }
+    },
+    {
+      "chapter": "9: Diversity Among Animals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Choose the incorrect pair?",
+      "options": {
+        "A": "Sponges → Spicules",
+        "B": "Cnidarians → Nematocysts",
+        "C": "Segmented worm → Pseudopodia",
+        "D": "Arthropods → Jointed legs"
+      }
+    },
+    {
+      "chapter": "9: Diversity Among Animals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Water movement through sponges?",
+      "options": {
+        "A": "Ostia → Spongocoel → Osculum",
+        "B": "Spongocoel → Osculum → Ostia",
+        "C": "Ostia → Osculum → Spongocoel",
+        "D": "Osculum → Spongocoel → Ostia"
+      }
+    },
+    {
+      "chapter": "9: Diversity Among Animals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Choose the term which encompasses all of the others?",
+      "options": {
+        "A": "Coelomate",
+        "B": "Protostome",
+        "C": "Bilateria",
+        "D": "Triploblastic"
+      }
+    },
+    {
+      "chapter": "9: Diversity Among Animals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Dry scaly skin, ectothermic, two pairs of legs, internal fertilization, eggs with amniotic shell, and a three chambered heart are all properties of which class?",
+      "options": {
+        "A": "Amphibia",
+        "B": "Reptilia",
+        "C": "Aves",
+        "D": "Mammalia"
+      }
+    },
+    {
+      "chapter": "9: Diversity Among Animals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Pick the odd one out?",
+      "options": {
+        "A": "Star fish",
+        "B": "Brittle star",
+        "C": "Lamprey",
+        "D": "Sea urchin"
+      }
+    },
+    {
+      "chapter": "9: Diversity Among Animals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following terms or structures is properly associated only with animals?",
+      "options": {
+        "A": "Genes",
+        "B": "Autotomy",
+        "C": "Sexual reproduction",
+        "D": "Cell wall"
+      }
+    },
+    {
+      "chapter": "9: Diversity Among Animals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An adult animal that possesses bilateral symmetry but lacks a true body cavity is most likely to",
+      "options": {
+        "A": "Triploblastic",
+        "B": "Deuterostome",
+        "C": "Triploblastic deuterostome",
+        "D": "Coelomate"
+      }
+    },
+    {
+      "chapter": "9: Diversity Among Animals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Proteostome characteristics generally include all of the following except",
+      "options": {
+        "A": "A mouth that develops from the blastopore",
+        "B": "Radial body symmetry",
+        "C": "Deterministic development",
+        "D": "Spiral cleavage"
+      }
+    },
+    {
+      "chapter": "9: Diversity Among Animals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Sponges structural materials (spicules) are manufactured by",
+      "options": {
+        "A": "Pinacocytes",
+        "B": "Porocytes",
+        "C": "Amoebocytes",
+        "D": "Choanocytes"
+      }
+    },
+    {
+      "chapter": "11: Holozoic Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process of nutrition does not include the breakdown of:",
+      "options": {
+        "A": "Proteins into amino acids",
+        "B": "Carbohydrates into simple sugars",
+        "C": "Lipids into fatty acids",
+        "D": "Nucleic acids into nitrogenous bases"
+      }
+    },
+    {
+      "chapter": "11: Holozoic Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The chemicals playing the most important role in digestion of food are:",
+      "options": {
+        "A": "Hormones",
+        "B": "Enzymes",
+        "C": "Both a & b",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "11: Holozoic Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of dentition in Planaria is:",
+      "options": {
+        "A": "Intracellular",
+        "B": "Extracellular",
+        "C": "Intercellular",
+        "D": "Both a & b"
+      }
+    },
+    {
+      "chapter": "11: Holozoic Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Number of milk teeth is:",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      }
+    },
+    {
+      "chapter": "11: Holozoic Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Teeth meant for cutting are:",
+      "options": {
+        "A": "Incisors",
+        "B": "Canines",
+        "C": "Premolars",
+        "D": "Molars"
+      }
+    },
+    {
+      "chapter": "11: Holozoic Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The part of gut also associated with respiratory system is:",
+      "options": {
+        "A": "Stomach",
+        "B": "Duodenum",
+        "C": "Pharynx",
+        "D": "Jejunum"
+      }
+    },
+    {
+      "chapter": "11: Holozoic Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The part of gut that has no digestive function is:",
+      "options": {
+        "A": "Stomach",
+        "B": "Duodenum",
+        "C": "Oral cavity",
+        "D": "Large intestine"
+      }
+    },
+    {
+      "chapter": "11: Holozoic Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The enzyme that is not a part of gastric juice is:",
+      "options": {
+        "A": "Pepsin",
+        "B": "Renin",
+        "C": "Trypsin",
+        "D": "HCl"
+      }
+    },
+    {
+      "chapter": "11: Holozoic Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of salivary glands in our oral cavity is:",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      }
+    },
+    {
+      "chapter": "11: Holozoic Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A BMI over 30 kg/m² is considered as:",
+      "options": {
+        "A": "Normal",
+        "B": "Over-weight",
+        "C": "Obesity",
+        "D": "Under-weight"
+      }
+    },
+    {
+      "chapter": "12: Circulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Lymph most closely resembles:",
+      "options": {
+        "A": "Blood",
+        "B": "Urine",
+        "C": "Plasma",
+        "D": "Interstitial fluid"
+      }
+    },
+    {
+      "chapter": "12: Circulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What event initiates blood clotting?",
+      "options": {
+        "A": "Contact with an irregular surface by platelets",
+        "B": "Production of the enzyme thrombin",
+        "C": "Conversion of fibrinogen to fibrin",
+        "D": "Excess flow of blood through a damaged vessel"
+      }
+    },
+    {
+      "chapter": "12: Circulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Damage to the S.A. node in humans:",
+      "options": {
+        "A": "Is a major cause of heart attacks",
+        "B": "Would block conduction between the bundle branches",
+        "C": "Would have a negative effect on peripheral resistance",
+        "D": "Would disrupt the rate and timing of cardiac muscle contractions"
+      }
+    },
+    {
+      "chapter": "12: Circulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is measured by an electrocardiogram (EKG)?",
+      "options": {
+        "A": "Impulses from the AV node",
+        "B": "Speed of impulses from the SA node",
+        "C": "Contraction of the SA node",
+        "D": "Contraction of the AV node"
+      }
+    },
+    {
+      "chapter": "12: Circulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Where are the two atria located in which blood goes from the atria to the mammalian heart?",
+      "options": {
+        "A": "Where semilunar valves are found",
+        "B": "Where blood goes from atria to the heart",
+        "C": "Where pulmonary veins only enter",
+        "D": "Where veins attach to only"
+      }
+    },
+    {
+      "chapter": "12: Circulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Organism in which a circulatory fluid that is distinct from the interstitial fluid is pumped through a closed circulatory system?",
+      "options": {
+        "A": "An open circular cells that are likely to have a gastrovascular cavity",
+        "B": "An organism in which the body cavity is lined with mesoderm",
+        "C": "A closed circulatory system in which fluid is pumped",
+        "D": "An organism in which the body is a solid mass of cells"
+      }
+    },
+    {
+      "chapter": "12: Circulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Average blood pressure, trace which is lowest in which of the following (s) or (b)?",
+      "options": {
+        "A": "Average blood pressure trace",
+        "B": "Arterioles",
+        "C": "Capillaries",
+        "D": "Vena cava"
+      }
+    },
+    {
+      "chapter": "12: Circulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Atria are composed of:",
+      "options": {
+        "A": "An open circulatory system of cells that are likely to have a gastrovascular cavity",
+        "B": "Open circular system cells",
+        "C": "A closed circular system",
+        "D": "Closed circular cells"
+      }
+    },
+    {
+      "chapter": "12: Circulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is / are a cause (s) of vasoconstriction?",
+      "options": {
+        "A": "Lying down after standing",
+        "B": "Standing after lying down",
+        "C": "Stress or hormone concentration",
+        "D": "Histamine secretion"
+      }
+    },
+    {
+      "chapter": "12: Circulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Blood returning to the human heart in a pulmonary vein drains first into the?",
+      "options": {
+        "A": "Left atrium",
+        "B": "Right atrium",
+        "C": "Left ventricle",
+        "D": "Right ventricle"
+      }
+    },
+    {
+      "chapter": "12: Circulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is NOT an important function of the human circulation?",
+      "options": {
+        "A": "Transport of nutrients and respiratory gases",
+        "B": "Regulation of body temperature",
+        "C": "Protection of the body by circulatory antibodies",
+        "D": "Removal of waste products for excretion from the body"
+      }
+    },
+    {
+      "chapter": "13: Immunity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The study of functioning and disorders of immune system is termed as:",
+      "options": {
+        "A": "Immunity",
+        "B": "Immune response",
+        "C": "Immunology",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "13: Immunity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "It is responsible for specific immune response against any pathogen which tries to enter in the body called:",
+      "options": {
+        "A": "Innate Immune system",
+        "B": "First line of defense",
+        "C": "Second line of defense",
+        "D": "Third line of defense"
+      }
+    },
+    {
+      "chapter": "13: Immunity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Following serves as physical barrier:",
+      "options": {
+        "A": "Macrophage",
+        "B": "Mucous membrane",
+        "C": "HCl",
+        "D": "Saliva"
+      }
+    },
+    {
+      "chapter": "13: Immunity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Our digestive tract consists of what kind of barrier?",
+      "options": {
+        "A": "Physical barrier",
+        "B": "Biochemical barrier",
+        "C": "Both a & b",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "13: Immunity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is involved in phagocytosis of bacteria?",
+      "options": {
+        "A": "Neutrophil",
+        "B": "Macrophage",
+        "C": "Both a & b",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "13: Immunity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "It is not involved in antigen presentation:",
+      "options": {
+        "A": "Macrophage",
+        "B": "Dendritic cell",
+        "C": "Neutrophil",
+        "D": "Both a & b"
+      }
+    },
+    {
+      "chapter": "13: Immunity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of receptor exhibited by all nucleated cells other than macrophages is:",
+      "options": {
+        "A": "MHC-I",
+        "B": "MHC-II",
+        "C": "Both a & b",
+        "D": "TCR"
+      }
+    },
+    {
+      "chapter": "13: Immunity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Any foreign substance that can elicit immune response is called:",
+      "options": {
+        "A": "Antibody",
+        "B": "Antigen",
+        "C": "Both a & c",
+        "D": "Antihistamine"
+      }
+    },
+    {
+      "chapter": "13: Immunity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of immunity achieved through the transfer of antibodies from mother to her fetus is:",
+      "options": {
+        "A": "Natural active immunity",
+        "B": "Natural passive immunity",
+        "C": "Artificial active immunity",
+        "D": "Artificial passive immunity"
+      }
+    },
+    {
+      "chapter": "13: Immunity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Tears are secreted by:",
+      "options": {
+        "A": "T cells",
+        "B": "B cells",
+        "C": "Plasma cells",
+        "D": "Macrophages"
+      }
+    },
+    {
+      "chapter": "14: Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In which part of the respiratory system, gaseous exchange takes place?",
+      "options": {
+        "A": "Alveoli",
+        "B": "Pharynx",
+        "C": "Larynx",
+        "D": "Trachea"
+      }
+    },
+    {
+      "chapter": "14: Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following statements is true about breathing?",
+      "options": {
+        "A": "It is controlled by the bronchi",
+        "B": "It is controlled by the pulmonary arteries",
+        "C": "It is controlled by the alveolar-capillary network",
+        "D": "It is controlled by the medulla and pons"
+      }
+    },
+    {
+      "chapter": "14: Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The tiny air sacs present in human lungs are called:",
+      "options": {
+        "A": "Alveoli",
+        "B": "Bronchioles",
+        "C": "Bronchi",
+        "D": "All of the above"
+      }
+    },
+    {
+      "chapter": "14: Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The exchange of gases between the external environment and the lungs:",
+      "options": {
+        "A": "Internal respiration",
+        "B": "External respiration",
+        "C": "Cellular respiration",
+        "D": "None of the above"
+      }
+    },
+    {
+      "chapter": "14: Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The maximum volume of air contained in the lung by a full forced inspiration is called:",
+      "options": {
+        "A": "Tidal volume",
+        "B": "Vital capacity",
+        "C": "Ventilation rate",
+        "D": "Total lung capacity"
+      }
+    },
+    {
+      "chapter": "14: Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one of the following is correct regarding larynx?",
+      "options": {
+        "A": "It houses the vocal cords",
+        "B": "It prevents the inhaled food particles into the windpipe",
+        "C": "It connects the pharynx to the trachea",
+        "D": "All of the above"
+      }
+    },
+    {
+      "chapter": "14: Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following organs functions as an air conditioner?",
+      "options": {
+        "A": "Larynx",
+        "B": "Pharynx",
+        "C": "Nasal chambers",
+        "D": "Trachea"
+      }
+    },
+    {
+      "chapter": "14: Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following organs functions as the chief organ of the respiratory system?",
+      "options": {
+        "A": "Pharynx",
+        "B": "Lungs",
+        "C": "Trachea",
+        "D": "Bronchi"
+      }
+    },
+    {
+      "chapter": "14: Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following statements is true about the entry of air into the lungs?",
+      "options": {
+        "A": "Air enters the body and travels to the lungs through the nose and the mouth",
+        "B": "Air enters the body and travels to the lungs through the oesophagus and gullet",
+        "C": "Air enters the body and travels to the lungs through the windpipe and the pores",
+        "D": "Air enters the body and travels to the lungs through the nose and the nerve endings"
+      }
+    }
+  ]
+}

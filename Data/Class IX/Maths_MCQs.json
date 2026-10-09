@@ -1,0 +1,1490 @@
+{
+  "subject": "Mathematics",
+  "class": "IX",
+  "questions": [
+    {
+      "chapter": "01 - Real and Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The additive inverse of $\\sqrt{5}$ is:",
+      "options": {
+        "A": "$-\\sqrt{5}$",
+        "B": "$\\frac{1}{\\sqrt{5}}$",
+        "C": "$\\sqrt{5}$",
+        "D": "$-5$"
+      }
+    },
+    {
+      "chapter": "01 - Real and Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$(5i)(-2i)$ =:",
+      "options": {
+        "A": "$-10$",
+        "B": "$10$",
+        "C": "$-10i$",
+        "D": "$10i$"
+      }
+    },
+    {
+      "chapter": "01 - Real and Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In $3(5+7) = 3 \\cdot 5 + 3 \\cdot 7$, name the property used:",
+      "options": {
+        "A": "Commutative",
+        "B": "Associative",
+        "C": "Distributive",
+        "D": "Closure"
+      }
+    },
+    {
+      "chapter": "01 - Real and Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\sqrt{-2} \\times \\sqrt{-2}$ =:",
+      "options": {
+        "A": "$2$",
+        "B": "$-2$",
+        "C": "$2i$",
+        "D": "$-2i$"
+      }
+    },
+    {
+      "chapter": "02 - Logarithms",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\log x = 4$, then $x$ =:",
+      "options": {
+        "A": "500",
+        "B": "100",
+        "C": "1000",
+        "D": "10000"
+      }
+    },
+    {
+      "chapter": "02 - Logarithms",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The characteristic of $\\log 54.58$ is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "4"
+      }
+    },
+    {
+      "chapter": "02 - Logarithms",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The base of common logarithm is:",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "e",
+        "D": "100"
+      }
+    },
+    {
+      "chapter": "02 - Logarithms",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\log xyz$ =:",
+      "options": {
+        "A": "$\\log x \\log y \\log z$",
+        "B": "$\\log x + \\log y + \\log z$",
+        "C": "$\\log (xy)^z$",
+        "D": "$\\log x - \\log y - \\log z$"
+      }
+    },
+    {
+      "chapter": "02 - Logarithms",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Scientific notation of 0.00789 is:",
+      "options": {
+        "A": "$7.89 \\times 10^3$",
+        "B": "$7.89 \\times 10^{-3}$",
+        "C": "$0.789 \\times 10^{-2}$",
+        "D": "$78.9 \\times 10^{-4}$"
+      }
+    },
+    {
+      "chapter": "02 - Logarithms",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\log x = 2$ then $x$ =:",
+      "options": {
+        "A": "200",
+        "B": "1000",
+        "C": "100",
+        "D": "$\\frac{2}{10}$"
+      }
+    },
+    {
+      "chapter": "02 - Logarithms",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\log_2 8 = x$ then $x$ =:",
+      "options": {
+        "A": "64",
+        "B": "$3^3$",
+        "C": "3",
+        "D": "$2^3$"
+      }
+    },
+    {
+      "chapter": "02 - Logarithms",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Base in the Natural logarithm is:",
+      "options": {
+        "A": "10",
+        "B": "e",
+        "C": "x",
+        "D": "5"
+      }
+    },
+    {
+      "chapter": "02 - Logarithms",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$3^5 = 243$, can be written in logarithmic form as:",
+      "options": {
+        "A": "$\\log_3 5 = 243$",
+        "B": "$\\log_3 243 = 5$",
+        "C": "$\\log_{12} 243 = 3$",
+        "D": "$\\log_3 3 = 243$"
+      }
+    },
+    {
+      "chapter": "02 - Logarithms",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $b > 0$ and $b \\neq 1$ then $\\log_b b$ =:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "b",
+        "D": "2"
+      }
+    },
+    {
+      "chapter": "03 - Algebraic Expression and Formulas",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Every polynomial is:",
+      "options": {
+        "A": "an irrational expression",
+        "B": "a rational expression",
+        "C": "a sentence",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "03 - Algebraic Expression and Formulas",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A surd which contains sum of two monomial surds is called:",
+      "options": {
+        "A": "Trinomial surd",
+        "B": "Binomial surd",
+        "C": "Conjugate surd",
+        "D": "Monomial surd"
+      }
+    },
+    {
+      "chapter": "03 - Algebraic Expression and Formulas",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$3x + 2y - 3$ is an algebraic:",
+      "options": {
+        "A": "Expression",
+        "B": "Equation",
+        "C": "Sentence",
+        "D": "In-equation"
+      }
+    },
+    {
+      "chapter": "03 - Algebraic Expression and Formulas",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The degree of the $3x^2y^5 + 5y^4 - 10$ is:",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "3"
+      }
+    },
+    {
+      "chapter": "03 - Algebraic Expression and Formulas",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\sqrt{7}$ is an example of:",
+      "options": {
+        "A": "Monomial surd",
+        "B": "Trinomial surd",
+        "C": "Binomial surd",
+        "D": "Conjugate surd"
+      }
+    },
+    {
+      "chapter": "03 - Algebraic Expression and Formulas",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Quotient of two polynomials $p(x)$ and $q(x)$, where $q(x) \\neq 0$ is called:",
+      "options": {
+        "A": "Rational expression",
+        "B": "Irrational expression",
+        "C": "Polynomial",
+        "D": "Conjugate"
+      }
+    },
+    {
+      "chapter": "03 - Algebraic Expression and Formulas",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\frac{1}{x-y} - \\frac{1}{x+y}$ is equal to:",
+      "options": {
+        "A": "$\\frac{2x}{x^2-y^2}$",
+        "B": "$\\frac{2y}{x^2-y^2}$",
+        "C": "$\\frac{-2x}{x^2-y^2}$",
+        "D": "$\\frac{-2y}{x^2-y^2}$"
+      }
+    },
+    {
+      "chapter": "03 - Algebraic Expression and Formulas",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Conjugate of $2 - \\sqrt{3}$ is:",
+      "options": {
+        "A": "$2 + \\sqrt{3}$",
+        "B": "$-2 - \\sqrt{3}$",
+        "C": "$\\sqrt{2} + 3$",
+        "D": "$\\sqrt{3} - 4$"
+      }
+    },
+    {
+      "chapter": "03 - Algebraic Expression and Formulas",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$a^3 - 3ab(a-b) - b^3$ is equal to:",
+      "options": {
+        "A": "$(a-b)^3$",
+        "B": "$(a+b)^3$",
+        "C": "$a^3 + b^3$",
+        "D": "$a^3 - b^3$"
+      }
+    },
+    {
+      "chapter": "03 - Algebraic Expression and Formulas",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $a + b = 5$ and $a - b = 3$, then the value of $ab$ is:",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "3",
+        "D": "6"
+      }
+    },
+    {
+      "chapter": "03 - Algebraic Expression and Formulas",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$(5 + \\sqrt{15})(5 - \\sqrt{15})$ is equal to:",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "25",
+        "D": "30"
+      }
+    },
+    {
+      "chapter": "03 - Algebraic Expression and Formulas",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$a^2 + b^2 + c^2 + 2ab + 2bc + 2ca$ is equal to:",
+      "options": {
+        "A": "$(a+b-c)^2$",
+        "B": "$(a+b+c)^2$",
+        "C": "$(a-b+c)^2$",
+        "D": "$(a+b+c)^2$"
+      }
+    },
+    {
+      "chapter": "04 - Factorization",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Factors of $a^2 + 2a - 24$ are:",
+      "options": {
+        "A": "$a+4, a-6$",
+        "B": "$a-4, a+6$",
+        "C": "$a+3, a-8$",
+        "D": "$a+8, a-3$"
+      }
+    },
+    {
+      "chapter": "04 - Factorization",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Factors of $a^2 + 2ab + b^2 - c^2$ is:",
+      "options": {
+        "A": "$(a-b+c)(a-b-c)$",
+        "B": "$(a+b+c)(a-b-c)$",
+        "C": "$(a+b+c)(a+b-c)$",
+        "D": "$(a+b+c)(a-b-c)$"
+      }
+    },
+    {
+      "chapter": "04 - Factorization",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Factors of $x^3 + y^3$ is:",
+      "options": {
+        "A": "$(x-y)(x^2+xy+y^2)$",
+        "B": "$(x+y)(x^2+xy+y^2)$",
+        "C": "$(x+y)(x^2+xy-y^2)$",
+        "D": "$(x-y)(x^2+xy-y^2)$"
+      }
+    },
+    {
+      "chapter": "04 - Factorization",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Factors of $y^3 - 27z^3$ are:",
+      "options": {
+        "A": "$y-3z, y^2+3yz+9z^2$",
+        "B": "$y+3z, y^2+3yz+9z^2$",
+        "C": "$y-3z, y^2-3yz+9z^2$",
+        "D": "$y+3z, y^2-3yz+9z^2$"
+      }
+    },
+    {
+      "chapter": "04 - Factorization",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In simplified form $\\frac{1}{x+y} + \\frac{y}{x^2-y^2}$ is:",
+      "options": {
+        "A": "$\\frac{y+1}{x^2-y^2}$",
+        "B": "$\\frac{x}{x^2-y^2}$",
+        "C": "$\\frac{y}{x^2-y^2}$",
+        "D": "$\\frac{y-1}{x^2-y^2}$"
+      }
+    },
+    {
+      "chapter": "04 - Factorization",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Find $m$, so that $x^2 + 4x + m$ is a complete square:",
+      "options": {
+        "A": "16",
+        "B": "-16",
+        "C": "4",
+        "D": "-4"
+      }
+    },
+    {
+      "chapter": "05 - Algebraic Manipulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "HCF of $x^3 - 8y^3$ and $x^2 - 4xy + 4y^2$ is:",
+      "options": {
+        "A": "$x - 4y$",
+        "B": "$x^2 + 2xy + y^2$",
+        "C": "$x + 2y$",
+        "D": "$x - 2y$"
+      }
+    },
+    {
+      "chapter": "05 - Algebraic Manipulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "LCM of $(2y+3z)^5$ and $(2y+3z)^3$ is:",
+      "options": {
+        "A": "$(2y+3z)^8$",
+        "B": "$(2y+3z)^5$",
+        "C": "$(2y+3z)^3$",
+        "D": "$(2y+3z)^{15}$"
+      }
+    },
+    {
+      "chapter": "05 - Algebraic Manipulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "HCF of $x^3 - y^3$ and $x^2 + xy + y^2$ is:",
+      "options": {
+        "A": "$x + y$",
+        "B": "$x^2 + xy + y^2$",
+        "C": "$x - y$",
+        "D": "$(x - y)^2$"
+      }
+    },
+    {
+      "chapter": "05 - Algebraic Manipulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "LCM of $(x-y)^4$ and $(x-y)^3$ is:",
+      "options": {
+        "A": "$(x-y)$",
+        "B": "$(x-y)^3$",
+        "C": "$(x-y)^4$",
+        "D": "$(x-y)^7$"
+      }
+    },
+    {
+      "chapter": "05 - Algebraic Manipulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Simplified form of $\\frac{1+y}{x+y} \\div \\frac{1-y}{x^2-y^2}$ is:",
+      "options": {
+        "A": "$\\frac{y+1}{x^2-y^2}$",
+        "B": "$\\frac{x}{x^2-y^2}$",
+        "C": "$\\frac{y}{x^2-y^2}$",
+        "D": "$\\frac{x+y}{x^2-y^2}$"
+      }
+    },
+    {
+      "chapter": "05 - Algebraic Manipulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Simplified form of $\\frac{5x}{25x^2-y^2} \\div \\frac{5x}{5x-y}$ is:",
+      "options": {
+        "A": "$\\frac{5x}{25x^2-y^2}$",
+        "B": "$\\frac{5x}{5x-y}$",
+        "C": "$\\frac{5x-y}{25x^2-y^2}$",
+        "D": "$\\frac{5x-y}{5x-y}$"
+      }
+    },
+    {
+      "chapter": "05 - Algebraic Manipulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\frac{a^3 + a^3y^3}{a^2(x^2+y^2)}$ =:",
+      "options": {
+        "A": "$ax^2 + ay^2$",
+        "B": "$x^2 + y^2$",
+        "C": "$a(x^2 - xy + y^2)$",
+        "D": "$a(x^2 + xy + y^2)$"
+      }
+    },
+    {
+      "chapter": "05 - Algebraic Manipulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\frac{a}{a-b} \\div \\frac{a^2}{a^2-b^2}$ =:",
+      "options": {
+        "A": "$\\frac{a^2+b^2}{a+b}$",
+        "B": "$\\frac{a^2+b^2}{a-b}$",
+        "C": "$\\frac{a^2-b^2}{a+b}$",
+        "D": "$\\frac{a^2-b^2}{a-b}$"
+      }
+    },
+    {
+      "chapter": "05 - Algebraic Manipulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "LCM = , given that $p$ and $q$ are any two polynomials:",
+      "options": {
+        "A": "HCF $\\times p \\times q$",
+        "B": "$\\frac{p \\times q}{HCF}$",
+        "C": "$\\frac{p}{HCF}$",
+        "D": "$\\frac{q}{HCF}$"
+      }
+    },
+    {
+      "chapter": "05 - Algebraic Manipulation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "LCM of $x^2 - x + 1$ and $x^3 + 1$ is:",
+      "options": {
+        "A": "$x+1$",
+        "B": "$x^2 - x + 1$",
+        "C": "$x^3 + 1$",
+        "D": "$x^2 + x + 1$"
+      }
+    },
+    {
+      "chapter": "06 - Linear Equation and Inequalities",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The solution set of linear equation in one variable has:",
+      "options": {
+        "A": "One solution",
+        "B": "Two solutions",
+        "C": "Three solutions",
+        "D": "More than one solutions"
+      }
+    },
+    {
+      "chapter": "06 - Linear Equation and Inequalities",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$|-20|$ means:",
+      "options": {
+        "A": "= 20",
+        "B": "< 20",
+        "C": "= -20",
+        "D": "> 20"
+      }
+    },
+    {
+      "chapter": "06 - Linear Equation and Inequalities",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$x \\leq 4$ means:",
+      "options": {
+        "A": "$x < 4$",
+        "B": "$x = 4$",
+        "C": "$x < 4$ or $x = 4$",
+        "D": "$x > 4$ or $x = 4$"
+      }
+    },
+    {
+      "chapter": "06 - Linear Equation and Inequalities",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The solution set of $\\sqrt{y} = 10$ is:",
+      "options": {
+        "A": "{100}",
+        "B": "{10}",
+        "C": "{-10}",
+        "D": "{-10, 10}"
+      }
+    },
+    {
+      "chapter": "06 - Linear Equation and Inequalities",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\sqrt{y+4} + 2 = 8$ is a:",
+      "options": {
+        "A": "Linear equation",
+        "B": "Radical equation",
+        "C": "Cubic equation",
+        "D": "Quadratic equation"
+      }
+    },
+    {
+      "chapter": "06 - Linear Equation and Inequalities",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The solution set of $5 - 3y = -7$ is:",
+      "options": {
+        "A": "{-4}",
+        "B": "{1, 4}",
+        "C": "{4}",
+        "D": "{12}"
+      }
+    },
+    {
+      "chapter": "06 - Linear Equation and Inequalities",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The solution set of $\\sqrt{5y+5} + 5 = 10$ is:",
+      "options": {
+        "A": "{\\pm 4}",
+        "B": "{5}",
+        "C": "{4}",
+        "D": "{-4}"
+      }
+    },
+    {
+      "chapter": "06 - Linear Equation and Inequalities",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The solution set of $\\sqrt[3]{x} = 5$ is:",
+      "options": {
+        "A": "{3}",
+        "B": "{-5, 5}",
+        "C": "{3, -3}",
+        "D": "{-3}"
+      }
+    },
+    {
+      "chapter": "06 - Linear Equation and Inequalities",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The solution set of $|-y| = 0$ is:",
+      "options": {
+        "A": "{1}",
+        "B": "{-1}",
+        "C": "{0}",
+        "D": "{ }"
+      }
+    },
+    {
+      "chapter": "06 - Linear Equation and Inequalities",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $x > 0$, $y > 0$ and $x - y < 0$, then which of the following relation holds good?",
+      "options": {
+        "A": "$x < y$",
+        "B": "$x + y < 0$",
+        "C": "$x > y$",
+        "D": "$y - x < 0$"
+      }
+    },
+    {
+      "chapter": "07 - Linear Graphs and Their Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The point $(-3, -4)$ is located in:",
+      "options": {
+        "A": "1st quadrant",
+        "B": "2nd quadrant",
+        "C": "3rd quadrant",
+        "D": "4th quadrant"
+      }
+    },
+    {
+      "chapter": "07 - Linear Graphs and Their Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The two coordinates axes intersect at an angle of:",
+      "options": {
+        "A": "$45^\\circ$",
+        "B": "$90^\\circ$",
+        "C": "$180^\\circ$",
+        "D": "$270^\\circ$"
+      }
+    },
+    {
+      "chapter": "07 - Linear Graphs and Their Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The line $y = 4$ is parallel to:",
+      "options": {
+        "A": "x-axis",
+        "B": "y-axis",
+        "C": "Both axes",
+        "D": "None"
+      }
+    },
+    {
+      "chapter": "07 - Linear Graphs and Their Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The line $x = -5$ is parallel to:",
+      "options": {
+        "A": "x-axis",
+        "B": "y-axis",
+        "C": "Both axis",
+        "D": "None"
+      }
+    },
+    {
+      "chapter": "07 - Linear Graphs and Their Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The line $x = -5$ has a point on x-axis:",
+      "options": {
+        "A": "$(-5, 5)$",
+        "B": "$(0, -5)$",
+        "C": "$(5, 0)$",
+        "D": "$(-5, 0)$"
+      }
+    },
+    {
+      "chapter": "07 - Linear Graphs and Their Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The solution set of the line $x = 2$ and $y = 5$:",
+      "options": {
+        "A": "{(2, 5)}",
+        "B": "{2, 5}",
+        "C": "{(0, 5)}",
+        "D": "{ }"
+      }
+    },
+    {
+      "chapter": "07 - Linear Graphs and Their Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The co-ordinate axes are mutually:",
+      "options": {
+        "A": "Perpendicular",
+        "B": "Parallel",
+        "C": "Intersecting at $30^\\circ$",
+        "D": "Intersecting at $45^\\circ$"
+      }
+    },
+    {
+      "chapter": "08 - Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Degree of quadratic equation is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "chapter": "08 - Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Standard form of quadratic equation is:",
+      "options": {
+        "A": "$ax^2 + bx + c = 0, a \\neq 0$",
+        "B": "$ax^2 + c = 0, a \\neq 0$",
+        "C": "$ax^2 + bx = 0, a \\neq 0$",
+        "D": "$ax^3 + bx^2 + c = 0, a \\neq 0$"
+      }
+    },
+    {
+      "chapter": "08 - Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Quadratic Formula for $ax^2 + bx + c = 0, a \\neq 0$ is:",
+      "options": {
+        "A": "$x = \\frac{-b - \\sqrt{b^2 - 4ac}}{2a}$",
+        "B": "$x = \\frac{b + \\sqrt{b^2 - 4ac}}{2a}$",
+        "C": "$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$",
+        "D": "$x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}$"
+      }
+    },
+    {
+      "chapter": "08 - Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Solution set of $x^2 + 10x + 24 = 0$ is:",
+      "options": {
+        "A": "{-6, -4}",
+        "B": "{6, 4}",
+        "C": "{6, 4}",
+        "D": "{6, -4}"
+      }
+    },
+    {
+      "chapter": "08 - Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "How many maximum roots of quadratic equation are:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "4"
+      }
+    },
+    {
+      "chapter": "08 - Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two linear factors of $x^2 - 15x + 56$ are:",
+      "options": {
+        "A": "$(x - 7)$ and $(x + 8)$",
+        "B": "$(x + 7)$ and $(x - 8)$",
+        "C": "$(x - 7)$ and $(x - 8)$",
+        "D": "$(x + 7)$ and $(x + 8)$"
+      }
+    },
+    {
+      "chapter": "08 - Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Polynomial equation, which remains unchanged when $x$ is replaced by $\\frac{1}{x}$ is called a/an:",
+      "options": {
+        "A": "Exponential equation",
+        "B": "Reciprocal equation",
+        "C": "Radical equation",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "08 - Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An equation of the type of $3^x + 3^{-x} + 6 = 0$ is a/an:",
+      "options": {
+        "A": "Exponential equation",
+        "B": "Radical equation",
+        "C": "Reciprocal equation",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "08 - Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The solution set of equation $4x^2 - 16 = 0$ is:",
+      "options": {
+        "A": "{\\pm 4}",
+        "B": "{4}",
+        "C": "{\\pm 2}",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "08 - Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An equation of the form $2x^4 - 3x^3 + 7x^2 - 3x + 2 = 0$ is called a/an:",
+      "options": {
+        "A": "Reciprocal equation",
+        "B": "Radical equation",
+        "C": "Exponential equation",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "09 - Congruent Triangles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is not a sufficient condition for congruence of two triangles?",
+      "options": {
+        "A": "A.S.A $\\cong$ A.S.A",
+        "B": "H.S $\\cong$ H.S",
+        "C": "S.A.A $\\cong$ S.A.A",
+        "D": "A.A.A $\\cong$ A.A.A"
+      }
+    },
+    {
+      "chapter": "09 - Congruent Triangles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In $\\triangle ABC$, if $\\angle A \\cong \\angle B$, then the bisector of ___ angle divides the triangle into congruent triangles:",
+      "options": {
+        "A": "$\\angle A$",
+        "B": "$\\angle B$",
+        "C": "$\\angle C$",
+        "D": "any one of its angles"
+      }
+    },
+    {
+      "chapter": "09 - Congruent Triangles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The diagonal of ___ does not divide it into two congruent triangles:",
+      "options": {
+        "A": "Rectangle",
+        "B": "Trapezium",
+        "C": "Parallelogram",
+        "D": "Square"
+      }
+    },
+    {
+      "chapter": "09 - Congruent Triangles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "How many acute angles are there in an acute angled triangle?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "not more than 2"
+      }
+    },
+    {
+      "chapter": "10 - Parallelograms and Triangles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Diagonals of a square are ___ to each other.",
+      "options": {
+        "A": "Perpendicular",
+        "B": "Non congruent",
+        "C": "Congruent",
+        "D": "Both 'a' and 'c'"
+      }
+    },
+    {
+      "chapter": "10 - Parallelograms and Triangles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Sum of the measures of interior angles of a quadrilateral is:",
+      "options": {
+        "A": "2 right angles",
+        "B": "4 right angles",
+        "C": "3 right angles",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "10 - Parallelograms and Triangles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Measure of a line segment joining the mid points of $\\overline{AB}$ and $\\overline{AC}$ of $\\triangle ABC$ is 3.5cm, then $m\\overline{BC}$ =:",
+      "options": {
+        "A": "4.5cm",
+        "B": "5.5cm",
+        "C": "6cm",
+        "D": "7cm"
+      }
+    },
+    {
+      "chapter": "10 - Parallelograms and Triangles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two medians $AD$ and $BE$ of $\\triangle ABC$ intersect each other at $G$. If $m\\overline{GD}$ = 1.7cm, then $m\\overline{AG}$ =:",
+      "options": {
+        "A": "2.7cm",
+        "B": "8.85cm",
+        "C": "3.4cm",
+        "D": "5.1cm"
+      }
+    },
+    {
+      "chapter": "10 - Parallelograms and Triangles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If sum of the measures of $\\angle A$ and $\\angle C$ of a parallelogram $ABCD$ is $130^\\circ$, then $m\\angle B$ =:",
+      "options": {
+        "A": "$25^\\circ$",
+        "B": "$115^\\circ$",
+        "C": "$65^\\circ$",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "10 - Parallelograms and Triangles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If opposite angles of a quadrilateral are equal in measures and none of them is a right angle, then the quadrilateral is a:",
+      "options": {
+        "A": "Square",
+        "B": "Parallelogram",
+        "C": "Trapezium",
+        "D": "Rectangle"
+      }
+    },
+    {
+      "chapter": "10 - Parallelograms and Triangles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Centroid is the common point of intersection of:",
+      "options": {
+        "A": "Medians of a triangle",
+        "B": "Diagonals of a parallelogram",
+        "C": "Angle bisectors of a triangle",
+        "D": "Perpendicular bisectors of a triangle"
+      }
+    },
+    {
+      "chapter": "10 - Parallelograms and Triangles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A point on median of a triangle is:",
+      "options": {
+        "A": "equidistant from its vertices",
+        "B": "equidistant from the mid points of its sides",
+        "C": "equidistant from its altitudes",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "11 - Line Bisectors and Angles Bisectors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "There are ___ acute angles in an acute angled triangle.",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "None"
+      }
+    },
+    {
+      "chapter": "11 - Line Bisectors and Angles Bisectors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An point equidistant from the end points of a line segment is on the ___ of it.",
+      "options": {
+        "A": "Right bisector",
+        "B": "Perpendicular",
+        "C": "Centre",
+        "D": "Mid-point"
+      }
+    },
+    {
+      "chapter": "11 - Line Bisectors and Angles Bisectors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "___ of the sides of an acute angled triangle intersect each other inside the triangle:",
+      "options": {
+        "A": "Perpendicular",
+        "B": "The right bisector",
+        "C": "Obtuse",
+        "D": "Acute"
+      }
+    },
+    {
+      "chapter": "11 - Line Bisectors and Angles Bisectors",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The bisector of the angles of a triangle are:",
+      "options": {
+        "A": "Concurrent",
+        "B": "Collinear",
+        "C": "Do not intersect",
+        "D": "Unequal"
+      }
+    },
+    {
+      "chapter": "12 - Sides and Angles of a Triangle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Measure of one side of an equilateral triangle is 6 cm, then the length of its median is ___ 9cm.",
+      "options": {
+        "A": "less than",
+        "B": "greater than",
+        "C": "equal to",
+        "D": "none of the above"
+      }
+    },
+    {
+      "chapter": "12 - Sides and Angles of a Triangle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Perimeter of a rectangle is 22cm, then the length of its diagonal is ___ 11cm.",
+      "options": {
+        "A": "equal to",
+        "B": "greater than",
+        "C": "less than",
+        "D": "none of the above"
+      }
+    },
+    {
+      "chapter": "13 - Practical Geometry-Triangle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A triangle having all the three sides congruent is called ___ triangle.",
+      "options": {
+        "A": "scalene",
+        "B": "right angled",
+        "C": "equilateral",
+        "D": "isosceles"
+      }
+    },
+    {
+      "chapter": "13 - Practical Geometry-Triangle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A quadrilateral having each angle equal to $90^\\circ$ and all the sides are congruent is called:",
+      "options": {
+        "A": "parallelogram",
+        "B": "rectangle",
+        "C": "trapezium",
+        "D": "square"
+      }
+    },
+    {
+      "chapter": "13 - Practical Geometry-Triangle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The medians of a triangle are ___:",
+      "options": {
+        "A": "collinear",
+        "B": "congruent",
+        "C": "concurrent",
+        "D": "parallel"
+      }
+    },
+    {
+      "chapter": "13 - Practical Geometry-Triangle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The ___ altitudes of an equilateral triangle are congruent.",
+      "options": {
+        "A": "two",
+        "B": "three",
+        "C": "four",
+        "D": "none"
+      }
+    },
+    {
+      "chapter": "13 - Practical Geometry-Triangle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The diagonals of a rectangle ___ each other.",
+      "options": {
+        "A": "bisect",
+        "B": "trisect",
+        "C": "bisect at right angle",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "13 - Practical Geometry-Triangle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The ___ of a triangle cut each other in the ratio 2:1.",
+      "options": {
+        "A": "Altitudes",
+        "B": "Angle bisectors",
+        "C": "Right bisectors",
+        "D": "Medians"
+      }
+    },
+    {
+      "chapter": "13 - Practical Geometry-Triangle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If each angle on the base of an isosceles triangle is $45^\\circ$, then the measure of the third angle is ___:",
+      "options": {
+        "A": "$30^\\circ$",
+        "B": "$60^\\circ$",
+        "C": "$90^\\circ$",
+        "D": "$120^\\circ$"
+      }
+    },
+    {
+      "chapter": "13 - Practical Geometry-Triangle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the three medians of a triangle are congruent then the triangle is:",
+      "options": {
+        "A": "Right angled",
+        "B": "equilateral",
+        "C": "Isosceles",
+        "D": "acute angled"
+      }
+    },
+    {
+      "chapter": "13 - Practical Geometry-Triangle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If two ___ of a triangle are congruent, then the triangle will be isosceles.",
+      "options": {
+        "A": "Altitudes",
+        "B": "Medians",
+        "C": "Right bisectors",
+        "D": "sides"
+      }
+    },
+    {
+      "chapter": "14 - Theorems Related with Area",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If perpendicular distance between two lines is the same. The lines are:",
+      "options": {
+        "A": "Perpendicular to each other",
+        "B": "Parallel to each other",
+        "C": "Intersecting to each other",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "14 - Theorems Related with Area",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If two triangles have equal areas then they will be congruent as well.",
+      "options": {
+        "A": "Not necessarily",
+        "B": "Necessarily",
+        "C": "Definitely",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "14 - Theorems Related with Area",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Perpendicular from a vertex of a triangle to its opposite side is called:",
+      "options": {
+        "A": "Median",
+        "B": "Perpendicular bisector",
+        "C": "Altitude",
+        "D": "Angle bisector"
+      }
+    },
+    {
+      "chapter": "14 - Theorems Related with Area",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Parallelograms having same base and same altitude are ___.",
+      "options": {
+        "A": "Congruent",
+        "B": "Equal in areas",
+        "C": "Similar",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "14 - Theorems Related with Area",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two parallelograms have equal bases. They will be having the same area, if:",
+      "options": {
+        "A": "Their altitudes are equal",
+        "B": "Their altitude is the same",
+        "C": "They lies between the same parallel lines",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "14 - Theorems Related with Area",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\triangle ABC$ and $\\triangle DEF$ have equal bases and equal altitudes, then triangles are:",
+      "options": {
+        "A": "Equal in area",
+        "B": "Congruent",
+        "C": "Similar",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "16 - Introduction to Coordinate Geometry / Analytical Geometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two perpendicular lines meet at an angle of:",
+      "options": {
+        "A": "$45^\\circ$",
+        "B": "$60^\\circ$",
+        "C": "$90^\\circ$",
+        "D": "$180^\\circ$"
+      }
+    },
+    {
+      "chapter": "16 - Introduction to Coordinate Geometry / Analytical Geometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ is called:",
+      "options": {
+        "A": "Mid-point formula",
+        "B": "Distance formula",
+        "C": "Division formula",
+        "D": "Ratio formula"
+      }
+    },
+    {
+      "chapter": "16 - Introduction to Coordinate Geometry / Analytical Geometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A(3, 0) and B(0, 3) are any two points in the plane then $|\\overline{AB}|$ =:",
+      "options": {
+        "A": "6 unit",
+        "B": "$6\\sqrt{2}$ unit",
+        "C": "$2\\sqrt{9}$ unit",
+        "D": "$3\\sqrt{2}$ unit"
+      }
+    },
+    {
+      "chapter": "16 - Introduction to Coordinate Geometry / Analytical Geometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Three points A, B and C are collinear if:",
+      "options": {
+        "A": "$m\\overline{AB} = m\\overline{BC} + m\\overline{AC}$",
+        "B": "$(m\\overline{AB})^2 = (m\\overline{BC})^2 + (m\\overline{AC})^2$",
+        "C": "both a and b",
+        "D": "$(m\\overline{AB}) \\neq m\\overline{BC} + m\\overline{AC}$"
+      }
+    }
+  ]
+}

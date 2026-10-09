@@ -1,0 +1,1796 @@
+{
+  "subject": "Mathematics",
+  "class": "X",
+  "questions": [
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one is subset of $\\mathbb{N}$",
+      "options": {
+        "A": "$\\mathbb{Z}$",
+        "B": "$\\mathbb{Q}$",
+        "C": "$E$",
+        "D": "$P$"
+      }
+    },
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Tabular form of $A = \\{x \\mid x \\in \\mathbb{Z} \\land x^2 = 25\\}$ is",
+      "options": {
+        "A": "$\\{1, 5\\}$",
+        "B": "$\\{-5, 5\\}$",
+        "C": "$\\{1, 5, 25\\}$",
+        "D": "$\\{-5\\}$"
+      }
+    },
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "For two sets $A$ and $B$, if $O(A) = O(B)$ then",
+      "options": {
+        "A": "$A \\subseteq B$",
+        "B": "$B \\subseteq A$",
+        "C": "$A \\approx B$",
+        "D": "$A \\subset B$"
+      }
+    },
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\{x \\mid x \\in \\mathbb{N} \\land x < 1\\}$ is",
+      "options": {
+        "A": "Singleton",
+        "B": "Infinite set",
+        "C": "Empty set",
+        "D": "Super set"
+      }
+    },
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A = \\{1, 2, 3, 4\\}$ and $B = \\{2, 4, 6\\}$ then $A \\Delta B$ =",
+      "options": {
+        "A": "$\\{1, 2\\}$",
+        "B": "$\\{6\\}$",
+        "C": "$\\{1, 3\\}$",
+        "D": "$\\{1, 3, 6\\}$"
+      }
+    },
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which operation is not commutative",
+      "options": {
+        "A": "Symmetric difference",
+        "B": "Union",
+        "C": "Difference",
+        "D": "Intersection"
+      }
+    },
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\{x \\mid x \\in P \\land x \\in Q\\} =$?",
+      "options": {
+        "A": "$P \\cap Q$",
+        "B": "$P \\cup Q$",
+        "C": "$P - Q$",
+        "D": "$P \\Delta Q$"
+      }
+    },
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\{x \\mid x \\in U \\land x \\notin A \\land x \\notin B\\} =$?",
+      "options": {
+        "A": "$A \\cap B$",
+        "B": "$(A \\cup B)'$",
+        "C": "$(A \\cap B)'$",
+        "D": "$A \\Delta B$"
+      }
+    },
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "For any two non-empty sets $A$ and $B$, if $A \\cup B = U$ and $A \\cap B = \\emptyset$ then $A$ and $B$ are",
+      "options": {
+        "A": "Disjoint sets",
+        "B": "Overlapping sets",
+        "C": "Equal sets",
+        "D": "None"
+      }
+    },
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A \\subset B$ then $A \\cup B$ = ______",
+      "options": {
+        "A": "$A$",
+        "B": "$B$",
+        "C": "$\\emptyset$",
+        "D": "$U$"
+      }
+    },
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In Venn diagram, ______ is used to represent universal set.",
+      "options": {
+        "A": "rectangle",
+        "B": "circle",
+        "C": "oval",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $(x, 6) = (2, y - 6)$ then $x + y$ =",
+      "options": {
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "14"
+      }
+    },
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $O(A \\times B) = 100$ and $O(B) = 5$ then $O(A)$ =",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      }
+    },
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A function is called surjective if range ______ co-domain",
+      "options": {
+        "A": "$=$",
+        "B": "$\\neq$",
+        "C": "$\\subseteq$",
+        "D": "$\\subset$"
+      }
+    },
+    {
+      "chapter": "17: Sets and Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A function is called into if range ______ co-domain",
+      "options": {
+        "A": "$\\subset$",
+        "B": "$\\subseteq$",
+        "C": "$=$",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "19: Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $m$ denotes the number of rows and $n$ denotes the number of columns such that $m = n$, then matrix is called ______ matrix.",
+      "options": {
+        "A": "Rectangular",
+        "B": "Equal",
+        "C": "Square",
+        "D": "Null"
+      }
+    },
+    {
+      "chapter": "19: Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A = \\begin{bmatrix} i & 0 \\\\ 0 & -i \\end{bmatrix}$ then $A^2$ is",
+      "options": {
+        "A": "$I^2$",
+        "B": "$I^3$",
+        "C": "$-I^2$",
+        "D": "$O^3$"
+      }
+    },
+    {
+      "chapter": "19: Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A$ is any square matrix such that $A' = -A$, then $A$ is said to be:",
+      "options": {
+        "A": "Diagonal matrix",
+        "B": "Scalar matrix",
+        "C": "Symmetric matrix",
+        "D": "Skew Symmetric matrix"
+      }
+    },
+    {
+      "chapter": "19: Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A$, $B$ and $C$ are matrices of same order then $(ABC)' =$",
+      "options": {
+        "A": "$A'B'C'$",
+        "B": "$C'B'A'$",
+        "C": "$C'A'B'$",
+        "D": "$(B'A')C'$"
+      }
+    },
+    {
+      "chapter": "19: Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A = \\begin{bmatrix} 0 & i \\\\ -i & 0 \\end{bmatrix}$ and $B = \\begin{bmatrix} i & 0 \\\\ 0 & -i \\end{bmatrix}$ and $C = \\begin{bmatrix} 1 & 0 \\\\ 0 & -1 \\end{bmatrix}$ then",
+      "options": {
+        "A": "$A^2 = -I$",
+        "B": "$B^2 = -I$",
+        "C": "$C^2 = -I$",
+        "D": "All of them"
+      }
+    },
+    {
+      "chapter": "19: Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "For two matrices $A$ and $B$ if $A = \\begin{bmatrix} \\cos\\theta & -\\sin\\theta \\\\ \\sin\\theta & \\cos\\theta \\end{bmatrix}$ and $B = \\begin{bmatrix} \\sin\\theta & \\cos\\theta \\\\ -\\cos\\theta & \\sin\\theta \\end{bmatrix}$ then $AB$ =",
+      "options": {
+        "A": "$\\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$",
+        "B": "$\\begin{bmatrix} -1 & 0 \\\\ 0 & -1 \\end{bmatrix}$",
+        "C": "$\\begin{bmatrix} 0 & 1 \\\\ 1 & 0 \\end{bmatrix}$",
+        "D": "$\\begin{bmatrix} 0 & -1 \\\\ -1 & 0 \\end{bmatrix}$"
+      }
+    },
+    {
+      "chapter": "19: Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\begin{bmatrix} x & 3 \\\\ \\frac{3}{10} & y \\\\ 0 & z \\end{bmatrix} = \\begin{bmatrix} -1 & 3 \\\\ \\frac{3}{10} & 10 \\\\ 0 & \\frac{10}{3} \\end{bmatrix}$ then the values of $x$, $y$ and $z$ respectively are",
+      "options": {
+        "A": "$\\frac{2}{3}, \\frac{3}{10}, \\frac{10}{3}$",
+        "B": "$\\frac{2}{3}, \\frac{3}{2}, \\frac{10}{3}$",
+        "C": "$\\frac{3}{2}, \\frac{10}{3}, 2$",
+        "D": "1, 2, 3"
+      }
+    },
+    {
+      "chapter": "20: Theory of Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $p$, $q$ are the roots of $2x^2 + 5x + 3 = 0$, then $p + q$ =",
+      "options": {
+        "A": "$-\\frac{3}{2}$",
+        "B": "$\\frac{3}{2}$",
+        "C": "$-\\frac{5}{2}$",
+        "D": "$\\frac{5}{2}$"
+      }
+    },
+    {
+      "chapter": "20: Theory of Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\alpha$, $\\beta$ are the roots of the $ax^2 + bx + c = 0$, $a \\neq 0$, then $\\alpha + \\beta$ = ______",
+      "options": {
+        "A": "$-\\frac{b}{a}$",
+        "B": "$\\frac{b}{c}$",
+        "C": "$-\\frac{c}{b}$",
+        "D": "$\\frac{c}{b}$"
+      }
+    },
+    {
+      "chapter": "20: Theory of Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the sum of the roots of $(p+1)x^2 + (2p+3)x + (3p+4) = 0$ is 1, then product of the root is",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      }
+    },
+    {
+      "chapter": "20: Theory of Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The nature of the roots of $ax^2 + bx + c = 0$, $a \\neq 0$ is determined by",
+      "options": {
+        "A": "sum of the roots",
+        "B": "product of the roots",
+        "C": "discriminant",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "20: Theory of Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If sum of the roots of a quadratic equation is $-\\frac{b}{a}$ and the product of the roots is $\\frac{c}{a}$, then equation is",
+      "options": {
+        "A": "$ax^2 + bx + c = 0$",
+        "B": "$ax^2 + bx - c = 0$",
+        "C": "$ax^2 - bx + c = 0$",
+        "D": "$ax^2 - bx - c = 0$"
+      }
+    },
+    {
+      "chapter": "20: Theory of Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The required equation whose roots are the reciprocal of the roots of $ax^2 + bx + c = 0$ is",
+      "options": {
+        "A": "$ax^2 + bx + c = 0$",
+        "B": "$cx^2 + bx + a = 0$",
+        "C": "$cx^2 + ax + b = 0$",
+        "D": "$cx^2 - bx - a = 0$"
+      }
+    },
+    {
+      "chapter": "20: Theory of Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\alpha$, $\\beta$ are the roots of $x^2 - 2x - 15 = 0$, then the value of $\\alpha^2 + \\beta^2$ = ______",
+      "options": {
+        "A": "34",
+        "B": "-34",
+        "C": "26",
+        "D": "-26"
+      }
+    },
+    {
+      "chapter": "20: Theory of Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\Delta = b^2 - 4ac$ of a quadratic equation with rational coefficients is perfect square, then roots are",
+      "options": {
+        "A": "real and equal",
+        "B": "real, rational and un equal",
+        "C": "real, irrational and unequal",
+        "D": "imaginary or complex and unequal"
+      }
+    },
+    {
+      "chapter": "20: Theory of Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If one root of quadratic equation with rational coefficients is $2 + \\sqrt{3}$, then other root will be",
+      "options": {
+        "A": "$2 + \\sqrt{3}$",
+        "B": "$2 - \\sqrt{3}$",
+        "C": "$-2 + \\sqrt{3}$",
+        "D": "$-2 - \\sqrt{3}$"
+      }
+    },
+    {
+      "chapter": "20: Theory of Quadratic Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The quadratic equation whose roots are complex cube roots of unity is",
+      "options": {
+        "A": "$x^2 - x - 1 = 0$",
+        "B": "$x^2 - x + 1 = 0$",
+        "C": "$x^2 + x + 1 = 0$",
+        "D": "$x^2 + x - 1 = 0$"
+      }
+    },
+    {
+      "chapter": "22: Basic Statistics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Arithmetic mean is based on the use of ______ observations of data.",
+      "options": {
+        "A": "Middle",
+        "B": "Extreme",
+        "C": "All",
+        "D": "None"
+      }
+    },
+    {
+      "chapter": "22: Basic Statistics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The ungrouped data must be ordered first to find ______.",
+      "options": {
+        "A": "A.M.",
+        "B": "Mode",
+        "C": "Median",
+        "D": "Range"
+      }
+    },
+    {
+      "chapter": "22: Basic Statistics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of classes in a continuous frequency table lies between 5 and",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25"
+      }
+    },
+    {
+      "chapter": "22: Basic Statistics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Mode of grouped data is obtained graphically using ______.",
+      "options": {
+        "A": "Histogram",
+        "B": "Polygon",
+        "C": "Ogive",
+        "D": "Bar chart"
+      }
+    },
+    {
+      "chapter": "22: Basic Statistics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If data has outliers, then ______ is misleading.",
+      "options": {
+        "A": "A.M.",
+        "B": "Range",
+        "C": "Median",
+        "D": "Mode"
+      }
+    },
+    {
+      "chapter": "22: Basic Statistics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The A.M. of $\\{0, 90, k, 10, 100\\}$ is 40, then $k$ = ___",
+      "options": {
+        "A": "0",
+        "B": "90",
+        "C": "10",
+        "D": "100"
+      }
+    },
+    {
+      "chapter": "22: Basic Statistics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Median and quartiles are ______ in nature.",
+      "options": {
+        "A": "Mathematical",
+        "B": "Positional",
+        "C": "Logical",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "22: Basic Statistics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Upper quartile divides data in ______ ratio.",
+      "options": {
+        "A": "50% - 50%",
+        "B": "25% - 25%",
+        "C": "75% - 25%",
+        "D": "40% - 60%"
+      }
+    },
+    {
+      "chapter": "22: Basic Statistics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If data contain a number equal to 0, then ______ cannot be computed.",
+      "options": {
+        "A": "A.M.",
+        "B": "G.M.",
+        "C": "H.M.",
+        "D": "Median"
+      }
+    },
+    {
+      "chapter": "22: Basic Statistics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If all numbers in data are equal, then:",
+      "options": {
+        "A": "A.M. = G.M. = H.M.",
+        "B": "Range = 0",
+        "C": "S.D. = 0",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "23: Pythagoras' Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Diagonal of a rectangle measures 6.5cm. If its width is 2.5cm, its length is",
+      "options": {
+        "A": "9cm",
+        "B": "4cm",
+        "C": "6cm",
+        "D": "3cm"
+      }
+    },
+    {
+      "chapter": "23: Pythagoras' Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following are the sides of a right angled triangle?",
+      "options": {
+        "A": "3, 4, 5",
+        "B": "2, 3, 4",
+        "C": "5, 6, 7",
+        "D": "4, 5, 6"
+      }
+    },
+    {
+      "chapter": "23: Pythagoras' Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a right angled triangle the greatest angle is",
+      "options": {
+        "A": "100$^\\circ$",
+        "B": "90$^\\circ$",
+        "C": "80$^\\circ$",
+        "D": "110$^\\circ$"
+      }
+    },
+    {
+      "chapter": "23: Pythagoras' Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a right angled triangle hypotenuse is opposite side to",
+      "options": {
+        "A": "Acute angle",
+        "B": "Right angle",
+        "C": "Obtuse angle",
+        "D": "None"
+      }
+    },
+    {
+      "chapter": "23: Pythagoras' Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $a$, $b$, $c$ are sides of right angled triangle, with $c$ is the larger side, then",
+      "options": {
+        "A": "$c^2 = a^2 + b^2$",
+        "B": "$b^2 = c^2 + a^2$",
+        "C": "$a^2 = b^2 + c^2$",
+        "D": "$c^2 = a^2 - b^2$"
+      }
+    },
+    {
+      "chapter": "23: Pythagoras' Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If 5cm and 12cm are two sides of a right angled triangle. Then hypotenuse is",
+      "options": {
+        "A": "16",
+        "B": "15",
+        "C": "14",
+        "D": "13"
+      }
+    },
+    {
+      "chapter": "23: Pythagoras' Theorem",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If hypotenuse of an isosceles right-angled triangle is $3\\sqrt{2}$cm, then each of other side is of length",
+      "options": {
+        "A": "2cm",
+        "B": "5cm",
+        "C": "3cm",
+        "D": "1cm"
+      }
+    },
+    {
+      "chapter": "24: Ratio and Proportion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a proportion, the product of means is equal to ______ of extremes.",
+      "options": {
+        "A": "sum",
+        "B": "difference",
+        "C": "quotient",
+        "D": "product"
+      }
+    },
+    {
+      "chapter": "24: Ratio and Proportion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "______ triangles are always similar.",
+      "options": {
+        "A": "right",
+        "B": "scalene",
+        "C": "acute angled",
+        "D": "equilateral"
+      }
+    },
+    {
+      "chapter": "24: Ratio and Proportion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The symbol of similarity of triangles is",
+      "options": {
+        "A": "$=$",
+        "B": "$\\sim$",
+        "C": "$\\cong$",
+        "D": "$\\propto$"
+      }
+    },
+    {
+      "chapter": "24: Ratio and Proportion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If a line parallel to base of a triangle and divides one side in 2:3 then it will divide other side in ______.",
+      "options": {
+        "A": "3:2",
+        "B": "2:3",
+        "C": "2:6",
+        "D": "5:3"
+      }
+    },
+    {
+      "chapter": "24: Ratio and Proportion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If a line intersects two sides of a triangle in same ratio then it is ______ to other side.",
+      "options": {
+        "A": "parallel",
+        "B": "non-parallel",
+        "C": "coincident",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "24: Ratio and Proportion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In $\\triangle ABC$, the bisector of $\\angle A$ divides $BC$ in ratio ______ if $m\\overline{AB} = 6$cm and $m\\overline{AC} = 8$cm.",
+      "options": {
+        "A": "5:8",
+        "B": "3:4",
+        "C": "1:1",
+        "D": "5:7"
+      }
+    },
+    {
+      "chapter": "24: Ratio and Proportion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The bisector of an angle of equilateral triangle divides the opposite side in",
+      "options": {
+        "A": "2:3",
+        "B": "3:2",
+        "C": "1:1",
+        "D": "2:1"
+      }
+    },
+    {
+      "chapter": "24: Ratio and Proportion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The corresponding sides of two similar triangles are ______.",
+      "options": {
+        "A": "equal",
+        "B": "un-equal",
+        "C": "proportional",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "24: Ratio and Proportion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the ratio of two corresponding sides of similar triangle is 5:7 then ratio of their areas is equal to ______.",
+      "options": {
+        "A": "5:7",
+        "B": "7:5",
+        "C": "25:7",
+        "D": "25:49"
+      }
+    },
+    {
+      "chapter": "24: Ratio and Proportion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the ratio of areas of two similar triangles is 36:121 then the ratio of its corresponding sides will be:",
+      "options": {
+        "A": "6:10",
+        "B": "6:11",
+        "C": "11:6",
+        "D": "10:6"
+      }
+    },
+    {
+      "chapter": "24: Ratio and Proportion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the ratio of corresponding sides of similar triangles is 2:x and that of areas is 4:9 then x = ___",
+      "options": {
+        "A": "3",
+        "B": "-3",
+        "C": "both a and b",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "24: Ratio and Proportion",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two equilateral triangles are also ______.",
+      "options": {
+        "A": "congruent",
+        "B": "similar",
+        "C": "proportional",
+        "D": "equivalent"
+      }
+    },
+    {
+      "chapter": "25: Chords of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "All circles are always",
+      "options": {
+        "A": "congruent",
+        "B": "similar",
+        "C": "tangent",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "25: Chords of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the following figure, circles centred at D and E are ______",
+      "options": {
+        "A": "congruent",
+        "B": "similar",
+        "C": "both (a) and (b)",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "25: Chords of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the given figure, the length of the chord $\\overline{AB}$ is",
+      "options": {
+        "A": "4cm",
+        "B": "6cm",
+        "C": "8cm",
+        "D": "15cm"
+      }
+    },
+    {
+      "chapter": "25: Chords of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "One and only one circle passes through ______ three points.",
+      "options": {
+        "A": "collinear",
+        "B": "non-collinear",
+        "C": "disjoint",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "25: Chords of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The hypothesis of the enunciation \"If two chords of a circle are congruent, then they are equidistant from the centre.\" is:",
+      "options": {
+        "A": "two chords of a circle are equidistant from the centre.",
+        "B": "two chords of a circle are congruent.",
+        "C": "a circle has two chords.",
+        "D": "the centre of circle is equidistant from chords."
+      }
+    },
+    {
+      "chapter": "25: Chords of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The conclusion of the enunciation \"If two chords of a circle are congruent, then they are equidistant from the centre.\" is:",
+      "options": {
+        "A": "two chords of the circle are equidistant from the centre.",
+        "B": "two chords of a circle are congruent.",
+        "C": "a circle has two chords.",
+        "D": "the centre of circle is equidistant from chords."
+      }
+    },
+    {
+      "chapter": "25: Chords of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The hypothesis of the enunciation \"One and only one circle can pass through three non-collinear points\" is:",
+      "options": {
+        "A": "three points are non-collinear.",
+        "B": "one and only one circle passes through three points."
+      }
+    },
+    {
+      "chapter": "26: Tangents of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If a point is outside the circle then from this point we can draw ______ tangent(s) to the circle.",
+      "options": {
+        "A": "one",
+        "B": "two",
+        "C": "three",
+        "D": "none"
+      }
+    },
+    {
+      "chapter": "26: Tangents of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Angle between the radial segment and tangent at its outer end point is ___.",
+      "options": {
+        "A": "45$^\\circ$",
+        "B": "60$^\\circ$",
+        "C": "90$^\\circ$",
+        "D": "120$^\\circ$"
+      }
+    },
+    {
+      "chapter": "26: Tangents of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the adjacent figure, circles with centres E and C",
+      "options": {
+        "A": "touch internally",
+        "B": "touch externally",
+        "C": "do not touch",
+        "D": "are congruent"
+      }
+    },
+    {
+      "chapter": "26: Tangents of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the adjacent figure, circles with centres B and C have ______ point(s) of contact.",
+      "options": {
+        "A": "no",
+        "B": "one",
+        "C": "two",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "26: Tangents of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In adjacent figure, circles with centres E and C have ______ point(s) of contact.",
+      "options": {
+        "A": "no",
+        "B": "one",
+        "C": "two",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "26: Tangents of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the adjacent figure, AB is",
+      "options": {
+        "A": "tangent",
+        "B": "secant",
+        "C": "chord",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "26: Tangents of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the adjacent figure, CDE is",
+      "options": {
+        "A": "tangent",
+        "B": "secant",
+        "C": "chord",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "26: Tangents of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the adjacent figure, the point of tangency is",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      }
+    },
+    {
+      "chapter": "26: Tangents of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Tangents drawn at end points of a diameter of a circle are ______ to each other",
+      "options": {
+        "A": "parallel",
+        "B": "perpendicular",
+        "C": "intersecting",
+        "D": "both (b) and (c)"
+      }
+    },
+    {
+      "chapter": "26: Tangents of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The maximum number of common tangents between two circles touching internally is",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      }
+    },
+    {
+      "chapter": "26: Tangents of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The maximum number of common tangents between two circles touching externally is",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      }
+    },
+    {
+      "chapter": "27: Chords and Arcs",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If a chord of a circle subtends, a central angle of 60$^\\circ$. Then the chord and the radial segment are:",
+      "options": {
+        "A": "Parallel",
+        "B": "Perpendicular",
+        "C": "Congruent",
+        "D": "Incongruent"
+      }
+    },
+    {
+      "chapter": "27: Chords and Arcs",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An arc subtends a central angle of 45$^\\circ$ then the corresponding chords will subtend a central angle of?",
+      "options": {
+        "A": "18$^\\circ$",
+        "B": "30$^\\circ$",
+        "C": "45$^\\circ$",
+        "D": "60$^\\circ$"
+      }
+    },
+    {
+      "chapter": "27: Chords and Arcs",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A pair of chords of a circle subtending two congruent central angle are.",
+      "options": {
+        "A": "Perpendicular",
+        "B": "Non congruent",
+        "C": "Congruent",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "27: Chords and Arcs",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The arcs opposite to congruent central angles of a circle are always.",
+      "options": {
+        "A": "Parallel",
+        "B": "Congruent",
+        "C": "Perpendicular",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "27: Chords and Arcs",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A 6cm long chord subtends a central angle of 60$^\\circ$. The radial segment of this circle is",
+      "options": {
+        "A": "4cm",
+        "B": "6cm",
+        "C": "5cm",
+        "D": "8cm"
+      }
+    },
+    {
+      "chapter": "27: Chords and Arcs",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The chord length of a circle subtending a central angle of 180$^\\circ$ is always",
+      "options": {
+        "A": "equal to the radial segment",
+        "B": "less than radial segment",
+        "C": "double of radial segment",
+        "D": "half of the radial segment"
+      }
+    },
+    {
+      "chapter": "27: Chords and Arcs",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The length of a chord and the radial segment of a circle are congruent, the central angle made by the chord will be:",
+      "options": {
+        "A": "60$^\\circ$",
+        "B": "75$^\\circ$",
+        "C": "90$^\\circ$",
+        "D": "45$^\\circ$"
+      }
+    },
+    {
+      "chapter": "27: Chords and Arcs",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Out of two congruent arcs of a circle, if one arc makes a central angle of 30$^\\circ$ then the other arc will subtend the central angle:",
+      "options": {
+        "A": "60$^\\circ$",
+        "B": "90$^\\circ$",
+        "C": "75$^\\circ$",
+        "D": "30$^\\circ$"
+      }
+    },
+    {
+      "chapter": "27: Chords and Arcs",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Diameter divides the circle into ______ parts.",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "28: Angle in a Segment of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Inscribed angle of --------- is obtuse.",
+      "options": {
+        "A": "minor arc",
+        "B": "major arc",
+        "C": "semi-circle",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "28: Angle in a Segment of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "______ is the circular region bounded by arc and its chord",
+      "options": {
+        "A": "Sector",
+        "B": "Segment",
+        "C": "Major arc",
+        "D": "Circumference"
+      }
+    },
+    {
+      "chapter": "28: Angle in a Segment of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $2x$ is the measure of inscribed angle of minor arc then the central angle of corresponding major arc is ---------",
+      "options": {
+        "A": "x",
+        "B": "2x",
+        "C": "3x",
+        "D": "4x"
+      }
+    },
+    {
+      "chapter": "28: Angle in a Segment of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $2x$ and 60$^\\circ$ are the measures of inscribed angles of same segment then $x$ =",
+      "options": {
+        "A": "120$^\\circ$",
+        "B": "60$^\\circ$",
+        "C": "20$^\\circ$",
+        "D": "30$^\\circ$"
+      }
+    },
+    {
+      "chapter": "28: Angle in a Segment of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The inscribed angle of minor arc of circle is -----",
+      "options": {
+        "A": "acute",
+        "B": "obtuse",
+        "C": "right",
+        "D": "reflex"
+      }
+    },
+    {
+      "chapter": "28: Angle in a Segment of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The inscribed angle of major arc of circle is ------------ angle.",
+      "options": {
+        "A": "acute",
+        "B": "obtuse",
+        "C": "right",
+        "D": "reflex"
+      }
+    },
+    {
+      "chapter": "28: Angle in a Segment of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Sum of opposite angles of cyclic quadrilateral is — —",
+      "options": {
+        "A": "90$^\\circ$",
+        "B": "180$^\\circ$",
+        "C": "270$^\\circ$",
+        "D": "360$^\\circ$"
+      }
+    },
+    {
+      "chapter": "28: Angle in a Segment of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A parallelogram inscribed in a circle is ----",
+      "options": {
+        "A": "kite",
+        "B": "trapezium",
+        "C": "rectangle",
+        "D": "rhombus"
+      }
+    },
+    {
+      "chapter": "28: Angle in a Segment of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The central angle of an arc is ---- than inscribed angle of corresponding arc.",
+      "options": {
+        "A": "less",
+        "B": "greater",
+        "C": "less or equal",
+        "D": "greater or equal"
+      }
+    },
+    {
+      "chapter": "28: Angle in a Segment of a Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The sum of central angles of all the arcs of a circle is ----",
+      "options": {
+        "A": "90$^\\circ$",
+        "B": "180$^\\circ$",
+        "C": "360$^\\circ$",
+        "D": "1000$^\\circ$"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Right bisectors of non-parallel ______ intersect at the centre of the circle.",
+      "options": {
+        "A": "Radial segments",
+        "B": "Chords",
+        "C": "Tangents",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "______ circles can pass through a single point.",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Infinite"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "______ circles can pass through three non-collinear points.",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Infinite"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "______ angles of regular polygon are equal in measure.",
+      "options": {
+        "A": "Interior",
+        "B": "Exterior",
+        "C": "both a and b",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Each interior angle of regular hexagon is equal to",
+      "options": {
+        "A": "90$^\\circ$",
+        "B": "108$^\\circ$",
+        "C": "120$^\\circ$",
+        "D": "135$^\\circ$"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A circle which touches all the sides of triangle is called",
+      "options": {
+        "A": "circumcircle",
+        "B": "incircle",
+        "C": "excircle",
+        "D": "tricircle"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A circle which touches one side of triangle externally and two produced sides internally is called",
+      "options": {
+        "A": "excircle",
+        "B": "circumcircle",
+        "C": "incircle",
+        "D": "tricircle"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The centre of inscribed circle is called",
+      "options": {
+        "A": "excentre",
+        "B": "incentre",
+        "C": "centroid",
+        "D": "orthocentre"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Right bisectors of sides of a triangle intersect each other at",
+      "options": {
+        "A": "incentre",
+        "B": "excentre",
+        "C": "centroid",
+        "D": "circumcentre"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The point of intersection of internal bisectors of angles of a triangle is called",
+      "options": {
+        "A": "excentre",
+        "B": "circumcentre",
+        "C": "centroid",
+        "D": "incentre"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If a regular hexagon is inscribed in a circle then length of each side of hexagon ______ radius of the circle",
+      "options": {
+        "A": "$<$",
+        "B": "$>$",
+        "C": "$=$",
+        "D": "none"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Angle between tangent and radial segment at the point of contact is ______ angle",
+      "options": {
+        "A": "right",
+        "B": "obtuse",
+        "C": "acute",
+        "D": "reflex"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The central angle of circle joining the points of contact of tangents is ______ of the angle between the tangents",
+      "options": {
+        "A": "complement",
+        "B": "supplement",
+        "C": "square",
+        "D": "cube"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "______ common tangents do not intersect the line segment joining the centres of the circle",
+      "options": {
+        "A": "internal",
+        "B": "transverse",
+        "C": "direct",
+        "D": "vertical"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Direct common tangents of two equal circles are",
+      "options": {
+        "A": "intersecting",
+        "B": "coincident",
+        "C": "equal",
+        "D": "parallel"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "______ common tangents of two equal circles intersect at the midpoint of the line segment joining the centres of the circles",
+      "options": {
+        "A": "direct",
+        "B": "transverse",
+        "C": "external",
+        "D": "parallel"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If two circles of radii 5cm and 2cm touch each other externally then the distance between their centers is",
+      "options": {
+        "A": "5cm",
+        "B": "10cm",
+        "C": "3cm",
+        "D": "7cm"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If two circles of radii 5cm and 2cm touch each other internally then the distance between their centres is",
+      "options": {
+        "A": "5cm",
+        "B": "10cm",
+        "C": "3cm",
+        "D": "7cm"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two or more converging lines always intersect each other at",
+      "options": {
+        "A": "single point",
+        "B": "two points",
+        "C": "more than one point",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "29: Practical Geometry-Circles",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Three or more sided closed figure is called",
+      "options": {
+        "A": "pentagon",
+        "B": "hexagon",
+        "C": "heptagon",
+        "D": "polygon"
+      }
+    },
+    {
+      "chapter": "30: Introduction to Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The system of measurement in which angle is measured in radian is called:",
+      "options": {
+        "A": "CGS System",
+        "B": "Sexagesimal",
+        "C": "MKS system",
+        "D": "circular system"
+      }
+    },
+    {
+      "chapter": "30: Introduction to Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The union of two non-collinear rays at common vertex is called",
+      "options": {
+        "A": "an angle",
+        "B": "a degree",
+        "C": "a minute",
+        "D": "radian"
+      }
+    },
+    {
+      "chapter": "30: Introduction to Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "10$^\\circ$ =",
+      "options": {
+        "A": "600$''$",
+        "B": "3600$''$",
+        "C": "600$'$",
+        "D": "600"
+      }
+    },
+    {
+      "chapter": "30: Introduction to Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\frac{5}{4}$ radians =",
+      "options": {
+        "A": "115$^\\circ$",
+        "B": "225$^\\circ$",
+        "C": "135$^\\circ$",
+        "D": "45$^\\circ$"
+      }
+    },
+    {
+      "chapter": "30: Introduction to Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\frac{1 + \\sec 45^\\circ}{2}$ = ?",
+      "options": {
+        "A": "$\\frac{\\sqrt{2}}{2}$",
+        "B": "$\\frac{\\sqrt{3}}{2}$",
+        "C": "$\\frac{2}{\\sqrt{3}}$",
+        "D": "$\\frac{1}{2}$"
+      }
+    },
+    {
+      "chapter": "30: Introduction to Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\csc\\theta - \\sin\\theta$ =",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "0.5"
+      }
+    },
+    {
+      "chapter": "30: Introduction to Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\sec^2\\theta - \\tan^2\\theta$ =",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\cos^2\\theta$"
+      }
+    },
+    {
+      "chapter": "30: Introduction to Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In unit circle for point $(x, y)$, $\\sin\\theta$ =",
+      "options": {
+        "A": "$x$",
+        "B": "$-x$",
+        "C": "$y$",
+        "D": "$-y$"
+      }
+    },
+    {
+      "chapter": "30: Introduction to Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\sin\\theta = \\frac{1}{\\sqrt{2}}$ and $\\theta$ lies in the 3rd quadrant, then $\\tan\\theta$ =?",
+      "options": {
+        "A": "-1",
+        "B": "1",
+        "C": "+1",
+        "D": "$\\frac{1}{\\sqrt{2}}$"
+      }
+    },
+    {
+      "chapter": "30: Introduction to Trigonometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If an object is above the level of an observer then angle formed between the horizontal line and observer's line of sight is called:",
+      "options": {
+        "A": "an angle of depression",
+        "B": "an angle of elevation",
+        "C": "an obtuse angle",
+        "D": "None of these"
+      }
+    }
+  ]
+}

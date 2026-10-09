@@ -1,0 +1,986 @@
+{
+  "subject": "Computer Science",
+  "class": "IX",
+  "questions": [
+    {
+      "chapter": "Chapter 1: Fundamentals of Computer",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The device that converts hard copy into soft copy is:",
+      "options": {
+        "A": "printer",
+        "B": "plotter",
+        "C": "scanner",
+        "D": "barcode reader"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Fundamentals of Computer",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The volatile memory",
+      "options": {
+        "A": "is permanent",
+        "B": "loses contents as the power is disconnected",
+        "C": "possesses large storage",
+        "D": "manages hardware resources"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Fundamentals of Computer",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Media players are:",
+      "options": {
+        "A": "business software",
+        "B": "education software",
+        "C": "entertainment software",
+        "D": "productivity software"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Fundamentals of Computer",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The programs that are generally installed to manage and maintain overall computer resources is:",
+      "options": {
+        "A": "operating system",
+        "B": "utility program",
+        "C": "language translator",
+        "D": "device driver"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Fundamentals of Computer",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Modern languages use",
+      "options": {
+        "A": "compiler",
+        "B": "interpreter",
+        "C": "convertor",
+        "D": "assembler"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Fundamentals of Computer",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A collection of wires connecting the CPU with main memory that is used to identify particular locations is:",
+      "options": {
+        "A": "control bus",
+        "B": "data bus",
+        "C": "address bus",
+        "D": "memory bus"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Fundamentals of Computer",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The inexpensive and most commonly used computers are:",
+      "options": {
+        "A": "super computer",
+        "B": "mainframe computer",
+        "C": "minicomputer",
+        "D": "microcomputer"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Fundamentals of Computer",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Computer cannot start without:",
+      "options": {
+        "A": "operating system",
+        "B": "utility program",
+        "C": "device drivers",
+        "D": "business software"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Fundamentals of Computer",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Graphical User Interface (GUI) was developed in:",
+      "options": {
+        "A": "second generation",
+        "B": "fourth generation",
+        "C": "mechanical era",
+        "D": "electro-mechanical era"
+      }
+    },
+    {
+      "chapter": "Chapter 1: Fundamentals of Computer",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A person who uses different programming languages to develop programs is:",
+      "options": {
+        "A": "database administrator",
+        "B": "web designer",
+        "C": "software engineer",
+        "D": "graphic designer"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Fundamentals of Operating System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The software which performs all basic tasks is:",
+      "options": {
+        "A": "antivirus",
+        "B": "start menu",
+        "C": "operating system",
+        "D": "office automation"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Fundamentals of Operating System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A program that enables user to interact with computer is called:",
+      "options": {
+        "A": "my document",
+        "B": "start menu",
+        "C": "desktop",
+        "D": "interface"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Fundamentals of Operating System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process of checking computer, starting operating system and making it ready to work is referred to as:",
+      "options": {
+        "A": "resource management",
+        "B": "booting",
+        "C": "error checking",
+        "D": "file management"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Fundamentals of Operating System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of user(s) that can access the resources simultaneously on a Multiuser OS is /are:",
+      "options": {
+        "A": "one",
+        "B": "two",
+        "C": "many",
+        "D": "only administrators"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Fundamentals of Operating System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which management controls the dynamic allocation and de-allocation of processor, memory, etc?",
+      "options": {
+        "A": "Resource",
+        "B": "File",
+        "C": "I/O",
+        "D": "User"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Fundamentals of Operating System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In which operating system jobs are executed in groups?",
+      "options": {
+        "A": "Batch Processing",
+        "B": "Time Sharing",
+        "C": "Single User",
+        "D": "Real Time"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Fundamentals of Operating System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The system that guarantees that critical tasks should be completed without shortest delay is:",
+      "options": {
+        "A": "Batch Processing",
+        "B": "Hard Real Time",
+        "C": "Soft Real Time",
+        "D": "Time Sharing"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Fundamentals of Operating System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "DOS is an example of:",
+      "options": {
+        "A": "Real Time Processing OS",
+        "B": "Multi Processing OS",
+        "C": "Single User OS",
+        "D": "Multi User OS"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Fundamentals of Operating System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The group of programs that helps office workers to do a number of routine tasks easily and efficiently is called:",
+      "options": {
+        "A": "operating system",
+        "B": "e-mail",
+        "C": "anti-virus",
+        "D": "office automation"
+      }
+    },
+    {
+      "chapter": "Chapter 2: Fundamentals of Operating System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The operating system that allows frequent switching from one task to another is:",
+      "options": {
+        "A": "Batch Processing",
+        "B": "Real Time Processing",
+        "C": "Single User",
+        "D": "Time Sharing"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Office Automation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which chart will be suitable to show the share of three partners in a business?",
+      "options": {
+        "A": "Line chart (shown as figure)",
+        "B": "Bar chart (shown as figure)",
+        "C": "Area chart (shown as figure)",
+        "D": "Pie chart (shown as figure)"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Office Automation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The software that is used for accounting purpose is:",
+      "options": {
+        "A": "MS Word",
+        "B": "MS Excel",
+        "C": "MS Power Point",
+        "D": "MS Access"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Office Automation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The software that is used to format a document is:",
+      "options": {
+        "A": "MS Word",
+        "B": "MS Excel",
+        "C": "MS Power Point",
+        "D": "MS Access"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Office Automation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The special character that initiates the formula mode in a cell is:",
+      "options": {
+        "A": "/",
+        "B": "=",
+        "C": "-",
+        "D": "*"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Office Automation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The function which is used to re-arrange data according to specific criteria is called:",
+      "options": {
+        "A": "Filtering",
+        "B": "Sorting",
+        "C": "Organizing",
+        "D": "Grouping"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Office Automation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If we want to change the overall design of a word document, we should use:",
+      "options": {
+        "A": "themes",
+        "B": "page layout",
+        "C": "watermark",
+        "D": "margins"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Office Automation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The correct formula to calculate the total in the given table is:",
+      "options": {
+        "A": "=B2+C2+D2+E2",
+        "B": "=B2+E2",
+        "C": "=sum (B2 to E2)",
+        "D": "=sum (B2 from E2)"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Office Automation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The correct formula to calculate the percentage in the given table is:",
+      "options": {
+        "A": "=B2+C2+D2+E2 / 400 * 100",
+        "B": "=B2+C2+D2+E2 * 100",
+        "C": "=(B2+C2+D2+E2) / 400 * 100",
+        "D": "=(B2+C2+D2+E2) / 100 * 400"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Office Automation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Charts are basically used to",
+      "options": {
+        "A": "design tables",
+        "B": "organize data in tables",
+        "C": "Sort data in different columns",
+        "D": "show the quantities and their relationships graphically"
+      }
+    },
+    {
+      "chapter": "Chapter 3: Office Automation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "To apply the table of contents automatically, the most important task is to properly define the",
+      "options": {
+        "A": "levels of heading",
+        "B": "page numbering",
+        "C": "page layout",
+        "D": "themes"
+      }
+    },
+    {
+      "chapter": "Chapter 4: Data Communication and Computer Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Wired Media is also called:",
+      "options": {
+        "A": "targeted media",
+        "B": "directed media",
+        "C": "guided media",
+        "D": "unguided media"
+      }
+    },
+    {
+      "chapter": "Chapter 4: Data Communication and Computer Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Communication system is made up of",
+      "options": {
+        "A": "three components",
+        "B": "four components",
+        "C": "five components",
+        "D": "six components"
+      }
+    },
+    {
+      "chapter": "Chapter 4: Data Communication and Computer Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Both Physical and Logical addresses are:",
+      "options": {
+        "A": "different",
+        "B": "unique",
+        "C": "permanent",
+        "D": "temporary"
+      }
+    },
+    {
+      "chapter": "Chapter 4: Data Communication and Computer Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If you are an electrical or electronic engineer, you should join:",
+      "options": {
+        "A": "IEEE",
+        "B": "IETF",
+        "C": "ITU",
+        "D": "ANSI"
+      }
+    },
+    {
+      "chapter": "Chapter 4: Data Communication and Computer Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The topology in which all computers are connected to a central device called hub is:",
+      "options": {
+        "A": "Bus",
+        "B": "Star",
+        "C": "Ring",
+        "D": "Tree"
+      }
+    },
+    {
+      "chapter": "Chapter 4: Data Communication and Computer Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Change in the shape of signal between sender and receiver is called:",
+      "options": {
+        "A": "attenuation",
+        "B": "interruption",
+        "C": "noise",
+        "D": "distortion"
+      }
+    },
+    {
+      "chapter": "Chapter 4: Data Communication and Computer Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Router determines data path to transfer data packets which is the:",
+      "options": {
+        "A": "shortest",
+        "B": "longest",
+        "C": "cheapest",
+        "D": "optimal"
+      }
+    },
+    {
+      "chapter": "Chapter 4: Data Communication and Computer Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Converting digital signal to analog is called:",
+      "options": {
+        "A": "modulation",
+        "B": "modification",
+        "C": "bandwidth",
+        "D": "multiplexing"
+      }
+    },
+    {
+      "chapter": "Chapter 4: Data Communication and Computer Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of bits used in an IPv4 address are:",
+      "options": {
+        "A": "16",
+        "B": "32",
+        "C": "64",
+        "D": "128"
+      }
+    },
+    {
+      "chapter": "Chapter 4: Data Communication and Computer Networks",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The loss of energy in transmission signal refers to.",
+      "options": {
+        "A": "Attenuation",
+        "B": "Distortion",
+        "C": "Noise",
+        "D": "Jitter"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Security and Ethics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The broad term that encompasses different harmful software is:",
+      "options": {
+        "A": "Virus",
+        "B": "Malware",
+        "C": "Adware",
+        "D": "Spyware"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Security and Ethics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The authentication mechanism that only allows the real person to access data or device is:",
+      "options": {
+        "A": "Username and Password",
+        "B": "PIN",
+        "C": "Biometric",
+        "D": "Scan Code"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Security and Ethics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Software are mostly protected under:",
+      "options": {
+        "A": "Patents",
+        "B": "Copyrights",
+        "C": "Trademarks",
+        "D": "Logos"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Security and Ethics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The professional ethics in computer field is important because:",
+      "options": {
+        "A": "It is necessary by law.",
+        "B": "Violation can cause serious penalties.",
+        "C": "It is useful for financial benefits.",
+        "D": "It creates healthy and positive work environment."
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Security and Ethics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Free Antivirus Software often",
+      "options": {
+        "A": "Expire after sometimes",
+        "B": "Offer only limited service",
+        "C": "Cannot be updated",
+        "D": "Cannot be purchased"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Security and Ethics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Copying and pasting some texts from internet without acknowledging the real author is an example of:",
+      "options": {
+        "A": "Plagiarism",
+        "B": "Illegal use of patent",
+        "C": "Information Piracy",
+        "D": "Copyright Violation"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Security and Ethics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Since it does not harm or steal data, the least harmful malware is:",
+      "options": {
+        "A": "Virus",
+        "B": "Adware",
+        "C": "Spyware",
+        "D": "Trojan"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Security and Ethics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The malware that replicates itself and doesn't need to attach with any files is:",
+      "options": {
+        "A": "Virus",
+        "B": "Adware",
+        "C": "Spyware",
+        "D": "Worm"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Security and Ethics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Through which virus spreads?",
+      "options": {
+        "A": "Email Attachments",
+        "B": "Internet Downloads",
+        "C": "Flash Disks and CDs",
+        "D": "All of them"
+      }
+    },
+    {
+      "chapter": "Chapter 5: Computer Security and Ethics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "\"Click this link and win a \\$5 voucher at McDonald's.\" This is an example of:",
+      "options": {
+        "A": "Scam",
+        "B": "Phishing",
+        "C": "Clickjacking",
+        "D": "Hacking"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Web Development",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The service that is responsible for making websites publicly accessible through the internet is called",
+      "options": {
+        "A": "Web Server",
+        "B": "Web Hosting",
+        "C": "Web Site",
+        "D": "Web Browser"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Web Development",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of special website where different users can ask questions and give answers or discuss on various topics is called:",
+      "options": {
+        "A": "Social site",
+        "B": "Blogs site",
+        "C": "Forums site",
+        "D": "Informational site"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Web Development",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Entertainment site specializes in delivering:",
+      "options": {
+        "A": "News, weather and current affairs",
+        "B": "Information about products and services of a business",
+        "C": "Personal information of a particular person",
+        "D": "Content like videos, images and games for entertainment"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Web Development",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A web browser will translate the codes in a web page if the extension of the document is:",
+      "options": {
+        "A": ".html",
+        "B": ".txt",
+        "C": ".doc",
+        "D": ".pdf"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Web Development",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The tag used to automatically add line space before and after the containing text is:",
+      "options": {
+        "A": "<br>",
+        "B": "<hr>",
+        "C": "<p>",
+        "D": "<pre>"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Web Development",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of list which shows its items in a numerically ordered sequence is:",
+      "options": {
+        "A": "Nested List",
+        "B": "Unordered List",
+        "C": "Ordered List",
+        "D": "Description List"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Web Development",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "To create a clickable text which navigates to another page or section, we use:",
+      "options": {
+        "A": "<input> tag",
+        "B": "<li> tag",
+        "C": "<b> tag",
+        "D": "<a> tag"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Web Development",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "To differentiate the heading cells from rest of the data in a table, we use:",
+      "options": {
+        "A": "<th> tag",
+        "B": "<tr> tag",
+        "C": "<td> tag",
+        "D": "<dt> tag"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Web Development",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The tag used to define the title caption of the web browser is:",
+      "options": {
+        "A": "<thead>",
+        "B": "<head>",
+        "C": "<title>",
+        "D": "<h1>"
+      }
+    },
+    {
+      "chapter": "Chapter 6: Web Development",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The attribute used to define the URL for reference of image in <img> tag is:",
+      "options": {
+        "A": "target",
+        "B": "name",
+        "C": "src",
+        "D": "href"
+      }
+    },
+    {
+      "chapter": "Chapter 7: Introduction to Database System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following Microsoft Office packages is a DBMS?",
+      "options": {
+        "A": "MS-Word",
+        "B": "MS-Excel",
+        "C": "MS-Power Point",
+        "D": "MS-Access"
+      }
+    },
+    {
+      "chapter": "Chapter 7: Introduction to Database System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The basic limitation of a flat file database is that:",
+      "options": {
+        "A": "It is complicated",
+        "B": "It stores data in a single file",
+        "C": "It is very heavy",
+        "D": "It is not supported on internet"
+      }
+    },
+    {
+      "chapter": "Chapter 7: Introduction to Database System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a database table of \"Students\", the address of the student will be a:",
+      "options": {
+        "A": "Record",
+        "B": "Field",
+        "C": "Entity",
+        "D": "Data type"
+      }
+    },
+    {
+      "chapter": "Chapter 7: Introduction to Database System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a database table of \"Students\", the particulars of a single student will be a:",
+      "options": {
+        "A": "Record",
+        "B": "Field",
+        "C": "Entity",
+        "D": "Data type"
+      }
+    },
+    {
+      "chapter": "Chapter 7: Introduction to Database System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a relational database, keys are used to create a:",
+      "options": {
+        "A": "Table",
+        "B": "Fields",
+        "C": "Records",
+        "D": "Relationship"
+      }
+    },
+    {
+      "chapter": "Chapter 7: Introduction to Database System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A field that stores the names of students should be defined as:",
+      "options": {
+        "A": "Integer",
+        "B": "Float",
+        "C": "String",
+        "D": "Boolean"
+      }
+    },
+    {
+      "chapter": "Chapter 7: Introduction to Database System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A key that allows only unique entries in a field is called:",
+      "options": {
+        "A": "Primary Key",
+        "B": "Secondary Key",
+        "C": "Foreign Key",
+        "D": "Super Key"
+      }
+    },
+    {
+      "chapter": "Chapter 7: Introduction to Database System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Data Redundancy means:",
+      "options": {
+        "A": "Duplication of Data",
+        "B": "Variety of Data",
+        "C": "Size of Data",
+        "D": "Data Type"
+      }
+    },
+    {
+      "chapter": "Chapter 7: Introduction to Database System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The relationship that matches one record of an entity with only one record of another entity is called:",
+      "options": {
+        "A": "One-to-One relationship",
+        "B": "One-to-Many relationship",
+        "C": "Many-to-One relationship",
+        "D": "Many-to-Many relationship"
+      }
+    },
+    {
+      "chapter": "Chapter 7: Introduction to Database System",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The shape that is used to represent an attribute in an ERD is:",
+      "options": {
+        "A": "A diamond",
+        "B": "An octagon",
+        "C": "A rectangle",
+        "D": "An ellipse"
+      }
+    }
+  ]
+}

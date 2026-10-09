@@ -1,0 +1,1812 @@
+{
+  "subject": "Biology",
+  "class": "XII",
+  "questions": [
+    {
+      "chapter": "15: Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A self-regulating process by which biological systems maintain stability while adjusting to the changing conditions called",
+      "options": {
+        "A": "Homeostasis",
+        "B": "Osmoregulation",
+        "C": "Excretion",
+        "D": "Biological rhythms"
+      }
+    },
+    {
+      "chapter": "15: Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which does not maintain a stable, homeostatic condition rather it intensifies the change that is happening to the body.",
+      "options": {
+        "A": "Negative feedback",
+        "B": "Positive feedback",
+        "C": "Feed back system",
+        "D": "Excretion"
+      }
+    },
+    {
+      "chapter": "15: Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Fresh water organisms also have specialized cells located in their gills and in skin which actively extract $Na^+$, $Cl^-$, and $Ca^{2+}$ from external medium and excrete acidic ($H^+$) or basic ($HCO_3^-$) for acid base balance in the body fluids are called",
+      "options": {
+        "A": "Granulocyte",
+        "B": "Lymphocyte",
+        "C": "Ionocytes",
+        "D": "Podocyte"
+      }
+    },
+    {
+      "chapter": "15: Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Renal cortex produces an important hormone necessary for the synthesis of RBC's",
+      "options": {
+        "A": "Erythropoietin",
+        "B": "Leukopoietin",
+        "C": "Thrombopoietin",
+        "D": "Renin"
+      }
+    },
+    {
+      "chapter": "15: Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Glomerulus have specialized cells that are wrapped around blood capillaries that play an active role in preventing plasma proteins from entering the urinary ultrafiltrate called",
+      "options": {
+        "A": "Epithelial cells",
+        "B": "Podocyte cells",
+        "C": "Endothelial cells",
+        "D": "None of them"
+      }
+    },
+    {
+      "chapter": "15: Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Tubules secretes ions such as hydrogen, potassium, and $NH_3$ into the filtrate while reabsorbing the $HCO_3^-$ from the filtrate are called",
+      "options": {
+        "A": "Distal convoluted tubule",
+        "B": "Proximal convoluted tubule",
+        "C": "Collecting duct",
+        "D": "Loop of Henle"
+      }
+    },
+    {
+      "chapter": "15: Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Glomerular filtration rate (GFR) is in which proportional to the hydrostatic pressure exerted in glomerulus wall",
+      "options": {
+        "A": "Indirectly proportional",
+        "B": "Directly proportional",
+        "C": "Same proportional",
+        "D": "High proportional"
+      }
+    },
+    {
+      "chapter": "15: Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Another compound that increases the osmotic gradient in inner medulla is the",
+      "options": {
+        "A": "Urea",
+        "B": "Water",
+        "C": "Sulphates",
+        "D": "Phosphates"
+      }
+    },
+    {
+      "chapter": "15: Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The inflammation in kidneys due to irritation of kidney stones is called",
+      "options": {
+        "A": "Lithonephritis",
+        "B": "Edema",
+        "C": "Sarcoma",
+        "D": "Encephalitis"
+      }
+    },
+    {
+      "chapter": "15: Homeostasis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the surrounding environment becomes hot or a person do strenuous physical activity the heat produced inside the body and raises body temperature above suitable limit this condition is called",
+      "options": {
+        "A": "Exothermia",
+        "B": "Hyperthermia",
+        "C": "Hypothermia",
+        "D": "Endothermia"
+      }
+    },
+    {
+      "chapter": "16: Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of bone cell that tears down bone during the building and remodeling process are",
+      "options": {
+        "A": "Osteocytes",
+        "B": "Osteoblasts",
+        "C": "Osteoclasts",
+        "D": "Bone lining cells"
+      }
+    },
+    {
+      "chapter": "16: Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "During bone formation, as the periosteum calcifies, it gives rise to a thin plate of compact bone called",
+      "options": {
+        "A": "Periosteal bud",
+        "B": "Periosteal bone collar",
+        "C": "Primary ossification center",
+        "D": "Epiphyseal plate"
+      }
+    },
+    {
+      "chapter": "16: Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The ring like shape of the girdle is due to the joining of coxal bone with the sacrum of vertebral column at anterior side and below by a joint in between pubic part called",
+      "options": {
+        "A": "Pubic symphysis",
+        "B": "Iliac junction",
+        "C": "Pelvic symphysis",
+        "D": "Syndesmosis"
+      }
+    },
+    {
+      "chapter": "16: Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Cartilage is a soft flexible form of connective tissue surrounded by a layer called",
+      "options": {
+        "A": "Myocardium",
+        "B": "Periosteum",
+        "C": "Osteoderm",
+        "D": "Perichondrium"
+      }
+    },
+    {
+      "chapter": "16: Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An antagonist muscle is relaxed while the other side opposite to antagonist muscle",
+      "options": {
+        "A": "Contracted",
+        "B": "Relaxed",
+        "C": "No change",
+        "D": "Extremely relaxed"
+      }
+    },
+    {
+      "chapter": "16: Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The stage when old bone tissues are removed and gets replaced with new ones that joins both fractured sides called",
+      "options": {
+        "A": "Bone remodeling stage",
+        "B": "Bone callus formation",
+        "C": "Cartilaginous callus formation",
+        "D": "Hematoma formation"
+      }
+    },
+    {
+      "chapter": "16: Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which is related to the mild to severe grade of stretching or tearing of a ligament that holds the bones of a joint together?",
+      "options": {
+        "A": "Spasm",
+        "B": "Tetany",
+        "C": "Sprains",
+        "D": "Cramps"
+      }
+    },
+    {
+      "chapter": "16: Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Muscle fiber are gathered in many groups each group of fibers is called a fascicle which is surrounded by a membrane called",
+      "options": {
+        "A": "Sarcolemma",
+        "B": "Perimysium",
+        "C": "Endomysium",
+        "D": "Epimysium"
+      }
+    },
+    {
+      "chapter": "16: Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The heart muscles arranged in a branching network where cells are joined together and making a",
+      "options": {
+        "A": "Synceytium",
+        "B": "Sarcoplasmic reticulum",
+        "C": "Endoplasmic reticulum",
+        "D": "T-tubules"
+      }
+    },
+    {
+      "chapter": "16: Support and Movement",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "These joints hold the bone by dense connective tissue contain collagenous fibers",
+      "options": {
+        "A": "Fibrous joints",
+        "B": "Syndesmosis",
+        "C": "Gomphosis",
+        "D": "Synovial joints"
+      }
+    },
+    {
+      "chapter": "17: Nervous Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Most of the neurons in the human brain are",
+      "options": {
+        "A": "Sensory neurons",
+        "B": "Motor neurons",
+        "C": "Interneurons",
+        "D": "Auditory neurons"
+      }
+    },
+    {
+      "chapter": "17: Nervous Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A nervous system can alter activities in its target cells in muscles and gland because",
+      "options": {
+        "A": "They are electrically coupled by gap junctions.",
+        "B": "The target cells have receptor proteins for the signals released by the nervous system.",
+        "C": "The nervous system releases signals into the blood to control the target cells.",
+        "D": "The target cells that become disconnected from the nervous system rapidly die."
+      }
+    },
+    {
+      "chapter": "17: Nervous Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "For a neuron with an initial membrane potential at $-70$ mV, an increase in the movement of potassium ions out of that neuron's cytoplasm would result in",
+      "options": {
+        "A": "Depolarization of the neuron",
+        "B": "Hyperpolarization of neuron",
+        "C": "The replacement of potassium ions with sodium ions.",
+        "D": "The replacement of potassium ions with calcium ions."
+      }
+    },
+    {
+      "chapter": "17: Nervous Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Action potentials move along axons",
+      "options": {
+        "A": "More slowly in axons of large than in small diameter.",
+        "B": "The direct action of acetylcholine on the axon membrane.",
+        "C": "Activating the sodium-potassium pump at each point along the axon membrane.",
+        "D": "More rapidly in myelinated than in non-myelinated axons."
+      }
+    },
+    {
+      "chapter": "17: Nervous Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The surface on a neuron that discharges vesicles is the",
+      "options": {
+        "A": "Dendrite",
+        "B": "Axon hillock",
+        "C": "Presynaptic membrane",
+        "D": "Postsynaptic membrane"
+      }
+    },
+    {
+      "chapter": "17: Nervous Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An inhibitory postsynaptic potential occurs in a membrane made more permeable to",
+      "options": {
+        "A": "Potassium ions",
+        "B": "Sodium ions",
+        "C": "Calcium ions",
+        "D": "ATP"
+      }
+    },
+    {
+      "chapter": "17: Nervous Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The major inhibitory neurotransmitter of the brain is",
+      "options": {
+        "A": "Acetylcholine",
+        "B": "Epinephrine",
+        "C": "GABA",
+        "D": "Endorphin"
+      }
+    },
+    {
+      "chapter": "17: Nervous Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Where are neurotransmitter receptors located",
+      "options": {
+        "A": "On the nuclear membrane",
+        "B": "In the myelin sheet",
+        "C": "At nodes of Ranvier",
+        "D": "On the postsynaptic membrane"
+      }
+    },
+    {
+      "chapter": "17: Nervous Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which selection is incorrectly paired?",
+      "options": {
+        "A": "Forebrain — Diencephalon",
+        "B": "Fore brain — Cerebrum",
+        "C": "Midbrain — Brainstem",
+        "D": "Midbrain — Cerebellum"
+      }
+    },
+    {
+      "chapter": "18: Chemical Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following statements about hormones is incorrect?",
+      "options": {
+        "A": "They are produced by endocrine glands.",
+        "B": "They are modified amino acids, peptides or steroid molecules.",
+        "C": "They are carried by the circulatory system.",
+        "D": "They are used to communicate between different organisms."
+      }
+    },
+    {
+      "chapter": "18: Chemical Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Oxytocin and ADH are produced by the ____ and stored in the ____",
+      "options": {
+        "A": "Hypothalamus; Neurohypophysis",
+        "B": "Adenohypophysis; Kidneys",
+        "C": "Adrenal cortex; Adrenal medulla",
+        "D": "Posterior pituitary; Anterior pituitary"
+      }
+    },
+    {
+      "chapter": "18: Chemical Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Tropic hormones from the anterior pituitary directly affect the release of which of the following?",
+      "options": {
+        "A": "Parathyroid hormone",
+        "B": "Calcitonin",
+        "C": "Epinephrine",
+        "D": "Thyroxine"
+      }
+    },
+    {
+      "chapter": "18: Chemical Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following endocrine disorders is /are not correctly matched with the malfunctioning gland?",
+      "options": {
+        "A": "Diabetes — Pancreas",
+        "B": "Giantism — Pituitary",
+        "C": "Goiter — Adrenal medulla",
+        "D": "Tetany — Parathyroid"
+      }
+    },
+    {
+      "chapter": "18: Chemical Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which hormone exerts antagonistic action to PTH?",
+      "options": {
+        "A": "Thyroxin",
+        "B": "Calcitonin",
+        "C": "Growth hormone",
+        "D": "Epinephrine"
+      }
+    },
+    {
+      "chapter": "18: Chemical Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following are synthesized from the amino acid tyrosine?",
+      "options": {
+        "A": "Epinephrine",
+        "B": "Catecholamines",
+        "C": "Thyroxin",
+        "D": "All of the following"
+      }
+    },
+    {
+      "chapter": "18: Chemical Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the adrenal cortex were removed, which group of hormones would be most affected?",
+      "options": {
+        "A": "Steroid",
+        "B": "Peptide",
+        "C": "Tropic",
+        "D": "Amino acid derived"
+      }
+    },
+    {
+      "chapter": "18: Chemical Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following hormones is (are) secreted by the adrenal gland in response to stress and promote(s) the synthesis of glucose from non-carbohydrate substrates?",
+      "options": {
+        "A": "Glucagon",
+        "B": "Glucocorticoids",
+        "C": "Epinephrine",
+        "D": "Thyroxin"
+      }
+    },
+    {
+      "chapter": "18: Chemical Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following stimulates the contraction of uterine muscle?",
+      "options": {
+        "A": "Oxytocin",
+        "B": "Thyroxin",
+        "C": "Growth hormone",
+        "D": "Insulin"
+      }
+    },
+    {
+      "chapter": "18: Chemical Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A distinctive feature of the mechanism of action of thyroid hormones and steroid hormones is that",
+      "options": {
+        "A": "These hormones are regulated by feedback loop",
+        "B": "These hormones bind with specific receptor protein on the plasma membrane of target cells.",
+        "C": "These hormones bind to receptors inside cells",
+        "D": "Target cells react more rapidly to these hormones than to local regulators."
+      }
+    },
+    {
+      "chapter": "19: Animal Behaviour",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The decrease in response to repeated or continuous stimulation is called",
+      "options": {
+        "A": "Insight",
+        "B": "Habituation",
+        "C": "Maturation",
+        "D": "Instinct"
+      }
+    },
+    {
+      "chapter": "19: Animal Behaviour",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cyclic physiological patterns of activities in an organism that are in response to periodic environmental changes is called",
+      "options": {
+        "A": "Biological Clock",
+        "B": "Biological rhythms",
+        "C": "Circadian rhythms",
+        "D": "All of Above"
+      }
+    },
+    {
+      "chapter": "19: Animal Behaviour",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A directional movement of an organism toward or away from the particular stimulus is called",
+      "options": {
+        "A": "Kinesis",
+        "B": "Taxis",
+        "C": "Reflex",
+        "D": "Fixed Action Pattern"
+      }
+    },
+    {
+      "chapter": "19: Animal Behaviour",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Simplest form of learning, in which the animals learn not to respond or ignore to a repeated, irrelevant stimulus.",
+      "options": {
+        "A": "Imprinting",
+        "B": "Kinesis",
+        "C": "Habituation",
+        "D": "Fixed Action Pattern"
+      }
+    },
+    {
+      "chapter": "19: Animal Behaviour",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one of the following is not an instinct behaviour?",
+      "options": {
+        "A": "Migration of Salmon Fish",
+        "B": "Dances of bees",
+        "C": "Territorial behaviour in Gorillas",
+        "D": "Nest building by birds"
+      }
+    },
+    {
+      "chapter": "19: Animal Behaviour",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Wolfgang Kohler in 1920s performed the experiment on the behaviour of",
+      "options": {
+        "A": "Rats",
+        "B": "Chimpanzees",
+        "C": "Graylag Goose",
+        "D": "Dog"
+      }
+    },
+    {
+      "chapter": "19: Animal Behaviour",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Workers (honey bee) are",
+      "options": {
+        "A": "Fertile Females",
+        "B": "Fertile Male",
+        "C": "Sterile Female",
+        "D": "Sterile Male"
+      }
+    },
+    {
+      "chapter": "19: Animal Behaviour",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Agonistic behaviour is the type of",
+      "options": {
+        "A": "Innate Behaviour",
+        "B": "Learning behaviour",
+        "C": "Social Behaviour",
+        "D": "Instinctive behaviour"
+      }
+    },
+    {
+      "chapter": "19: Animal Behaviour",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Migration of Salmon Fish is the example of",
+      "options": {
+        "A": "Orientation behaviour",
+        "B": "Learning behaviour",
+        "C": "Social Behaviour",
+        "D": "Instinctive behaviour"
+      }
+    },
+    {
+      "chapter": "19: Animal Behaviour",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Skinner box was used for",
+      "options": {
+        "A": "Classic Conditioning",
+        "B": "Operant Learning",
+        "C": "Latent Learning",
+        "D": "Insight Learning"
+      }
+    },
+    {
+      "chapter": "20: Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ovarian cycle includes changes in ovarian follicles to secondary follicle and finally to",
+      "options": {
+        "A": "Graafian follicle",
+        "B": "Primary follicle",
+        "C": "Vesicular follicle",
+        "D": "Both \"a\" and \"c\""
+      }
+    },
+    {
+      "chapter": "20: Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In males, FSH promotes the development and maturation of?",
+      "options": {
+        "A": "Testosterone",
+        "B": "Sperm cells",
+        "C": "Egg cells",
+        "D": "Polar cells"
+      }
+    },
+    {
+      "chapter": "20: Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The menstrual cycle is primarily regulated by all of the following except:",
+      "options": {
+        "A": "FSH",
+        "B": "Estrogen",
+        "C": "Androgen",
+        "D": "Progesterone"
+      }
+    },
+    {
+      "chapter": "20: Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "FSH induces the Graafian follicle to produce",
+      "options": {
+        "A": "LH",
+        "B": "Estrogen",
+        "C": "Androgen",
+        "D": "Progesterone"
+      }
+    },
+    {
+      "chapter": "20: Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Key hormones in female reproductive system that regulates menstrual cycle. I. Estrogen II. Progesterone III. Testosterone",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "I and II",
+        "D": "III only"
+      }
+    },
+    {
+      "chapter": "20: Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the medical term for a miscarriage?",
+      "options": {
+        "A": "Spontaneous abortion",
+        "B": "Induced abortion",
+        "C": "Ectopic pregnancy",
+        "D": "Both \"a\" and \"b\""
+      }
+    },
+    {
+      "chapter": "20: Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Syphilis is a sexually transmitted disease caused by",
+      "options": {
+        "A": "Bacteria",
+        "B": "Virus",
+        "C": "Protozoan",
+        "D": "Yeast"
+      }
+    },
+    {
+      "chapter": "20: Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Structure that protects the testes and keeps them at a temperature several degrees below the normal body temperature.",
+      "options": {
+        "A": "Epididymis",
+        "B": "Scrotum",
+        "C": "Penis",
+        "D": "All of the above"
+      }
+    },
+    {
+      "chapter": "20: Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In-vitro fertilization (IVF) is a method used to:",
+      "options": {
+        "A": "Treat infertility",
+        "B": "Enhance hormones",
+        "C": "Prevent STDs",
+        "D": "None of the above"
+      }
+    },
+    {
+      "chapter": "20: Reproduction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a potential cause of female infertility?",
+      "options": {
+        "A": "Polycystic ovary syndrome (PCOS)",
+        "B": "Endometriosis",
+        "C": "Fallopian tube blockage",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "21: Development and Aging",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The genetic material of a fertilized egg is a combination of",
+      "options": {
+        "A": "The mother's DNA only",
+        "B": "The father's DNA only",
+        "C": "Both the mother's and father's DNA",
+        "D": "None of the above"
+      }
+    },
+    {
+      "chapter": "21: Development and Aging",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Human embryonic development occurs in the",
+      "options": {
+        "A": "Uterus",
+        "B": "Fallopian tube",
+        "C": "Cervix",
+        "D": "Vagina"
+      }
+    },
+    {
+      "chapter": "21: Development and Aging",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process of cell differentiation involves:",
+      "options": {
+        "A": "The formation of gametes",
+        "B": "The formation of zygotes",
+        "C": "The specialization of cells for different functions",
+        "D": "The replication of DNA"
+      }
+    },
+    {
+      "chapter": "21: Development and Aging",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The implantation of the embryo in the uterus occurs at",
+      "options": {
+        "A": "1 week after fertilization",
+        "B": "2 weeks after fertilization",
+        "C": "4 weeks after fertilization",
+        "D": "8 weeks after fertilization"
+      }
+    },
+    {
+      "chapter": "21: Development and Aging",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Aging is characterized by:",
+      "options": {
+        "A": "The accumulation of genetic mutations",
+        "B": "The breakdown of cellular processes",
+        "C": "The cessation of mitosis",
+        "D": "The reduction in DNA replication"
+      }
+    },
+    {
+      "chapter": "21: Development and Aging",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The inner cell mass of a blastocyst gives rise to:",
+      "options": {
+        "A": "The placenta",
+        "B": "The embryo",
+        "C": "The umbilical cord",
+        "D": "The amniotic fluid"
+      }
+    },
+    {
+      "chapter": "21: Development and Aging",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process of fertilization occurs in the",
+      "options": {
+        "A": "Uterus",
+        "B": "Fallopian tube",
+        "C": "Cervix",
+        "D": "Vagina"
+      }
+    },
+    {
+      "chapter": "21: Development and Aging",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The stages of embryonic development are",
+      "options": {
+        "A": "Cleavage, implantation, gastrulation, and organogenesis",
+        "B": "Fertilization, implantation, gastrulation, and organogenesis",
+        "C": "Cleavage, fertilization, gastrulation, and organogenesis",
+        "D": "Cleavage, fertilization, implantation, and organogenesis"
+      }
+    },
+    {
+      "chapter": "21: Development and Aging",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The placenta is responsible for",
+      "options": {
+        "A": "Providing oxygen and nutrients to the developing embryo",
+        "B": "Removing waste products from the developing embryo",
+        "C": "Producing hormones that maintain the pregnancy",
+        "D": "All of the above"
+      }
+    },
+    {
+      "chapter": "21: Development and Aging",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The formation of the neural tube occurs during",
+      "options": {
+        "A": "Cleavage",
+        "B": "Gastrulation",
+        "C": "Organogenesis",
+        "D": "Implantation"
+      }
+    },
+    {
+      "chapter": "22: Chromosome and DNA",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "W. Sutton and Theodor observed this behavior of chromosomes.",
+      "options": {
+        "A": "Formation",
+        "B": "Distribution",
+        "C": "Staining",
+        "D": "Replication"
+      }
+    },
+    {
+      "chapter": "22: Chromosome and DNA",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which is not the part of chromosomal theory of inheritance.",
+      "options": {
+        "A": "Gametes do not make equal hereditary contribution",
+        "B": "Chromosome segregate during meiosis",
+        "C": "Nucleus is the room of hereditary material",
+        "D": "Gametes have one copy of homologous chromosome"
+      }
+    },
+    {
+      "chapter": "22: Chromosome and DNA",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Newly formed chromosome has two.",
+      "options": {
+        "A": "Chromatids",
+        "B": "Heterologous",
+        "C": "Centromere",
+        "D": "Pairs"
+      }
+    },
+    {
+      "chapter": "22: Chromosome and DNA",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The complex of histone octamer and two loops of duplex DNA is.",
+      "options": {
+        "A": "Chromomer",
+        "B": "Chromatin",
+        "C": "Nucleosome",
+        "D": "Heterochromatin"
+      }
+    },
+    {
+      "chapter": "22: Chromosome and DNA",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Small part of DNA which has information to synthesize specific polypeptide chain is.",
+      "options": {
+        "A": "Genome",
+        "B": "Locus",
+        "C": "Gene",
+        "D": "Nucleotide"
+      }
+    },
+    {
+      "chapter": "22: Chromosome and DNA",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "According to replication model, the parental double helix remain intact and conserved called.",
+      "options": {
+        "A": "Semi conservative",
+        "B": "Conservative",
+        "C": "Disposed",
+        "D": "Eukaryotic replication"
+      }
+    },
+    {
+      "chapter": "22: Chromosome and DNA",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A protein which prevents the re-binding of complementary strand during replication at fork is.",
+      "options": {
+        "A": "DNA helicase",
+        "B": "Ligase",
+        "C": "SSB",
+        "D": "Primase"
+      }
+    },
+    {
+      "chapter": "22: Chromosome and DNA",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The DNA strand which continuously replicate in the direction of $5' \\to 3'$ called.",
+      "options": {
+        "A": "Lagging strand",
+        "B": "Leading strand",
+        "C": "Primer",
+        "D": "Okazaki fragment"
+      }
+    },
+    {
+      "chapter": "22: Chromosome and DNA",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Process where information present on gene is used to produce a functional product by living organism called.",
+      "options": {
+        "A": "Transcription",
+        "B": "Translation",
+        "C": "Gene expression",
+        "D": "Regulation of gene expression"
+      }
+    },
+    {
+      "chapter": "22: Chromosome and DNA",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The set of rules used to store the genetic information within a DNA for particular protein synthesis is.",
+      "options": {
+        "A": "Gene",
+        "B": "Genetic codes",
+        "C": "Codon",
+        "D": "Anticodon"
+      }
+    },
+    {
+      "chapter": "23: Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following would cause phenotypic variations among organisms of the same genotype?",
+      "options": {
+        "A": "Continuous variation within the species",
+        "B": "Different varieties of the same species",
+        "C": "Different sexes",
+        "D": "Exposure to different environments"
+      }
+    },
+    {
+      "chapter": "23: Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In which of the following examples of human inheritance is the inheritance pattern explained by multiple alleles on an autosomal chromosome?",
+      "options": {
+        "A": "The ABO blood group system",
+        "B": "Cystic fibrosis",
+        "C": "Down's syndrome",
+        "D": "Haemophilia"
+      }
+    },
+    {
+      "chapter": "23: Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What are the phenotypes of the parents of a colour-blind son and a non-carrier daughter with normal colour vision? Father / Mother",
+      "options": {
+        "A": "Carrier / Normal",
+        "B": "Colour-blind / Carrier",
+        "C": "Colour-blind / Colour-blind",
+        "D": "Normal / Carrier"
+      }
+    },
+    {
+      "chapter": "23: Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the F2 generation of a dihybrid cross, the phenotypes occurred in the ratio 3:1 what does this result indicate?",
+      "options": {
+        "A": "The alleles were segregating independently",
+        "B": "Polygenic inheritance was involved",
+        "C": "Codominance was being shown",
+        "D": "The gene loci were linked"
+      }
+    },
+    {
+      "chapter": "23: Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Two parents, both of blood group A, have a daughter of blood group O. What is the probability that their next child will be a boy who has blood group O?",
+      "options": {
+        "A": "0.25",
+        "B": "0.5",
+        "C": "0.75",
+        "D": "1"
+      }
+    },
+    {
+      "chapter": "23: Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A boy is colour blind which could be the genotype of his mother?",
+      "options": {
+        "A": "$X^NX^N$",
+        "B": "$X^NX^n$",
+        "C": "$X^NY$",
+        "D": "$X^nY$"
+      }
+    },
+    {
+      "chapter": "23: Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Number of chromosome in grass hopper female is 24. How many chromosomes are present in grass hopper male?",
+      "options": {
+        "A": "26",
+        "B": "25",
+        "C": "24",
+        "D": "23"
+      }
+    },
+    {
+      "chapter": "23: Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The allele of holandric gene is located at?",
+      "options": {
+        "A": "X-Chromosome",
+        "B": "Y-Chromosome",
+        "C": "Autosome",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "23: Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The gene which interferes and masks the phenotype of the phenotype of the non-locus gene called?",
+      "options": {
+        "A": "Mutant gene",
+        "B": "Epistatic gene",
+        "C": "Pleiotropy",
+        "D": "Sex-linked"
+      }
+    },
+    {
+      "chapter": "23: Inheritance",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "International society of blood transfusion has found more than?",
+      "options": {
+        "A": "10 blood system",
+        "B": "20 blood system",
+        "C": "30 blood system",
+        "D": "40 blood system"
+      }
+    },
+    {
+      "chapter": "24: Evolution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following was supporting the theory of special creation?",
+      "options": {
+        "A": "George Buffon",
+        "B": "Lamarck",
+        "C": "Darwin",
+        "D": "Suarez"
+      }
+    },
+    {
+      "chapter": "24: Evolution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Archaeopteryx is a connecting link between",
+      "options": {
+        "A": "Amphibia and reptiles",
+        "B": "Reptiles and Aves",
+        "C": "Aves and mammals",
+        "D": "Fish and amphibia"
+      }
+    },
+    {
+      "chapter": "24: Evolution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "All of the following are homologous organs except",
+      "options": {
+        "A": "Wings of bat",
+        "B": "Wings of butterfly",
+        "C": "Wings of bird",
+        "D": "Flippers of dolphin"
+      }
+    },
+    {
+      "chapter": "24: Evolution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following are analogous organs except:",
+      "options": {
+        "A": "Wings of insect",
+        "B": "Wings of bird",
+        "C": "Wings of bat",
+        "D": "Arm of man"
+      }
+    },
+    {
+      "chapter": "24: Evolution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Life originated in",
+      "options": {
+        "A": "Air",
+        "B": "Water",
+        "C": "Land",
+        "D": "Space"
+      }
+    },
+    {
+      "chapter": "24: Evolution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Philosophie Zoologique was written by",
+      "options": {
+        "A": "Wallace",
+        "B": "Darwin",
+        "C": "Weismann",
+        "D": "Lamarck"
+      }
+    },
+    {
+      "chapter": "24: Evolution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is incorrect regarding Lamarck's theory of Inheritance of acquired characters?",
+      "options": {
+        "A": "Use and disuse of the organs inherited",
+        "B": "Continuously using some organ results in its further strengthening in offspring",
+        "C": "Continuously disuse of some organ results in its weakening in offspring",
+        "D": "Concrete support to the theory through experiments"
+      }
+    },
+    {
+      "chapter": "24: Evolution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The theory on human population which inspired Darwin was proposed by",
+      "options": {
+        "A": "Malthus",
+        "B": "Lyell",
+        "C": "Hutton",
+        "D": "Wallace"
+      }
+    },
+    {
+      "chapter": "24: Evolution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Theory of Natural Selection was lacking any support from",
+      "options": {
+        "A": "Biogeography",
+        "B": "Genetics",
+        "C": "Comparative anatomy",
+        "D": "Molecular Biology"
+      }
+    },
+    {
+      "chapter": "24: Evolution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following cannot be the disruptive force for Hardy-Weinberg Theorem?",
+      "options": {
+        "A": "Selection",
+        "B": "Non-random mating",
+        "C": "Mutation",
+        "D": "Random mating"
+      }
+    },
+    {
+      "chapter": "25: Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one of these mainly causes the greenhouse effect?",
+      "options": {
+        "A": "Acid rain",
+        "B": "Ozone layer depletion",
+        "C": "Global warming",
+        "D": "Forest fire"
+      }
+    },
+    {
+      "chapter": "25: Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Factors that affect the flow of energy at the trophic level are",
+      "options": {
+        "A": "Non-predatory deaths",
+        "B": "Growth & Reproduction",
+        "C": "Heat loss",
+        "D": "Sunlight"
+      }
+    },
+    {
+      "chapter": "25: Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The main cause of the increase in the amount of $CO_2$ in the Earth's atmosphere is",
+      "options": {
+        "A": "Rapidly growing human population",
+        "B": "Burning of a large number of fossil fuels",
+        "C": "Increase in the number of industries",
+        "D": "Decrease in the forested resources."
+      }
+    },
+    {
+      "chapter": "25: Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "All is positive for which of the following processes?",
+      "options": {
+        "A": "Oxidation of Nitrogen",
+        "B": "Melting of ice and evaporation of water",
+        "C": "Oxidation of gold",
+        "D": "Burning of chlorine"
+      }
+    },
+    {
+      "chapter": "25: Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following dietary requirements is involved in nitrogen balance?",
+      "options": {
+        "A": "Carbohydrates",
+        "B": "Vitamins",
+        "C": "Proteins",
+        "D": "Essential fatty acids"
+      }
+    },
+    {
+      "chapter": "25: Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following cycle is not a gaseous type of cycle?",
+      "options": {
+        "A": "Carbon cycle",
+        "B": "Nitrogen cycle",
+        "C": "Phosphorus cycle",
+        "D": "Oxygen cycle"
+      }
+    },
+    {
+      "chapter": "25: Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The source of carbon to plants in the carbon cycle is",
+      "options": {
+        "A": "Carbonate rocks",
+        "B": "Atmospheric carbon dioxide",
+        "C": "Fossil fuels",
+        "D": "All of the above"
+      }
+    },
+    {
+      "chapter": "25: Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Conversion of nitrates to nitrogen is called",
+      "options": {
+        "A": "Nitrification",
+        "B": "Denitrification",
+        "C": "Ammonification",
+        "D": "Nitrogen fixation"
+      }
+    },
+    {
+      "chapter": "25: Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the only source of energy for all ecosystems on Earth?",
+      "options": {
+        "A": "Water",
+        "B": "Sun",
+        "C": "Animals",
+        "D": "Plants"
+      }
+    },
+    {
+      "chapter": "25: Man and His Environment",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The pioneers in xerarch succession are the",
+      "options": {
+        "A": "Foliose lichens",
+        "B": "Mosses",
+        "C": "Crustose lichens",
+        "D": "Shrubs"
+      }
+    },
+    {
+      "chapter": "26: Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Cloning of genes creates an identical copy of a DNA sequence. The process of cloning is significant for what reason?",
+      "options": {
+        "A": "To create a transgenic organism",
+        "B": "To diagnose genetic disorders",
+        "C": "To study gene function",
+        "D": "All the above"
+      }
+    },
+    {
+      "chapter": "26: Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "DNA sequencing is a technique used to determine the sequence of nucleotides in a DNA molecule. What is the significance of DNA sequencing?",
+      "options": {
+        "A": "To identify genetic variations",
+        "B": "To create a transgenic organism",
+        "C": "To study gene expression",
+        "D": "All the above"
+      }
+    },
+    {
+      "chapter": "26: Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "DNA analysis is used to identify genetic disorders. What is the purpose of DNA analysis?",
+      "options": {
+        "A": "Sequence of nucleotides in a DNA",
+        "B": "To study gene expression",
+        "C": "To identify genetic variations",
+        "D": "All the above"
+      }
+    },
+    {
+      "chapter": "26: Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Biotechnology has many applications in healthcare, including gene therapy, drug production, and diagnosis of diseases. What is the significance of biotechnology in healthcare?",
+      "options": {
+        "A": "To study gene function",
+        "B": "To improve animal welfare",
+        "C": "To develop new materials",
+        "D": "All the above"
+      }
+    },
+    {
+      "chapter": "26: Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Polymerase chain reaction (PCR) is a technique used to amplify DNA. What is the significance of PCR?",
+      "options": {
+        "A": "To sequence DNA",
+        "B": "To identify genetic disorders",
+        "C": "To study gene expression",
+        "D": "All the above"
+      }
+    },
+    {
+      "chapter": "26: Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Gel electrophoresis is a technique used to separate DNA fragments based on size. What is the significance of gel electrophoresis?",
+      "options": {
+        "A": "To study gene expression",
+        "B": "To sequence DNA",
+        "C": "To identify genetic variations",
+        "D": "All the above"
+      }
+    },
+    {
+      "chapter": "26: Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Sanger sequencing is a technique used to read the sequence of DNA. What is the significance of Sanger sequencing?",
+      "options": {
+        "A": "To identify genetic disorders",
+        "B": "To sequence DNA",
+        "C": "To study gene expression",
+        "D": "All the above"
+      }
+    },
+    {
+      "chapter": "26: Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Southern blotting is a technique used to transfer DNA fragments from a gel to a membrane. What is the significance of Southern blotting?",
+      "options": {
+        "A": "To identify genetic disorders",
+        "B": "To sequence DNA",
+        "C": "To study gene expression",
+        "D": "All the above"
+      }
+    },
+    {
+      "chapter": "26: Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Genomic maps are useful for:",
+      "options": {
+        "A": "Identifying genes associated with specific diseases",
+        "B": "Creating genetically modified organisms",
+        "C": "Analyzing DNA methylation patterns",
+        "D": "Detecting protein-protein interactions"
+      }
+    },
+    {
+      "chapter": "26: Biotechnology",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the significance of monoclonal antibodies in biotechnology?",
+      "options": {
+        "A": "To study gene expression",
+        "B": "Used to diagnose diseases",
+        "C": "Genetically modified organisms",
+        "D": "They can be used to create new drugs"
+      }
+    },
+    {
+      "chapter": "27: Biology and Human Welfare",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "DT vaccine is used for",
+      "options": {
+        "A": "Hepatitis",
+        "B": "Measles",
+        "C": "Common cold",
+        "D": "Diphtheria toxoid"
+      }
+    },
+    {
+      "chapter": "27: Biology and Human Welfare",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Clostridium tetani which caused tetanus is a",
+      "options": {
+        "A": "Virus",
+        "B": "Bacteria",
+        "C": "Parasite",
+        "D": "Fungi"
+      }
+    },
+    {
+      "chapter": "27: Biology and Human Welfare",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "MMR vaccine is effective for",
+      "options": {
+        "A": "Measles",
+        "B": "Polio",
+        "C": "Measles, Mumps & rubella",
+        "D": "Hepatitis"
+      }
+    },
+    {
+      "chapter": "27: Biology and Human Welfare",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The top milk producing animal of Pakistan is",
+      "options": {
+        "A": "Bhadawari",
+        "B": "Jaffrabadi",
+        "C": "Nili- Ravi",
+        "D": "Godavari"
+      }
+    },
+    {
+      "chapter": "27: Biology and Human Welfare",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The yeast that gives puff appearance to dough is called",
+      "options": {
+        "A": "Saccharomyces",
+        "B": "Lactobacillus",
+        "C": "Penicillium",
+        "D": "Escherichia coli"
+      }
+    },
+    {
+      "chapter": "27: Biology and Human Welfare",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The removal of floating solids and organic materials from the sewage is",
+      "options": {
+        "A": "Primary treatment",
+        "B": "Secondary treatment",
+        "C": "Tertiary treatment",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "27: Biology and Human Welfare",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process of hybrid crossing with its parents is called",
+      "options": {
+        "A": "Selection",
+        "B": "Hybridization",
+        "C": "Back cross",
+        "D": "Acclimatization"
+      }
+    },
+    {
+      "chapter": "27: Biology and Human Welfare",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "French beans and Cauliflowers are vegetables of",
+      "options": {
+        "A": "Winter",
+        "B": "Summer",
+        "C": "Spring",
+        "D": "All seasons"
+      }
+    },
+    {
+      "chapter": "27: Biology and Human Welfare",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Science that deals with the modification of DNA and enhances the characteristic of an organism is called",
+      "options": {
+        "A": "Genetic Engineering",
+        "B": "Biotechnology",
+        "C": "Biology",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "27: Biology and Human Welfare",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Sludge digestion is a biological process in which organic solids are decomposed into stable substances",
+      "options": {
+        "A": "Stable substances",
+        "B": "Non stable substances",
+        "C": "Effluent",
+        "D": "None of these"
+      }
+    }
+  ]
+}

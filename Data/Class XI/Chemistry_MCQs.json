@@ -1,0 +1,1588 @@
+{
+  "subject": "Chemistry",
+  "class": "XI",
+  "questions": [
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the volume occupied by oxygen gas ($O_2$) at STP is $44.8\\,dm^3$, the number of molecules of $O_2$ in the vessels are:",
+      "options": {
+        "A": "$3.01 \\times 10^{23}$",
+        "B": "$6.02 \\times 10^{23}$",
+        "C": "$12.04 \\times 10^{23}$",
+        "D": "$24.08 \\times 10^{23}$"
+      }
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of carbon atoms in 1 mole of sugar ($C_{12}H_{22}O_{11}$) are approximately:",
+      "options": {
+        "A": "$6 \\times 10^{23}$",
+        "B": "$24 \\times 10^{23}$",
+        "C": "$60 \\times 10^{23}$",
+        "D": "$72 \\times 10^{23}$"
+      }
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the reaction $2Na + 2H_2O \\rightarrow 2NaOH + H_2$, if 23g of Na reacts with excess of water, the volume of hydrogen gas ($H_2$) liberated at STP should be:",
+      "options": {
+        "A": "$11.2\\,dm^3$",
+        "B": "$22.4\\,dm^3$",
+        "C": "$33.6\\,dm^3$",
+        "D": "$44.8\\,dm^3$"
+      }
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following sample of substances contains the same number of atoms as that of 20g calcium:",
+      "options": {
+        "A": "16g S",
+        "B": "20g C",
+        "C": "19g K",
+        "D": "24g Mg"
+      }
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following statement is incorrect?",
+      "options": {
+        "A": "The mass of 1 mole $Cl_2$ gas is 35.5g",
+        "B": "One mole of $H_2$ gas contains $6.02 \\times 10^{23}$ molecules of $H_2$",
+        "C": "Number of atoms in 23g Na and 24g Mg are equal",
+        "D": "One moles of $O_2$ at S.T.P occupy $22.4\\,dm^3$ volume"
+      }
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "For Avogadro's number, this statement is incorrect:",
+      "options": {
+        "A": "It is the no. of particles in one moles of any substances",
+        "B": "Its numerical value is $6.02 \\times 10^{23}$",
+        "C": "Its value change if temperature increases",
+        "D": "Its value change if number of moles increases"
+      }
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The minimum number of moles are present in:",
+      "options": {
+        "A": "1 $dm^3$ of methane gas at STP",
+        "B": "5 $dm^3$ of helium gas at STP",
+        "C": "10 $dm^3$ of hydrogen gas at STP",
+        "D": "22.4 $dm^3$ of chlorine gas at STP"
+      }
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Number of atoms in 60g carbon are:",
+      "options": {
+        "A": "$3.01 \\times 10^{23}$",
+        "B": "$3.01 \\times 10^{24}$",
+        "C": "$6.02 \\times 10^{23}$",
+        "D": "$6.02 \\times 10^{24}$"
+      }
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Maximum number of molecules present in the following sample of gas:",
+      "options": {
+        "A": "100g $O_2$",
+        "B": "100g $CH_4$",
+        "C": "100g $CO_2$",
+        "D": "100g $Cl_2$"
+      }
+    },
+    {
+      "chapter": "1. Stoichiometry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Generally actual yield is:",
+      "options": {
+        "A": "Greater than theoretical yield",
+        "B": "Less than theoretical yield",
+        "C": "Equal to the theoretical yield",
+        "D": "Some times greater and some times less than theoretical yield"
+      }
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Bohr's theory is not applicable to which of the following species.",
+      "options": {
+        "A": "H",
+        "B": "$H^+$",
+        "C": "$He^+$",
+        "D": "$Li^{+2}$"
+      }
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Nitrogen has the electronic configuration $1s^2 2s^2 2p^1, 2p^1, 2p^1$ and not $1s^2 2s^2 2p^2, 2p^1, 2p^0$. This is determined by.",
+      "options": {
+        "A": "Aufbau principle",
+        "B": "Pauli's rule",
+        "C": "Hund's rule",
+        "D": "$n+\\ell$ rule"
+      }
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Quantum number values for 3s orbital are",
+      "options": {
+        "A": "$n=0,\\ \\ell=1$",
+        "B": "$n=1,\\ \\ell=0$",
+        "C": "$n=3,\\ \\ell=1$",
+        "D": "$n=3,\\ \\ell=0$"
+      }
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The radius of first orbit of hydrogen atom is ...",
+      "options": {
+        "A": "529Å",
+        "B": "52.9Å",
+        "C": "5.29Å",
+        "D": "0.529 Å"
+      }
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Line spectrum is used as a tool for the identification of ....",
+      "options": {
+        "A": "Colors",
+        "B": "Electrons",
+        "C": "Elements",
+        "D": "Molecules"
+      }
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In 1935 A.D. James Chadwick was awarded Nobel Prize because ...",
+      "options": {
+        "A": "He discovered proton",
+        "B": "He discovered neutron",
+        "C": "He determined the radius of hydrogen atom",
+        "D": "He gave the rules for electronic configuration"
+      }
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "When 4d orbital is filled, the next electron enter into",
+      "options": {
+        "A": "5s",
+        "B": "5p",
+        "C": "5d",
+        "D": "6s"
+      }
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is not an iso electronic pair",
+      "options": {
+        "A": "$Na^+$ and Ne",
+        "B": "$Na^+$ and $F^-$",
+        "C": "$Na^+$ and $Ca^{+2}$",
+        "D": "$Na^+$ and $Mg^{+2}$"
+      }
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Balmer series appears in the hydrogen spectrum if electron jump from any appropriate higher energy orbit to",
+      "options": {
+        "A": "Second orbit",
+        "B": "Third orbit",
+        "C": "Fourth orbit",
+        "D": "Fifth orbit"
+      }
+    },
+    {
+      "chapter": "2. Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The shape of orbital for which $\\ell = 0$ is",
+      "options": {
+        "A": "Spherical",
+        "B": "Dumbbell",
+        "C": "Double dumbbell",
+        "D": "Complicated"
+      }
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the bond angle in $AB_2$ type molecule is $104.5^\\circ$, it geometry should be:",
+      "options": {
+        "A": "Linear",
+        "B": "Pyramidal",
+        "C": "Bent",
+        "D": "Planar Trigonal"
+      }
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The highest bond energy in the following is:",
+      "options": {
+        "A": "Cl-Cl",
+        "B": "H-F",
+        "C": "H-O",
+        "D": "H-N"
+      }
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The molecule which has zero dipole moment is:",
+      "options": {
+        "A": "$NH_3$",
+        "B": "HCl",
+        "C": "$H_2O$",
+        "D": "$CCl_4$"
+      }
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The molecule which has maximum bond angle:",
+      "options": {
+        "A": "$CS_2$",
+        "B": "$H_2O$",
+        "C": "$NH_3$",
+        "D": "$BF_3$"
+      }
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The shape and hybridization of $BCl_3$ molecule is:",
+      "options": {
+        "A": "Tetrahedral and $sp^3$",
+        "B": "Linear and sp",
+        "C": "Planar trigonal and $sp^2$",
+        "D": "Angular and $sp^3$"
+      }
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Amongst the following molecules which one has trigonal pyramidal shape?",
+      "options": {
+        "A": "$SO_2$",
+        "B": "$CO_2$",
+        "C": "$NH_3$",
+        "D": "$C_2H_6$"
+      }
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A simple covalent molecule possesses two bond pairs and two lone pairs around the central atom, its shape should be:",
+      "options": {
+        "A": "Linear",
+        "B": "Planar trigonal",
+        "C": "Angular",
+        "D": "Tetrahedral"
+      }
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The correct relation between Debye and coulomb meter is:",
+      "options": {
+        "A": "1D $= 3.33 \\times 10^{-30}$Cm",
+        "B": "1D $= 1.6 \\times 10^{-19}$Cm",
+        "C": "1D $= 1.88 \\times 10^{-12}$Cm",
+        "D": "1D $= 1.23 \\times 10^{-19}$Cm"
+      }
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The bond order of $N_2$ molecule is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      }
+    },
+    {
+      "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of sigma and pi bonds in $C_2H_4$ molecule are respectively:",
+      "options": {
+        "A": "3 and 1",
+        "B": "2 and 2",
+        "C": "5 and 1",
+        "D": "4 and 2"
+      }
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "According to Graham's Law of diffusion, the ratio of diffusion of $H_2$ and $O_2$ are respectively:",
+      "options": {
+        "A": "1:2",
+        "B": "2:1",
+        "C": "1:4",
+        "D": "4:1"
+      }
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Collection of gas over water is an example of:",
+      "options": {
+        "A": "Graham's law",
+        "B": "Dalton's law",
+        "C": "Avogadro's law",
+        "D": "Gaylussac law"
+      }
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The molar volume of oxygen gas is maximum at:",
+      "options": {
+        "A": "0°C and 1 atm",
+        "B": "0°C and 2 atm",
+        "C": "25°C and 1 atm",
+        "D": "25°C and 2 atm"
+      }
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The diffusion rate of $C_3H_8$ and $CO_2$ are same because:",
+      "options": {
+        "A": "Both are poly atomic gases",
+        "B": "Both are denser than air",
+        "C": "Both have same molar mass",
+        "D": "Both contains carbon atoms"
+      }
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The volume of gas would be theoretically zero at:",
+      "options": {
+        "A": "0°C",
+        "B": "0K",
+        "C": "273K",
+        "D": "273°C"
+      }
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Real gas reaches the ideal behavior at:",
+      "options": {
+        "A": "Low temperature and low pressure",
+        "B": "High temperature and high pressure",
+        "C": "Low temperature and high pressure",
+        "D": "High temperature and low pressure"
+      }
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one of the following statement is incorrect about the gas molecules?",
+      "options": {
+        "A": "They have large spaces",
+        "B": "They possess kinetic energy",
+        "C": "Their collision is elastic",
+        "D": "Their molar mass depends upon temperature"
+      }
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the Kelvin temperature of ideal gas is increase to double and pressure is reduce to one half, the volume of gas will:",
+      "options": {
+        "A": "Remains same",
+        "B": "Double",
+        "C": "Reduced to half",
+        "D": "Four time"
+      }
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The molar volume of oxygen gas is $22.4\\,dm^3$ at:",
+      "options": {
+        "A": "0°C and 1 atm",
+        "B": "25°C and 0.5 atm",
+        "C": "0 K and 1 atm",
+        "D": "25 K and 0.5 atm"
+      }
+    },
+    {
+      "chapter": "4. State of Matter: Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Under similar condition $CH_4$ gas diffuses ........ times faster than $SO_2$ gas:",
+      "options": {
+        "A": "1.5 time",
+        "B": "2 times",
+        "C": "4 times",
+        "D": "16 times"
+      }
+    },
+    {
+      "chapter": "5. State of Matter: Liquids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The boiling point of water ($H_2O$) is 100°C where as that of hydrogen sulphide ($H_2S$) is 42°C. This can be attributed to:",
+      "options": {
+        "A": "Smaller bond angle of $H_2S$ than $H_2O$",
+        "B": "Smaller radii of oxygen than sulphur",
+        "C": "High IP of oxygen than sulphur",
+        "D": "Tendency of water to form hydrogen bond"
+      }
+    },
+    {
+      "chapter": "5. State of Matter: Liquids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Liquids can form convex meniscus in a narrow glass tube when:",
+      "options": {
+        "A": "Cohesive forces are stronger than adhesive forces",
+        "B": "Adhesive forces are stronger than cohesive forces",
+        "C": "Cohesive and adhesive forces are equal in strength",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "5. State of Matter: Liquids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following statement is incorrect?",
+      "options": {
+        "A": "Viscosity is the resistance against flow of liquid",
+        "B": "Liquid possess definite volume",
+        "C": "One feels sense of cooling after bath due to condensation",
+        "D": "Sublimation is endothermic process."
+      }
+    },
+    {
+      "chapter": "5. State of Matter: Liquids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following possesses weakest London dispersion forces:",
+      "options": {
+        "A": "$Cl_2$",
+        "B": "$F_2$",
+        "C": "$Br_2$",
+        "D": "$I_2$"
+      }
+    },
+    {
+      "chapter": "5. State of Matter: Liquids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Hydrogen bond is not found in:",
+      "options": {
+        "A": "$H_2O$",
+        "B": "$CH_4$",
+        "C": "$NH_3$",
+        "D": "HF"
+      }
+    },
+    {
+      "chapter": "5. State of Matter: Liquids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The boiling points of different liquids may be different at the same external pressure due to:",
+      "options": {
+        "A": "Amounts of liquids",
+        "B": "Intermolecular forces",
+        "C": "Surface area",
+        "D": "Viscosities"
+      }
+    },
+    {
+      "chapter": "5. State of Matter: Liquids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which statement is incorrect about evaporation?",
+      "options": {
+        "A": "It is an exothermic process",
+        "B": "It is a reverse process of condensation",
+        "C": "It occurs at all temperature and pressure",
+        "D": "It causes cooling effect"
+      }
+    },
+    {
+      "chapter": "5. State of Matter: Liquids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following liquids show maximum surface tension?",
+      "options": {
+        "A": "Water",
+        "B": "Mercury",
+        "C": "Ethyl alcohol",
+        "D": "Gasoline"
+      }
+    },
+    {
+      "chapter": "5. State of Matter: Liquids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A non-polar molecule with bigger size will experience:",
+      "options": {
+        "A": "London forces",
+        "B": "dipole-dipole interaction",
+        "C": "Hydrogen bonding",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "5. State of Matter: Liquids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Cooking time is reduced in a pressure cooker because:",
+      "options": {
+        "A": "Boiling point of water increases",
+        "B": "Boiling point of water decreases",
+        "C": "Vapor pressure of liquid is reduced",
+        "D": "Heat is uniformly distributed"
+      }
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Quantity of energy released when 1 mole of the ionic crystal is formed from the gaseous ions is called:",
+      "options": {
+        "A": "Bond energy",
+        "B": "Potential energy",
+        "C": "Ionization energy",
+        "D": "Lattice energy"
+      }
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Graphite can conduct electricity in one direction only. With this behavior, it is said to be:",
+      "options": {
+        "A": "Amorphous",
+        "B": "Symmetrical",
+        "C": "Anisotropic",
+        "D": "Polymorphous"
+      }
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "NaCl and MgO are isomorphous solids because these have same:",
+      "options": {
+        "A": "Melting point",
+        "B": "Boiling point",
+        "C": "Geometrical shapes",
+        "D": "Chemical Properties"
+      }
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The temperature at which two allotropic forms co-exist in equilibrium is called as:",
+      "options": {
+        "A": "Melting temperature",
+        "B": "Fusion temperature",
+        "C": "Transition temperature",
+        "D": "Critical temperature"
+      }
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Diamond is the example of:",
+      "options": {
+        "A": "Ionic solid",
+        "B": "Covalent solid",
+        "C": "Metallic solid",
+        "D": "Molecular solid"
+      }
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ice is a molecular solid, the intermolecular force of attraction among its molecules are:",
+      "options": {
+        "A": "Ionic bond",
+        "B": "Covalent bond",
+        "C": "Metallic bond",
+        "D": "Hydrogen bond"
+      }
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If all three axes in unit cell are of different length but all angles are of 90° then it is identified as:",
+      "options": {
+        "A": "Orthorhombic system",
+        "B": "Cubic system",
+        "C": "Tetragonal system",
+        "D": "Hexagonal system"
+      }
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In NaCl, each $Na^+$ ion is surrounded by $Cl^-$ ions in the numbers:",
+      "options": {
+        "A": "Four",
+        "B": "Three",
+        "C": "Six",
+        "D": "Seven"
+      }
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "It is an example of crystalline solid:",
+      "options": {
+        "A": "Alum",
+        "B": "Glass",
+        "C": "Plastic",
+        "D": "Rubber"
+      }
+    },
+    {
+      "chapter": "6. State of Matter: Solids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Each unit cell of sodium chloride consists of:",
+      "options": {
+        "A": "Eight $Na^+$ and Eight $Cl^-$ ions",
+        "B": "Two $Na^+$ and Two $Cl^-$ ions",
+        "C": "Four $Na^+$ and Four $Cl^-$ ions",
+        "D": "Four $Na^+$ and Six $Cl^-$ ions"
+      }
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the equilibrium system of $PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)$, the correct relationship between $K_p$ and $K_c$ is:",
+      "options": {
+        "A": "$K_p > K_c$",
+        "B": "$K_p < K_c$",
+        "C": "$K_p = K_c$",
+        "D": "$\\frac{K_p}{K_c} = 1$"
+      }
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The equilibrium of which of the following reaction would not be affected by an increase in pressure:",
+      "options": {
+        "A": "$PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)$",
+        "B": "$2NO(g) + Cl_2(g) \\rightleftharpoons 2NOCl(g)$",
+        "C": "$N_2(g) + O_2(g) \\rightleftharpoons 2NO(g)$",
+        "D": "$2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g)$"
+      }
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What happens to the value of $K_c$ when a catalyst is added to a chemical system at equilibrium?",
+      "options": {
+        "A": "It decreases",
+        "B": "It increases",
+        "C": "It becomes zero",
+        "D": "It remains unchanged"
+      }
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The correct $K_{sp}$ expression of a sparingly-soluble salt $Li_2C_2O_4$ among the following is:",
+      "options": {
+        "A": "$K_{sp}=[Li^+][C_2O_4^{2-}]$",
+        "B": "$K_{sp}=[Li^+]^2[C_2O_4^{2-}]$",
+        "C": "$K_{sp}=[2Li^+][C_2O_4^{2-}]$",
+        "D": "$K_{sp}=[2Li^+]^2[C_2O_4^{2-}]^2$"
+      }
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the equilibrium expression of a reversible reaction is $K_c=\\frac{[C]^2}{[A][B]}$, The balanced equilibrium equation should be:",
+      "options": {
+        "A": "$C \\rightleftharpoons A + B$",
+        "B": "$A + B \\rightleftharpoons C$",
+        "C": "$2C \\rightleftharpoons A + B$",
+        "D": "$A + B \\rightleftharpoons 2C$"
+      }
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The equilibrium of $N_2(g)+O_2(g) \\rightleftharpoons 2NO (\\Delta H = +ve)$ is affected by change in:",
+      "options": {
+        "A": "Temperature only",
+        "B": "Pressure only",
+        "C": "Both temperature and pressure",
+        "D": "Neither temperature nor pressure"
+      }
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the reaction $A(g) + B(g) \\rightleftharpoons 2C(g)$, the equilibrium constants $K_p = K_c$ because:",
+      "options": {
+        "A": "$\\Delta n > 1$",
+        "B": "$\\Delta n < 1$",
+        "C": "$\\Delta n = 1$",
+        "D": "$\\Delta n = 0$"
+      }
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The term active mass use in law of mass action means:",
+      "options": {
+        "A": "No. of mole",
+        "B": "No. of molecules",
+        "C": "mole per $dm^3$",
+        "D": "gram per $dm^3$"
+      }
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "NaCl when added to an aqueous silver chloride solution:",
+      "options": {
+        "A": "Decreases the solubility of AgCl",
+        "B": "Increases the solubility of AgCl",
+        "C": "Forms a clear solution",
+        "D": "Does not effect"
+      }
+    },
+    {
+      "chapter": "7. Chemical Equilibrium",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Some reactions are nearly to completion in the forward direction and identified by their:",
+      "options": {
+        "A": "Very high value of $K_c$",
+        "B": "Very low value of $K_c$",
+        "C": "Very high value of $\\Delta H$",
+        "D": "Very low value of $\\Delta H$"
+      }
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$H_2SO_4$ is stronger acid than $CH_3COOH$ because:",
+      "options": {
+        "A": "It gives two $H^+$ ion per molecule",
+        "B": "Its boiling point is high",
+        "C": "Its degree of ionization is high",
+        "D": "It is highly corrosive"
+      }
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$Al_2O_3$ is amphoteric oxide because it reacts with:",
+      "options": {
+        "A": "Acids",
+        "B": "Base",
+        "C": "Both acids and base",
+        "D": "neither acid nor base"
+      }
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is not a Buffer solution:",
+      "options": {
+        "A": "$CH_3COOH/CH_3COONa$",
+        "B": "$Na_2CO_3/NaHCO_3$",
+        "C": "$NH_4OH/NH_4Cl$",
+        "D": "NaOH/HCl"
+      }
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which oxide is amphoteric in nature:",
+      "options": {
+        "A": "$K_2O$",
+        "B": "$CO_2$",
+        "C": "CaO",
+        "D": "$Al_2O_3$"
+      }
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following does not alter the pH of a solution?",
+      "options": {
+        "A": "$NH_4Cl$",
+        "B": "$Na_2CO_3$",
+        "C": "NaCl",
+        "D": "Mg(OH)Cl"
+      }
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Conjugated acid of $NH_3$ is:",
+      "options": {
+        "A": "$NH_4^+$",
+        "B": "$NH_2^-$",
+        "C": "$NH_3$",
+        "D": "NH"
+      }
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Salt which is formed by the neutralization of weak acid and strong base is:",
+      "options": {
+        "A": "$NaNO_3$",
+        "B": "$NH_4Cl$",
+        "C": "$Na_2CO_3$",
+        "D": "$NH_4CN$"
+      }
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following statements is not correct about the bases?",
+      "options": {
+        "A": "They have bitter tastes",
+        "B": "They have high pH value",
+        "C": "They react with acids to form salts",
+        "D": "They turn blue litmus red"
+      }
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A conjugate acid base pair has the difference of only:",
+      "options": {
+        "A": "One electron",
+        "B": "One proton",
+        "C": "One electron pair",
+        "D": "One proton pair"
+      }
+    },
+    {
+      "chapter": "8. Acid, Base and Salts",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Salt formed by neutralization of weak acid and weak base is:",
+      "options": {
+        "A": "$NH_4Cl$",
+        "B": "$Na_2CO_3$",
+        "C": "$NH_4CN$",
+        "D": "$Na_2SO_4$"
+      }
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "For a hypothetical reaction $x + y \\rightarrow z$, if the conc. of x is double, the rate increases by square and if the conc. of y is doubled the rate increases by twice. The experimental rate law of this reaction is:",
+      "options": {
+        "A": "$R=K[x][y]$",
+        "B": "$R=K[x]^1[y]^2$",
+        "C": "$R=K[x]^2[y]^1$",
+        "D": "$R=K[x]^2[y]^2$"
+      }
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The unit of rate constant (K) for the first order reaction is:",
+      "options": {
+        "A": "$s^{-1}$",
+        "B": "conc. $s^{-1}$",
+        "C": "conc.$^{-1} s^{-1}$",
+        "D": "conc.$^{-2} s^{-1}$"
+      }
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Rate constant of a reaction is affected by:",
+      "options": {
+        "A": "Conc. of reactants",
+        "B": "Conc. of products",
+        "C": "Temperature",
+        "D": "Reaction time"
+      }
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The purpose of using of catalyst in a chemical reaction is to change:",
+      "options": {
+        "A": "Equilibrium constant",
+        "B": "Enthalpy of reaction",
+        "C": "Activation energy",
+        "D": "Nature of reaction"
+      }
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The overall order of reaction to which the rate law is $R = K$:",
+      "options": {
+        "A": "Zero order",
+        "B": "First order",
+        "C": "Second order",
+        "D": "Third order"
+      }
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ionic reactions are classified into:",
+      "options": {
+        "A": "Slow reaction",
+        "B": "Moderate reactions",
+        "C": "Fast reactions",
+        "D": "Reversible reaction"
+      }
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The decomposition of $H_2O_2$ is inhibited by:",
+      "options": {
+        "A": "$2\\%$ ethanol",
+        "B": "Glycerin",
+        "C": "$MnO_2$",
+        "D": "$V_2O_5$"
+      }
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The best alternative term for the velocity of reaction is:",
+      "options": {
+        "A": "Rate of appearance",
+        "B": "Rate of disappearance",
+        "C": "Average rate",
+        "D": "Instantaneous rate"
+      }
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Order of reaction is the power to which concentration of reactant is:",
+      "options": {
+        "A": "Lowered",
+        "B": "Raised",
+        "C": "Stopped.",
+        "D": "Constant"
+      }
+    },
+    {
+      "chapter": "9. Chemical Kinetics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the reaction $A \\rightarrow B$, the rate of disappearance is written as:",
+      "options": {
+        "A": "$\\frac{d[A]}{dt}$",
+        "B": "$-\\frac{d[A]}{dt}$",
+        "C": "$\\frac{d[B]}{dt}$",
+        "D": "$-\\frac{d[B]}{dt}$"
+      }
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Only one pair of liquid in the following set does not obey Raoult law, identify it:",
+      "options": {
+        "A": "Methanol and Ethanol",
+        "B": "Benzene and toluene",
+        "C": "n-Hexane and n-heptane",
+        "D": "Ethanol and Acetone"
+      }
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Identify the incorrect statement about colloidal solution:",
+      "options": {
+        "A": "It shows Tyndall effect",
+        "B": "Its particles movement is Brownian type",
+        "C": "Its particle size is less than 1 nm",
+        "D": "Its physical appearance is translucent"
+      }
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Effect of pressure change play significant role in the solubility of:",
+      "options": {
+        "A": "Solid into liquid",
+        "B": "Liquid into liquid",
+        "C": "Gas into liquid",
+        "D": "All of them"
+      }
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which is not a colligative property:",
+      "options": {
+        "A": "Lowering in vapours pressure",
+        "B": "Elevation in boiling point",
+        "C": "Depression in freezing point",
+        "D": "Atmospheric pressure"
+      }
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "According to Raoult law the relative lowering of vapour pressure is equal to:",
+      "options": {
+        "A": "Mole fraction of solvent",
+        "B": "Mole fraction of solute",
+        "C": "Molality",
+        "D": "Molarity"
+      }
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The sum of mole fractions of components of a solution is equal to:",
+      "options": {
+        "A": "0.0",
+        "B": "1.0",
+        "C": "10",
+        "D": "100"
+      }
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "How many moles of NaOH are present in a $2\\,dm^3$ of 1 molar aqueous solution of it.",
+      "options": {
+        "A": "0.5 mole",
+        "B": "1 mole",
+        "C": "1.5 mole",
+        "D": "2 mole"
+      }
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A colloidal solution of liquid into liquid is known as:",
+      "options": {
+        "A": "Gel",
+        "B": "Foam",
+        "C": "Sol",
+        "D": "Emulsion"
+      }
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An example of completely immiscible liquid pair is:",
+      "options": {
+        "A": "Benzene to toluene",
+        "B": "Water and phenol",
+        "C": "Water and Benzene",
+        "D": "Water and methanol"
+      }
+    },
+    {
+      "chapter": "10. Solution and Colloids",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A 15% W/W KOH solution can be prepared by mixing 15g KOH in:",
+      "options": {
+        "A": "15g water",
+        "B": "85g water",
+        "C": "100g water",
+        "D": "115g water"
+      }
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which statement is incorrect:",
+      "options": {
+        "A": "For constant pressure process, $\\Delta H = \\Delta E + P\\Delta V$",
+        "B": "For constant volume process, $\\Delta E = q$",
+        "C": "For exothermic reactions, $\\Delta H > 0$",
+        "D": "For Hess law $\\Sigma\\Delta H_{(cycle)} = 0$"
+      }
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a thermochemical process, no work is done if the system is kept at:",
+      "options": {
+        "A": "Constant temperature",
+        "B": "Constant pressure",
+        "C": "Constant volume",
+        "D": "Constant mass"
+      }
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Volume is a:",
+      "options": {
+        "A": "State function",
+        "B": "Path function",
+        "C": "Intensive properties",
+        "D": "Colligative property"
+      }
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The outer body of dry cell serves as anode, it is made up of:",
+      "options": {
+        "A": "Copper",
+        "B": "Zinc",
+        "C": "Lead",
+        "D": "Iron"
+      }
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The conduction of electricity through an electrolytic solution is due to the flow of:",
+      "options": {
+        "A": "Electrons",
+        "B": "Ions",
+        "C": "Atoms",
+        "D": "Molecules"
+      }
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "During electrolysis, the reaction that takes place at anode is:",
+      "options": {
+        "A": "Oxidation",
+        "B": "Reduction",
+        "C": "Hydrolysis",
+        "D": "Simultaneous oxidation and reduction"
+      }
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "This statement is not correct for lead storage battery:",
+      "options": {
+        "A": "It can be recharged",
+        "B": "It is a primary battery",
+        "C": "Anode is made up of lead",
+        "D": "Cathode is made up of lead oxide"
+      }
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In Zn-SHE voltaic cell, the half reaction occurs at anode is:",
+      "options": {
+        "A": "$Zn^{+2} + 2e^- \\rightarrow Zn$",
+        "B": "$Zn \\rightarrow Zn^{+2} + 2e^-$",
+        "C": "$2H^+ + 2e^- \\rightarrow H_2$",
+        "D": "$H_2 \\rightarrow 2H^+ + 2e^-$"
+      }
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The strongest oxidizing agent in the electro chemical series is:",
+      "options": {
+        "A": "Li",
+        "B": "$H_2$",
+        "C": "Cu",
+        "D": "Fe"
+      }
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Galvanized rode of iron is coated with:",
+      "options": {
+        "A": "Nickel",
+        "B": "Zinc",
+        "C": "Chromium",
+        "D": "Carbon"
+      }
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Fuel cell is a typical Galvanic cell which is based on the reaction between:",
+      "options": {
+        "A": "Nitrogen and oxygen",
+        "B": "Hydrogen and oxygen",
+        "C": "Methane and oxygen",
+        "D": "Hydrogen and zinc"
+      }
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Oxidation number of Cr in $Na_2Cr_2O_7$ is:",
+      "options": {
+        "A": "+3",
+        "B": "+6",
+        "C": "+8",
+        "D": "+12"
+      }
+    },
+    {
+      "chapter": "12. Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following half cell reaction show oxidation:",
+      "options": {
+        "A": "$Fe^{+3} \\rightarrow Fe^{+2}$",
+        "B": "$Cl_2 \\rightarrow 2Cl^-$",
+        "C": "$SO_4^{-2} \\rightarrow SO_3^{-2}$",
+        "D": "$Zn \\rightarrow Zn^{+2}$"
+      }
+    }
+  ]
+}

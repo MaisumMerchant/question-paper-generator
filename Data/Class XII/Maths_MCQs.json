@@ -1,0 +1,1462 @@
+{
+  "subject": "Mathematics",
+  "class": "XII",
+  "questions": [
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The function $y=x$ is called:",
+      "options": {
+        "A": "Quadratic function",
+        "B": "Cubic function",
+        "C": "Identity function",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The set $\\{x\\mid x\\le a\\}$ can be written as:",
+      "options": {
+        "A": "$[-\\infty,\\infty]$",
+        "B": "$[-\\infty,a]$",
+        "C": "$(-\\infty,a]$",
+        "D": "$(-\\infty,\\infty)$"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$[3,5]-(3,5)=$",
+      "options": {
+        "A": "$\\emptyset$",
+        "B": "(3,5)",
+        "C": "$\\{3,5\\}$",
+        "D": "$\\{1,5\\}$"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Let $R=\\{(x,y)\\mid x\\in\\mathbb{R}$ and $y=5\\}$",
+      "options": {
+        "A": "Set of real numbers",
+        "B": "$\\{5\\}$",
+        "C": "$\\emptyset$",
+        "D": "$\\{1,5\\}$"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A function $f(x)=\\frac{x}{|x|}$, $x\\ne 0$ is an:",
+      "options": {
+        "A": "odd function",
+        "B": "even function",
+        "C": "linear function",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $f(x)=4^x$ then $f(x+1)-f(x)=$",
+      "options": {
+        "A": "4",
+        "B": "$f(x)$",
+        "C": "$3f(x)$",
+        "D": "$2f(x)$"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The limit of the sequence having general term $a_n=\\left(\\frac{1}{2}\\right)^n$ is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "$\\infty$",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\lim_{x\\to 0}\\frac{\\sin ax}{x}=$?",
+      "options": {
+        "A": "1",
+        "B": "$a$",
+        "C": "$\\infty$",
+        "D": "0"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\lim_{x\\to 3}\\frac{x^2-9}{x-3}=$?",
+      "options": {
+        "A": "3",
+        "B": "$\\infty$",
+        "C": "0",
+        "D": "6"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $f:[-1,4]\\to\\mathbb{R}$ is given by $f(x)=x^2$ then $f(-3)$ is:",
+      "options": {
+        "A": "9",
+        "B": "-9",
+        "C": "does not exist",
+        "D": "6"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\lim_{h\\to 0}\\sin\\left(\\frac{\\pi}{2}+h\\right)=$?",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "0",
+        "D": "$\\frac{1}{2}$"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\lim_{x\\to 0}\\frac{e^{-x}-1}{x}=$?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "does not exist"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\lim_{x\\to c} f(x)$ exists if and only if:",
+      "options": {
+        "A": "$\\lim_{x\\to c^-} f(x)$ exists",
+        "B": "$\\lim_{x\\to c^+} f(x)$ exists",
+        "C": "$\\lim_{x\\to c^-} f(x)=\\lim_{x\\to c^+} f(x)$",
+        "D": "$\\lim_{x\\to c^+} f(x)\\ne\\lim_{x\\to c^-} f(x)$"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\lim_{n\\to\\infty}\\left(1+\\frac{1}{n}\\right)^{-7n}$ is:",
+      "options": {
+        "A": "$e^{-7}$",
+        "B": "$e$",
+        "C": "1",
+        "D": "$\\infty$"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The limit of the sequence $1, \\pi^{-1}, \\pi^{-2}, \\pi^{-3}, \\ldots$ is:",
+      "options": {
+        "A": "1",
+        "B": "$\\pi$",
+        "C": "$\\infty$",
+        "D": "0"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following represents parametric function:",
+      "options": {
+        "A": "$y=f(x)$",
+        "B": "$f(x)=0$",
+        "C": "$x=f(t), y=g(t)$",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $g(x)=3x+2$ and $g(f(x))=x$ then $f(2)=$:",
+      "options": {
+        "A": "2",
+        "B": "6",
+        "C": "0",
+        "D": "8"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The value of $k$ for which $f(x)=\\frac{\\tan kx}{x}$, $x\\ne 0$ is continuous is:",
+      "options": {
+        "A": "0",
+        "B": "3",
+        "C": "1",
+        "D": "1"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The derivative of $x^3$ is:",
+      "options": {
+        "A": "$3x^2$",
+        "B": "$-3x^2$",
+        "C": "$6x^4$",
+        "D": "$-6x^4$"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The derivative of $\\sqrt{x}+x$ is:",
+      "options": {
+        "A": "$\\frac{1}{2\\sqrt{x}}+1$",
+        "B": "$-\\frac{1}{2\\sqrt{x}}$",
+        "C": "$\\frac{1}{\\sqrt{x}}+\\frac{1}{3}$",
+        "D": "$\\frac{1}{\\sqrt{x}}+3$"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $y=(x+1)(x^2-2)$, then $\\frac{dy}{dx}$ is:",
+      "options": {
+        "A": "$3x^2+2x-2$",
+        "B": "$3x^2+2x-2$",
+        "C": "$3x^2+2x-2$",
+        "D": "$3x^2+2x-2$"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $a^2+b^2=c^2$ then $\\frac{da}{db}$ is:",
+      "options": {
+        "A": "$-\\frac{2a}{b}$",
+        "B": "$-\\frac{a}{b}$",
+        "C": "$-\\frac{a}{2b}$",
+        "D": "$-\\frac{b}{2a}$"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $y=\\sqrt{\\tan x-y}$, then $\\frac{dy}{dx}=$?",
+      "options": {
+        "A": "$\\frac{\\tan x}{2y+1}$",
+        "B": "$-\\frac{\\csc^2 x}{2y-1}$",
+        "C": "$\\frac{\\sec^2 x}{2y+1}$",
+        "D": "$\\frac{\\sec^2 x}{2y+1}$"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $y=\\tan^{-1}\\sqrt{x}$, then $\\frac{dx}{dy}=$?",
+      "options": {
+        "A": "$\\frac{1}{1+x^2}$",
+        "B": "$\\frac{1}{x+\\sqrt{x}}$",
+        "C": "$\\frac{1}{2(x+\\sqrt{x})}$",
+        "D": "$\\frac{1}{2(\\sqrt{x}+x)}$"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The derivative of $\\tan x$ w.r.t. $\\sec^2 x$ is:",
+      "options": {
+        "A": "$\\frac{\\sec^2 x}{2}$",
+        "B": "$-\\tan^2 x$",
+        "C": "$\\frac{\\csc^2 x}{\\sec^2 x}$",
+        "D": "$\\tan^2 x$"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $a^2-3x^2=5$ and $f'(2)=9$, then $a$ is equal to:",
+      "options": {
+        "A": "-2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The derivative of $x^2e^{2x}$ is:",
+      "options": {
+        "A": "$xe^{2x}(2x+2)$",
+        "B": "$2xe^{2x}$",
+        "C": "$2e^{2x}(x+2)$",
+        "D": "$2e^{2x}(x^2+1)$"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The function $f(x)=a^x$, then $f'(x)=$?",
+      "options": {
+        "A": "$a^x\\ln a$",
+        "B": "$a^x$",
+        "C": "$\\ln a$",
+        "D": "Does not exist"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $y=\\tan^{-1}\\sqrt{\\frac{1-\\cos x}{1+\\cos x}}$ then $\\frac{dy}{dx}$ is:",
+      "options": {
+        "A": "$\\frac{1}{2}$",
+        "B": "$-\\frac{1}{2}$",
+        "C": "2",
+        "D": "$\\frac{1}{4}$"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\frac{d}{dx}(\\sin^{-1}x+\\cos^{-1}x)$ is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "does not exist"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The derivative of $\\tan ax$ is:",
+      "options": {
+        "A": "$\\sec^2 ax$",
+        "B": "$a\\sec^2 ax$",
+        "C": "$a\\sec^2 ax$",
+        "D": "$2a\\sec^2 ax$"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The derivative of $\\cos^{-1}(2x)$ is:",
+      "options": {
+        "A": "$\\frac{1}{\\sqrt{1-4x^2}}$",
+        "B": "$-\\frac{2}{\\sqrt{1-4x^2}}$",
+        "C": "$-\\frac{2}{\\sqrt{1-4x^2}}$",
+        "D": "$-\\frac{1}{\\sqrt{1-4x^2}}$"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $f(x)=\\ln 2x$ ($x>0$), $g(x)=e^x$, then $g'(f(x))=$",
+      "options": {
+        "A": "$\\frac{2}{x}$",
+        "B": "$\\frac{1}{2x}$",
+        "C": "$\\frac{2}{x}$",
+        "D": "$\\frac{e^x}{2}$"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $f(x)=a\\cos 3x$ and $f'\\left(\\frac{\\pi}{9}\\right)=6$, then $a=$",
+      "options": {
+        "A": "-6",
+        "B": "-2",
+        "C": "2",
+        "D": "3"
+      }
+    },
+    {
+      "chapter": "Higher Order Derivatives and Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $y=\\frac{1}{x}$, then $y''(1)=$ ______:",
+      "options": {
+        "A": "6",
+        "B": "-6",
+        "C": "2",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Higher Order Derivatives and Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What will be the nth derivative of $e^{2x}$?",
+      "options": {
+        "A": "$2ne^x$",
+        "B": "$2^n e^x$",
+        "C": "$2e^x$",
+        "D": "$\\frac{e^x}{2}$"
+      }
+    },
+    {
+      "chapter": "Higher Order Derivatives and Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $x=t^2$, then $y''(t)=$ ______:",
+      "options": {
+        "A": "$\\frac{2x^2}{t^3}$",
+        "B": "$-\\frac{2x^2}{t^3}$",
+        "C": "$\\frac{3x^2}{t^3}$",
+        "D": "$\\frac{2x^2}{t^3}$"
+      }
+    },
+    {
+      "chapter": "Higher Order Derivatives and Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "3rd order derivative of $e^{nx}$ is ______:",
+      "options": {
+        "A": "$(\\ln n)^3 e^{nx}$",
+        "B": "$(\\ln n)^2 e^{nx}$",
+        "C": "$(\\ln n)^3 e^{-nx}$",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Higher Order Derivatives and Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "2nd order derivative of $f(x)=A\\sin x+B\\cos x$ is ______:",
+      "options": {
+        "A": "$f(x)$",
+        "B": "$-f(x)$",
+        "C": "$\\pm f(x)$",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Differentiation of Vector Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The domain of the vector function $\\vec{r}(t)=t^3\\mathbf{i}+\\frac{1}{t-2}\\mathbf{j}+\\ln(t+1)\\mathbf{k}$, $t\\in\\mathbb{R}$, is:",
+      "options": {
+        "A": "$\\{t>2, t\\in\\mathbb{R}\\}$",
+        "B": "$\\{t<-1, t\\in\\mathbb{R}\\}$",
+        "C": "$(-\\infty,-1)\\cup(-1,2)\\cup(2,\\infty)$",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Differentiation of Vector Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Is the function $\\vec{F}(t)=\\cos t\\mathbf{i}+\\sin 2t\\mathbf{j}$ continuous at $t=\\frac{\\pi}{2}$:",
+      "options": {
+        "A": "is not continuous",
+        "B": "is continuous",
+        "C": "limit does not exist",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Differentiation of Vector Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What value of $t$, vector function $\\vec{F}(t)=\\frac{1}{t-2}\\mathbf{i}+\\sin t\\mathbf{j}$ is continuous at:",
+      "options": {
+        "A": "$t=2$",
+        "B": "$t=-2$",
+        "C": "$t=\\infty$",
+        "D": "$t=0$"
+      }
+    },
+    {
+      "chapter": "Differentiation of Vector Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\vec{r}=t^2\\mathbf{i}-2e^t\\mathbf{j}$ is a vector function and $h=t^2-2t-1$ is scalar then $\\lim_{t\\to 0}[\\vec{r}(t)\\cdot h(t)]=$ ______.",
+      "options": {
+        "A": "$-2e^t$",
+        "B": "$e^t$",
+        "C": "$2e^t$",
+        "D": "$-e^t$"
+      }
+    },
+    {
+      "chapter": "Differentiation of Vector Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\vec{u}=t^2\\mathbf{i}-e^t\\mathbf{j}$ and $\\vec{v}=-2t\\mathbf{i}+2t^2\\mathbf{j}$ are vector functions then $\\lim_{t\\to 0}(\\vec{u}\\cdot\\vec{v})=$ ______.",
+      "options": {
+        "A": "0",
+        "B": "$t^4$",
+        "C": "$t^2-e^t$",
+        "D": "$-2e^t$"
+      }
+    },
+    {
+      "chapter": "Differentiation of Vector Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\vec{f}(t)=t^2\\mathbf{i}-e^t\\mathbf{j}$ then $\\vec{f}'(t)=$ ______.",
+      "options": {
+        "A": "$2t\\mathbf{i}-e^t\\mathbf{j}$",
+        "B": "$2t\\mathbf{i}+e^t\\mathbf{j}$",
+        "C": "$-2t\\mathbf{i}-e^t\\mathbf{j}$",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Differentiation of Vector Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The velocity function of a particle, whose motion is given by $\\vec{r}(t)=\\frac{1}{2\\pi}t^2\\mathbf{i}+3\\sin t\\mathbf{j}$ at time $t=\\frac{\\pi}{2}$ is:",
+      "options": {
+        "A": "$\\frac{1}{\\pi}+3$",
+        "B": "$\\frac{1}{\\pi}$",
+        "C": "$\\frac{1}{\\pi}-3$",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Differentiation of Vector Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The magnitude of velocity of a particle at $\\pi$ whose motion is given by $\\vec{r}(t)=4\\cos t\\mathbf{i}+4\\sin t\\mathbf{j}+3t^2\\mathbf{k}$ is:",
+      "options": {
+        "A": "$\\sqrt{16\\pi^2+9}$",
+        "B": "$16\\pi^2+9$",
+        "C": "$\\sqrt{16\\pi^2+9\\pi^2}$",
+        "D": "$16\\pi^2+9\\pi^2$"
+      }
+    },
+    {
+      "chapter": "Differentiation of Vector Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The magnitude of acceleration of a particle at $\\pi$ whose motion is given by $\\vec{r}(t)=4\\cos t\\mathbf{i}+4\\sin t\\mathbf{j}+3t^2\\mathbf{k}$ is:",
+      "options": {
+        "A": "$\\sqrt{16\\pi^2+9\\pi^2}$",
+        "B": "$16\\pi^2+9\\pi^2$",
+        "C": "$16\\pi^2+9$",
+        "D": "$\\sqrt{16\\pi^2+9}$"
+      }
+    },
+    {
+      "chapter": "Integration",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\int f^n(x)dx$, where $n\\ne -1$, is:",
+      "options": {
+        "A": "$\\frac{f^{n+1}(x)}{n+1}+c$",
+        "B": "$\\frac{nf^{n-1}(x)}{n-1}+c$",
+        "C": "$\\frac{f^{n+1}(x)}{n-1}+c$",
+        "D": "$\\ln x+c$"
+      }
+    },
+    {
+      "chapter": "Integration",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\int\\frac{f'(x)}{f^n(x)}dx$, where $n\\ne 1$, is:",
+      "options": {
+        "A": "$\\frac{f^{n+1}(x)}{n+1}+c$",
+        "B": "$\\ln|f^n(x)|+c$",
+        "C": "$\\ln|f(x)|+c$",
+        "D": "$nf^{n-1}(x)+c$"
+      }
+    },
+    {
+      "chapter": "Integration",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\int x^ndx$, where $n\\ne -1$, is:",
+      "options": {
+        "A": "$\\frac{x^{n+1}}{n+1}+c$",
+        "B": "$\\frac{nx^{n-1}}{n-1}+c$",
+        "C": "$\\frac{x^{n-1}}{n-1}+c$",
+        "D": "$\\ln x+c$"
+      }
+    },
+    {
+      "chapter": "Integration",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\int\\sin x\\cos xdx=$?",
+      "options": {
+        "A": "$\\sin x+c$",
+        "B": "$\\cos x+c$",
+        "C": "$\\frac{1}{4}\\cos 2x+c$",
+        "D": "$-\\frac{1}{4}\\cos 2x+c$"
+      }
+    },
+    {
+      "chapter": "Integration",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\int x^2\\ln e^2dx=$?",
+      "options": {
+        "A": "$\\frac{x^4}{4}+c$",
+        "B": "$\\frac{x^3}{3}+c$",
+        "C": "$\\ln e^2+c$",
+        "D": "$\\ln x^2+c$"
+      }
+    },
+    {
+      "chapter": "Integration",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\int(1+\\tan^2 x)dx=$?",
+      "options": {
+        "A": "$\\tan x+c$",
+        "B": "$\\sin^2 x+c$",
+        "C": "$\\frac{\\tan^2 x}{2}+c$",
+        "D": "$\\ln\\sec x+c$"
+      }
+    },
+    {
+      "chapter": "Integration",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\int\\frac{2e^x}{1+e^x}dx=$?",
+      "options": {
+        "A": "$\\ln(1+e^x)+c$",
+        "B": "$\\ln(1+e^x)^2+c$",
+        "C": "$(1+e^x)^{-2}+c$",
+        "D": "$\\frac{e^x}{2}+c$"
+      }
+    },
+    {
+      "chapter": "Integration",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\int e^x\\ln x^3dx=$?",
+      "options": {
+        "A": "$\\frac{1}{3}e^{3x}\\ln x+c$",
+        "B": "$e^x+c$",
+        "C": "$e^x\\ln x+c$",
+        "D": "$3\\ln x+c$"
+      }
+    },
+    {
+      "chapter": "Integration",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\int\\ln(e^x\\sin x)dx=$?",
+      "options": {
+        "A": "$\\frac{1}{e^x\\sin x}+c$",
+        "B": "$\\ln\\sin x+c$",
+        "C": "$-\\frac{1}{e^x\\sin x}+c$",
+        "D": "$x-\\ln\\sin x+c$"
+      }
+    },
+    {
+      "chapter": "Integration",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\int e^x\\ln e^x\\sin xdx=$?",
+      "options": {
+        "A": "$\\frac{1}{e^x\\sin x}+c$",
+        "B": "$\\ln\\sin x+c$",
+        "C": "$-\\frac{1}{e^x\\sin x}+c$",
+        "D": "$x-\\ln\\sin x+c$"
+      }
+    },
+    {
+      "chapter": "Integration",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\int\\frac{\\sqrt{x^2-1}}{x}dx=$",
+      "options": {
+        "A": "$\\ln(\\sec^{-1}x)^{-1}+c$",
+        "B": "$\\ln(\\sec^{-1}x)^2+c$",
+        "C": "$\\ln(\\sec^{-1}x)+c$",
+        "D": "$\\ln(\\sec^{-1}x)+c$"
+      }
+    },
+    {
+      "chapter": "Plane Analytic Geometry: Straight Line",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The slope of the line that passes through $(-3,-4)$ and $(7,6)$ is:",
+      "options": {
+        "A": "0",
+        "B": "undefined",
+        "C": "-1",
+        "D": "1"
+      }
+    },
+    {
+      "chapter": "Plane Analytic Geometry: Straight Line",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A line with a slope of $\\frac{1}{2}$ and $y$-intercept 7 is:",
+      "options": {
+        "A": "$2y=x-7$",
+        "B": "$y=\\frac{1}{2}x+7$",
+        "C": "$y=\\frac{1}{2}x-7$",
+        "D": "$x-2y=14$"
+      }
+    },
+    {
+      "chapter": "Plane Analytic Geometry: Straight Line",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If two lines are parallel then their slopes are:",
+      "options": {
+        "A": "same",
+        "B": "opposite",
+        "C": "reciprocals",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If a plane cuts one nappe of a right circular cone perpendicular to the axis then conic is:",
+      "options": {
+        "A": "parabola",
+        "B": "circle",
+        "C": "ellipse",
+        "D": "hyperbola"
+      }
+    },
+    {
+      "chapter": "Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The centre of circle with equation $(x+3)^2+(y-5)^2=36$ is:",
+      "options": {
+        "A": "$(3,-5)$",
+        "B": "$(-3,-5)$",
+        "C": "$(-3,5)$",
+        "D": "$(3,5)$"
+      }
+    },
+    {
+      "chapter": "Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The centre of circle with equation $x^2+y^2+10x-8y+1=0$ is:",
+      "options": {
+        "A": "$(-5,8)$",
+        "B": "$(-10,8)$",
+        "C": "$(5,-4)$",
+        "D": "$(-5,4)$"
+      }
+    },
+    {
+      "chapter": "Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The radius of circle with equation $x^2+y^2+4x+6y+1=0$ is:",
+      "options": {
+        "A": "$\\sqrt{13}$",
+        "B": "$\\sqrt{12}$",
+        "C": "$\\sqrt{10}$",
+        "D": "$\\sqrt{71}$"
+      }
+    },
+    {
+      "chapter": "Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is not a conic:",
+      "options": {
+        "A": "circle",
+        "B": "ellipse",
+        "C": "line",
+        "D": "parabola"
+      }
+    },
+    {
+      "chapter": "Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The equation of circle with centre at origin and diameter of 10 units is:",
+      "options": {
+        "A": "$x^2+y^2=100$",
+        "B": "$x^2+y^2=0$",
+        "C": "$x^2+y^2=50$",
+        "D": "$x^2+y^2=25$"
+      }
+    },
+    {
+      "chapter": "Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "For what value of $k$ the radius of circle $x^2+y^2+6x-4y+k=0$ is 5:",
+      "options": {
+        "A": "11",
+        "B": "12",
+        "C": "10",
+        "D": "12"
+      }
+    },
+    {
+      "chapter": "Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The centre of circle $x^2+y^2+6x+8=0$ is:",
+      "options": {
+        "A": "on x axis",
+        "B": "on y axis",
+        "C": "in 1st quadrant",
+        "D": "at origin"
+      }
+    },
+    {
+      "chapter": "Circle",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The circle $x^2+y^2+6x+10y+9=0$:",
+      "options": {
+        "A": "touches x-axis",
+        "B": "touches y-axis",
+        "C": "passes through origin",
+        "D": "cuts x-axis"
+      }
+    },
+    {
+      "chapter": "Parabola, Ellipse and Hyperbola",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the eccentricity is zero, then the conic is:",
+      "options": {
+        "A": "parabola",
+        "B": "ellipse",
+        "C": "circle",
+        "D": "hyperbola"
+      }
+    },
+    {
+      "chapter": "Parabola, Ellipse and Hyperbola",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The focus of parabola $x^2=-16y$ is:",
+      "options": {
+        "A": "$(0,0)$",
+        "B": "$(4,0)$",
+        "C": "$(-4,0)$",
+        "D": "$(0,-4)$"
+      }
+    },
+    {
+      "chapter": "Parabola, Ellipse and Hyperbola",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The latus rectum and vertex of $(y-3)^2=-8(x+4)$ is:",
+      "options": {
+        "A": "-8, $(3,-4)$",
+        "B": "8, $(3,-4)$",
+        "C": "4, $(-3,-4)$",
+        "D": "8, $(-4,3)$"
+      }
+    },
+    {
+      "chapter": "Parabola, Ellipse and Hyperbola",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The equation of tangent at $(4,6)$ to the parabola $y^2=9x$ is:",
+      "options": {
+        "A": "$6y=9(x+4)$",
+        "B": "$6y=9(x-4)$",
+        "C": "$6y=\\frac{9}{2}(x+4)$",
+        "D": "$6y=9(x+4)$"
+      }
+    },
+    {
+      "chapter": "Parabola, Ellipse and Hyperbola",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The latus rectum of ellipse $\\frac{x^2}{25}+\\frac{y^2}{16}=1$ is:",
+      "options": {
+        "A": "$\\frac{5}{4}$",
+        "B": "$\\frac{32}{5}$",
+        "C": "$\\frac{50}{4}$",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Differential Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The order and degree of the differential equation $1+\\left(\\frac{d^2y}{dx^2}\\right)^2=x\\left(\\frac{dy}{dx}\\right)^3$ is:",
+      "options": {
+        "A": "order 2, degree 2",
+        "B": "order 2, degree 1",
+        "C": "order 1, degree 2",
+        "D": "order 1, degree 1"
+      }
+    },
+    {
+      "chapter": "Differential Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The degree of $\\left(\\frac{dy}{dx}\\right)^4+3\\frac{d^2y}{dx^2}=7$ is:",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "1",
+        "D": "3"
+      }
+    },
+    {
+      "chapter": "Differential Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The order and degree of $\\left(\\frac{d^3y}{dx^3}\\right)^2=\\sqrt{\\frac{dy}{dx}}$ is:",
+      "options": {
+        "A": "order 3, degree 4",
+        "B": "order 4, degree 3",
+        "C": "order 2, degree 1",
+        "D": "order 1, degree 2"
+      }
+    },
+    {
+      "chapter": "Differential Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The degree of $y=x\\left(\\frac{dy}{dx}\\right)^2+\\left(\\frac{d^2y}{dx^2}\\right)^4$ is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "chapter": "Differential Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The order and degree of $\\frac{d^2y}{dx^2}=\\sqrt{1+\\left(\\frac{dy}{dx}\\right)^3}$ is:",
+      "options": {
+        "A": "2, 2",
+        "B": "2, 3",
+        "C": "3, 2",
+        "D": "2, 1"
+      }
+    },
+    {
+      "chapter": "Differential Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Differential equation $xdy-ydx=0$, $y(1)=2$ has a solution given by $y$. Then $y(-1)$ is:",
+      "options": {
+        "A": "-1",
+        "B": "-2",
+        "C": "2",
+        "D": "1"
+      }
+    },
+    {
+      "chapter": "Differential Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The solution of differential equation $\\frac{dy}{dx}+y^2=0$ is:",
+      "options": {
+        "A": "$y=ce^x$",
+        "B": "$y=\\frac{1}{x+c}$",
+        "C": "$y=-\\frac{1}{x^3}+c$",
+        "D": "$y=x^3+c$"
+      }
+    },
+    {
+      "chapter": "Differential Equations",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The general solution of the differential equation $9\\frac{dy}{dx}+4x=0$ is:",
+      "options": {
+        "A": "$4x^2+9y^2=c$",
+        "B": "$-4x^2+9y=c$",
+        "C": "$4x^3+9y=c$",
+        "D": "$4x^2-9y=c$"
+      }
+    },
+    {
+      "chapter": "Partial Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Given that $f(x,y)=e^{xy}$ then $f_x=$ ______.",
+      "options": {
+        "A": "$\\frac{x}{y}$",
+        "B": "$e^{xy}$",
+        "C": "$y$",
+        "D": "$ye^{xy}$"
+      }
+    },
+    {
+      "chapter": "Partial Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Surface area of a cube is a function of ______.",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "chapter": "Partial Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Given that $g(x,y)=\\cos y^3$ then $g_y=$ ______.",
+      "options": {
+        "A": "$-\\frac{x}{y}$",
+        "B": "$\\frac{x}{y}$",
+        "C": "$-\\frac{x}{y^3}$",
+        "D": "$-\\frac{y^3}{x}$"
+      }
+    },
+    {
+      "chapter": "Partial Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A function $u=(2x)^{\\frac{2}{3}}$ is homogeneous of degree ______.",
+      "options": {
+        "A": "0",
+        "B": "2",
+        "C": "3",
+        "D": "1"
+      }
+    },
+    {
+      "chapter": "Partial Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The perimeter of rectangle is given by a function $P(x,y)=2x+y$, where $x$ and $y$ are its length and breadth. Then sum of their partial derivatives is:",
+      "options": {
+        "A": "$2x$",
+        "B": "$2y$",
+        "C": "$2x+y$",
+        "D": "4"
+      }
+    },
+    {
+      "chapter": "Partial Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Given that $z=f(x,y)$ is a homogeneous function of degree $0$ then $x\\frac{\\partial z}{\\partial x}+y\\frac{\\partial z}{\\partial y}=$ ______.",
+      "options": {
+        "A": "$x+y$",
+        "B": "0",
+        "C": "1",
+        "D": "$f(x,y)$"
+      }
+    },
+    {
+      "chapter": "Partial Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The area of trapezium is a function of ______ variables.",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "chapter": "Partial Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Given that $w=f(u,v)$ is a homogeneous function of degree $\\frac{2}{3}$ then $u\\frac{\\partial w}{\\partial u}+v\\frac{\\partial w}{\\partial v}=$ ______.",
+      "options": {
+        "A": "$\\frac{dw}{du}$",
+        "B": "0",
+        "C": "$w$",
+        "D": "$u+v$"
+      }
+    },
+    {
+      "chapter": "Partial Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Given that $z=\\frac{yu}{v}$ is a homogeneous function of degree $0$ then $v\\frac{\\partial z}{\\partial v}=$ ______.",
+      "options": {
+        "A": "$u\\frac{\\partial z}{\\partial u}$",
+        "B": "0",
+        "C": "$-\\frac{\\partial z}{\\partial u}$",
+        "D": "-1"
+      }
+    },
+    {
+      "chapter": "Partial Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Let $f(x,y)=xy$ and $g(x,y)=\\frac{1}{2}xy$ be the homogeneous functions for the areas of rectangle and triangle, respectively, where $x$ and $y$ are the base and height. Then the degree of homogeneous function of $\\frac{f(x,y)}{g(x,y)}$ is:",
+      "options": {
+        "A": "6",
+        "B": "1",
+        "C": "$\\frac{2}{3}$",
+        "D": "-1"
+      }
+    },
+    {
+      "chapter": "Introduction to Numerical Methods",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If real root of an equation $f(x)=0$ lies in the interval $[a,b]$ then $f(a)\\cdot f(b)$ will be:",
+      "options": {
+        "A": ">0",
+        "B": "<0",
+        "C": "=0",
+        "D": "All of them"
+      }
+    },
+    {
+      "chapter": "Introduction to Numerical Methods",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In bisection method, the approximate root is as an ______ of end point of an interval in which actual root lies.",
+      "options": {
+        "A": "Arithmetic mean",
+        "B": "Geometric mean",
+        "C": "Sum",
+        "D": "Product"
+      }
+    },
+    {
+      "chapter": "Introduction to Numerical Methods",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Iterative formula for False Position Method to solve the equation $f(x)=0$ at interval $[a,b]$ is:",
+      "options": {
+        "A": "$\\alpha=\\frac{af(a)-bf(b)}{f(a)-f(b)}$",
+        "B": "$\\alpha=\\frac{af(b)-bf(a)}{a-b}$",
+        "C": "$\\alpha=\\frac{af(b)-bf(a)}{f(b)-f(a)}$",
+        "D": "$\\alpha=\\frac{af(b)-bf(a)}{f(a)+f(b)}$"
+      }
+    },
+    {
+      "chapter": "Introduction to Numerical Methods",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Newton Raphson iterative formula is:",
+      "options": {
+        "A": "$x_{n+1}=\\frac{x_n+f'(x_n)}{f(x_n)}$",
+        "B": "$x_{n+1}=x_n+\\frac{f(x_n)}{f'(x_n)}$",
+        "C": "$x_{n+1}=\\frac{2x_nf'(x_n)+f(x_n)}{f'(x_n)}$",
+        "D": "$x_{n+1}=\\frac{2x_nf'(x_n)-f(x_n)}{f'(x_n)}$"
+      }
+    },
+    {
+      "chapter": "Introduction to Numerical Methods",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Numerical solution of an equation $f(x)=0$ by using Newton Raphson Method:",
+      "options": {
+        "A": "find maximum value of $x$",
+        "B": "find minimum value of $x$",
+        "C": "approximate value of a root",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Introduction to Numerical Methods",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If a function is twice differentiable and $f'(x)=0$ at $x=c$ then at $x=c$ $f''(c)>0$ then:",
+      "options": {
+        "A": "the tangent at $x=c$ is parallel to x-axis",
+        "B": "the function has maximum value at $x=c$",
+        "C": "the function has minimum value at $x=c$",
+        "D": "the curve crosses x-axis"
+      }
+    },
+    {
+      "chapter": "Introduction to Numerical Methods",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In numerical integration by trapezoidal rule, each subinterval must be of:",
+      "options": {
+        "A": "equal size",
+        "B": "unequal size",
+        "C": "any size",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "Introduction to Numerical Methods",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Numerical integration using trapezoidal rule gives the ______ of actual value.",
+      "options": {
+        "A": "overestimate",
+        "B": "underestimate",
+        "C": "estimate",
+        "D": "all of them"
+      }
+    },
+    {
+      "chapter": "Introduction to Numerical Methods",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In numerical integration using Simpson's $\\frac{1}{3}$ rule, $n$ must be:",
+      "options": {
+        "A": "odd",
+        "B": "even",
+        "C": "any positive integer",
+        "D": "zero"
+      }
+    },
+    {
+      "chapter": "Introduction to Numerical Methods",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In numerical integration using Simpson's $\\frac{3}{8}$ rule, $n$ must be a multiple of:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "any positive integer"
+      }
+    }
+  ]
+}

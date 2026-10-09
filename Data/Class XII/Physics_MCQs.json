@@ -1,0 +1,1827 @@
+{
+  "subject": "Physics",
+  "class": "XII",
+  "questions": [
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The relationship between temperature and average kinetic energy of particles in a gas is:",
+      "options": {
+        "A": "temperature is inversely proportional to average kinetic energy",
+        "B": "temperature is directly proportional to average kinetic energy",
+        "C": "temperature is independent of average kinetic energy",
+        "D": "temperature is proportional to the square of average kinetic energy"
+      }
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Standard conditions of temperature and pressure (STP) refer to a gas at:",
+      "options": {
+        "A": "$0^\\circ C$ and 1 atm",
+        "B": "$20^\\circ C$ and 1 atm",
+        "C": "$25^\\circ C$ and 101.3 kPa (1 atm)",
+        "D": "$30^\\circ C$ and 1 atm"
+      }
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the temperature is kept constant and the volume of a gas is doubled, then pressure of a gas is:",
+      "options": {
+        "A": "Reduced to $\\frac{1}{2}$ of the original value",
+        "B": "Doubled",
+        "C": "Reduced to $\\frac{1}{4}$ of the original value",
+        "D": "Quadrupled"
+      }
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Avogadro's number is the number of molecules in:",
+      "options": {
+        "A": "One mole of a substance",
+        "B": "One kg of a substance",
+        "C": "One $m^3$ of a gas",
+        "D": "One kilogram of hydrogen gas"
+      }
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Mean translational K.E. per molecule of an ideal gas at temperature T is:",
+      "options": {
+        "A": "$\\frac{3}{2} kT$",
+        "B": "$\\frac{1}{2} kT$",
+        "C": "$\\frac{2}{3} kT$",
+        "D": "$3kT$"
+      }
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The normal human body temperature is:",
+      "options": {
+        "A": "$98.6^\\circ F$ ($37^\\circ C$)",
+        "B": "$99.6^\\circ F$ ($37.4^\\circ C$)",
+        "C": "$100.4^\\circ F$ ($38^\\circ C$)",
+        "D": "$101^\\circ F$ ($38.3^\\circ C$)"
+      }
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The pressure $P$, the density $\\rho$ and the average speed $v$ of molecules of an ideal gas are related by the equation:",
+      "options": {
+        "A": "$P = \\frac{1}{3}\\rho v^2$",
+        "B": "$P = 3\\rho v^2$",
+        "C": "$P = \\rho v^2$",
+        "D": "$P = 2\\rho v^2$"
+      }
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In air at S.T.P, the average speed of the:",
+      "options": {
+        "A": "Oxygen molecules is greater than Nitrogen molecules",
+        "B": "Nitrogen molecules is greater than Oxygen molecules",
+        "C": "Oxygen molecules is approximately equal to Nitrogen molecules",
+        "D": "Helium atoms is greater than both Oxygen and Nitrogen molecules"
+      }
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the absolute temperature of a gas is increased 3 times, the rms velocity of the molecules will be:",
+      "options": {
+        "A": "3 times",
+        "B": "9 times",
+        "C": "$\\sqrt{3}$ times",
+        "D": "$\\frac{1}{\\sqrt{3}}$ times"
+      }
+    },
+    {
+      "chapter": "Molecular Theory of Gases",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A gas is enclosed in an isolated container which is placed on a fast-moving train uniformly. The temperature of the gas:",
+      "options": {
+        "A": "Increases due to the motion of the train",
+        "B": "Decreases due to the motion of the train",
+        "C": "Remains constant",
+        "D": "Fluctuates, depending on the train's speed and direction"
+      }
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A frictionless heat engine can be 100% efficient only if its exhaust temperature is:",
+      "options": {
+        "A": "$0^\\circ C$",
+        "B": "Equal to its input temperature",
+        "C": "0 K",
+        "D": "half of its input temperature"
+      }
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A refrigerator, with its door open. The temperature of the room will:",
+      "options": {
+        "A": "Rise",
+        "B": "Fall",
+        "C": "Remains the same",
+        "D": "Rise or fall depending on the area of the room"
+      }
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which device is not used in a diesel engine:",
+      "options": {
+        "A": "Outlet Valve",
+        "B": "Piston",
+        "C": "Sparking Plug",
+        "D": "Injector"
+      }
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one of the following processes is irreversible?",
+      "options": {
+        "A": "Slow compression of an elastic spring",
+        "B": "Slow evaporation of a substance in an isolated vessel",
+        "C": "Slow compression of a gas",
+        "D": "A chemical explosion"
+      }
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "According to 2nd law of thermodynamics, 100% conversion of heat into mechanical work is:",
+      "options": {
+        "A": "Possible",
+        "B": "Possible, if the conditions are ideal",
+        "C": "Not possible",
+        "D": "Possible, if the process is adiabatic"
+      }
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The change in entropy is given by:",
+      "options": {
+        "A": "$\\Delta S = \\Delta Q / T$",
+        "B": "$\\Delta S = \\Delta Q \\cdot T$",
+        "C": "$\\Delta S = T / \\Delta Q$",
+        "D": "$\\Delta S = \\Delta Q - T$"
+      }
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The net change in entropy as a system in a natural process is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Infinite"
+      }
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The efficiency of diesel engine is:",
+      "options": {
+        "A": "Greater than petrol engine",
+        "B": "Less than petrol engine",
+        "C": "Equal to petrol engine",
+        "D": "both have efficiency 1"
+      }
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Second law of thermodynamics states that:",
+      "options": {
+        "A": "Energy can't be converted.",
+        "B": "Entropy decreases over time.",
+        "C": "Heat flows from cold to hot.",
+        "D": "Entropy increases over time."
+      }
+    },
+    {
+      "chapter": "Second Law of Thermodynamics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The process violates the 2nd law of thermodynamics is:",
+      "options": {
+        "A": "Refrigerator cooling.",
+        "B": "Heat engine working.",
+        "C": "Gases mixing.",
+        "D": "Heat flowing from cold to hot."
+      }
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If we reverse the direction of electric current, then the direction of magnetic field will be:",
+      "options": {
+        "A": "Same",
+        "B": "reversed.",
+        "C": "tangent",
+        "D": "normal"
+      }
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The application of magnetic field is:",
+      "options": {
+        "A": "microwave oven",
+        "B": "magnetic levitation trains",
+        "C": "electrolysis",
+        "D": "plant photosynthesis"
+      }
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The equation $F = BIL$ can only be used, if the magnetic field, length of conductor, and electric current are:",
+      "options": {
+        "A": "At right angles to each other",
+        "B": "in same direction",
+        "C": "Anti-parallel to each other",
+        "D": "anti-perpendicular to each other"
+      }
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The charge on a particle is doubled, and its velocity remains the same, how then the magnetic force on the particle will be:",
+      "options": {
+        "A": "doubled",
+        "B": "halved",
+        "C": "Is the same.",
+        "D": "quadrupled"
+      }
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Strength of magnetic field of solenoid can be increased by:",
+      "options": {
+        "A": "Increasing number of turns",
+        "B": "decreasing number of turns",
+        "C": "increasing the current through the solenoid",
+        "D": "inserting a ferromagnetic core (e.g., iron) into the solenoid"
+      }
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The magnetic field inside a long solenoid is:",
+      "options": {
+        "A": "equal to zero",
+        "B": "uniform",
+        "C": "decreases as we go away from the center to surface",
+        "D": "increases as we go towards the surface"
+      }
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The force between two current carrying conductor arises due to:",
+      "options": {
+        "A": "Magnetic effect of current",
+        "B": "Polarization",
+        "C": "Electromagnetic induction",
+        "D": "Electrostatic interaction"
+      }
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "To measure a higher voltage, what should you do with the voltmeter's internal resistance?",
+      "options": {
+        "A": "Increase it",
+        "B": "Decrease it",
+        "C": "Keep it the same",
+        "D": "It doesn't affect the measurement"
+      }
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A proton moves perpendicular to a uniform magnetic field. What is the direction of the force experienced by the proton?",
+      "options": {
+        "A": "Parallel to the magnetic field",
+        "B": "In the direction of the proton's velocity",
+        "C": "Perpendicular to the magnetic field and the proton's velocity",
+        "D": "Opposite to the direction of the proton's velocity"
+      }
+    },
+    {
+      "chapter": "Magnetic Fields",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An electron moves parallel to a uniform magnetic field. What is the magnitude of the force experienced by the electron?",
+      "options": {
+        "A": "Maximum, since the electron is moving in the same direction as the field",
+        "B": "Minimum, since the electron is moving perpendicular to the field",
+        "C": "Zero, since the electron is moving parallel to the field",
+        "D": "Depends on the speed of the electron"
+      }
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Electricity production by magnetism involves:",
+      "options": {
+        "A": "the conversion of chemical energy to electrical energy.",
+        "B": "the use of static electricity for power generation.",
+        "C": "the movement of conductors within magnetic fields.",
+        "D": "the absorption of solar energy by photovoltaic cells."
+      }
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Induced e.m.f can be generated by relative movement, known as the generator effect, and by changing magnetic fields, known as the transformer effect.",
+      "options": {
+        "A": "True in transformers only.",
+        "B": "False in all cases.",
+        "C": "Applicable to both cases.",
+        "D": "True only for static magnetic fields."
+      }
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The magnitude of induced e.m.f. increases with:",
+      "options": {
+        "A": "the decrease in the speed of the conductor's motion.",
+        "B": "the decrease in the strength of the magnetic field.",
+        "C": "the increase in the number of turns in the coil.",
+        "D": "the reduction in the area of the coil."
+      }
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Faraday's law of electromagnetic induction states:",
+      "options": {
+        "A": "that current in a circuit always opposes the change in magnetic flux.",
+        "B": "that the induced e.m.f. is directly proportional to the rate of change of magnetic flux.",
+        "C": "that a changing electric field produces a magnetic field.",
+        "D": "that magnetic fields can only be produced by electric currents."
+      }
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Lenz's law predicts the direction of an induced current:",
+      "options": {
+        "A": "to conserve electric charge.",
+        "B": "by stating that the induced current will oppose the change causing it.",
+        "C": "by following the direction of the applied magnetic field.",
+        "D": "based on the magnitude of the electric field."
+      }
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Eddy currents produce:",
+      "options": {
+        "A": "static electricity in conductive materials.",
+        "B": "alternating magnetic fields with no heating effects.",
+        "C": "magnetic fields that oppose the inducing field and cause heating in conductors.",
+        "D": "uniform electric fields that have no impact on power generation."
+      }
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Laminated iron cores are used in electric motors and transformers to:",
+      "options": {
+        "A": "reduce the weight of the device.",
+        "B": "enhance the mechanical strength.",
+        "C": "minimize eddy current losses and reduce heating.",
+        "D": "increase the magnetic permeability of the core."
+      }
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Self-induction is the phenomenon where:",
+      "options": {
+        "A": "a changing electric field induces a magnetic field.",
+        "B": "a changing magnetic field within a coil induces an emf in the same coil.",
+        "C": "a constant magnetic field induces a constant emf.",
+        "D": "two coils induce emf in each other through mutual induction."
+      }
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An inductor stores electric potential energy in:",
+      "options": {
+        "A": "the electric field around it.",
+        "B": "the magnetic field within its coil.",
+        "C": "the capacitance of its windings.",
+        "D": "the heat generated by its resistance."
+      }
+    },
+    {
+      "chapter": "Electromagnetic Induction",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Transformers work on the principle of:",
+      "options": {
+        "A": "converting direct current (DC) to alternating current (AC).",
+        "B": "electromagnetic induction between primary and secondary coils.",
+        "C": "generating electricity through chemical reactions.",
+        "D": "using permanent magnets to maintain a constant voltage."
+      }
+    },
+    {
+      "chapter": "AC Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In alternating current, the flow of electric charge periodically reverses direction. The term for this specific phenomenon is:",
+      "options": {
+        "A": "Alternation",
+        "B": "Oscillation",
+        "C": "Cycle",
+        "D": "Resistance"
+      }
+    },
+    {
+      "chapter": "AC Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The frequency of standard household alternating current in Pakistan is:",
+      "options": {
+        "A": "50 Hz",
+        "B": "60 Hz",
+        "C": "100 Hz",
+        "D": "120 Hz"
+      }
+    },
+    {
+      "chapter": "AC Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The parameter for measuring the rate of change of alternating current or voltage with respect to time is:",
+      "options": {
+        "A": "Amplitude",
+        "B": "Frequency",
+        "C": "Phase angle",
+        "D": "Peak Voltage"
+      }
+    },
+    {
+      "chapter": "AC Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In AC circuits, what is the phase difference between current and voltage in a purely resistive circuit?",
+      "options": {
+        "A": "$0^\\circ$",
+        "B": "$45^\\circ$",
+        "C": "$90^\\circ$",
+        "D": "$180^\\circ$"
+      }
+    },
+    {
+      "chapter": "AC Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A device used to measure the root mean square (RMS) value of an AC voltage or current is:",
+      "options": {
+        "A": "Voltmeter",
+        "B": "Oscilloscope",
+        "C": "Ammeter",
+        "D": "AVO meter"
+      }
+    },
+    {
+      "chapter": "AC Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In an AC circuit. The term \"reactance\" represent the:",
+      "options": {
+        "A": "Ohmic resistance only",
+        "B": "Resistance to DC currents only",
+        "C": "Capacitive and inductive opposition to current flow",
+        "D": "Total impedance, including resistance and phase angle"
+      }
+    },
+    {
+      "chapter": "AC Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A type of a circuit characterized by equal values of resistance and reactance is:",
+      "options": {
+        "A": "Resistive",
+        "B": "Inductive",
+        "C": "Capacitive",
+        "D": "Resonant"
+      }
+    },
+    {
+      "chapter": "AC Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In an AC sine wave, the peak-to-peak voltage is:",
+      "options": {
+        "A": "Double the peak voltage",
+        "B": "The difference between the peak voltage and zero",
+        "C": "The sum of the peak voltage and zero",
+        "D": "The difference between the positive and negative peak voltages"
+      }
+    },
+    {
+      "chapter": "AC Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the power factor of a purely resistive circuit?",
+      "options": {
+        "A": "0",
+        "B": "0.5",
+        "C": "1",
+        "D": "-1"
+      }
+    },
+    {
+      "chapter": "AC Circuits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The purpose of a transformer in an AC power distribution system:",
+      "options": {
+        "A": "To convert AC to DC",
+        "B": "To step up or step down voltage",
+        "C": "To store electrical energy",
+        "D": "To regulate current flow"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The property of a body by virtue of which it tends to regain its original size and shape when the applied force is removed is called:",
+      "options": {
+        "A": "Elasticity",
+        "B": "Plasticity",
+        "C": "Rigidity",
+        "D": "Compressibility"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Substances which can be stretched to cause large strains are called:",
+      "options": {
+        "A": "Brittle",
+        "B": "Ductile",
+        "C": "Plastic",
+        "D": "Elastomer"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the load is increased beyond the point, the strain increases rapidly for even a small change in the stress.",
+      "options": {
+        "A": "Elastic point",
+        "B": "Yield point",
+        "C": "Plastic point.",
+        "D": "Fracture point"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The reciprocal of the bulk modulus is called:",
+      "options": {
+        "A": "Compressibility",
+        "B": "Volume stress",
+        "C": "Modulus of rigidity",
+        "D": "Volume strain"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following statements is/are wrong?\n\ni. Hollow shaft is much stronger than a solid of the same length and same mass.\nii. Reciprocal of bulk modulus of elasticity is called compressibility.\niii. It is difficult to twist a long rod as compared to small rod.",
+      "options": {
+        "A": "II only",
+        "B": "I only",
+        "C": "III and I",
+        "D": "I and II"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Metals are good conductors of heat and electricity. This property is conferred by:",
+      "options": {
+        "A": "Covalent",
+        "B": "Ionic",
+        "C": "Metallic",
+        "D": "Hydrogen"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "For a metallic crystal, delocalized electrons occupied band is:",
+      "options": {
+        "A": "Conduction band",
+        "B": "Valence band",
+        "C": "Conduction and valence bands",
+        "D": "there are no delocalized electrons"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The semiconductors have resistivity:",
+      "options": {
+        "A": "Between conductor and insulator",
+        "B": "More than insulators",
+        "C": "Less than conductors",
+        "D": "Depending upon the semiconductor material property."
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A ferromagnetic substance becomes a permanent magnet when it is placed in a magnetic field because:",
+      "options": {
+        "A": "All the domains get oriented in the direction of the magnetic field.",
+        "B": "All the domains get oriented in the direction opposite to the direction of the magnetic field.",
+        "C": "Domains get oriented randomly.",
+        "D": "Domains are not affected by the magnetic field."
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Identify methods to demagnetize a ferromagnet.",
+      "options": {
+        "A": "By cooling, heating, or submerging in water",
+        "B": "By heating, hammering, and spinning it in an external magnetic field",
+        "C": "By hammering, heating, and rubbing with cloth",
+        "D": "By cooling, submerging in water, or rubbing with cloth"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A semiconductor is an element with a valence electron:",
+      "options": {
+        "A": "Four",
+        "B": "Eight",
+        "C": "Two",
+        "D": "One"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A pure semiconductor is known as:",
+      "options": {
+        "A": "Extrinsic",
+        "B": "Intrinsic",
+        "C": "Transistor",
+        "D": "Diode"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An acceptor atom is also called:",
+      "options": {
+        "A": "Penta-valent atom",
+        "B": "Trivalent atom.",
+        "C": "Minority carrier",
+        "D": "Majority carrier"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "With which one of the following elements silicon should be doped so as to give p-type of semiconductor?",
+      "options": {
+        "A": "Germanium",
+        "B": "Arsenic",
+        "C": "Selenium",
+        "D": "Boron"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "For a full-wave rectifier, the output frequency:",
+      "options": {
+        "A": "Equals one-half the input frequency",
+        "B": "Equals the line frequency",
+        "C": "Equals two times the input",
+        "D": "Is three times the line frequency"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "LED construction needs a semiconductor material is:",
+      "options": {
+        "A": "Silicon",
+        "B": "Germanium",
+        "C": "Gallium",
+        "D": "Gallium arsenide"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The frequency of a half-wave signal is:",
+      "options": {
+        "A": "Twice the line frequency",
+        "B": "Equal to the line frequency",
+        "C": "One-half of the line frequency",
+        "D": "One-fourth the line frequency"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The voltage gain of an emitter follower circuit is:",
+      "options": {
+        "A": "High",
+        "B": "Low",
+        "C": "Very high",
+        "D": "Moderate"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is also called as the conventional amplifier?",
+      "options": {
+        "A": "Common-collector circuit",
+        "B": "Emitter follower circuit",
+        "C": "Common base circuit",
+        "D": "Common emitter circuit"
+      }
+    },
+    {
+      "chapter": "Solid State Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An op-amp with negative feedback provides output parameter.",
+      "options": {
+        "A": "Gain",
+        "B": "Bandwidth",
+        "C": "Input-output impedance",
+        "D": "Amplified"
+      }
+    },
+    {
+      "chapter": "Digital Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The voltage level, typically associated with a 'low' state in digital electronic is:",
+      "options": {
+        "A": "-5 volts",
+        "B": "0 volts",
+        "C": "+5 volts",
+        "D": "+10 volts"
+      }
+    },
+    {
+      "chapter": "Digital Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In binary representation, the correspond of '0' in digital electronics is:",
+      "options": {
+        "A": "Low state",
+        "B": "High state",
+        "C": "Open circuit",
+        "D": "Closed circuit"
+      }
+    },
+    {
+      "chapter": "Digital Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The primary purpose of a truth table in digital electronics is to:",
+      "options": {
+        "A": "Determine input voltage",
+        "B": "Measure circuit resistance",
+        "C": "Analyze output states based on input combinations",
+        "D": "Calculate circuit power"
+      }
+    },
+    {
+      "chapter": "Digital Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which logic gate combination produces an output of '1' when at least one input is '1'?",
+      "options": {
+        "A": "AND",
+        "B": "OR",
+        "C": "XOR",
+        "D": "NOT"
+      }
+    },
+    {
+      "chapter": "Digital Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a circuit with a 2-input OR gate, the status of the lamp if either switch is closed:",
+      "options": {
+        "A": "OFF",
+        "B": "ON",
+        "C": "Blinking",
+        "D": "Flickering"
+      }
+    },
+    {
+      "chapter": "Digital Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The behavior of 2 input AND gate, when both switches are closed, Lamp is:",
+      "options": {
+        "A": "OFF",
+        "B": "ON",
+        "C": "blinking",
+        "D": "flickering"
+      }
+    },
+    {
+      "chapter": "Digital Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a 3-input OR gate, if all inputs are '0' so the output will be:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "Undefined",
+        "D": "Both A and B"
+      }
+    },
+    {
+      "chapter": "Digital Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If the input is '1', The output of a NOT gate will be:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "Undefined",
+        "D": "Both A and B"
+      }
+    },
+    {
+      "chapter": "Digital Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a 2-input XOR gate, when both inputs are '1' than the output will be:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "Undefined",
+        "D": "Both A and B"
+      }
+    },
+    {
+      "chapter": "Digital Electronics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which combination of logic gates is equivalent to an XOR gate?",
+      "options": {
+        "A": "AND+OR",
+        "B": "NOT+NOR",
+        "C": "OR+NAND",
+        "D": "AND + NAND"
+      }
+    },
+    {
+      "chapter": "Relativity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The General Theory of Relativity was a new way of understanding of:",
+      "options": {
+        "A": "The speed of light",
+        "B": "gravity",
+        "C": "mass",
+        "D": "force"
+      }
+    },
+    {
+      "chapter": "Relativity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An object at rest has a mass of 1 kg. What is its mass when it is moving at a speed of $0.9c$?",
+      "options": {
+        "A": "Infinite",
+        "B": "1.2 kg",
+        "C": "2.3 kg",
+        "D": "1 kg"
+      }
+    },
+    {
+      "chapter": "Relativity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The equivalence of principle in general relativity is:",
+      "options": {
+        "A": "The equivalence of inertial and gravitational mass",
+        "B": "The equivalence of electric and magnetic fields",
+        "C": "The equivalence of space and time",
+        "D": "The equivalence of matter and energy"
+      }
+    },
+    {
+      "chapter": "Relativity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following phenomena is NOT predicted by special relativity?",
+      "options": {
+        "A": "Time dilation",
+        "B": "Length contraction",
+        "C": "Gravitational waves",
+        "D": "Relativistic mass increase"
+      }
+    },
+    {
+      "chapter": "Relativity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What does the equivalence principle state about acceleration and gravity?",
+      "options": {
+        "A": "They are completely different forces",
+        "B": "They are indistinguishable for an observer",
+        "C": "Gravity is stronger than acceleration",
+        "D": "Acceleration cancels out gravity"
+      }
+    },
+    {
+      "chapter": "Relativity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Light passing near a massive object like a star will bend due to:",
+      "options": {
+        "A": "Gravitational lensing",
+        "B": "refraction",
+        "C": "reflection",
+        "D": "diffraction"
+      }
+    },
+    {
+      "chapter": "Relativity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the main reason astronomers cannot directly observe black holes?",
+      "options": {
+        "A": "They are too small",
+        "B": "They deflect light",
+        "C": "They are too far away",
+        "D": "their immense gravity traps light"
+      }
+    },
+    {
+      "chapter": "Relativity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Objects cannot exceed the speed of light because:",
+      "options": {
+        "A": "Their mass becomes infinite",
+        "B": "Their length becomes zero",
+        "C": "Time slows down to zero",
+        "D": "they lose all energy"
+      }
+    },
+    {
+      "chapter": "Relativity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Why is the Galilean transformation not valid at high speeds?",
+      "options": {
+        "A": "It cannot handle accelerating frames",
+        "B": "It violates the constancy of the speed of light",
+        "C": "It only works in flat spacetime",
+        "D": "It neglects time dilation effects"
+      }
+    },
+    {
+      "chapter": "Relativity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The example of inertial frame in our everyday life is:",
+      "options": {
+        "A": "A car accelerating on a highway",
+        "B": "A train moving smoothly at constant speed",
+        "C": "A person standing on a spinning platform",
+        "D": "an airplane encountering turbulence"
+      }
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $h$ is the Planck constant, then $\\hbar$ is:",
+      "options": {
+        "A": "$2h$",
+        "B": "$\\frac{h}{2\\pi}$",
+        "C": "$\\frac{2h}{\\pi}$",
+        "D": "$\\frac{h}{2}$"
+      }
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a photoelectric effect experiment the stopping potential is:",
+      "options": {
+        "A": "the energy required to remove an electron from the sample",
+        "B": "the kinetic energy of the most energetic electron ejected",
+        "C": "the potential energy of the most energetic electron ejected",
+        "D": "the electric potential that causes the electron current to vanish"
+      }
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The work function for a certain sample is 2.3 eV. The stopping potential for electrons ejected from the sample by $7.0 \\times 10^{14}$-Hz electromagnetic radiation is:",
+      "options": {
+        "A": "0",
+        "B": "0.60 V",
+        "C": "2.3 V",
+        "D": "2.9 V",
+        "E": "5.2 V"
+      }
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In Compton scattering from stationary particles the maximum change in wavelength can be made smaller by using:",
+      "options": {
+        "A": "higher frequency radiation",
+        "B": "lower frequency radiation",
+        "C": "more massive particles",
+        "D": "less massive particles"
+      }
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Of the following, Compton scattering from electrons is most easily observed for:",
+      "options": {
+        "A": "infrared light",
+        "B": "visible light",
+        "C": "ultraviolet light",
+        "D": "X-rays"
+      }
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the Compton scattering from stationary electrons the largest change in wavelength occurs when the photon is scattered through:",
+      "options": {
+        "A": "$0^\\circ$",
+        "B": "$45^\\circ$",
+        "C": "$90^\\circ$",
+        "D": "$180^\\circ$"
+      }
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A free electron has a momentum of $5.0 \\times 10^{-24}$ kg - m/s. The wavelength of its wave function is:",
+      "options": {
+        "A": "$1.3 \\times 10^{-8}$ m",
+        "B": "$1.3 \\times 10^{-10}$ m",
+        "C": "$2.1 \\times 10^{-11}$ m",
+        "D": "$2.1 \\times 10^{-13}$ m"
+      }
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In Photoelectric Effect, when light fall on the surface of metal, the material should emit:",
+      "options": {
+        "A": "Electrons",
+        "B": "Protons",
+        "C": "Positrons",
+        "D": "Neutrons"
+      }
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Threshold frequency is defined as the ............ frequency of incident light which can cause photo electric emission:",
+      "options": {
+        "A": "Maximum",
+        "B": "Minimum.",
+        "C": "Average",
+        "D": "highest"
+      }
+    },
+    {
+      "chapter": "Quantum Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The amount of energy which is necessary to start photo electric emission is called:",
+      "options": {
+        "A": "Maximum",
+        "B": "Average",
+        "C": "Minimum",
+        "D": "Littlest"
+      }
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Atomic spectra are also known as:",
+      "options": {
+        "A": "Discrete spectra",
+        "B": "Line spectra",
+        "C": "Emission spectrum",
+        "D": "Continuous spectra"
+      }
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The ratio of kinetic energy to total energy for an electron in a Bohr orbit is:",
+      "options": {
+        "A": "1:1",
+        "B": "2:3",
+        "C": "1:2",
+        "D": "2:1"
+      }
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Bohr radius increases as the principal quantum number:",
+      "options": {
+        "A": "increases",
+        "B": "decreases",
+        "C": "remains constant",
+        "D": "oscillates"
+      }
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Laser beams consist of:",
+      "options": {
+        "A": "Highly coherent electrons",
+        "B": "Highly coherent photons",
+        "C": "Highly coherent phonons",
+        "D": "Highly coherent neutrons"
+      }
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The ruby laser is an example of:",
+      "options": {
+        "A": "Optical pumping",
+        "B": "Electrical pumping",
+        "C": "Chemical pumping",
+        "D": "Thermal pumping"
+      }
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Laser action requires a medium with at least:",
+      "options": {
+        "A": "Three energy levels",
+        "B": "Four energy levels",
+        "C": "Two energy levels",
+        "D": "Five energy levels"
+      }
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Population inversion occurs in:",
+      "options": {
+        "A": "Active medium",
+        "B": "Passive medium",
+        "C": "Gaseous medium",
+        "D": "Vapour medium"
+      }
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "X-rays transfer to metals:",
+      "options": {
+        "A": "Energy",
+        "B": "Force",
+        "C": "Pressure",
+        "D": "Momentum"
+      }
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "X-rays are deflected by:",
+      "options": {
+        "A": "Magnetic fields",
+        "B": "Electric fields",
+        "C": "Gravitational fields",
+        "D": "No fields"
+      }
+    },
+    {
+      "chapter": "Atomic Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Doubling the voltage of an X-ray tube:",
+      "options": {
+        "A": "Halves the intensity",
+        "B": "Keeps the intensity unchanged",
+        "C": "Doubles the intensity",
+        "D": "Quadruples the intensity"
+      }
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Identify particle x in the following nuclear reaction: $^9Be + ^4He \\rightarrow ^{12}C + x$",
+      "options": {
+        "A": "Electron",
+        "B": "proton",
+        "C": "neutron",
+        "D": "photon"
+      }
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the equation $^{27}_{13}Al + ^{4}_{2}He \\rightarrow ^{30}_{15}P + X$, the correct symbol for X is:",
+      "options": {
+        "A": "$^{0}_{-1}e$",
+        "B": "$^{1}_{1}H$",
+        "C": "$^{4}_{2}He$",
+        "D": "$^{1}_{0}n$"
+      }
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Beta rays emitted by a radioactive material are:",
+      "options": {
+        "A": "Electromagnetic radiations",
+        "B": "The electrons orbiting around the nucleus",
+        "C": "Charged particles emitted by the nucleus",
+        "D": "Neutral particles"
+      }
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of $\\alpha$ and $\\beta$ particles emitted in the following radioactive decay is: $^{200}X \\rightarrow ^{168}Y + x\\alpha + y\\beta$",
+      "options": {
+        "A": "8 and 6",
+        "B": "6 and 8",
+        "C": "8 and 8",
+        "D": "6 and 6"
+      }
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If radium has half-life of 5 years. Thus for a nucleus in a sample of radium, the probability of decay in ten years is:",
+      "options": {
+        "A": "50%",
+        "B": "75%",
+        "C": "100%",
+        "D": "60%"
+      }
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Emission of $\\beta$ particles by an element affects its mass number $A$ in the following way:",
+      "options": {
+        "A": "Increases by 1",
+        "B": "decreases by 1",
+        "C": "Increases by 2",
+        "D": "remains the same"
+      }
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "As the number of nucleons in a nucleus increases, the binding energy per nucleon:",
+      "options": {
+        "A": "Increases continuously with mass number",
+        "B": "Decreases continuously with mass number",
+        "C": "remains constant with mass number",
+        "D": "First increases and then decreases with increase of mass number"
+      }
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Moderator in a nuclear reactor slows down the neutrons to:",
+      "options": {
+        "A": "Decrease the probability of escape",
+        "B": "Increase the probability of nuclear fission",
+        "C": "Decrease the probability of absorption",
+        "D": "all of the above"
+      }
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Emission of $\\beta^+$ particles by an element affects its atomic number $Z$ in the following way:",
+      "options": {
+        "A": "Increases by 1",
+        "B": "decreases by 1",
+        "C": "Increases by 2",
+        "D": "remains the same"
+      }
+    },
+    {
+      "chapter": "Nuclear Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The half life period of a radioactive element is 100 days. After 400 days, 16 g of the element will be reduced to:",
+      "options": {
+        "A": "8 g",
+        "B": "4 g",
+        "C": "2 g",
+        "D": "1 g"
+      }
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Standard Model classifies elementary particles into two main groups:",
+      "options": {
+        "A": "Baryons and Leptons",
+        "B": "Fermions and Bosons",
+        "C": "Quarks and Gluons",
+        "D": "Hadrons and Mesons"
+      }
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The following is NOT a flavor of quark:",
+      "options": {
+        "A": "Up",
+        "B": "Down",
+        "C": "Electron",
+        "D": "Top"
+      }
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The charge of an up quark is:",
+      "options": {
+        "A": "+1/2 e",
+        "B": "-1/2 e",
+        "C": "+2/3 e",
+        "D": "-2/3 e"
+      }
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The concept of \"quark confinement\" implies that:",
+      "options": {
+        "A": "Quarks cannot exist as free particles outside of hadrons.",
+        "B": "Quarks are always found in pairs with opposite charges.",
+        "C": "Quarks have a strong affinity for gluons.",
+        "D": "Quarks are the fundamental building blocks of all matter."
+      }
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The primary role of the Higgs boson in the Standard Model is:",
+      "options": {
+        "A": "Mediating electromagnetic interactions",
+        "B": "Providing mass to other particles",
+        "C": "Transmitting the strong nuclear force",
+        "D": "Creating dark matter"
+      }
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "According to the Standard Model, the term \"color\" refers to:",
+      "options": {
+        "A": "Visible light spectrum",
+        "B": "Charge property of quarks",
+        "C": "Mass of particles",
+        "D": "Spin of particles"
+      }
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A particle made up of a quark and an antiquark is called:",
+      "options": {
+        "A": "Lepton",
+        "B": "Baryon",
+        "C": "Meson",
+        "D": "Neutrino"
+      }
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An elementary particle that feels all three fundamental forces (electromagnetic, weak, and strong nuclear forces) is:",
+      "options": {
+        "A": "Lepton",
+        "B": "Quark",
+        "C": "Electron",
+        "D": "Neutrino"
+      }
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The primary function of a Geiger-Muller counter in particle physics is to:",
+      "options": {
+        "A": "Measure the velocity of particles",
+        "B": "Detect and count ionizing radiation",
+        "C": "Create antimatter particles",
+        "D": "Generate magnetic fields"
+      }
+    },
+    {
+      "chapter": "Particle Physics",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a Geiger-Muller counter, the gas commonly used to detect ionizing radiation is:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Neon.",
+        "C": "Argon",
+        "D": "Helium"
+      }
+    }
+  ]
+}
