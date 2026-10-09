@@ -6,4 +6,5 @@
 - Show the question pool with individual selection controls and preserve optional parts.
 - Let users set Section B and Section C generation counts and chapter percentage contributions; normalize allocation and ensure every eligible selected chapter contributes whenever the pool permits.
 - Randomly generate a paper from the selected pool and render LaTeX/KaTeX mathematical, chemical, and scientific expressions accurately.
-- Preview and download the paper as Word or PDF. The paper output must contain only Section B, Section C, clearly numbered selected questions, and preserved parts; it must omit title, class, subject, date, counts, chapter labels, years, generation notes, and all other extra text.
+- Convert the bundled MCQ source PDFs into matching `*_MCQs.json` banks (Section A, `type: "mcq"`, KaTeX formulas, chapters matching the non-MCQ bank), merge them into the studio per class and subject, and let generated papers include Section A MCQs with options plus an optional answer key.
+- Preview and download the paper as Word or PDF. The paper output must contain only Section A (MCQs with options), Section B, Section C, clearly numbered selected questions, and preserved parts; it must omit title, class, subject, date, counts, chapter labels, years, generation notes, and all other extra text, except the optional Section A answer key.

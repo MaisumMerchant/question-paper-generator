@@ -95,7 +95,7 @@ async function upload(request, env, ctx) {
   if (snapshot.version !== 1 || !['IX','X','XI','XII'].includes(snapshot.class) || !Array.isArray(snapshot.questions) || snapshot.questions.length < 1 || snapshot.questions.length > 200) throw new HttpError(400, 'Invalid paper settings.');
   const subject = canonicalSubject(snapshot.subject); const title = clean(form.get('title'), 120);
   if (!title || !subject) throw new HttpError(400, 'Paper title and subject are required.');
-  if (!snapshot.questions.every(q => q && ['B','C'].includes(q.section) && typeof q.text === 'string' && q.text.length <= 20000 && (!q.parts || (Array.isArray(q.parts) && q.parts.length <= 100)))) throw new HttpError(400, 'Invalid questions in paper settings.');
+  if (!snapshot.questions.every(q => q && ['A','B','C'].includes(q.section) && typeof q.text === 'string' && q.text.length <= 20000 && (!q.parts || (Array.isArray(q.parts) && q.parts.length <= 100)) && (!q.options || (typeof q.options === 'object' && !Array.isArray(q.options) && Object.keys(q.options).length >= 2 && Object.keys(q.options).length <= 8 && Object.values(q.options).every(v => typeof v === 'string' && v.length <= 2000))) && (!q.answer || (typeof q.answer === 'string' && q.answer.length <= 2)))) throw new HttpError(400, 'Invalid questions in paper settings.');
   await validateChallenge(form.get('turnstileToken'), request, env);
   const id = `${String(9999999999999 - Date.now()).padStart(13, '0')}-${crypto.randomUUID()}`;
   const shortCode = await stableCode(snapshot.class, subject);

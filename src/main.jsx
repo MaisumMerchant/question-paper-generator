@@ -15,7 +15,8 @@ const embeddedPdfModules = import.meta.glob(
     '../Data/Class */Computer.pdf',
     '../Data/Class XII/Computer (Programming using C).pdf',
     '../Data/Class */Maths.pdf',
-    '../Data/Class */Physics.pdf'
+    '../Data/Class */Physics.pdf',
+    '../Data/Class */*_MCQs.pdf'
   ],
   { eager: true, query: '?url', import: 'default' }
 );
@@ -26,7 +27,17 @@ const embeddedPdfUrls = Object.fromEntries(
   ])
 );
 const UNKNOWN_CHAPTER = 'Unknown chapter';
-const SECTION_FILTERS = ['All', 'B', 'C'];
+const SECTION_FILTERS = ['All', 'A', 'B', 'C'];
+const PDF_ALIASES = {
+  'Class XII/Computer.json': 'Class XII/Computer (Programming using C).pdf',
+  'Class IX/Maths_MCQs.json': 'Class IX/Math_MCQs.pdf',
+  'Class X/Maths_MCQs.json': 'Class X/Math_MCQs.pdf',
+  'Class XI/Maths_MCQs.json': 'Class XI/Math_MCQs.pdf',
+  'Class XII/Maths_MCQs.json': 'Class XII/Math_MCQs.pdf',
+  'Class IX/Computer_MCQs.json': 'Class IX/Computer_Science_MCQs.pdf',
+  'Class X/Computer_MCQs.json': 'Class X/Computer_Science_MCQs.pdf',
+  'Class XI/Computer_MCQs.json': 'Class XI/Computer_Science_MCQs.pdf'
+};
 
 function Icon({ name, size = 18 }) {
   const paths = {
@@ -96,7 +107,7 @@ function inferChapters(rawQuestions, sourceKey) {
   const questions = (Array.isArray(rawQuestions) ? rawQuestions : []).map((raw, index) => {
     const section = String(raw?.section ?? '').trim().toUpperCase();
     const chapter = String(raw?.chapter || '').trim() || UNKNOWN_CHAPTER;
-    const type = ['short', 'long', 'numerical'].includes(raw?.type)
+    const type = ['short', 'long', 'numerical', 'mcq'].includes(raw?.type)
       ? raw.type
       : (section === 'C' ? 'long' : 'short');
     const source = ['past_paper', 'important_book'].includes(raw?.source)
@@ -109,6 +120,8 @@ function inferChapters(rawQuestions, sourceKey) {
       source,
       year: Number.isInteger(raw?.year) ? raw.year : null,
       text: raw?.text ?? '',
+      options: raw?.options && typeof raw?.options === 'object' && !Array.isArray(raw?.options) ? raw.options : null,
+      answer: typeof raw?.answer === 'string' ? raw.answer.trim().toUpperCase() : '',
       parts: Array.isArray(raw?.parts) ? raw.parts.map((part, partIndex) => (
         typeof part === 'string'
           ? { label: `(${partIndex + 1})`, text: part }
@@ -131,9 +144,7 @@ function normalizeBank(payload, sourceName, sourceKey = sourceName) {
   }
   const inferred = inferChapters(payload.questions, sourceKey);
   let pdfName = sourceName.replace(/\.json$/i, '.pdf');
-  if (!embeddedPdfUrls[pdfName] && sourceName === 'Class XII/Computer.json') {
-    pdfName = 'Class XII/Computer (Programming using C).pdf';
-  }
+  if (!embeddedPdfUrls[pdfName] && PDF_ALIASES[sourceName]) pdfName = PDF_ALIASES[sourceName];
   return {
     id: sourceKey,
     sourceName,
@@ -144,6 +155,27 @@ function normalizeBank(payload, sourceName, sourceKey = sourceName) {
     questions: inferred.questions,
     chapters: inferred.chapters
   };
+}
+
+// MCQ banks are stored as separate JSON files but surface in the studio as the
+// Section A pool of the matching class and subject bank.
+function mergeMcqBanks(bankList) {
+  const byKey = new Map();
+  const result = [];
+  for (const bank of bankList) {
+    const key = `${bank.className}||${bank.subject}`;
+    const existing = byKey.get(key);
+    if (!existing) { byKey.set(key, bank); result.push(bank); continue; }
+    const base = existing.questions.some((question) => question.section !== 'A') ? existing : bank;
+    const extra = base === existing ? bank : existing;
+    if (result.includes(extra)) result.splice(result.indexOf(extra), 1);
+    if (!result.includes(base)) result.push(base);
+    const seenIds = new Set(base.questions.map((question) => question.id));
+    base.questions = [...base.questions, ...extra.questions.filter((question) => !seenIds.has(question.id))];
+    for (const chapter of extra.chapters) if (!base.chapters.includes(chapter)) base.chapters.push(chapter);
+    byKey.set(key, base);
+  }
+  return result;
 }
 
 function seededRandom(seedText = '') {
@@ -181,6 +213,13 @@ function PaperQuestion({ question, index, marks, showMarks, showChapter, showSou
           <div className="paper-question-meta">
             {showChapter && <span>{question.chapter}</span>}
             {showSource && <span>{question.source === 'past_paper' ? `Past paper${question.year ? ` · ${question.year}` : ''}` : 'Important book'}</span>}
+          </div>
+        )}
+        {question.type === 'mcq' && question.options && (
+          <div className="paper-options">
+            {Object.entries(question.options).map(([key, value]) => (
+              <span className="paper-option" key={key}>({key}) <RichText text={value} /></span>
+            ))}
           </div>
         )}
         {question.parts.length > 0 && (
@@ -227,7 +266,7 @@ function StepRail({ activeStep, onStep }) {
 }
 
 function QuestionRow({ question, checked, onToggle, position }) {
-  const displaySection = question.section === 'B' || question.section === 'C' ? question.section : '?';
+  const displaySection = question.section === 'A' || question.section === 'B' || question.section === 'C' ? question.section : '?';
   return (
     <label className={`question-row section-row-${displaySection === '?' ? 'unknown' : displaySection} ${checked ? 'checked' : ''}`}>
       <input type="checkbox" checked={checked} onChange={() => onToggle(question.id)} />
@@ -239,7 +278,9 @@ function QuestionRow({ question, checked, onToggle, position }) {
           <span>{question.chapter}</span>
           <span className="parts-badge">{question.type}</span>
           <span className="parts-badge">{question.source === 'past_paper' ? `Past paper${question.year ? ` · ${question.year}` : ''}` : 'Important book'}</span>
-          {question.section !== 'B' && question.section !== 'C' && <span className="parts-badge">not eligible for B/C output</span>}
+          {question.type === 'mcq' && <span className="parts-badge">{Object.keys(question.options || {}).length} options</span>}
+          {question.type === 'mcq' && question.answer && <span className="parts-badge">answer {question.answer}</span>}
+          {question.section !== 'A' && question.section !== 'B' && question.section !== 'C' && <span className="parts-badge">not eligible for A/B/C output</span>}
           {question.parts.length > 0 && <span className="parts-badge">{question.parts.length} parts</span>}
         </span>
         <span className="question-row-text"><RichText text={question.text} /></span>
@@ -282,8 +323,10 @@ function App() {
   const [chapterSearch, setChapterSearch] = useState('');
   const [chapterView, setChapterView] = useState('All');
   const [autoBalance, setAutoBalance] = useState(true);
+  const [mcqCount, setMcqCount] = useState(10);
   const [shortCount, setShortCount] = useState(8);
   const [longCount, setLongCount] = useState(3);
+  const [mcqMarks, setMcqMarks] = useState(1);
   const [shortMarks, setShortMarks] = useState(4);
   const [longMarks, setLongMarks] = useState(10);
   const [seed, setSeed] = useState('');
@@ -291,16 +334,19 @@ function App() {
     institution: '',
     exam: '',
     time: '2 hours',
+    attemptA: '',
     attemptB: 5,
     attemptC: 2,
+    instructionsA: 'Attempt all questions. Each question carries 1 mark.',
     instructionsB: 'Attempt any 5 questions. Each question carries 4 marks.',
     instructionsC: 'Attempt any 2 questions. Each question carries 10 marks.',
     showHeader: true,
     showMarks: true,
     showChapter: false,
-    showSource: false
+    showSource: false,
+    showAnswerKey: false
   });
-  const [generatedPaper, setGeneratedPaper] = useState({ B: [], C: [] });
+  const [generatedPaper, setGeneratedPaper] = useState({ A: [], B: [], C: [] });
   const [previewPdf, setPreviewPdf] = useState(null);
   const [cloudMode, setCloudMode] = useState(null);
   const cloudConfig = useCloudConfig();
@@ -323,7 +369,7 @@ function App() {
     }
 
     async function loadBundledBanks() {
-      const embedded = readEmbeddedBanks();
+      const embedded = mergeMcqBanks(readEmbeddedBanks());
       if (cancelled) return;
       if (!embedded.length) throw new Error('No bundled question banks could be parsed.');
       setBanks(embedded);
@@ -360,12 +406,13 @@ function App() {
     const defaultPercent = Math.floor(100 / Math.max(selectedBank.chapters.length, 1));
     const remainder = 100 - defaultPercent * selectedBank.chapters.length;
     const nextConfig = Object.fromEntries(selectedBank.chapters.map((chapter, index) => [chapter, { selected: true, percent: defaultPercent + (index === 0 ? remainder : 0) }]));
-    const eligible = selectedBank.questions.filter((question) => question.section === 'B' || question.section === 'C');
+    const eligible = selectedBank.questions.filter((question) => ['A', 'B', 'C'].includes(question.section));
     setChapterConfig(nextConfig);
     setSelectedQuestionIds(new Set(eligible.map((question) => question.id)));
+    setMcqCount(Math.min(10, eligible.filter((question) => question.section === 'A').length));
     setShortCount(Math.min(5, eligible.filter((question) => question.section === 'B').length));
     setLongCount(Math.min(3, eligible.filter((question) => question.section === 'C').length));
-    setGeneratedPaper({ B: [], C: [] });
+    setGeneratedPaper({ A: [], B: [], C: [] });
     setSectionFilter('All');
     setTypeFilter('All');
     setSourceFilter('All');
@@ -385,10 +432,11 @@ function App() {
     return selectedBank.questions.filter((question) =>
       selectedQuestionIds.has(question.id)
       && activeChapters.includes(question.chapter)
-      && (question.section === 'B' || question.section === 'C')
+      && ['A', 'B', 'C'].includes(question.section)
     );
   }, [selectedBank, selectedQuestionIds, activeChapters]);
   const poolBySection = useMemo(() => ({
+    A: selectedPool.filter((question) => question.section === 'A'),
     B: selectedPool.filter((question) => question.section === 'B'),
     C: selectedPool.filter((question) => question.section === 'C')
   }), [selectedPool]);
@@ -412,7 +460,7 @@ function App() {
   const visibleSelected = visibleQuestions.filter((question) => selectedQuestionIds.has(question.id)).length;
   const allocationTotal = activeChapters.reduce((sum, chapter) => sum + Number(chapterConfig[chapter]?.percent || 0), 0);
   const eligibleQuestionCount = (selectedBank?.questions || []).filter((question) =>
-    activeChapters.includes(question.chapter) && (question.section === 'B' || question.section === 'C')
+    activeChapters.includes(question.chapter) && ['A', 'B', 'C'].includes(question.section)
   ).length;
   const visibleChapters = useMemo(() => {
     const query = chapterSearch.trim().toLowerCase();
@@ -496,7 +544,7 @@ function App() {
   function setAllQuestionsSelected(shouldSelect) {
     if (!selectedBank) return;
     const eligibleIds = selectedBank.questions
-      .filter((question) => activeChapters.includes(question.chapter) && (question.section === 'B' || question.section === 'C'))
+      .filter((question) => activeChapters.includes(question.chapter) && ['A', 'B', 'C'].includes(question.section))
       .map((question) => question.id);
     setSelectedQuestionIds((current) => {
       const next = new Set(current);
@@ -593,12 +641,13 @@ function App() {
       showNotice('Select at least one chapter before generating.');
       return;
     }
-    if (!poolBySection.B.length && !poolBySection.C.length) {
+    if (!poolBySection.A.length && !poolBySection.B.length && !poolBySection.C.length) {
       showNotice('No selected questions are available in the active chapters.');
       return;
     }
     const random = seededRandom(seed.trim() || `${Date.now()}-${selectedBankId}`);
     const paper = {
+      A: allocateQuestions(poolBySection.A, Math.max(0, Number(mcqCount) || 0), percentages, random, autoBalance),
       B: allocateQuestions(poolBySection.B, Math.max(0, Number(shortCount) || 0), percentages, random, autoBalance),
       C: allocateQuestions(poolBySection.C, Math.max(0, Number(longCount) || 0), percentages, random, autoBalance)
     };
@@ -614,7 +663,7 @@ function App() {
   }
 
   async function createPdf() {
-    return createExamPdf({ paper: generatedPaper, meta: paperMeta, className: selectedClass, subject: selectedSubject, shortMarks: Math.max(0, Number(shortMarks) || 0), longMarks: Math.max(0, Number(longMarks) || 0) });
+    return createExamPdf({ paper: generatedPaper, meta: paperMeta, className: selectedClass, subject: selectedSubject, mcqMarks: Math.max(0, Number(mcqMarks) || 0), shortMarks: Math.max(0, Number(shortMarks) || 0), longMarks: Math.max(0, Number(longMarks) || 0) });
   }
 
   async function downloadPdf() {
@@ -627,7 +676,7 @@ function App() {
     if (!pdf) throw new Error('Generate a paper before saving.');
     const blob = pdf.output('blob');
     if (blob.size > 5 * 1024 * 1024) throw new Error('PDF exceeds the 5 MB upload limit. Reduce the question count.');
-    const snapshot = { version: 1, class: selectedClass, subject: selectedSubject, questions: [...generatedPaper.B, ...generatedPaper.C], paper: { meta: paperMeta, shortCount, longCount, shortMarks, longMarks, seed, chapterConfig } };
+    const snapshot = { version: 1, class: selectedClass, subject: selectedSubject, questions: [...generatedPaper.A, ...generatedPaper.B, ...generatedPaper.C], paper: { meta: paperMeta, mcqCount, shortCount, longCount, mcqMarks, shortMarks, longMarks, seed, chapterConfig } };
     const form = new FormData();
     form.append('pdf', blob, 'paper.pdf');
     form.append('snapshot', new Blob([JSON.stringify(snapshot)], { type: 'application/json' }), 'paper.json');
@@ -638,9 +687,9 @@ function App() {
     return result;
   }
 
-  const hasPaper = generatedPaper.B.length > 0 || generatedPaper.C.length > 0;
-  const totalQuestions = (selectedBank?.questions || []).filter((question) => question.section === 'B' || question.section === 'C').length;
-  const totalMarks = calculateExamMarks(generatedPaper, paperMeta, shortMarks, longMarks);
+  const hasPaper = generatedPaper.A.length > 0 || generatedPaper.B.length > 0 || generatedPaper.C.length > 0;
+  const totalQuestions = (selectedBank?.questions || []).filter((question) => ['A', 'B', 'C'].includes(question.section)).length;
+  const totalMarks = calculateExamMarks(generatedPaper, paperMeta, shortMarks, longMarks, mcqMarks);
 
   return (
     <div className="app-shell">
@@ -698,7 +747,7 @@ function App() {
                 </div>
                 <div className="metadata-filters">
                   <label>Chapter<select value={questionChapterFilter} onChange={(event) => setQuestionChapterFilter(event.target.value)}><option value="All">All chapters</option>{activeChapters.map((chapter) => <option key={chapter} value={chapter}>{chapter}</option>)}</select></label>
-                  <label>Type<select value={typeFilter} onChange={(event) => setTypeFilter(event.target.value)}><option>All</option><option value="short">Short</option><option value="numerical">Numerical</option><option value="long">Long</option></select></label>
+                  <label>Type<select value={typeFilter} onChange={(event) => setTypeFilter(event.target.value)}><option>All</option><option value="mcq">MCQ</option><option value="short">Short</option><option value="numerical">Numerical</option><option value="long">Long</option></select></label>
                   <label>Source<select value={sourceFilter} onChange={(event) => setSourceFilter(event.target.value)}><option>All</option><option value="past_paper">Past paper</option><option value="important_book">Important book</option></select></label>
                   <label>Year<select value={yearFilter} onChange={(event) => setYearFilter(event.target.value)}><option>All</option>{availableYears.map((year) => <option key={year} value={year}>{year}</option>)}</select></label>
                   <label>Selection<select value={selectionFilter} onChange={(event) => setSelectionFilter(event.target.value)}><option>All</option><option>Selected</option><option>Unselected</option></select></label>
@@ -714,7 +763,7 @@ function App() {
                     <button onClick={() => setAllQuestionsSelected(false)} disabled={!selectedPool.length}>Deselect all</button>
                   </div>
                 </div>
-                <div className="pool-summary"><span><b>{visibleQuestions.length}</b> shown</span><span className="summary-divider" /><span><b>{poolBySection.B.length}</b> short</span><span><b>{poolBySection.C.length}</b> long</span><span className="summary-spacer" /><span className="legend-item"><i className="legend-dot dot-b" /> B</span><span className="legend-item"><i className="legend-dot dot-c" /> C</span><span className="legend-item"><i className="legend-dot dot-unknown" /> ?</span></div>
+                <div className="pool-summary"><span><b>{visibleQuestions.length}</b> shown</span><span className="summary-divider" /><span><b>{poolBySection.A.length}</b> MCQ</span><span><b>{poolBySection.B.length}</b> short</span><span><b>{poolBySection.C.length}</b> long</span><span className="summary-spacer" /><span className="legend-item"><i className="legend-dot dot-a" /> A</span><span className="legend-item"><i className="legend-dot dot-b" /> B</span><span className="legend-item"><i className="legend-dot dot-c" /> C</span><span className="legend-item"><i className="legend-dot dot-unknown" /> ?</span></div>
                 <div className="question-list">
                   {visibleQuestions.length ? visibleQuestions.map((question, index) => <QuestionRow key={question.id} question={question} position={index + 1} checked={selectedQuestionIds.has(question.id)} onToggle={toggleQuestion} />) : <div className="empty-list"><Icon name="search" size={22} /><strong>No questions match</strong><span>Select a chapter or try different filters.</span></div>}
                 </div>
@@ -725,6 +774,7 @@ function App() {
                 <div className="panel-heading compact"><div><div className="panel-kicker">STEP 03 — SHAPE</div><h2>Paper structure</h2><p>Choose how many questions to draw from the curated pool.</p></div><div className="panel-heading-actions"><div className="shape-icon"><Icon name="sliders" size={20} /></div><CollapseButton collapsed={collapsedSteps.has(3)} onToggle={() => toggleStepCollapsed(3)} label="paper structure" /></div></div>
                 {!collapsedSteps.has(3) && <>
                 <div className="count-grid">
+                  <label className="count-card"><span className="count-label"><i className="legend-dot dot-a" /> Section A <small>MCQs</small></span><input type="number" min="0" max={poolBySection.A.length} value={mcqCount} onChange={(event) => setMcqCount(event.target.value)} /><span className="availability">of {poolBySection.A.length} available</span><span className="inline-setting">Marks each <input type="number" min="0" value={mcqMarks} onChange={(event) => setMcqMarks(event.target.value)} /></span></label>
                   <label className="count-card"><span className="count-label"><i className="legend-dot dot-b" /> Section B <small>questions</small></span><input type="number" min="0" max={poolBySection.B.length} value={shortCount} onChange={(event) => setShortCount(event.target.value)} /><span className="availability">of {poolBySection.B.length} available</span><span className="inline-setting">Marks each <input type="number" min="0" value={shortMarks} onChange={(event) => setShortMarks(event.target.value)} /></span></label>
                   <label className="count-card"><span className="count-label"><i className="legend-dot dot-c" /> Section C <small>questions</small></span><input type="number" min="0" max={poolBySection.C.length} value={longCount} onChange={(event) => setLongCount(event.target.value)} /><span className="availability">of {poolBySection.C.length} available</span><span className="inline-setting">Marks each <input type="number" min="0" value={longMarks} onChange={(event) => setLongMarks(event.target.value)} /></span></label>
                 </div>
@@ -733,13 +783,15 @@ function App() {
                   <label>Exam title<input value={paperMeta.exam} onChange={(event) => setPaperMeta({ ...paperMeta, exam: event.target.value })} placeholder="Midterm examination" /></label>
                   <label>Time allowed<input value={paperMeta.time} onChange={(event) => setPaperMeta({ ...paperMeta, time: event.target.value })} /></label>
                   <label>Repeatable seed<input value={seed} onChange={(event) => setSeed(event.target.value)} placeholder="Leave blank for new random paper" /></label>
+                  <label>Section A questions to attempt<input type="number" min="0" max={mcqCount} value={paperMeta.attemptA} onChange={(event) => setPaperMeta({ ...paperMeta, attemptA: event.target.value, instructionsA: event.target.value === '' ? 'Attempt all questions.' : `Attempt any ${event.target.value} questions. Each question carries ${mcqMarks} mark${Number(mcqMarks) === 1 ? '' : 's'}.` })} placeholder="Blank means all" /></label>
                   <label>Section B questions to attempt<input type="number" min="0" max={shortCount} value={paperMeta.attemptB} onChange={(event) => setPaperMeta({ ...paperMeta, attemptB: event.target.value, instructionsB: event.target.value === '' ? 'Attempt all questions.' : `Attempt any ${event.target.value} questions. Each question carries ${shortMarks} marks.` })} placeholder="Blank means all" /></label>
                   <label>Section C questions to attempt<input type="number" min="0" max={longCount} value={paperMeta.attemptC} onChange={(event) => setPaperMeta({ ...paperMeta, attemptC: event.target.value, instructionsC: event.target.value === '' ? 'Attempt all questions.' : `Attempt any ${event.target.value} questions. Each question carries ${longMarks} marks.` })} placeholder="Blank means all" /></label>
                   <label className="wide-setting">Section B instructions<input value={paperMeta.instructionsB} onChange={(event) => setPaperMeta({ ...paperMeta, instructionsB: event.target.value })} /></label>
                   <label className="wide-setting">Section C instructions<input value={paperMeta.instructionsC} onChange={(event) => setPaperMeta({ ...paperMeta, instructionsC: event.target.value })} /></label>
+                  <label className="wide-setting">Section A instructions<input value={paperMeta.instructionsA} onChange={(event) => setPaperMeta({ ...paperMeta, instructionsA: event.target.value })} /></label>
                 </div>
                 <div className="toggle-grid">
-                  {[['showHeader', 'Paper header'], ['showMarks', 'Marks'], ['showChapter', 'Chapter labels'], ['showSource', 'Source/year']].map(([key, label]) => <label key={key}><input type="checkbox" checked={paperMeta[key]} onChange={(event) => setPaperMeta({ ...paperMeta, [key]: event.target.checked })} /><span>{label}</span></label>)}
+                  {[['showHeader', 'Paper header'], ['showMarks', 'Marks'], ['showChapter', 'Chapter labels'], ['showSource', 'Source/year'], ['showAnswerKey', 'Answer key (Section A)']].map(([key, label]) => <label key={key}><input type="checkbox" checked={paperMeta[key]} onChange={(event) => setPaperMeta({ ...paperMeta, [key]: event.target.checked })} /><span>{label}</span></label>)}
                 </div>
                 <button className="generate-button" onClick={generatePaper}><span><Icon name="shuffle" size={18} /> Generate random paper</span><Icon name="arrow" size={18} /></button>
                 <div className="generation-note"><span className="spark">✦</span> Chapter quotas apply separately to short and long questions. Extras are assigned randomly; shortages are filled from other selected chapters. A seed makes the selection repeatable.</div>
@@ -754,13 +806,19 @@ function App() {
                   <div className="paper-sheet" id="paper-print" ref={paperRef}>
                     {hasPaper ? <>
                       {paperMeta.showHeader && <header className="exam-header"><h2>{paperMeta.institution || 'Question Paper'}</h2>{paperMeta.exam && <h4>{paperMeta.exam}</h4>}<div><span>Class: {selectedClass}</span><span>Subject: {selectedSubject}</span><span>Time: {paperMeta.time}</span><span>Total marks: {totalMarks}</span></div></header>}
+                      {generatedPaper.A.length > 0 && <section className="paper-section"><h3>Section A <small>{paperMeta.instructionsA}</small></h3>{generatedPaper.A.map((question, index) => <PaperQuestion key={question.id} question={question} index={index} marks={mcqMarks} {...paperMeta} />)}</section>}
                       {generatedPaper.B.length > 0 && <section className="paper-section"><h3>Section B <small>{paperMeta.instructionsB}</small></h3>{generatedPaper.B.map((question, index) => <PaperQuestion key={question.id} question={question} index={index} marks={shortMarks} {...paperMeta} />)}</section>}
                       {generatedPaper.C.length > 0 && <section className="paper-section"><h3>Section C <small>{paperMeta.instructionsC}</small></h3>{generatedPaper.C.map((question, index) => <PaperQuestion key={question.id} question={question} index={index} marks={longMarks} {...paperMeta} />)}</section>}
+                      {paperMeta.showAnswerKey && generatedPaper.A.some((question) => question.answer) && (
+                        <section className="paper-section answer-key-section"><h3>Answer Key — Section A</h3>
+                          <div className="answer-key-grid">{generatedPaper.A.map((question, index) => question.answer && <span key={question.id}><b>{index + 1}.</b> {question.answer}</span>)}</div>
+                        </section>
+                      )}
                     </> : <div className="paper-empty"><div className="empty-paper-mark"><Icon name="file" size={24} /></div><strong>Your paper will appear here</strong><span>Set the balance, then generate a random paper.</span></div>}
                   </div>
                 </div>
                 <div className="cloud-preview-actions"><button className="control-button" onClick={() => { goToStep(4); setCloudMode('save'); }} disabled={!hasPaper}><Icon name="upload" size={16} /> Save to shared library</button><span>PDF + question JSON · public sharing · no sign-in</span></div>
-                {hasPaper && <div className="preview-foot"><span><span className="status-dot" /> Ready to export</span><span>{generatedPaper.B.length + generatedPaper.C.length} questions · {totalMarks} marks</span></div>}
+                {hasPaper && <div className="preview-foot"><span><span className="status-dot" /> Ready to export</span><span>{generatedPaper.A.length + generatedPaper.B.length + generatedPaper.C.length} questions · {totalMarks} marks</span></div>}
                 </>}
               </section>
           </div>

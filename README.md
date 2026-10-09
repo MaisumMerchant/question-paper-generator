@@ -18,7 +18,7 @@ Paperloom is a responsive question-paper generator for Classes IX–XII. It turn
 3. Use **View source PDF** to inspect the matching bundled source.
 4. Choose chapters and adjust their percentage contributions.
 5. Select or exclude questions from those chapters.
-6. Set Section B/C counts, marks, paper details and display options.
+6. Set Section A (MCQ), Section B and Section C counts, marks, paper details and display options.
 7. Generate the paper, review it, then print or export it.
 
 The four workflow items jump directly to Chapters, Questions, Structure and Preview. Every step panel can be collapsed to its heading. On mobile, the workflow navigation stays visible as a compact sticky bar so a long question list never blocks access to later steps.
@@ -37,9 +37,9 @@ The four workflow items jump directly to Chapters, Questions, Structure and Prev
 - Select or deselect all chapters
 - Balance selected chapters evenly by default
 - Switch to custom percentages automatically by editing any chapter percentage
-- Set Section B/C question counts and marks
+- Set Section A/B/C question counts and marks, including MCQ marks
 - Add institution, examination title, time and section instructions
-- Toggle marks, chapter labels and source/year metadata
+- Toggle marks, chapter labels, source/year metadata and the MCQ answer key
 - Use a seed to reproduce the same random paper
 - Export to Word, PDF or the browser print dialog
 
@@ -71,6 +71,25 @@ Use **Import JSON** to load one or more banks for the current browser session. I
 ```
 
 `parts` is optional. Mathematical notation should use KaTeX-compatible text inside `$...$`.
+
+### MCQ banks (Section A)
+
+Each class and subject also has a matching `*_MCQs.json` bank with `section: "A"`, `type: "mcq"` questions. Each MCQ carries an `options` object keyed by `A`–`D` (and `answer` when the source PDF includes an answer key):
+
+```json
+{
+  "chapter": "Organic Chemistry",
+  "section": "A",
+  "type": "mcq",
+  "source": "important_book",
+  "year": null,
+  "text": "Which one of the following is an alkane?",
+  "options": { "A": "$C_2H_4$", "B": "$C_2H_6$", "C": "$C_3H_4$", "D": "$C_3H_6$" },
+  "answer": "B"
+}
+```
+
+MCQ banks merge into the matching class/subject bank in the studio, so one bank covers Sections A, B and C. Chapter names match the non-MCQ bank, so chapter selection applies across all three sections at once. Generated papers print MCQs with their options; enable **Answer key (Section A)** to append the key when the bank contains answers.
 
 ## Responsive design
 

@@ -8,10 +8,11 @@ const BODY = 14, PART = 13.5, MARGIN = 44;
 const clean = value => String(value ?? '').replace(/[‘’]/g, "'").replace(/[“”]/g, '"').replace(/[–—]/g, '-').replace(/\u00a0/g, ' ');
 const mathPattern = /(\$\$[\s\S]*?\$\$|\$[^$\n]+\$|\\\([\s\S]*?\\\)|\\\[[\s\S]*?\\\]|`[^`\n]+`)/g;
 
-export function calculateExamMarks(paper, meta, shortMarks, longMarks) {
+export function calculateExamMarks(paper, meta, shortMarks, longMarks, mcqMarks = 1) {
   const attempted = (available, value) => value === '' || value === undefined || value === null
     ? available : Math.min(available, Math.max(0, Math.floor(Number(value) || 0)));
-  return attempted(paper.B.length, meta.attemptB) * Math.max(0, Number(shortMarks) || 0)
+  return attempted(paper.A?.length || 0, meta.attemptA) * Math.max(0, Number(mcqMarks) || 0)
+    + attempted(paper.B.length, meta.attemptB) * Math.max(0, Number(shortMarks) || 0)
     + attempted(paper.C.length, meta.attemptC) * Math.max(0, Number(longMarks) || 0);
 }
 
@@ -29,14 +30,14 @@ export function formatExamText(value) {
   }).join('');
 }
 
-export async function createExamPdf({ paper, meta, className, subject, shortMarks, longMarks }) {
-  if (!paper.B.length && !paper.C.length) return;
+export async function createExamPdf({ paper, meta, className, subject, shortMarks, longMarks, mcqMarks = 1 }) {
+  if (!paper.A?.length && !paper.B.length && !paper.C.length) return;
   await document.fonts.ready;
   const pdf = new jsPDF({ compress: true, orientation: 'portrait', unit: 'pt', format: 'a4' });
   pdf.setProperties({ title: `Class ${className} - ${subject}${meta.exam ? ' - ' + meta.exam : ''}`, subject: 'Question paper', creator: 'Paperloom' });
   pdf.setTextColor(0); pdf.setDrawColor(0);
   const W = pdf.internal.pageSize.getWidth(), H = pdf.internal.pageSize.getHeight(), RIGHT = W - MARGIN, BOTTOM = H - 56;
-  const total = calculateExamMarks(paper, meta, shortMarks, longMarks);
+  const total = calculateExamMarks(paper, meta, shortMarks, longMarks, mcqMarks);
   const formulaCache = new Map();
   let y = MARGIN, page = 1;
   function font(size, style = 'normal', family = 'helvetica') { pdf.setFont(family, style); pdf.setFontSize(size); }
@@ -131,12 +132,16 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
   }
   const bodyX = MARGIN + 27, partX = bodyX + 37, textRight = RIGHT - (meta.showMarks ? 36 : 0);
   const prepared = {};
-  for (const section of ['B','C']) {
+  for (const section of ['A','B','C']) {
     prepared[section] = [];
-    for (const q of paper[section]) {
+    for (const q of paper[section] || []) {
       const rows = await rowsFor(q.text, textRight - bodyX);
       const parts = [];
-      for (const part of q.parts || []) parts.push({ label: part.label, rows: await rowsFor(part.text, textRight - partX, PART) });
+      if (section === 'A' && q.options) {
+        for (const [key, value] of Object.entries(q.options)) parts.push({ label: `(${key})`, rows: await rowsFor(String(value), textRight - partX, PART) });
+      } else {
+        for (const part of q.parts || []) parts.push({ label: part.label, rows: await rowsFor(part.text, textRight - partX, PART) });
+      }
       const height = rows.reduce((n,r)=>n+r.height,0) + parts.reduce((n,p)=>n+5+p.rows.reduce((a,r)=>a+r.height,0),0) + 14 + (meta.showChapter || meta.showSource ? 18 : 0);
       prepared[section].push({ q, rows, parts, height });
     }
@@ -153,9 +158,9 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
     pdf.text('Time: ' + clean(meta.time), MARGIN, y + 12); pdf.text('Total marks: ' + total, RIGHT, y + 12, { align: 'right' }); y += 25;
     pdf.setLineWidth(.8); pdf.line(MARGIN, y, RIGHT, y); y += 24;
   }
-  for (const section of ['B','C']) {
+  for (const section of ['A','B','C']) {
     const items = prepared[section]; if (!items.length) continue;
-    const instructions = clean(section === 'B' ? meta.instructionsB : meta.instructionsC);
+    const instructions = clean(section === 'A' ? meta.instructionsA : section === 'B' ? meta.instructionsB : meta.instructionsC);
     font(11.5); const instructionRows = pdf.splitTextToSize(instructions, W - 2 * MARGIN);
     const sectionHeight = 27 + instructionRows.length * 16 + 12 + items.reduce((n,item) => n + item.height, 0) + 8;
     if (section === 'C' && sectionHeight <= BOTTOM - 64 && y + sectionHeight > BOTTOM) newPage();
@@ -167,7 +172,7 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
       // Keep normal questions and subparts together. Oversized questions continue
       // line-by-line without cutting text or formula artwork across page edges.
       if (item.height <= BOTTOM - 64) ensure(item.height);
-      for (let j = 0; j < item.rows.length; j++) drawRow(item.rows[j], bodyX, j === 0, String(i+1), section === 'B' ? shortMarks : longMarks);
+      for (let j = 0; j < item.rows.length; j++) drawRow(item.rows[j], bodyX, j === 0, String(i+1), section === 'A' ? mcqMarks : section === 'B' ? shortMarks : longMarks);
       for (const part of item.parts) { y += 5; ensure(Math.min(part.rows.reduce((n,r)=>n+r.height,0), BOTTOM-64)); for (let j=0;j<part.rows.length;j++) drawRow(part.rows[j], partX, j===0, '', null, part.label); }
       if (meta.showChapter || meta.showSource) {
         const detail = [meta.showChapter ? item.q.chapter : '', meta.showSource ? `${item.q.source === 'past_paper' ? 'Past paper' : 'Important book'}${item.q.year ? ' - ' + item.q.year : ''}` : ''].filter(Boolean).join(' | ');
@@ -176,6 +181,19 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
       y += 14;
     }
     y += 8;
+  }
+  if (meta.showAnswerKey && prepared.A.some((item) => item.q.answer)) {
+    newPage();
+    font(18, 'bold'); pdf.text('Answer Key — Section A', MARGIN, y + 16); y += 30;
+    const answered = prepared.A.map((item, index) => ({ number: index + 1, answer: item.q.answer })).filter((item) => item.answer);
+    const perRow = 5, cell = (RIGHT - MARGIN) / perRow;
+    for (let r = 0; r < answered.length; r += perRow) {
+      ensure(20); font(12);
+      for (let c = 0; c < perRow && r + c < answered.length; c++) {
+        pdf.text(clean(`${answered[r + c].number}. ${answered[r + c].answer}`), MARGIN + c * cell, y + 12);
+      }
+      y += 20;
+    }
   }
   const pages = pdf.internal.getNumberOfPages();
   for (let i = 1; i <= pages; i++) {
