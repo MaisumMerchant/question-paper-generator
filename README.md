@@ -110,15 +110,27 @@ npm run build
 
 The GitHub Pages workflow deploys pushes to `main`.
 
-## No-login shared paper library
+## Shared papers and draft-only editing
 
-**Save to shared library** exports a PDF and its question/settings JSON to Cloudflare Workers KV (Free plan, no card required) through a protected Worker. **Shared papers** browses the public library, downloads PDFs/questions and copies direct paper links. Viewing does not need an account; saving or replacing papers requires a private owner publishing key. Public-sharing consent, server-side Turnstile verification, upload/read limits, file-size checks and owner-protected replacement and no anonymous delete routes protect the upload flow.
+Cloud publishing is currently **paused in the frontend**. The app exposes no save/replace/delete operation for Cloudflare papers. The owner-protected Worker upload endpoint remains deployed for future explicit re-enablement, but this release does not change the Worker, stored papers or permanent links.
 
-The GitHub Pages site remains static. Cloud storage uses a separately deployed **Workers Free + KV Free** service. Its public API origin and Turnstile site key are configured in `public/cloud-config.json`; owner maintenance instructions are in [Cloudflare setup](cloudflare/README.md). An empty configuration shows an honest setup-pending state. Cloudflare secrets never belong in frontend code. Public uploads must not contain confidential exams or personal information.
+1. Open **Shared papers** and choose **Open as draft** beside a published paper. Its saved question/settings JSON is read with GET and copied locally; this does not edit the PDF file itself.
+2. In the **Drafts** section, lock any question you want to keep. **Lock all** and **Unlock all** are available.
+3. **Regenerate unlocked** changes only unlocked slots. Each replacement stays in its original chapter and section, keeps its position and preserves the existing chapter counts. Existing questions are excluded, including exact-content duplicates across years. If no unused alternative exists in a slot's chapter/section, the original is retained and a status message identifies it.
+4. Use **Regenerate B2** (or A/C) for a single question, or **Choose replacement** to pick a specific same-chapter alternative. A chosen replacement is automatically locked.
+5. **Edit B2** opens the stem/subparts editor; Section A also supports option and answer-key editing. **Apply edits and lock** keeps the change protected from future regeneration. Locked questions must be unlocked before editing or replacing them.
+6. Review the live printable preview or **Preview PDF**, then **Download draft PDF**. Locks and editor controls never appear in the exported PDF. The original paper's marks, attempt counts and instructions are retained; header and instruction text can be changed separately.
+7. **Undo last change** restores the preceding question/lock action. **Reset draft** restores the original local copy after confirmation. **Delete local draft** removes only that browser's copy.
+
+Studio previews can also be sent to drafts with **Open preview as draft**. Up to 50 drafts are autosaved using browser localStorage, not Cloudflare. They do not sync across devices and can be lost when browser storage is cleared or unavailable. **Download draft JSON** creates a lock-preserving backup; **Import draft JSON** restores it as a new local draft. If browser storage fails, the app warns you to export a backup. Drafts contain no owner publishing key.
+
+The replacement bank is matched using the saved questions' source provenance before the displayed class/subject. This preserves intentional Class IX/X Computer bank swaps in existing published papers. If a bank is unavailable, manual editing and PDF download still work; regeneration is unavailable. Drafts cannot create missing questions to fill bank shortages.
+
+All cloud-library interactions in the frontend are read-only GET requests. This release does not republish any existing paper.
 
 ## Professional exam PDF layout
 
-PDF export and Save to shared library use the same A4 exam renderer: white pages, black text, 14-point body text, clear section headings, aligned marks, monospace code/output, automatic pagination and page-number footers. Questions and subparts remain together when possible. Prose and code are searchable PDF text; mathematical formulae are rendered as high-resolution artwork. The on-screen paper preview uses the same plain exam styling.
+Studio and draft PDF exports use the same A4 exam renderer: white pages, black text, 14-point body text, clear section headings, aligned marks, monospace code/output, automatic pagination and page-number footers. Questions and subparts remain together when possible. Prose and code are searchable PDF text; mathematical formulae are rendered as high-resolution artwork. The on-screen paper preview uses the same plain exam styling.
 
 ### Optional exam questions
 
@@ -132,4 +144,8 @@ Run allocator regression tests with `node --test tests/questionAllocation.test.j
 
 ### Permanent latest-paper sharing links
 
-Each class and subject has one stable public PDF link. Save to shared library updates that link to the latest saved paper without adding duplicate library entries; generating a preview does not publish it. All saves require a private owner publishing key configured as the Worker’s `PUBLISH_KEY` secret. Readers remain public and need no sign-in. The key can optionally be remembered on a trusted device. See the Cloudflare setup guide for configuration and consistency limits.
+Each class and subject has one stable public PDF link. The owner-protected backend can update that link when publication is explicitly re-enabled in a future release. Publishing is currently paused in the frontend: studio generation, draft edits and downloads do not publish or update it. All saves require a private owner publishing key configured as the Worker’s `PUBLISH_KEY` secret. Readers remain public and need no sign-in. The draft-only frontend does not request or use the publishing key. See the Cloudflare setup guide for configuration and consistency limits.
+
+## Tests
+
+Run `npm test` for chapter allocation and draft-copy, lock, same-chapter replacement, duplicate, provenance and snapshot tests. Run `npm run build` for the production bundle.

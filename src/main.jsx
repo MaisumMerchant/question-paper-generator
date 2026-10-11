@@ -6,6 +6,8 @@ import { allocateQuestions } from './questionAllocation.js';
 import 'katex/dist/katex.min.css';
 import './styles.css';
 import SharedLibrary, { useCloudConfig } from './SharedLibrary.jsx';
+import DraftWorkspace from './DraftWorkspace.jsx';
+import { createDraft } from './draftPaper.js';
 
 const embeddedBankModules = import.meta.glob('../Data/**/*.json', { eager: true, import: 'default' });
 const embeddedPdfModules = import.meta.glob(
@@ -349,6 +351,8 @@ function App() {
   const [generatedPaper, setGeneratedPaper] = useState({ A: [], B: [], C: [] });
   const [previewPdf, setPreviewPdf] = useState(null);
   const [cloudMode, setCloudMode] = useState(null);
+  const [workspaceMode, setWorkspaceMode] = useState('studio');
+  const [incomingDraft, setIncomingDraft] = useState(null);
   const cloudConfig = useCloudConfig();
   const jsonInputRef = useRef(null);
   const paperRef = useRef(null);
@@ -671,20 +675,21 @@ function App() {
     catch { showNotice('PDF export failed. Please try again.'); }
   }
 
-  async function saveCloudPaper({ title, token, publisherKey }) {
-    const pdf = await createPdf();
-    if (!pdf) throw new Error('Generate a paper before saving.');
-    const blob = pdf.output('blob');
-    if (blob.size > 5 * 1024 * 1024) throw new Error('PDF exceeds the 5 MB upload limit. Reduce the question count.');
-    const snapshot = { version: 1, class: selectedClass, subject: selectedSubject, questions: [...generatedPaper.A, ...generatedPaper.B, ...generatedPaper.C], paper: { meta: paperMeta, mcqCount, shortCount, longCount, mcqMarks, shortMarks, longMarks, seed, chapterConfig } };
-    const form = new FormData();
-    form.append('pdf', blob, 'paper.pdf');
-    form.append('snapshot', new Blob([JSON.stringify(snapshot)], { type: 'application/json' }), 'paper.json');
-    form.append('publisherKey', publisherKey); form.append('title', title); form.append('turnstileToken', token); form.append('publicConsent', 'yes');
-    const response = await fetch(`${cloudConfig.apiUrl}/papers`, { method: 'POST', body: form, signal: AbortSignal.timeout(60000) });
-    let result; try { result = await response.json(); } catch { throw new Error('Unexpected response from cloud storage. Save was not confirmed.'); }
-    if (!response.ok) throw new Error(result.error || 'Cloud save failed.');
-    return result;
+  function openStudioDraft() {
+    try {
+      const snapshot = { class: selectedClass, subject: selectedSubject, bankSource: selectedBank?.sourceName || '', questions: [...generatedPaper.A, ...generatedPaper.B, ...generatedPaper.C], paper: { meta: paperMeta, mcqMarks, shortMarks, longMarks } };
+      setIncomingDraft(createDraft(snapshot)); setWorkspaceMode('drafts');
+    } catch (e) { showNotice(e.message); }
+  }
+  async function openCloudDraft(record, signal) {
+    const response = await fetch(`${cloudConfig.apiUrl}/papers/${encodeURIComponent(record.id)}/settings`, { cache: 'no-store', signal: signal ? AbortSignal.any([signal, AbortSignal.timeout(45000)]) : AbortSignal.timeout(45000) });
+    if (!response.ok) throw new Error('The saved question snapshot could not be loaded. Please refresh the library and try again.');
+    const snapshot = await response.json();
+    const subjectAlias = value => String(value || '').toLowerCase().replace(/[^a-z]/g, '').replace(/^maths?$/, 'mathematics').replace(/^computer$/, 'computerscience');
+    if (snapshot.class !== record.class || subjectAlias(snapshot.subject) !== subjectAlias(record.subject)) throw new Error('The snapshot does not match this library record.');
+    signal?.throwIfAborted();
+    const draft = createDraft(snapshot, record);
+    setIncomingDraft(draft); setWorkspaceMode('drafts'); setCloudMode(null);
   }
 
   const hasPaper = generatedPaper.A.length > 0 || generatedPaper.B.length > 0 || generatedPaper.C.length > 0;
@@ -692,20 +697,23 @@ function App() {
   const totalMarks = calculateExamMarks(generatedPaper, paperMeta, shortMarks, longMarks, mcqMarks);
 
   return (
-    <div className="app-shell">
-      <StepRail activeStep={activeStep} onStep={goToStep} />
+    <div className={`app-shell ${workspaceMode === 'drafts' ? 'draft-mode' : ''}`}>
+      {workspaceMode === 'studio' && <StepRail activeStep={activeStep} onStep={goToStep} />}
       <main className="workspace">
         <header className="topbar">
           <div>
             <div className="eyebrow">QUESTION PAPER GENERATOR <span className="eyebrow-line" /></div>
-            <h1>Build a paper with <em>intent.</em></h1>
-            <p className="topbar-subtitle">Choose a class and subject, tune the balance, and leave the formatting to Paperloom.</p>
-            <div className="cloud-launch"><button className="control-button" onClick={() => setCloudMode('browse')}><Icon name="layers" size={16} /> Shared papers</button><span>{cloudConfig.loading ? 'Checking cloud…' : cloudConfig.apiUrl && cloudConfig.turnstileSiteKey ? 'No sign-in · public library' : 'Cloud setup pending'}</span></div>
+            <h1>{workspaceMode === 'drafts' ? <>Keep what works. <em>Edit the rest.</em></> : <>Build a paper with <em>intent.</em></>}</h1>
+            <p className="topbar-subtitle">{workspaceMode === 'drafts' ? 'Preview a local copy, lock questions to keep, and download only the changes you want.' : 'Choose a class and subject, tune the balance, and leave the formatting to Paperloom.'}</p>
+            <nav className="workspace-tabs" aria-label="Paper workspace"><button aria-pressed={workspaceMode === 'studio'} onClick={() => setWorkspaceMode('studio')}>Studio</button><button aria-pressed={workspaceMode === 'drafts'} onClick={() => setWorkspaceMode('drafts')}>Drafts</button></nav>
+            <div className="cloud-launch"><button className="control-button" onClick={() => setCloudMode('browse')}><Icon name="layers" size={16} /> Shared papers</button><span>{cloudConfig.loading ? 'Checking cloud…' : cloudConfig.apiUrl ? 'Read-only library · publishing paused' : 'Cloud setup pending'}</span></div>
           </div>
         </header>
 
         {notice && <div className="notice"><Icon name="info" size={16} /><span>{notice}</span><button onClick={() => setNotice('')} aria-label="Dismiss notification"><Icon name="x" size={15} /></button></div>}
 
+        {workspaceMode === 'drafts' && <DraftWorkspace banks={banks} incomingDraft={incomingDraft} onConsumed={() => setIncomingDraft(null)} onBrowse={() => setCloudMode('browse')} PaperQuestion={PaperQuestion} />}
+        <div hidden={workspaceMode !== 'studio'}>
         <section className="control-bar">
           <div className="control-group wide"><label>Class</label><div className="select-wrap"><select aria-label="Class" value={selectedClass} onChange={(event) => { const bank = banks.find((item) => item.className === event.target.value && item.subject === selectedSubject) || banks.find((item) => item.className === event.target.value); if (bank) setSelectedBankId(bank.id); }}><option value="">Select class</option>{classOptions.map((option) => <option key={option} value={option}>{option}</option>)}</select><Icon name="chevron" size={15} /></div></div>
           <div className="control-group wide"><label>Subject</label><div className="select-wrap"><select aria-label="Subject" value={selectedSubject} onChange={(event) => { const bank = banks.find((item) => item.subject === event.target.value && item.className === selectedClass) || banks.find((item) => item.subject === event.target.value); if (bank) setSelectedBankId(bank.id); }}><option value="">Select subject</option>{subjectOptions.map((option) => <option key={option} value={option}>{option}</option>)}</select><Icon name="chevron" size={15} /></div></div>
@@ -817,15 +825,16 @@ function App() {
                     </> : <div className="paper-empty"><div className="empty-paper-mark"><Icon name="file" size={24} /></div><strong>Your paper will appear here</strong><span>Set the balance, then generate a random paper.</span></div>}
                   </div>
                 </div>
-                <div className="cloud-preview-actions"><button className="control-button" onClick={() => { goToStep(4); setCloudMode('save'); }} disabled={!hasPaper}><Icon name="upload" size={16} /> Save to shared library</button><span>PDF + question JSON · public sharing · no sign-in</span></div>
+                <div className="cloud-preview-actions"><button className="control-button" onClick={openStudioDraft} disabled={!hasPaper}><Icon name="file" size={16} /> Open preview as draft</button><span>Local editing + locks · Cloud publishing is paused</span></div>
                 {hasPaper && <div className="preview-foot"><span><span className="status-dot" /> Ready to export</span><span>{generatedPaper.A.length + generatedPaper.B.length + generatedPaper.C.length} questions · {totalMarks} marks</span></div>}
                 </>}
               </section>
           </div>
         ) : <div className="loading-state">No bank selected. Use Import JSON to add a question bank.</div>}
+        </div>
       </main>
 
-      {cloudMode && <SharedLibrary mode={cloudMode} onClose={() => setCloudMode(null)} config={cloudConfig} defaultTitle={`Class ${selectedClass} — ${selectedSubject}${paperMeta.exam ? ` — ${paperMeta.exam}` : ''}`} onSave={saveCloudPaper} />}
+      {cloudMode && <SharedLibrary mode={cloudMode} onClose={() => setCloudMode(null)} config={cloudConfig} onDraft={openCloudDraft} />}
 
       {previewPdf && <div className="modal-backdrop" onClick={() => setPreviewPdf(null)}><div className="pdf-modal" onClick={(event) => event.stopPropagation()}><div className="modal-header"><div><div className="panel-kicker">SOURCE PDF</div><h2>{previewPdf.name}</h2></div><div className="modal-actions"><a className="small-button" href={previewPdf.url} target="_blank" rel="noreferrer">Open in new tab</a><button className="icon-button" onClick={() => setPreviewPdf(null)} aria-label="Close PDF preview"><Icon name="close" size={18} /></button></div></div><iframe src={previewPdf.url} title={`Preview of ${previewPdf.name}`} /></div></div>}
     </div>
