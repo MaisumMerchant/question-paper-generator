@@ -18,3 +18,8 @@ for (const className of ['X', 'XII']) {
     }
   });
 }
+
+test('PST source PDFs are included in the app glob', () => {
+  const source = readFileSync(new URL('../src/main.jsx', import.meta.url), 'utf8');
+  assert.ok(source.includes("'../Data/Class */PST.pdf'"));
+});
