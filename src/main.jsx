@@ -18,6 +18,7 @@ const embeddedPdfModules = import.meta.glob(
     '../Data/Class XII/Computer (Programming using C).pdf',
     '../Data/Class */Maths.pdf',
     '../Data/Class */Physics.pdf',
+    '../Data/Class */PST.pdf',
     '../Data/Class */*_MCQs.pdf'
   ],
   { eager: true, query: '?url', import: 'default' }
