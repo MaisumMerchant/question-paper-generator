@@ -5,11 +5,13 @@ Paperloom is a responsive question-paper generator for Classes IX–XII. It turn
 ## Included data
 
 - Classes IX, X, XI and XII
-- Biology, Chemistry, Computer, Mathematics and Physics
-- 20 validated JSON banks containing 3,592 questions
-- 20 matching source PDFs
+- Biology, Chemistry, Computer, Mathematics and Physics for Classes IX–XII; Pakistan Studies (PST) for Classes X and XII
+- 22 main JSON banks containing 3,942 questions, plus matching MCQ banks where available
+- 22 matching main source PDFs
 - Chapter, section, question type, source, year and multipart-question support
 - KaTeX rendering for mathematical, scientific and chemical notation
+
+PST source PDFs contain Section B and C past-paper questions, not an MCQ bank. Some questions are repeated across years. In the Class XII source, one printed date is incomplete; the corresponding question retains an explicit uncertainty marker rather than assuming a digit.
 
 ## Using the app
 
