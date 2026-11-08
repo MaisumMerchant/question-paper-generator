@@ -1,0 +1,7 @@
+# Class IX Physics MCQ source review
+
+- Source: `Data/Class IX/Physics_MCQs.pdf`, an 18-page exercise extract. All 97 MCQs across nine units were compared with the pages in that extract. This does not establish whether the extract contains all exercises in the complete textbook.
+- The extract contains no answer key, so no answers were invented. The eight Kinematics questions have three options as printed.
+- Figures are represented in words because the current question and PDF renderer supports text, not question images. For the Vernier and micrometer, the described alignments preserve the visible scale readings; conventional least counts are stated as assumptions. The measuring-cylinder readings, spring graph and water-jet diagram are also described in their questions. Refer to the PDF for the original figures.
+- Measurement Q5: the product rounds to 27 cm² with two significant figures, which is not listed. Measurement Q10: “base quantities” and “fundamental quantities” are synonymous. Both are flagged in the bank.
+- Gravitation Q3: signs of the exponents in options A and B are not legible in the source. The transcription marks them as unclear rather than guessing. Thermal Properties Q8 has potentially synonymous options for vaporization and boiling; it is flagged. Other source wording and questionable choices are retained without claiming independent scientific validation of every question.
