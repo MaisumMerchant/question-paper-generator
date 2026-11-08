@@ -3,931 +3,749 @@
   "class": "XI",
   "questions": [
     {
-      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "chapter": "Unit 1: Computer Systems",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The most essential software required to run a computer is:",
+      "text": "A digital signal has:",
       "options": {
-        "A": "operating system",
-        "B": "application software",
-        "C": "utility software",
-        "D": "device driver"
+        "A": "Infinite values",
+        "B": "Only two values",
+        "C": "Three values",
+        "D": "Ten values"
       }
     },
     {
-      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "chapter": "Unit 1: Computer Systems",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A computer is a/an:",
+      "text": "Which gate gives output 1 only when all inputs are 1?",
       "options": {
-        "A": "electronic device",
-        "B": "mechanical device",
-        "C": "electrical device",
-        "D": "magnetic device"
+        "A": "OR gate",
+        "B": "AND gate",
+        "C": "NOT gate",
+        "D": "NOR gate"
       }
     },
     {
-      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "chapter": "Unit 1: Computer Systems",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The physical components of a computer are called:",
+      "text": "XOR gate gives output 1 when inputs are:",
       "options": {
-        "A": "software",
-        "B": "hardware",
-        "C": "data",
-        "D": "information"
+        "A": "Same",
+        "B": "Different",
+        "C": "Both 0",
+        "D": "Both 1"
       }
     },
     {
-      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "chapter": "Unit 1: Computer Systems",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The set of instructions given to a computer to perform a task is called:",
+      "text": "Which phase comes first in SDLC?",
       "options": {
-        "A": "software",
-        "B": "hardware",
-        "C": "data",
-        "D": "information"
+        "A": "Testing",
+        "B": "Requirement Analysis",
+        "C": "Coding",
+        "D": "Design"
       }
     },
     {
-      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "chapter": "Unit 1: Computer Systems",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The processed form of data is called:",
+      "text": "In Agile, a short development cycle is called:",
       "options": {
-        "A": "information",
-        "B": "raw data",
-        "C": "knowledge",
-        "D": "file"
+        "A": "Phase",
+        "B": "Sprint",
+        "C": "Module",
+        "D": "Release"
       }
     },
     {
-      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "chapter": "Unit 1: Computer Systems",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which of the following is NOT a type of data?",
+      "text": "Which testing type does NOT require knowledge of code?",
       "options": {
-        "A": "number",
-        "B": "text",
-        "C": "image",
-        "D": "input"
+        "A": "White box testing",
+        "B": "Black box testing",
+        "C": "Unit testing",
+        "D": "Code review"
       }
     },
     {
-      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "chapter": "Unit 1: Computer Systems",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which of the following is an operating system?",
+      "text": "What device operates at the Network layer (Layer 3) of the OSI model?",
       "options": {
-        "A": "MS Word",
-        "B": "Windows",
-        "C": "Google",
-        "D": "Facebook"
+        "A": "Hub",
+        "B": "Switch",
+        "C": "Router",
+        "D": "Repeater"
       }
     },
     {
-      "chapter": "Chapter 1: Basic Concepts of Information Technology",
+      "chapter": "Unit 1: Computer Systems",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A program that protects a computer from viruses is called:",
+      "text": "How many layers does the TCP/IP model have?",
       "options": {
-        "A": "antivirus",
-        "B": "firewall",
-        "C": "browser",
-        "D": "spreadsheet"
-      }
-    },
-    {
-      "chapter": "Chapter 1: Basic Concepts of Information Technology",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is an example of system software?",
-      "options": {
-        "A": "MS Word",
-        "B": "Excel",
-        "C": "Windows",
-        "D": "PowerPoint"
-      }
-    },
-    {
-      "chapter": "Chapter 1: Basic Concepts of Information Technology",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is an input device?",
-      "options": {
-        "A": "printer",
-        "B": "monitor",
-        "C": "keyboard",
-        "D": "speaker"
-      }
-    },
-    {
-      "chapter": "Chapter 2: Information Networks",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "A network that covers a small geographical area such as an office or building is called:",
-      "options": {
-        "A": "LAN",
-        "B": "MAN",
-        "C": "WAN",
-        "D": "PAN"
-      }
-    },
-    {
-      "chapter": "Chapter 2: Information Networks",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a benefit of computer networks?",
-      "options": {
-        "A": "resource sharing",
-        "B": "data isolation",
-        "C": "increased cost",
-        "D": "reduced communication"
-      }
-    },
-    {
-      "chapter": "Chapter 2: Information Networks",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The internet is an example of a:",
-      "options": {
-        "A": "LAN",
-        "B": "MAN",
-        "C": "WAN",
-        "D": "PAN"
-      }
-    },
-    {
-      "chapter": "Chapter 2: Information Networks",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which device is used to connect a computer to a network?",
-      "options": {
-        "A": "modem",
-        "B": "printer",
-        "C": "scanner",
-        "D": "speaker"
-      }
-    },
-    {
-      "chapter": "Chapter 2: Information Networks",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "A network in which all computers have equal status is called a:",
-      "options": {
-        "A": "peer-to-peer network",
-        "B": "client-server network",
-        "C": "metropolitan network",
-        "D": "wide area network"
-      }
-    },
-    {
-      "chapter": "Chapter 3: Data Communications",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The process of transferring data from one place to another is called:",
-      "options": {
-        "A": "data communication",
-        "B": "data processing",
-        "C": "data storage",
-        "D": "data entry"
-      }
-    },
-    {
-      "chapter": "Chapter 3: Data Communications",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a guided transmission medium?",
-      "options": {
-        "A": "radio waves",
-        "B": "microwaves",
-        "C": "twisted pair cable",
-        "D": "satellite"
-      }
-    },
-    {
-      "chapter": "Chapter 3: Data Communications",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is an unguided transmission medium?",
-      "options": {
-        "A": "fiber optic cable",
-        "B": "coaxial cable",
-        "C": "infrared waves",
-        "D": "twisted pair cable"
-      }
-    },
-    {
-      "chapter": "Chapter 3: Data Communications",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The device that converts digital signals to analog signals and vice versa is called a:",
-      "options": {
-        "A": "modem",
-        "B": "router",
-        "C": "switch",
-        "D": "hub"
-      }
-    },
-    {
-      "chapter": "Chapter 3: Data Communications",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Data transmission in both directions but not at the same time is called:",
-      "options": {
-        "A": "simplex",
-        "B": "half duplex",
-        "C": "full duplex",
-        "D": "multiplex"
-      }
-    },
-    {
-      "chapter": "Chapter 3: Data Communications",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Data transmission in only one direction is called:",
-      "options": {
-        "A": "simplex",
-        "B": "half duplex",
-        "C": "full duplex",
-        "D": "multiplex"
-      }
-    },
-    {
-      "chapter": "Chapter 3: Data Communications",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The rate at which data is transmitted is measured in:",
-      "options": {
-        "A": "bits per second",
-        "B": "bytes per minute",
-        "C": "characters per second",
-        "D": "words per minute"
-      }
-    },
-    {
-      "chapter": "Chapter 3: Data Communications",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is an error detection method?",
-      "options": {
-        "A": "parity bit",
-        "B": "handshaking",
-        "C": "encryption",
-        "D": "compression"
-      }
-    },
-    {
-      "chapter": "Chapter 3: Data Communications",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "A communication channel is the path through which:",
-      "options": {
-        "A": "data travels",
-        "B": "electricity flows",
-        "C": "programs execute",
-        "D": "users communicate"
-      }
-    },
-    {
-      "chapter": "Chapter 3: Data Communications",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Fiber optic cable transmits data in the form of:",
-      "options": {
-        "A": "electrical signals",
-        "B": "light signals",
-        "C": "radio waves",
-        "D": "sound waves"
-      }
-    },
-    {
-      "chapter": "Chapter 5: Computer Architecture",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The brain of the computer is the:",
-      "options": {
-        "A": "CPU",
-        "B": "RAM",
-        "C": "hard disk",
-        "D": "motherboard"
-      }
-    },
-    {
-      "chapter": "Chapter 5: Computer Architecture",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "ALU stands for:",
-      "options": {
-        "A": "Arithmetic Logic Unit",
-        "B": "Array Logic Unit",
-        "C": "Applied Logic Unit",
-        "D": "Arithmetic Local Unit"
-      }
-    },
-    {
-      "chapter": "Chapter 5: Computer Architecture",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The component of the CPU that controls the flow of data is the:",
-      "options": {
-        "A": "control unit",
-        "B": "ALU",
-        "C": "register",
-        "D": "bus"
-      }
-    },
-    {
-      "chapter": "Chapter 5: Computer Architecture",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "RAM is a/an:",
-      "options": {
-        "A": "volatile memory",
-        "B": "non-volatile memory",
-        "C": "permanent storage",
-        "D": "optical storage"
-      }
-    },
-    {
-      "chapter": "Chapter 5: Computer Architecture",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "ROM is a/an:",
-      "options": {
-        "A": "volatile memory",
-        "B": "non-volatile memory",
-        "C": "temporary storage",
-        "D": "removable storage"
-      }
-    },
-    {
-      "chapter": "Chapter 5: Computer Architecture",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is the fastest memory?",
-      "options": {
-        "A": "cache",
-        "B": "RAM",
-        "C": "hard disk",
-        "D": "DVD"
-      }
-    },
-    {
-      "chapter": "Chapter 5: Computer Architecture",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The unit that performs arithmetic and logical operations is the:",
-      "options": {
-        "A": "ALU",
-        "B": "control unit",
-        "C": "memory unit",
-        "D": "input unit"
-      }
-    },
-    {
-      "chapter": "Chapter 5: Computer Architecture",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "A bus that carries data between components is called the:",
-      "options": {
-        "A": "data bus",
-        "B": "address bus",
-        "C": "control bus",
-        "D": "power bus"
-      }
-    },
-    {
-      "chapter": "Chapter 5: Computer Architecture",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a storage device?",
-      "options": {
-        "A": "hard disk",
-        "B": "keyboard",
-        "C": "mouse",
-        "D": "monitor"
-      }
-    },
-    {
-      "chapter": "Chapter 5: Computer Architecture",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The machine cycle consists of fetch, decode and:",
-      "options": {
-        "A": "execute",
-        "B": "delete",
-        "C": "copy",
-        "D": "move"
-      }
-    },
-    {
-      "chapter": "Chapter 6: Security, Copyright and the Law",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "A program designed to damage a computer system is called a:",
-      "options": {
-        "A": "virus",
-        "B": "antivirus",
-        "C": "firewall",
-        "D": "browser"
-      }
-    },
-    {
-      "chapter": "Chapter 6: Security, Copyright and the Law",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a type of malware?",
-      "options": {
-        "A": "worm",
-        "B": "firewall",
-        "C": "router",
-        "D": "modem"
-      }
-    },
-    {
-      "chapter": "Chapter 6: Security, Copyright and the Law",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Software that protects a network from unauthorized access is called a:",
-      "options": {
-        "A": "firewall",
-        "B": "antivirus",
-        "C": "browser",
-        "D": "modem"
-      }
-    },
-    {
-      "chapter": "Chapter 6: Security, Copyright and the Law",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The illegal copying of software is called:",
-      "options": {
-        "A": "piracy",
-        "B": "encryption",
-        "C": "hacking",
-        "D": "phishing"
-      }
-    },
-    {
-      "chapter": "Chapter 6: Security, Copyright and the Law",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "A person who gains unauthorized access to a computer system is called a:",
-      "options": {
-        "A": "hacker",
-        "B": "programmer",
-        "C": "user",
-        "D": "administrator"
-      }
-    },
-    {
-      "chapter": "Chapter 6: Security, Copyright and the Law",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Tricking users into revealing personal information through fake emails is called:",
-      "options": {
-        "A": "phishing",
-        "B": "filtering",
-        "C": "blogging",
-        "D": "surfing"
-      }
-    },
-    {
-      "chapter": "Chapter 6: Security, Copyright and the Law",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The legal protection given to the creator of original work is called:",
-      "options": {
-        "A": "copyright",
-        "B": "trademark",
-        "C": "patent",
-        "D": "license"
-      }
-    },
-    {
-      "chapter": "Chapter 6: Security, Copyright and the Law",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "A secret word used to protect access to a computer system is called a:",
-      "options": {
-        "A": "password",
-        "B": "username",
-        "C": "file name",
-        "D": "domain name"
-      }
-    },
-    {
-      "chapter": "Chapter 6: Security, Copyright and the Law",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is an antivirus software?",
-      "options": {
-        "A": "Norton",
-        "B": "Windows",
-        "C": "Google",
-        "D": "Excel"
-      }
-    },
-    {
-      "chapter": "Chapter 6: Security, Copyright and the Law",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Backing up data means:",
-      "options": {
-        "A": "making a copy of data for safety",
-        "B": "deleting old data",
-        "C": "formatting the disk",
-        "D": "sharing data online"
-      }
-    },
-    {
-      "chapter": "Chapter 7: Operating System (Windows)",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "An operating system is:",
-      "options": {
-        "A": "system software",
-        "B": "application software",
-        "C": "utility program",
-        "D": "device driver"
-      }
-    },
-    {
-      "chapter": "Chapter 7: Operating System (Windows)",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a function of an operating system?",
-      "options": {
-        "A": "memory management",
-        "B": "scanning images",
-        "C": "printing documents",
-        "D": "browsing the internet"
-      }
-    },
-    {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a web browser?",
-      "options": {
-        "A": "Internet Explorer",
-        "B": "Windows",
-        "C": "Google Docs",
-        "D": "Outlook"
-      }
-    },
-    {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "WWW stands for:",
-      "options": {
-        "A": "World Wide Web",
-        "B": "Wide World Web",
-        "C": "World Web Wide",
-        "D": "Web Wide World"
-      }
-    },
-    {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The address of a webpage is called a:",
-      "options": {
-        "A": "URL",
-        "B": "ISP",
-        "C": "HTTP",
-        "D": "HTML"
-      }
-    },
-    {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is used to send and receive email?",
-      "options": {
-        "A": "email client",
-        "B": "web browser only",
-        "C": "spreadsheet",
-        "D": "compiler"
-      }
-    },
-    {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The protocol used to transfer web pages is:",
-      "options": {
-        "A": "HTTP",
-        "B": "SMTP",
-        "C": "FTP",
-        "D": "POP3"
-      }
-    },
-    {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The protocol used to send email is:",
-      "options": {
-        "A": "SMTP",
-        "B": "HTTP",
-        "C": "FTP",
-        "D": "IMAP"
-      }
-    },
-    {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "A search engine is used to:",
-      "options": {
-        "A": "find information on the internet",
-        "B": "send emails",
-        "C": "print documents",
-        "D": "edit videos"
-      }
-    },
-    {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a search engine?",
-      "options": {
-        "A": "Google",
-        "B": "Facebook",
-        "C": "Twitter",
-        "D": "WhatsApp"
-      }
-    },
-    {
-      "chapter": "Miscellaneous Questions",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a portable storage device?",
-      "options": {
-        "A": "USB flash drive",
-        "B": "CPU",
-        "C": "monitor",
-        "D": "printer"
-      }
-    },
-    {
-      "chapter": "Miscellaneous Questions",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The smallest unit of data in a computer is a:",
-      "options": {
-        "A": "bit",
-        "B": "byte",
-        "C": "kilobyte",
-        "D": "nibble"
-      }
-    },
-    {
-      "chapter": "Miscellaneous Questions",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "How many bits are there in a byte?",
-      "options": {
-        "A": "8",
+        "A": "3",
         "B": "4",
-        "C": "16",
-        "D": "32"
+        "C": "5",
+        "D": "7"
       }
     },
     {
-      "chapter": "Miscellaneous Questions",
+      "chapter": "Unit 1: Computer Systems",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which of the following is a programming language?",
+      "text": "UDP is preferred over TCP for video streaming because:",
       "options": {
-        "A": "C++",
-        "B": "Windows",
-        "C": "Google",
-        "D": "Oracle"
+        "A": "UDP is more reliable",
+        "B": "UDP is slower but more accurate",
+        "C": "UDP is faster and has lower delay",
+        "D": "UDP guarantees delivery"
       }
     },
     {
-      "chapter": "Miscellaneous Questions",
+      "chapter": "Unit 1: Computer Systems",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which of the following is an example of application software?",
+      "text": "Which OSI layer is responsible for routing packets between networks?",
+      "options": {
+        "A": "Physical",
+        "B": "Data Link",
+        "C": "Network",
+        "D": "Transport"
+      }
+    },
+    {
+      "chapter": "Unit 2: Computational Thinking & Algorithm",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which strategy involves ignoring the brand of a kettle when learning how to make tea?",
+      "options": {
+        "A": "Decomposition",
+        "B": "Pattern Recognition",
+        "C": "Abstraction",
+        "D": "Sorting"
+      }
+    },
+    {
+      "chapter": "Unit 2: Computational Thinking & Algorithm",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Bubble Sort is also commonly known as:",
+      "options": {
+        "A": "Linear Sort",
+        "B": "Ripple Sort",
+        "C": "Selection Sort",
+        "D": "Binary Sort"
+      }
+    },
+    {
+      "chapter": "Unit 2: Computational Thinking & Algorithm",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which searching algorithm requires the data to be sorted before it can be used?",
+      "options": {
+        "A": "Linear Search",
+        "B": "Sequential Search",
+        "C": "Binary Search",
+        "D": "Bubble Search"
+      }
+    },
+    {
+      "chapter": "Unit 2: Computational Thinking & Algorithm",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the main disadvantage of Selection Sort?",
+      "options": {
+        "A": "It uses extra RAM",
+        "B": "It is difficult to code",
+        "C": "It must finish every loop even if the list is sorted",
+        "D": "It only works on alphabetical data"
+      }
+    },
+    {
+      "chapter": "Unit 2: Computational Thinking & Algorithm",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An algorithm is considered \"correct\" if:",
+      "options": {
+        "A": "It runs very fast",
+        "B": "Its output matches expected outcomes for given inputs",
+        "C": "It uses minimal memory",
+        "D": "It is written in a specific programming language"
+      }
+    },
+    {
+      "chapter": "Unit 2: Computational Thinking & Algorithm",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What does the abbreviation CT stand for?",
+      "options": {
+        "A": "Computer Technology",
+        "B": "Computational Thinking",
+        "C": "Central Terminal",
+        "D": "Coding Technique"
+      }
+    },
+    {
+      "chapter": "Unit 2: Computational Thinking & Algorithm",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which operation is represented by MOD?",
+      "options": {
+        "A": "Multiplication",
+        "B": "Division",
+        "C": "Subtraction",
+        "D": "Finding the remainder after division"
+      }
+    },
+    {
+      "chapter": "Unit 2: Computational Thinking & Algorithm",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In algorithms, what is the purpose of a PTR?",
+      "options": {
+        "A": "To store text data",
+        "B": "To perform calculations",
+        "C": "To track positions in an array",
+        "D": "To display output"
+      }
+    },
+    {
+      "chapter": "Unit 2: Computational Thinking & Algorithm",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What does INT represent in an algorithm?",
+      "options": {
+        "A": "Internet",
+        "B": "Integer",
+        "C": "Interval",
+        "D": "Input"
+      }
+    },
+    {
+      "chapter": "Unit 2: Computational Thinking & Algorithm",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the Binary Search algorithm, the abbreviations BEG, END, and MID represent:",
+      "options": {
+        "A": "Input, Process, and Output",
+        "B": "Beginning, End, and Middle positions",
+        "C": "First, Last, and Next values",
+        "D": "Start, Stop, and Result"
+      }
+    },
+    {
+      "chapter": "Unit 3: Programming Fundamentals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which is the correct statement to insert Comments in Python code?",
+      "options": {
+        "A": "// This is comment",
+        "B": "/* This is comment*/",
+        "C": "# This is comment",
+        "D": "- - This is comment"
+      }
+    },
+    {
+      "chapter": "Unit 3: Programming Fundamentals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one is not a legal variable name?",
+      "options": {
+        "A": "_myvar",
+        "B": "my_var",
+        "C": "Myvar",
+        "D": "my-var"
+      }
+    },
+    {
+      "chapter": "Unit 3: Programming Fundamentals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one is the correct way to write if statement in Python?",
+      "options": {
+        "A": "if (condition):",
+        "B": "if(condition );",
+        "C": "if (1):",
+        "D": "none of these"
+      }
+    },
+    {
+      "chapter": "Unit 3: Programming Fundamentals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "___ is the operator can be used to compare two values?",
+      "options": {
+        "A": "< >",
+        "B": "= =",
+        "C": "><",
+        "D": "="
+      }
+    },
+    {
+      "chapter": "Unit 3: Programming Fundamentals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "___ loop is used when the number of iterations is known in advance",
+      "options": {
+        "A": "While",
+        "B": "Do while",
+        "C": "For",
+        "D": "For each"
+      }
+    },
+    {
+      "chapter": "Unit 3: Programming Fundamentals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which programming language is closest to binary (0s and 1s)?",
+      "options": {
+        "A": "High Level language",
+        "B": "Mid-Level Language",
+        "C": "Low Level language",
+        "D": "Script Language"
+      }
+    },
+    {
+      "chapter": "Unit 3: Programming Fundamentals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Standard indentation in Python?",
+      "options": {
+        "A": "2 spaces",
+        "B": "4 spaces",
+        "C": "6 spaces",
+        "D": "8 spaces"
+      }
+    },
+    {
+      "chapter": "Unit 3: Programming Fundamentals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "__ data type does the input() function always return.",
+      "options": {
+        "A": "Int",
+        "B": "Float",
+        "C": "String",
+        "D": "Bool"
+      }
+    },
+    {
+      "chapter": "Unit 3: Programming Fundamentals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "___ statement exits a loop immediately",
+      "options": {
+        "A": "Pass",
+        "B": "Continue",
+        "C": "Break",
+        "D": "Exit"
+      }
+    },
+    {
+      "chapter": "Unit 3: Programming Fundamentals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "___ bitwise operator returns 1 only when BOTH bits are 1?",
+      "options": {
+        "A": "AND",
+        "B": "OR",
+        "C": "NOT",
+        "D": "XOR"
+      }
+    },
+    {
+      "chapter": "Unit 4: Data and Analysis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a DBMS?",
       "options": {
         "A": "MS Word",
-        "B": "Windows",
-        "C": "Linux",
-        "D": "BIOS"
+        "B": "MS Excel",
+        "C": "MS Access",
+        "D": "MS Paint"
       }
     },
     {
-      "chapter": "Miscellaneous Questions",
+      "chapter": "Unit 4: Data and Analysis",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A scanner is an example of a/an:",
+      "text": "In an ER Model, a rectangle represents:",
       "options": {
-        "A": "input device",
-        "B": "output device",
-        "C": "storage device",
-        "D": "processing device"
+        "A": "Attribute",
+        "B": "Relationship",
+        "C": "Entity",
+        "D": "Key"
       }
     },
     {
-      "chapter": "Miscellaneous Questions",
+      "chapter": "Unit 4: Data and Analysis",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which of the following is an output device?",
+      "text": "A one-to-many relationship means",
       "options": {
-        "A": "printer",
-        "B": "keyboard",
-        "C": "mouse",
-        "D": "scanner"
+        "A": "One record relates to many",
+        "B": "Many to one only",
+        "C": "One to One",
+        "D": "None"
       }
     },
     {
-      "chapter": "Miscellaneous Questions",
+      "chapter": "Unit 4: Data and Analysis",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The device used to point and select items on the screen is the:",
+      "text": "Which object is used to retrieve data?",
       "options": {
-        "A": "mouse",
-        "B": "printer",
-        "C": "speaker",
-        "D": "scanner"
+        "A": "Table",
+        "B": "Form",
+        "C": "Query",
+        "D": "Report"
       }
     },
     {
-      "chapter": "Miscellaneous Questions",
+      "chapter": "Unit 4: Data and Analysis",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which memory loses its contents when the power is turned off?",
+      "text": "Which function calculates average?",
       "options": {
-        "A": "RAM",
-        "B": "ROM",
-        "C": "hard disk",
-        "D": "flash drive"
+        "A": "Sum()",
+        "B": "Count()",
+        "C": "Avg()",
+        "D": "Max()"
       }
     },
     {
-      "chapter": "Miscellaneous Questions",
+      "chapter": "Unit 4: Data and Analysis",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The collection of unprocessed facts and figures is called:",
+      "text": "Which key uniquely identifies each record in a table?",
       "options": {
-        "A": "data",
-        "B": "information",
-        "C": "knowledge",
-        "D": "wisdom"
+        "A": "Foreign Key",
+        "B": "Primary Key",
+        "C": "Alternate Key",
+        "D": "Candidate Key"
       }
     },
     {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "chapter": "Unit 4: Data and Analysis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which relationship requires a junction table?",
+      "options": {
+        "A": "One-to-One",
+        "B": "One-to-Many",
+        "C": "Many-to-Many",
+        "D": "None"
+      }
+    },
+    {
+      "chapter": "Unit 4: Data and Analysis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which database objects provides a user friendly interface for data entry?",
+      "options": {
+        "A": "Query",
+        "B": "Table",
+        "C": "Report",
+        "D": "Form"
+      }
+    },
+    {
+      "chapter": "Unit 4: Data and Analysis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which chart is best used to show trends over time?",
+      "options": {
+        "A": "Pie Chart",
+        "B": "Bar Chart",
+        "C": "Line Chart",
+        "D": "Column Chart"
+      }
+    },
+    {
+      "chapter": "Unit 4: Data and Analysis",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which query operation combines records into categories for summarization?",
+      "options": {
+        "A": "Sorting",
+        "B": "Filtering",
+        "C": "Group by",
+        "D": "Validation"
+      }
+    },
+    {
+      "chapter": "Unit 5: Applications and Impacts of Computing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A smartwatch records heart rate and sends it to a mobile phone. Which technology is mainly used here?",
+      "options": {
+        "A": "Word Processing",
+        "B": "Internet of Things",
+        "C": "Printing Technology",
+        "D": "Analog Technology"
+      }
+    },
+    {
+      "chapter": "Unit 5: Applications and Impacts of Computing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In a smart irrigation system, which device checks whether the soil is dry or wet?",
+      "options": {
+        "A": "Actuator",
+        "B": "Sensor",
+        "C": "Monitor",
+        "D": "Smart hearing aid"
+      }
+    },
+    {
+      "chapter": "Unit 5: Applications and Impacts of Computing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A school removes duplicate student records while preparing examination results. Which step of Data Analytics is this?",
+      "options": {
+        "A": "Data collection",
+        "B": "Data visualization",
+        "C": "Data cleaning",
+        "D": "Data storage"
+      }
+    },
+    {
+      "chapter": "Unit 5: Applications and Impacts of Computing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is a primary source of information?",
+      "options": {
+        "A": "Textbook",
+        "B": "Interview",
+        "C": "Dictionary",
+        "D": "Summary website"
+      }
+    },
+    {
+      "chapter": "Unit 5: Applications and Impacts of Computing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A student uses an unknown website without an author name or references. This source is likely to be:",
+      "options": {
+        "A": "Reliable",
+        "B": "Primary",
+        "C": "Unreliable",
+        "D": "Official"
+      }
+    },
+    {
+      "chapter": "Unit 5: Applications and Impacts of Computing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which technology supports people with hearing, vision, learning, or movement difficulties?",
+      "options": {
+        "A": "Gaming technology",
+        "B": "Manufacturing technology",
+        "C": "Assistive technology",
+        "D": "Antivirus technology"
+      }
+    },
+    {
+      "chapter": "Unit 5: Applications and Impacts of Computing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is an actuator in a smart water system?",
+      "options": {
+        "A": "Soil moisture sensor",
+        "B": "Water valve",
+        "C": "Temperature sensor",
+        "D": "Camera sensor"
+      }
+    },
+    {
+      "chapter": "Unit 5: Applications and Impacts of Computing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which type of source usually provides summarized information for quick reference?",
+      "options": {
+        "A": "Primary source",
+        "B": "Secondary source",
+        "C": "Tertiary source",
+        "D": "Unverified source"
+      }
+    },
+    {
+      "chapter": "Unit 5: Applications and Impacts of Computing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which method is used to present data through charts and graphs?",
+      "options": {
+        "A": "Data collection",
+        "B": "Data storage",
+        "C": "Data cleaning",
+        "D": "Data visualization"
+      }
+    },
+    {
+      "chapter": "Unit 5: Applications and Impacts of Computing",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which assistive technology converts on-screen text into speech?",
+      "options": {
+        "A": "Screen reader",
+        "B": "Smart meter",
+        "C": "Motion sensor",
+        "D": "Water pump"
+      }
+    },
+    {
+      "chapter": "Unit 6: Digital literacy",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following best describes digital literacy?",
+      "options": {
+        "A": "The ability to type quickly using a keyboard",
+        "B": "The ability to use digital tools to find, evaluate, create, and communicate information responsibly",
+        "C": "The ability to install software on a computer",
+        "D": "The ability to use social media for entertainment"
+      }
+    },
+    {
+      "chapter": "Unit 6: Digital literacy",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A student asks classmates, “How does mobile phone use affect your concentration during study?” What type of data is mainly collected?",
+      "options": {
+        "A": "Quantitative data because it can be counted easily",
+        "B": "Secondary data because classmates already know the answer",
+        "C": "Qualitative data because it collects opinions and experiences",
+        "D": "Numerical data because mobile phone use is related to time"
+      }
+    },
+    {
+      "chapter": "Unit 6: Digital literacy",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
       "text": "Which search query is most suitable for finding a reliable PDF report about internet usage in Pakistan?",
       "options": {
-        "A": "internet usage in Pakistan",
+        "A": "internet usage Pakistan",
         "B": "best internet use in Pakistan social media",
         "C": "\"internet usage in Pakistan\" filetype:pdf",
-        "D": "Pakistan internet websites latest"
+        "D": "Pakistan internet all websites latest"
       }
     },
     {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "chapter": "Unit 6: Digital literacy",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -941,7 +759,7 @@
       }
     },
     {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "chapter": "Unit 6: Digital literacy",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -950,17 +768,17 @@
       "options": {
         "A": "They automatically make the research question correct",
         "B": "They help organize data, perform calculations, and create charts",
-        "C": "They remove the need for collecting original data",
+        "C": "They replace the need for collecting original data",
         "D": "They ensure all online information is reliable"
       }
     },
     {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "chapter": "Unit 6: Digital literacy",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A digital artifact created after research should mainly:",
+      "text": "A digital artefact created after research should mainly:",
       "options": {
         "A": "repeat long paragraphs from websites",
         "B": "communicate results and conclusions clearly",
@@ -969,7 +787,7 @@
       }
     },
     {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "chapter": "Unit 6: Digital literacy",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -983,7 +801,7 @@
       }
     },
     {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "chapter": "Unit 6: Digital literacy",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -997,21 +815,21 @@
       }
     },
     {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "chapter": "Unit 6: Digital literacy",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
       "text": "Copying someone else's work without giving credit is called:",
       "options": {
-        "A": "Credit",
-        "B": "Plagiarism",
+        "A": "Copyright",
+        "B": "Referencing",
         "C": "Citation",
-        "D": "Referencing"
+        "D": "Plagiarism"
       }
     },
     {
-      "chapter": "Chapter 10: Internet Browsing and Using E-mail",
+      "chapter": "Unit 6: Digital literacy",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
