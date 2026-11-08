@@ -8,12 +8,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The rate of forward reaction starts decreasing:",
+      "text": "Which one of the following statements is false about dynamic equilibrium?",
       "options": {
-        "A": "all the reactants are being consumed",
-        "B": "the reaction is in equilibrium",
-        "C": "products are being formed",
-        "D": "none of these"
+        "A": "It takes place in a close container",
+        "B": "Concentration of reactant and products are not changed",
+        "C": "Rate of forward reaction is equal to rate of reverse reaction",
+        "D": "Equilibrium cannot be disturbed by any external stress"
       }
     },
     {
@@ -22,12 +22,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The characteristics of reversible reactions are the following except that:",
+      "text": "Consider the following reaction and indicate which of the following best describe equilibrium constant expression $K_c$. $4NH_3 + 5O_2 \\rightleftharpoons 4NO + 6H_2O$",
       "options": {
-        "A": "they never complete",
-        "B": "they take place in both directions",
-        "C": "dynamic equilibrium is established",
-        "D": "they may be completed"
+        "A": "$K_c = \\frac{[NO]^4[H_2O]^6}{[NH_3]^4[O_2]^5}$",
+        "B": "$K_c = \\frac{[NH_3]^4[O_2]^5}{[NO]^4[H_2O]^6}$",
+        "C": "$K_c = \\frac{[NH_3][O_2]}{[H_2O][NO]}$",
+        "D": "$K_c = \\frac{[4NO][6H_2O]}{[4NH_3][5S_2]}$"
       }
     },
     {
@@ -36,12 +36,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "In a chemical reaction, the products are in equilibrium with reactants. The concentration of reactants and products will:",
+      "text": "A reaction which is never goes to completion is known as reversible reaction. Reversible reaction is represented by:",
       "options": {
-        "A": "increase",
-        "B": "decrease",
-        "C": "become constant",
-        "D": "cannot be predicted"
+        "A": "Doted lines",
+        "B": "Single arrow",
+        "C": "Double arrow",
+        "D": "Double straight line"
       }
     },
     {
@@ -50,12 +50,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "At equilibrium, the rate of forward reaction is $\\ldots\\ldots$ that of reverse reaction:",
+      "text": "When the magnitude of $K_c$ is small, indicates",
       "options": {
-        "A": "equal to",
-        "B": "smaller than",
-        "C": "greater than",
-        "D": "different from"
+        "A": "Reaction mixture contain most of the reactant",
+        "B": "Reaction mixture contain most of the product",
+        "C": "Reaction mixture contain almost equal amount of reactant and product",
+        "D": "Reaction goes to completion"
       }
     },
     {
@@ -64,12 +64,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one of the following reactions is irreversible in nature?",
+      "text": "For which system does the equilibrium constant, $K_c$ has units of concentration",
       "options": {
-        "A": "the reaction of gaseous hydrogen and oxygen to form water",
-        "B": "the decomposition of calcium carbonate on heating",
-        "C": "the reaction between nitrogen and hydrogen to form ammonia",
-        "D": "all of these"
+        "A": "$N_{2(g)} + 3H_{2(g)} \\rightleftharpoons 2NH_{3(g)}$",
+        "B": "$N_{2(g)} + O_{2(g)} \\rightleftharpoons 2NO_{(g)}$",
+        "C": "$H_{2(g)} + I_{2(g)} \\rightleftharpoons 2HI_{(g)}$",
+        "D": "$CO_{2(g)} + H_{2(g)} \\rightleftharpoons CO_{(g)} + H_2O_{(l)}$"
       }
     },
     {
@@ -78,12 +78,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one of the following factors affect the equilibrium state?",
+      "text": "The unit of $K_c$ for reaction $N_2 + O_2 \\rightleftharpoons 2NO$",
       "options": {
-        "A": "concentration",
-        "B": "temperature",
-        "C": "pressure",
-        "D": "all of these"
+        "A": "$mol\\,dm^{-3}$",
+        "B": "$mol^{-2}\\,dm^{6}$",
+        "C": "$mol^{-1}\\,dm^{3}$",
+        "D": "no unit"
       }
     },
     {
@@ -92,12 +92,54 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one is a correct acidic solution?",
+      "text": "The system is stable in equilibrium when:",
       "options": {
-        "A": "$[H^+] > [OH^-]$",
-        "B": "$[H^+] = [OH^-]$",
-        "C": "$[H^+] < [OH^-]$",
-        "D": "$[H^+] = 1 \\times 10^{-7}$"
+        "A": "$Q_c = K_c$",
+        "B": "$Q_c > K$",
+        "C": "$Q_c < K$",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Chemical Equilibrium",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$Q_c$ can be defined as:",
+      "options": {
+        "A": "ratio of product and reactants",
+        "B": "ratio of molar concentration of product and reactant at specific time",
+        "C": "ratio of molar concentration of product and molar volume of reactant",
+        "D": "ratio of molar concentration of product and reactant raised to the power of coefficient"
+      }
+    },
+    {
+      "chapter": "Chemical Equilibrium",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following represent backward reaction? [Figure: (i) red $\\rightleftharpoons$ blue, 4 red and 6 blue particles; (ii) green $\\rightleftharpoons$ yellow, 9 green and 1 yellow particle; (iii) blue $\\rightleftharpoons$ red, 2 blue and 8 red particles.] [Source option B is incomplete.]",
+      "options": {
+        "A": "(i) and (ii)",
+        "B": "(ii) and",
+        "C": "(ii) only",
+        "D": "(iii) only"
+      }
+    },
+    {
+      "chapter": "Chemical Equilibrium",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The value of $K_c$ increases when:",
+      "options": {
+        "A": "[Product] is less",
+        "B": "[Product] is more",
+        "C": "[Reactant] is more",
+        "D": "[Reactant = product]"
       }
     },
     {
@@ -106,12 +148,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one is Lewis acid?",
+      "text": "Corrosive effect on skin is caused by:",
       "options": {
-        "A": "$AlCl_3$",
-        "B": "$BF_3$",
-        "C": "$FeCl_3$",
-        "D": "all of these"
+        "A": "acid",
+        "B": "base",
+        "C": "salt",
+        "D": "both a & b"
       }
     },
     {
@@ -120,12 +162,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Select the corrosive acid:",
+      "text": "Preservatives are used to preserve:",
       "options": {
-        "A": "$H_2SO_4$",
-        "B": "$HCl$",
-        "C": "$HNO_3$",
-        "D": "$H_3PO_4$"
+        "A": "acids",
+        "B": "bases",
+        "C": "food",
+        "D": "water"
       }
     },
     {
@@ -134,12 +176,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one of the following acid is used for cleaning of ornaments?",
+      "text": "Which of the following is not an Arrhenius acid:",
       "options": {
         "A": "$HCl$",
-        "B": "$H_2SO_4$",
+        "B": "$CO_2$",
         "C": "$HNO_3$",
-        "D": "$H_2CO_3$"
+        "D": "$H_2SO_4$"
       }
     },
     {
@@ -148,12 +190,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which of these acids is not present in acid rain?",
+      "text": "$NH_3$ can be a base according to:",
       "options": {
-        "A": "acetic acid",
-        "B": "carbonic acid",
-        "C": "sulphuric acid",
-        "D": "nitric acid"
+        "A": "Arrhenius theory",
+        "B": "Bronsted- lowery theory",
+        "C": "Lewis theory",
+        "D": "both b and c"
       }
     },
     {
@@ -162,348 +204,222 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one is Lewis base?",
-      "options": {
-        "A": "$NH_3$",
-        "B": "$H_2O$",
-        "C": "all of these",
-        "D": "$ROH$"
-      }
-    },
-    {
-      "chapter": "Acid, Base and Salt",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following is a normal salt?",
-      "options": {
-        "A": "$Na_2SO_4$",
-        "B": "$NaHCO_3$",
-        "C": "$NaHSO_4$",
-        "D": "$NaOH$"
-      }
-    },
-    {
-      "chapter": "Acid, Base and Salt",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one is the conjugate acid of water?",
-      "options": {
-        "A": "$H_3O^+$",
-        "B": "$OH^-$",
-        "C": "$H^+$",
-        "D": "none of these"
-      }
-    },
-    {
-      "chapter": "Organic Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The general formula of alkane is:",
-      "options": {
-        "A": "$C_nH_{2n+2}$",
-        "B": "$C_nH_{2n}$",
-        "C": "$C_nH_{2n-2}$",
-        "D": "$C_nH_{2n-6}$"
-      }
-    },
-    {
-      "chapter": "Organic Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following organic compounds was first synthesized in laboratory?",
-      "options": {
-        "A": "methane",
-        "B": "ethane",
-        "C": "urea",
-        "D": "benzene"
-      }
-    },
-    {
-      "chapter": "Organic Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following is not an organic compound?",
-      "options": {
-        "A": "urea",
-        "B": "benzene",
-        "C": "methane",
-        "D": "carbon monoxide"
-      }
-    },
-    {
-      "chapter": "Organic Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "In 1828, Wohler synthesized compound urea from inorganic compound:",
-      "options": {
-        "A": "ammonium cyanate",
-        "B": "ammonium sulphate",
-        "C": "ammonium carbonate",
-        "D": "ammonium chloride"
-      }
-    },
-    {
-      "chapter": "Organic Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Homologous series is a series of compounds having the same:",
-      "options": {
-        "A": "molecular formula",
-        "B": "general formula",
-        "C": "structural formula",
-        "D": "condensed formula"
-      }
-    },
-    {
-      "chapter": "Organic Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following is an alkane?",
-      "options": {
-        "A": "$C_2H_4$",
-        "B": "$C_2H_6$",
-        "C": "$C_3H_4$",
-        "D": "$C_3H_6$"
-      }
-    },
-    {
-      "chapter": "Organic Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The compounds having same molecular formula but different structures are called:",
-      "options": {
-        "A": "homologous compounds",
-        "B": "isomers",
-        "C": "allotropes",
-        "D": "polymers"
-      }
-    },
-    {
-      "chapter": "Organic Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Butane has how many isomers?",
-      "options": {
-        "A": "two",
-        "B": "three",
-        "C": "four",
-        "D": "five"
-      }
-    },
-    {
-      "chapter": "Organic Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following is a saturated hydrocarbon?",
-      "options": {
-        "A": "$C_2H_4$",
-        "B": "$C_2H_6$",
-        "C": "$C_2H_2$",
-        "D": "$C_3H_6$"
-      }
-    },
-    {
-      "chapter": "Organic Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following compounds does not contain a carboxylic group?",
-      "options": {
-        "A": "ethanoic acid",
-        "B": "methanoic acid",
-        "C": "propanoic acid",
-        "D": "ethanol"
-      }
-    },
-    {
-      "chapter": "Organic Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Organic compounds are soluble in:",
-      "options": {
-        "A": "water",
-        "B": "organic solvents",
-        "C": "inorganic solvents",
-        "D": "all of these"
-      }
-    },
-    {
-      "chapter": "Organic Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Organic compounds are prepared in laboratory from:",
-      "options": {
-        "A": "inorganic compounds",
-        "B": "organic compounds",
-        "C": "plants",
-        "D": "animals"
-      }
-    },
-    {
-      "chapter": "Organic Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The elements which are usually present in organic compounds are:",
-      "options": {
-        "A": "C, H, O",
-        "B": "C, H, O, N",
-        "C": "C, H, O, N, S, P",
-        "D": "all of these"
-      }
-    },
-    {
-      "chapter": "Organic Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Molecular formula of methane is:",
-      "options": {
-        "A": "$CH_4$",
-        "B": "$CH_3$",
-        "C": "$C_2H_6$",
-        "D": "$CH_2$"
-      }
-    },
-    {
-      "chapter": "Environmental Chemistry-I (The Atmosphere)",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following is not a greenhouse gas?",
-      "options": {
-        "A": "$CO_2$",
-        "B": "$CH_4$",
-        "C": "$N_2O$",
-        "D": "$O_2$"
-      }
-    },
-    {
-      "chapter": "Environmental Chemistry-I (The Atmosphere)",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following is a secondary pollutant?",
-      "options": {
-        "A": "sulphur dioxide",
-        "B": "carbon monoxide",
-        "C": "ozone",
-        "D": "smoke"
-      }
-    },
-    {
-      "chapter": "Environmental Chemistry-I (The Atmosphere)",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following gases is responsible for acid rain?",
-      "options": {
-        "A": "carbon monoxide",
-        "B": "sulphur dioxide",
-        "C": "nitrogen",
-        "D": "hydrogen"
-      }
-    },
-    {
-      "chapter": "Environmental Chemistry-I (The Atmosphere)",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following is present in maximum quantity in the atmosphere?",
-      "options": {
-        "A": "$N_2$",
-        "B": "$O_2$",
-        "C": "$Ar$",
-        "D": "$CO_2$"
-      }
-    },
-    {
-      "chapter": "Environmental Chemistry-I (The Atmosphere)",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Ozone layer is present in:",
-      "options": {
-        "A": "thermosphere",
-        "B": "stratosphere",
-        "C": "mesosphere",
-        "D": "troposphere"
-      }
-    },
-    {
-      "chapter": "Environmental Chemistry-I (The Atmosphere)",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following acids is present in acid rain?",
+      "text": "Which of the following is a Lewis base?",
       "options": {
         "A": "$HNO_3$",
-        "B": "$HCl$",
-        "C": "$H_2SO_4$",
-        "D": "all of these"
+        "B": "$CN^-$",
+        "C": "$HCl$",
+        "D": "$AlCl_3$"
       }
     },
     {
-      "chapter": "Environmental Chemistry-I (The Atmosphere)",
+      "chapter": "Acid, Base and Salt",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The major cause of global warming is:",
+      "text": "A substance that can donate a pair of electron to form coordinate covalent bond:",
       "options": {
-        "A": "$CO_2$",
-        "B": "$O_2$",
-        "C": "$N_2$",
-        "D": "$Cl_2$"
+        "A": "Lewis acid",
+        "B": "Lewis base",
+        "C": "Bronsted- Lowery acid",
+        "D": "Bronsteed-Lowery base"
       }
     },
     {
-      "chapter": "Environmental Chemistry-I (The Atmosphere)",
+      "chapter": "Acid, Base and Salt",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one of the following pollutants is the major cause of acid rain?",
+      "text": "If pH value is greater than 7, then solution is:",
       "options": {
-        "A": "oxides of sulphur",
-        "B": "oxides of nitrogen",
-        "C": "oxides of carbon",
-        "D": "all of these"
+        "A": "acidic",
+        "B": "basic",
+        "C": "amphoteric",
+        "D": "neutral"
+      }
+    },
+    {
+      "chapter": "Acid, Base and Salt",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Salt among following is:",
+      "options": {
+        "A": "$HCl$",
+        "B": "$KCl$",
+        "C": "$HNO_3$",
+        "D": "$H_2SO_4$"
+      }
+    },
+    {
+      "chapter": "Acid, Base and Salt",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Substances that react with both acids and bases are called:",
+      "options": {
+        "A": "conjugate acids",
+        "B": "conjugate bases",
+        "C": "amphoteric substances",
+        "D": "Buffers"
+      }
+    },
+    {
+      "chapter": "Acid, Base and Salt",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The reaction of acid and base to form salt and water is called:",
+      "options": {
+        "A": "hydration",
+        "B": "Neutralization",
+        "C": "hydrolysis",
+        "D": "both a & c"
+      }
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The branch of chemistry which deals with the hydrocarbons and their derivatives is known as:",
+      "options": {
+        "A": "Organic chemistry",
+        "B": "Inorganic chemistry",
+        "C": "Biochemistry",
+        "D": "Physical chemistry"
+      }
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The general formula for alkanes is:",
+      "options": {
+        "A": "$C_nH_{2n}$",
+        "B": "$C_nH_{2n+1}$",
+        "C": "$C_nH_{2n+2}$",
+        "D": "$C_nH_{2n-2}$"
+      }
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is an alcohol?",
+      "options": {
+        "A": "$CH_3CHO$",
+        "B": "$CH_3-CH_2O-CH_3$",
+        "C": "$CH_3OH$",
+        "D": "$HCOOH$"
+      }
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is saturated hydrocarbon?",
+      "options": {
+        "A": "$CH_3CH=CH_2$",
+        "B": "$CH_3-CH_2CH_3$",
+        "C": "$CH_3-C\\equiv CH$",
+        "D": "$CH_2=CH-C\\equiv CH$"
+      }
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The prefix 'hept' stands for the .... carbon atoms.",
+      "options": {
+        "A": "2",
+        "B": "5",
+        "C": "7",
+        "D": "9"
+      }
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The functional group $-COOH$ is used for:",
+      "options": {
+        "A": "Alkynes",
+        "B": "alcohols",
+        "C": "Phenols",
+        "D": "Carboxylic acids"
+      }
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Polyethene is:",
+      "options": {
+        "A": "oil",
+        "B": "paper",
+        "C": "plastic",
+        "D": "wood"
+      }
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Acetic acid is obtained from:",
+      "options": {
+        "A": "Banana",
+        "B": "Dates",
+        "C": "Garlic",
+        "D": "Vinegar"
+      }
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Alkenes:",
+      "options": {
+        "A": "show same general formula as alkynes.",
+        "B": "have carbon carbon triple bond.",
+        "C": "have carbon carbon double bond.",
+        "D": "are saturated hydrocarbons."
+      }
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$CH_3-CH_2-$ is ... radical.",
+      "options": {
+        "A": "Methyl",
+        "B": "Ethyl",
+        "C": "n-propyl",
+        "D": "Isopropyl"
       }
     },
     {
@@ -512,109 +428,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one is a disaccharide?",
+      "text": "Glucose is:",
       "options": {
-        "A": "glucose",
-        "B": "fructose",
-        "C": "maltose",
-        "D": "cellulose"
-      }
-    },
-    {
-      "chapter": "Biochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one is a polysaccharide?",
-      "options": {
-        "A": "glucose",
-        "B": "glycogen",
-        "C": "maltose",
-        "D": "lactose"
-      }
-    },
-    {
-      "chapter": "Biochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one is a protein?",
-      "options": {
-        "A": "starch",
-        "B": "glycogen",
-        "C": "albumin",
-        "D": "glucose"
-      }
-    },
-    {
-      "chapter": "Biochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The structural and functional unit of living organisms is the:",
-      "options": {
-        "A": "cell",
-        "B": "tissue",
-        "C": "organ",
-        "D": "all of these"
-      }
-    },
-    {
-      "chapter": "Biochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following is not a lipid?",
-      "options": {
-        "A": "fats",
-        "B": "oils",
-        "C": "waxes",
-        "D": "glycogen"
-      }
-    },
-    {
-      "chapter": "Biochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a non-essential amino acid?",
-      "options": {
-        "A": "lysine",
-        "B": "glycine",
-        "C": "valine",
-        "D": "leucine"
-      }
-    },
-    {
-      "chapter": "Biochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one is a water-soluble vitamin?",
-      "options": {
-        "A": "vitamin A",
-        "B": "vitamin C",
-        "C": "vitamin D",
-        "D": "vitamin K"
-      }
-    },
-    {
-      "chapter": "Biochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following is a genetic material?",
-      "options": {
-        "A": "DNA",
-        "B": "RNA",
-        "C": "protein",
+        "A": "vitamin",
+        "B": "protein",
+        "C": "carbohydrate",
         "D": "lipid"
       }
     },
@@ -624,12 +442,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one of the following carbohydrates gives blue colour with iodine?",
+      "text": "The deficiency of vitamin D causes:",
       "options": {
-        "A": "starch",
-        "B": "glucose",
-        "C": "fructose",
-        "D": "glycogen"
+        "A": "beriberi",
+        "B": "rickets",
+        "C": "scurvy",
+        "D": "haemorrhage"
       }
     },
     {
@@ -638,12 +456,250 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Proteins are composed of:",
+      "text": "..... encodes a genetic information.",
       "options": {
-        "A": "amino acids",
-        "B": "nucleic acids",
-        "C": "fatty acids",
-        "D": "monosaccharides"
+        "A": "R.N.A",
+        "B": "D.N.A",
+        "C": "progesterone",
+        "D": "cholesterol"
+      }
+    },
+    {
+      "chapter": "Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The carbohydrates which contain aldehyde group are called:",
+      "options": {
+        "A": "sacchrides",
+        "B": "ketoses",
+        "C": "pentoses",
+        "D": "aldoses"
+      }
+    },
+    {
+      "chapter": "Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Amino acids are building blocks of:",
+      "options": {
+        "A": "nucleic acids",
+        "B": "protein",
+        "C": "vitamins",
+        "D": "lipid"
+      }
+    },
+    {
+      "chapter": "Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one of the following is polysaccharide.",
+      "options": {
+        "A": "Fructose",
+        "B": "maltose",
+        "C": "starch",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Lactose is:",
+      "options": {
+        "A": "Grape sugar",
+        "B": "honey sugar",
+        "C": "milk sugar",
+        "D": "cane sugar"
+      }
+    },
+    {
+      "chapter": "Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is true about a peptide?",
+      "options": {
+        "A": "It is a protein",
+        "B": "It is an anhydride of a carboxylic acids",
+        "C": "It is an anhydride of an amine",
+        "D": "It is a polyamide."
+      }
+    },
+    {
+      "chapter": "Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Fats are solids at:",
+      "options": {
+        "A": "ordinary room temperature",
+        "B": "high temperature",
+        "C": "higher than $50^\\circ C$ temperature",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Biochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Cotton contains ... cellulose.",
+      "options": {
+        "A": "30%",
+        "B": "65%",
+        "C": "85%",
+        "D": "95%"
+      }
+    },
+    {
+      "chapter": "Environmental Chemistry-I (The Atmosphere)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Second highest layer of Earth's atmosphere is",
+      "options": {
+        "A": "stratosphere",
+        "B": "mesosphere",
+        "C": "troposphere",
+        "D": "thermosphere"
+      }
+    },
+    {
+      "chapter": "Environmental Chemistry-I (The Atmosphere)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Aeroplanes fly in:",
+      "options": {
+        "A": "Troposphere",
+        "B": "Stratosphere",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      }
+    },
+    {
+      "chapter": "Environmental Chemistry-I (The Atmosphere)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Atmospheric pressure decreases with the",
+      "options": {
+        "A": "increase in longitude",
+        "B": "decrease in altitude",
+        "C": "increase in altitude",
+        "D": "increase in latitude"
+      }
+    },
+    {
+      "chapter": "Environmental Chemistry-I (The Atmosphere)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Layer of atmosphere which separates stratosphere and troposphere is known as",
+      "options": {
+        "A": "tropo-pause",
+        "B": "mesopause",
+        "C": "thermopause",
+        "D": "stratopause"
+      }
+    },
+    {
+      "chapter": "Environmental Chemistry-I (The Atmosphere)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ozone layer is part of",
+      "options": {
+        "A": "mesosphere",
+        "B": "stratosphere",
+        "C": "thermosphere",
+        "D": "troposphere"
+      }
+    },
+    {
+      "chapter": "Environmental Chemistry-I (The Atmosphere)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which is not part of greenhouse gases",
+      "options": {
+        "A": "carbon dioxide",
+        "B": "methane",
+        "C": "nitrous oxide",
+        "D": "oxygen"
+      }
+    },
+    {
+      "chapter": "Environmental Chemistry-I (The Atmosphere)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Second most abundant constituent of dry air in terms of volume after nitrogen is",
+      "options": {
+        "A": "nitrogen",
+        "B": "oxygen",
+        "C": "carbon dioxide",
+        "D": "helium"
+      }
+    },
+    {
+      "chapter": "Environmental Chemistry-I (The Atmosphere)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is the reason of global warming",
+      "options": {
+        "A": "Presence of sulphite",
+        "B": "Rise in $CO_2$ concentration.",
+        "C": "Oxides of nitrogen",
+        "D": "Formtion of ozone"
+      }
+    },
+    {
+      "chapter": "Environmental Chemistry-I (The Atmosphere)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The altitude on stratosphere is:",
+      "options": {
+        "A": "40 to 45 km",
+        "B": "50 to 55 km",
+        "C": "60 to 65 km",
+        "D": "70 to 75 km"
+      }
+    },
+    {
+      "chapter": "Environmental Chemistry-I (The Atmosphere)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ozone is a gas found in the __________ layer:",
+      "options": {
+        "A": "Troposphere",
+        "B": "Mesosphere",
+        "C": "Stratosphere",
+        "D": "Exosphere"
       }
     },
     {
@@ -652,11 +708,39 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one of the following is a waterborne disease?",
+      "text": "Which of the following water borne diseases is of viral origin.",
       "options": {
-        "A": "cholera",
-        "B": "typhoid",
-        "C": "hepatitis",
+        "A": "Typhoid fever",
+        "B": "Polio",
+        "C": "Dysentery",
+        "D": "diarrhea"
+      }
+    },
+    {
+      "chapter": "Environmental Chemistry-II (Water)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "How much percentage (%) of the Earth's Surface is covered with water?",
+      "options": {
+        "A": "70%",
+        "B": "60%",
+        "C": "90%",
+        "D": "75%"
+      }
+    },
+    {
+      "chapter": "Environmental Chemistry-II (Water)",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which type of bond is formed between $H_2O$ molecules:",
+      "options": {
+        "A": "Hydrogen bond",
+        "B": "ionic bond",
+        "C": "covalent bond",
         "D": "all of these"
       }
     },
@@ -666,39 +750,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The pH of pure water is:",
+      "text": "The permanent hardness of water is due to presence of:",
       "options": {
-        "A": "greater than 7",
-        "B": "equal to 7",
-        "C": "less than 7",
-        "D": "zero"
-      }
-    },
-    {
-      "chapter": "Environmental Chemistry-II (Water)",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Hard water contains dissolved salts of:",
-      "options": {
-        "A": "calcium and magnesium",
-        "B": "sodium and potassium",
-        "C": "sodium and calcium",
-        "D": "magnesium and sodium"
-      }
-    },
-    {
-      "chapter": "Environmental Chemistry-II (Water)",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following is a method of removal of hardness of water?",
-      "options": {
-        "A": "temporary hardness can be removed by boiling",
-        "B": "permanent hardness can be removed by washing soda",
-        "C": "temporary hardness can be removed by Clark's method",
+        "A": "$MgSO_4$",
+        "B": "$Mg(HCO_3)_2$",
+        "C": "$Ca(HCO_3)_2$",
         "D": "all of these"
       }
     },
@@ -708,12 +764,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one of the following salts is responsible for temporary hardness of water?",
+      "text": "How much fresh water is present on earth:",
       "options": {
-        "A": "$Ca(HCO_3)_2$",
-        "B": "$CaCl_2$",
-        "C": "$CaSO_4$",
-        "D": "$MgSO_4$"
+        "A": "0.3%",
+        "B": "3%",
+        "C": "0.2%",
+        "D": "2%"
       }
     },
     {
@@ -722,12 +778,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one of the following causes permanent hardness of water?",
+      "text": "Which salts are excessively dissolved to make temporary hard water:",
       "options": {
-        "A": "$Mg(HCO_3)_2$",
-        "B": "$MgCl_2$",
-        "C": "$MgCO_3$",
-        "D": "none of these"
+        "A": "$CaSO_4$ and $CaCl_2$",
+        "B": "$KNO_3$ and $KOH$",
+        "C": "$CaCO_3$ and $Ca(OH)_2$",
+        "D": "$Ca(HCO_3)_2$ and $Mg(HCO_3)_2$"
       }
     },
     {
@@ -736,12 +792,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one of the following methods is used for sterilization of water?",
+      "text": "Water is a:",
       "options": {
-        "A": "boiling",
-        "B": "chlorination",
-        "C": "ozonation",
-        "D": "all of these"
+        "A": "Polar solvent",
+        "B": "Non polar solvent",
+        "C": "Amphipathic solvent",
+        "D": "Non polar charged solvent"
       }
     },
     {
@@ -750,12 +806,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one of the following processes is used for the purification of water?",
+      "text": "The taste of water is:",
       "options": {
-        "A": "filtration",
-        "B": "chlorination",
-        "C": "distillation",
-        "D": "all of these"
+        "A": "Sour",
+        "B": "Bitter",
+        "C": "Sweet",
+        "D": "Tasteless"
       }
     },
     {
@@ -764,12 +820,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one of the following is a chemical used in the purification of water?",
+      "text": "Which of the following is helpful for removal of permanent hardness:",
       "options": {
-        "A": "chlorine",
-        "B": "ozone",
-        "C": "potassium permanganate",
-        "D": "all of these"
+        "A": "$Na_2CO_3$",
+        "B": "$Ca(OH)_2$",
+        "C": "$CaCO_3$",
+        "D": "$Na_2SO_4$"
       }
     },
     {
@@ -778,12 +834,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The process of filtration is used to separate:",
+      "text": "The Analytical Chemistry deals with instruments and methods to ______, identify and quantify the matter.",
       "options": {
-        "A": "soluble impurities",
-        "B": "insoluble impurities",
-        "C": "both soluble and insoluble impurities",
-        "D": "none of these"
+        "A": "Mix",
+        "B": "Separate",
+        "C": "Differentiate",
+        "D": "Manipulate"
       }
     },
     {
@@ -792,12 +848,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The process of separation of an insoluble solid from a liquid is called:",
+      "text": "The sample may be solid, liquid, gas or a ______ in qualitative analysis.",
       "options": {
-        "A": "crystallization",
-        "B": "sublimation",
-        "C": "distillation",
-        "D": "filtration"
+        "A": "Mixture",
+        "B": "Compound",
+        "C": "Substance",
+        "D": "None of these"
       }
     },
     {
@@ -806,12 +862,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one of the following is the best method for the separation of a solute from a solution?",
+      "text": "Analysis deals with the identification of presence of functional groups in compounds is.",
       "options": {
-        "A": "evaporation",
-        "B": "crystallization",
-        "C": "distillation",
-        "D": "sublimation"
+        "A": "Physical qualitative analysis",
+        "B": "Analytical qualitative analysis",
+        "C": "Organic qualitative analysis",
+        "D": "Inorganic qualitative analysis"
       }
     },
     {
@@ -820,12 +876,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The process of transferring of a substance from solid state directly into vapour state is called:",
+      "text": "Flame test of Copper Halide with bluish-green color identify the presence of.",
       "options": {
-        "A": "distillation",
-        "B": "sublimation",
-        "C": "crystallization",
-        "D": "filtration"
+        "A": "Halogen",
+        "B": "Hydrogen",
+        "C": "Copper",
+        "D": "b and c"
       }
     },
     {
@@ -834,12 +890,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The change of state of a substance from vapour state into solid state is called:",
+      "text": "The physical methods used to measure physical properties is called",
       "options": {
-        "A": "distillation",
-        "B": "sublimation",
-        "C": "condensation",
-        "D": "crystallization"
+        "A": "Combustion analysis method",
+        "B": "Atomic emission spectroscopy method",
+        "C": "Volumetric analysis method",
+        "D": "Gravimetric analysis method"
       }
     },
     {
@@ -848,12 +904,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The liquid obtained by condensation of vapours during distillation is called:",
+      "text": "The error caused by improper functioning of instrument is:",
       "options": {
-        "A": "distillate",
-        "B": "residue",
-        "C": "sublimate",
-        "D": "filtrate"
+        "A": "Determinant Error",
+        "B": "In determinant Error",
+        "C": "Systematic Error",
+        "D": "Both a & c"
       }
     },
     {
@@ -862,12 +918,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The solid obtained by cooling a hot concentrated solution is called:",
+      "text": "An agreement between a measured value and the accepted true value.",
       "options": {
-        "A": "residue",
-        "B": "crystals",
-        "C": "distillate",
-        "D": "sublimate"
+        "A": "Error",
+        "B": "Accuracy",
+        "C": "Precision",
+        "D": "All of these"
       }
     },
     {
@@ -876,12 +932,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The solid left behind on the filter paper is called:",
+      "text": "Spectroscopy is the interaction of light with:",
       "options": {
-        "A": "residue",
-        "B": "filtrate",
-        "C": "sublimate",
-        "D": "distillate"
+        "A": "Liquid",
+        "B": "Solid",
+        "C": "Gas",
+        "D": "Matter"
       }
     },
     {
@@ -890,12 +946,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The separation of miscible liquids by evaporation and condensation is called:",
+      "text": "The Gas is mobile phase in:",
       "options": {
-        "A": "crystallization",
-        "B": "sublimation",
-        "C": "distillation",
-        "D": "filtration"
+        "A": "Liquid chromatography",
+        "B": "Solid chromatography",
+        "C": "Gas chromatography",
+        "D": "None of these"
       }
     },
     {
@@ -904,12 +960,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The process of slow cooling of hot saturated solution to get crystals is called:",
+      "text": "It used to assess concentration or amount of given atomic, molecular or ionic chemical.",
       "options": {
-        "A": "distillation",
-        "B": "sublimation",
-        "C": "crystallization",
-        "D": "all of these"
+        "A": "Chromatography",
+        "B": "Spectroscopy",
+        "C": "Conductometry",
+        "D": "Potentiometry"
       }
     },
     {
@@ -918,11 +974,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Soap is the term for salts of:",
+      "text": "Soap is the term for a salts of a:",
       "options": {
-        "A": "carboxylic acid",
+        "A": "Carboxylic acid",
         "B": "citric acid",
-        "C": "sulphuric acid",
+        "C": "Sulphuric acid",
         "D": "fatty acid"
       }
     },
@@ -932,12 +988,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Surfactants reduce the _ of water:",
+      "text": "Surfactants reduce the ________ of water.",
       "options": {
-        "A": "viscosity",
-        "B": "surface tension",
-        "C": "boiling point",
-        "D": "melting point"
+        "A": "Viscosity",
+        "B": "Surface tension",
+        "C": "Boiling point",
+        "D": "Melting Point"
       }
     },
     {
@@ -946,7 +1002,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The carboxylate end of the soap molecule that is attracted to water is called _:",
+      "text": "The carboxylate end of the soap molecule that is attracted to water is called __.",
       "options": {
         "A": "hydrophobic end",
         "B": "end point",
@@ -962,10 +1018,10 @@
       "year": null,
       "text": "The use of potassium hydroxide produced a:",
       "options": {
-        "A": "hard soap",
-        "B": "soft soap",
-        "C": "moderate soap",
-        "D": "all of these"
+        "A": "Hard soap",
+        "B": "Soft soap",
+        "C": "Moderate soap",
+        "D": "All of these"
       }
     },
     {
@@ -976,10 +1032,10 @@
       "year": null,
       "text": "The citric acid is used in preparation of cold drinks for:",
       "options": {
-        "A": "sweet taste",
-        "B": "bitter taste",
-        "C": "sour taste",
-        "D": "salty taste"
+        "A": "Sweet taste",
+        "B": "Bitter taste",
+        "C": "Sour taste",
+        "D": "Salty taste"
       }
     },
     {
@@ -990,7 +1046,7 @@
       "year": null,
       "text": "The centrifuge machine used for separation of:",
       "options": {
-        "A": "juice",
+        "A": "Juice",
         "B": "pH",
         "C": "Mud",
         "D": "Crystal"
@@ -1002,12 +1058,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The adverse are:",
+      "text": "The abrasives are:",
       "options": {
-        "A": "water soluble minerals",
-        "B": "water insoluble minerals",
-        "C": "water semi soluble minerals",
-        "D": "water absorbing minerals"
+        "A": "Water soluble minerals",
+        "B": "Water insoluble minerals",
+        "C": "Water semi soluble minerals",
+        "D": "Water absorbing minerals"
       }
     },
     {
@@ -1018,10 +1074,10 @@
       "year": null,
       "text": "The harvesting is most important step of:",
       "options": {
-        "A": "preparation of soap",
-        "B": "preparation of cold drinks",
-        "C": "preparation of sugar",
-        "D": "preparation of medicines"
+        "A": "Preparation of soap",
+        "B": "Preparation of coldrinks",
+        "C": "Preparation of sugar",
+        "D": "Preparation of medicines"
       }
     },
     {
@@ -1030,10 +1086,10 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which of the following is used as jet fuel!",
+      "text": "Which of the following is used as jet fuel:",
       "options": {
-        "A": "kerosene oil",
-        "B": "diesel oil",
+        "A": "Kerosene oil",
+        "B": "Diesel oil",
         "C": "fuel oil",
         "D": "petrol"
       }
@@ -1044,7 +1100,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one of the following is not a fraction of crude oil!",
+      "text": "Which one of the following is not a fraction of crude oil?",
       "options": {
         "A": "paraffin wax",
         "B": "ammonia",
