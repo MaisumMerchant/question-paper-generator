@@ -78,7 +78,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Elements of data structure are not connected sequentially.",
+      "text": "Elements of ______ data structure are not connected sequentially.",
       "options": {
         "A": "Array",
         "B": "Graph",
@@ -236,7 +236,7 @@
       "options": {
         "A": "Syntax Errors",
         "B": "Semantic Errors",
-        "C": "Run-Time Errors",
+        "C": "Run- Time Errors",
         "D": "Logical Errors"
       }
     },
@@ -290,7 +290,7 @@
       "year": null,
       "text": "The C++ header file ______ contains function prototype for the standard Input and Output functions.",
       "options": {
-        "A": "<iostream.h>",
+        "A": "<iomain.h>",
         "B": "<iostream>",
         "C": "<fstream.h>",
         "D": "<cstdio.h>"
@@ -414,11 +414,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "cout << $12 - 6/2$; What will be the result on screen?",
+      "text": "cout << 12-6/2; What will be the result on screen?",
       "options": {
         "A": "3",
-        "B": "9",
-        "C": "6",
+        "B": "6",
+        "C": "9",
         "D": "12"
       }
     },
@@ -484,7 +484,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "\"continue\" statement takes control to the:",
+      "text": "\"continue\" statement takes control to the ______.",
       "options": {
         "A": "top of loop",
         "B": "end of loop",
@@ -526,7 +526,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "\"break\" statement is used with:",
+      "text": "\"break\" statement is used with ______.",
       "options": {
         "A": "if",
         "B": "switch",
@@ -596,7 +596,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "In C++, int main() returns which datatype value by default?",
+      "text": "In C++, int main() returns which data type value by default?",
       "options": {
         "A": "float",
         "B": "int",
@@ -610,7 +610,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The parameters specified in the function header are called:",
+      "text": "The parameters specified is the function header are called:",
       "options": {
         "A": "formal parameters",
         "B": "actual parameters",
@@ -652,7 +652,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "All variables declared in function definition are called:",
+      "text": "All variables declared in function definition are called",
       "options": {
         "A": "Local variable",
         "B": "Instance variable",
@@ -675,132 +675,6 @@
       }
     },
     {
-      "chapter": "Digital Logic and Design",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The universal gate is ______.",
-      "options": {
-        "A": "NAND Gate",
-        "B": "AND Gate",
-        "C": "OR Gate",
-        "D": "None of these"
-      }
-    },
-    {
-      "chapter": "Digital Logic and Design",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The ______ is Inverter.",
-      "options": {
-        "A": "AND",
-        "B": "OR Gate",
-        "C": "NOT",
-        "D": "None of these"
-      }
-    },
-    {
-      "chapter": "Digital Logic and Design",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "In Boolean Algebra, the bar sign (-) indicates ______.",
-      "options": {
-        "A": "OR Operation",
-        "B": "NOR Operation",
-        "C": "NOT Operation",
-        "D": "Both b and c"
-      }
-    },
-    {
-      "chapter": "Digital Logic and Design",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The Boolean Algebra is used for ______.",
-      "options": {
-        "A": "Creating Circuits",
-        "B": "Apply 12 rules of Boolean",
-        "C": "Simplify the Boolean expression",
-        "D": "Differentiate the gates"
-      }
-    },
-    {
-      "chapter": "Digital Logic and Design",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "With the combination of three variables, how many outputs are expected altogether?",
-      "options": {
-        "A": "Three",
-        "B": "Six",
-        "C": "Eight",
-        "D": "Nine"
-      }
-    },
-    {
-      "chapter": "Digital Logic and Design",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "$A + A = A$ is a ______ rule of Boolean Algebra.",
-      "options": {
-        "A": "3rd",
-        "B": "6th",
-        "C": "5th",
-        "D": "7th"
-      }
-    },
-    {
-      "chapter": "Digital Logic and Design",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "$A \\cdot \\bar{A} = 0$ is a ______ rule of Boolean Algebra.",
-      "options": {
-        "A": "1st",
-        "B": "8th",
-        "C": "6th",
-        "D": "10th"
-      }
-    },
-    {
-      "chapter": "Digital Logic and Design",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Simply form of Boolean expression of $ABC + \\bar{A}BC + \\bar{A}\\bar{B}C$ is ______.",
-      "options": {
-        "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "B"
-      }
-    },
-    {
-      "chapter": "Digital Logic and Design",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Simplify form of Boolean expression of $ABC + \\bar{A}BC$ is ______.",
-      "options": {
-        "A": "AC",
-        "B": "BC",
-        "C": "B",
-        "D": "A"
-      }
-    },
-    {
       "chapter": "Introduction to Scratch",
       "section": "A",
       "type": "mcq",
@@ -820,7 +694,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "In Scratch, the character which moves on the Stage is called a:",
+      "text": "In Scratch, the character which moves on the Stage is called a ______.",
       "options": {
         "A": "Sprite",
         "B": "Command",
@@ -862,7 +736,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A Scratch Program is at last made up with ______.",
+      "text": "A Scratch Program is at least made up with ______.",
       "options": {
         "A": "Many Sprites",
         "B": "One Sprite and Code",
@@ -890,7 +764,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The \"move 10 steps\" command is available in ______.",
+      "text": "[Scratch block: move 10 steps] can be found under ______.",
       "options": {
         "A": "Look",
         "B": "Motion",
@@ -907,9 +781,37 @@
       "text": "Turn command, turns Sprite to specified:",
       "options": {
         "A": "Coordinate",
-        "B": "Steps",
-        "C": "Degree",
+        "B": "Degree",
+        "C": "Steps",
         "D": "Seconds"
+      }
+    },
+    {
+      "chapter": "Introduction to Scratch",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An orange C-shaped Scratch command block with the number 10 is available in ______.",
+      "options": {
+        "A": "Event",
+        "B": "Control",
+        "C": "Motion",
+        "D": "Looks"
+      }
+    },
+    {
+      "chapter": "Introduction to Scratch",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "On a coordinate grid, point A is 100 units to the right of the origin and 100 units below it. Identify the x and y coordinates of point A.",
+      "options": {
+        "A": "x=100, y=-100",
+        "B": "x=-100, y=100",
+        "C": "x=100, y=100",
+        "D": "x=-100, y=-100"
       }
     }
   ]
