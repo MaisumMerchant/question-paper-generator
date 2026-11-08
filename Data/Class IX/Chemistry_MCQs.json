@@ -8,12 +8,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The number of protons in an atom is called its:",
+      "text": "The branch of Chemistry which deals with hydrocarbons:",
       "options": {
-        "A": "atomic number",
-        "B": "mass number",
-        "C": "number of neutrons",
-        "D": "none of these"
+        "A": "Industrial chemistry",
+        "B": "Inorganic chemistry",
+        "C": "Organic chemistry",
+        "D": "Physical chemistry"
       }
     },
     {
@@ -22,12 +22,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The number of protons and neutrons in an atom is called its:",
+      "text": "The atomic mass of an element expressed in gram is:",
       "options": {
-        "A": "atomic number",
-        "B": "mass number",
-        "C": "atomic mass",
-        "D": "nuclear charge"
+        "A": "Gram molecular mass",
+        "B": "Gram atomic mass",
+        "C": "Gram formula mass",
+        "D": "Mole"
       }
     },
     {
@@ -36,194 +36,194 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which one of the following is the lightest particle?",
+      "text": "Which of the following can be separated by physical means?",
+      "options": {
+        "A": "Mixture",
+        "B": "Element",
+        "C": "Compound",
+        "D": "Substance"
+      }
+    },
+    {
+      "chapter": "Fundamentals of Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The molar mass of $H_2SO_4$ is:",
+      "options": {
+        "A": "98 a.m.u",
+        "B": "9.8gm",
+        "C": "98gm",
+        "D": "9.8 a.m.u"
+      }
+    },
+    {
+      "chapter": "Fundamentals of Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Molecule consist of two atoms is :",
+      "options": {
+        "A": "Monoatomic molecule",
+        "B": "Polyatomic molecule",
+        "C": "Hetero atomic molecule",
+        "D": "Di atomic molecule"
+      }
+    },
+    {
+      "chapter": "Fundamentals of Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A formula that indicates actual number and type of atoms in a molecule is called:",
+      "options": {
+        "A": "Chemical formula",
+        "B": "Empirical formula",
+        "C": "Molecular formula",
+        "D": "Formula mass"
+      }
+    },
+    {
+      "chapter": "Fundamentals of Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ethyl alcohol was prepared by:",
+      "options": {
+        "A": "Ibne-Sina",
+        "B": "Al-Razi",
+        "C": "Al-Beruni",
+        "D": "Jaber bin-Hayan"
+      }
+    },
+    {
+      "chapter": "Fundamentals of Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "which of the following is a homo atomic molecule:",
+      "options": {
+        "A": "$H_2$",
+        "B": "$NH_3$",
+        "C": "$H_2O$",
+        "D": "$CO_2$"
+      }
+    },
+    {
+      "chapter": "Fundamentals of Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The Empirical formula of hydrogen peroxide ($H_2O_2$) is:",
+      "options": {
+        "A": "$H_2O_2$",
+        "B": "$HO$",
+        "C": "$OH_2$",
+        "D": "$O_2H_2$"
+      }
+    },
+    {
+      "chapter": "Fundamentals of Chemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A piece of matter in pure form is termed as:",
+      "options": {
+        "A": "Redical",
+        "B": "Mixture",
+        "C": "Compound",
+        "D": "substance"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In an atom number of protons and neutrons are added to obtain:",
+      "options": {
+        "A": "number of electrons",
+        "B": "number of nucleons",
+        "C": "atomic number of element",
+        "D": "number of isotopes"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If proton number is 19, electron configuration will be:",
+      "options": {
+        "A": "2, 8, 9",
+        "B": "2, 8, 8, 1",
+        "C": "2, 8, 1",
+        "D": "2, 8, 3"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If nucleon number of potassium is 39 and its atomic number is 19 then, number of neutrons will be:",
+      "options": {
+        "A": "39",
+        "B": "19",
+        "C": "20",
+        "D": "29"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The isotope C-12 is present in abundance of:",
+      "options": {
+        "A": "96.9%",
+        "B": "97.6%",
+        "C": "98.89%",
+        "D": "99.7%"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Electronic configuration is distribution of:",
+      "options": {
+        "A": "protons",
+        "B": "neutrons",
+        "C": "electrons",
+        "D": "positrons"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one of the following is most penetrating?",
       "options": {
         "A": "electron",
-        "B": "proton",
-        "C": "neutron",
-        "D": "alpha particle"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Isotopes of an element have:",
-      "options": {
-        "A": "same number of protons",
-        "B": "same number of neutrons",
-        "C": "different number of protons",
-        "D": "different chemical properties"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The number of electrons in an atom is equal to the number of:",
-      "options": {
-        "A": "protons",
-        "B": "neutrons",
-        "C": "protons plus neutrons",
-        "D": "nucleons"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The building blocks of matter are:",
-      "options": {
-        "A": "atoms",
-        "B": "molecules",
-        "C": "ions",
-        "D": "all of these"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The mass of an atom is concentrated in its:",
-      "options": {
-        "A": "nucleus",
-        "B": "electrons",
-        "C": "protons only",
-        "D": "empty space"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a noble gas?",
-      "options": {
-        "A": "Ne",
-        "B": "Na",
-        "C": "Ni",
-        "D": "N"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following has the largest atomic radius?",
-      "options": {
-        "A": "Na",
-        "B": "Mg",
-        "C": "Al",
-        "D": "Cl"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The SI unit of the amount of substance is:",
-      "options": {
-        "A": "kilogram",
-        "B": "mole",
-        "C": "gram",
-        "D": "litre"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "One mole of a substance contains:",
-      "options": {
-        "A": "$6.02 \\times 10^{23}$ particles",
-        "B": "$6.02 \\times 10^{-23}$ particles",
-        "C": "$3.01 \\times 10^{23}$ particles",
-        "D": "$1.66 \\times 10^{-24}$ particles"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The molar mass of $CO_2$ is:",
-      "options": {
-        "A": "12 g/mol",
-        "B": "16 g/mol",
-        "C": "44 g/mol",
-        "D": "28 g/mol"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one of the following is a compound?",
-      "options": {
-        "A": "oxygen",
-        "B": "water",
-        "C": "air",
-        "D": "brass"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The percentage of nitrogen in $NH_3$ is:",
-      "options": {
-        "A": "17.6%",
-        "B": "46.7%",
-        "C": "82.4%",
-        "D": "25%"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "An element's chemical properties are determined by its:",
-      "options": {
-        "A": "protons",
-        "B": "neutrons",
-        "C": "valence electrons",
-        "D": "nucleus"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a homogeneous mixture?",
-      "options": {
-        "A": "air",
-        "B": "milk",
-        "C": "soil",
-        "D": "granite"
+        "B": "Proton",
+        "C": "alpha particle",
+        "D": "neutron"
       }
     },
     {
@@ -232,277 +232,207 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The maximum number of electrons that can be accommodated in the M shell is:",
-      "options": {
-        "A": "2",
-        "B": "8",
-        "C": "18",
-        "D": "32"
-      }
-    },
-    {
-      "chapter": "Atomic Structure",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The shells of an atom are named as K, L, M, N in the order of:",
-      "options": {
-        "A": "increasing energy",
-        "B": "decreasing energy",
-        "C": "increasing distance from nucleus",
-        "D": "both a and c"
-      }
-    },
-    {
-      "chapter": "Atomic Structure",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The sub-shell with $l = 1$ is called:",
-      "options": {
-        "A": "s",
-        "B": "p",
-        "C": "d",
-        "D": "f"
-      }
-    },
-    {
-      "chapter": "Atomic Structure",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The number of orbitals in the $d$ sub-shell is:",
-      "options": {
-        "A": "1",
-        "B": "3",
-        "C": "5",
-        "D": "7"
-      }
-    },
-    {
-      "chapter": "Atomic Structure",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The electronic configuration of $Na$ (atomic number 11) is:",
-      "options": {
-        "A": "$1s^2 2s^2 2p^6 3s^1$",
-        "B": "$1s^2 2s^2 2p^5 3s^2$",
-        "C": "$1s^2 2s^2 2p^6 3p^1$",
-        "D": "$1s^2 2s^2 2p^6$"
-      }
-    },
-    {
-      "chapter": "Atomic Structure",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which quantum number determines the shape of an orbital?",
-      "options": {
-        "A": "principal quantum number",
-        "B": "azimuthal quantum number",
-        "C": "magnetic quantum number",
-        "D": "spin quantum number"
-      }
-    },
-    {
-      "chapter": "Atomic Structure",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The maximum number of electrons in an orbital is:",
-      "options": {
-        "A": "1",
-        "B": "2",
-        "C": "6",
-        "D": "10"
-      }
-    },
-    {
-      "chapter": "Atomic Structure",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following represents the electronic configuration of a noble gas?",
-      "options": {
-        "A": "$1s^2 2s^2 2p^6$",
-        "B": "$1s^2 2s^2 2p^5$",
-        "C": "$1s^2 2s^2 2p^4$",
-        "D": "$1s^2 2s^2 2p^3$"
-      }
-    },
-    {
-      "chapter": "Periodic Table and Periodicity of Properties",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Mendeleev arranged the elements in order of increasing:",
-      "options": {
-        "A": "atomic number",
-        "B": "atomic mass",
-        "C": "electronegativity",
-        "D": "valence electrons"
-      }
-    },
-    {
-      "chapter": "Periodic Table and Periodicity of Properties",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "In the modern periodic table, elements are arranged in order of increasing:",
-      "options": {
-        "A": "atomic mass",
-        "B": "atomic number",
-        "C": "ionization energy",
-        "D": "density"
-      }
-    },
-    {
-      "chapter": "Periodic Table and Periodicity of Properties",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The number of groups in the modern periodic table is:",
-      "options": {
-        "A": "7",
-        "B": "8",
-        "C": "18",
-        "D": "9"
-      }
-    },
-    {
-      "chapter": "Periodic Table and Periodicity of Properties",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The elements of Group IA are called:",
-      "options": {
-        "A": "alkali metals",
-        "B": "alkaline earth metals",
-        "C": "halogens",
-        "D": "noble gases"
-      }
-    },
-    {
-      "chapter": "Periodic Table and Periodicity of Properties",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is the most electronegative element?",
-      "options": {
-        "A": "F",
-        "B": "Cl",
-        "C": "O",
-        "D": "N"
-      }
-    },
-    {
-      "chapter": "Periodic Table and Periodicity of Properties",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Atomic radius ______ along a period from left to right.",
-      "options": {
-        "A": "increases",
-        "B": "decreases",
-        "C": "remains constant",
-        "D": "first increases then decreases"
-      }
-    },
-    {
-      "chapter": "Periodic Table and Periodicity of Properties",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Ionization energy ______ down a group.",
-      "options": {
-        "A": "increases",
-        "B": "decreases",
-        "C": "remains the same",
-        "D": "shows no trend"
-      }
-    },
-    {
-      "chapter": "Periodic Table and Periodicity of Properties",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The elements in the same group of the periodic table have the same number of:",
-      "options": {
-        "A": "neutrons",
-        "B": "protons",
-        "C": "valence electrons",
-        "D": "shells"
-      }
-    },
-    {
-      "chapter": "Chemical Bonding",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The bond formed by the transfer of electrons from one atom to another is:",
-      "options": {
-        "A": "covalent bond",
-        "B": "ionic bond",
-        "C": "metallic bond",
-        "D": "hydrogen bond"
-      }
-    },
-    {
-      "chapter": "Chemical Bonding",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The bond formed by the mutual sharing of electrons is:",
-      "options": {
-        "A": "ionic bond",
-        "B": "covalent bond",
-        "C": "coordinate covalent bond",
-        "D": "metallic bond"
-      }
-    },
-    {
-      "chapter": "Chemical Bonding",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "How many electrons are shared in a triple covalent bond?",
+      "text": "How many subshells in a L shell:",
       "options": {
         "A": "one",
         "B": "two",
-        "C": "three pairs",
+        "C": "three",
         "D": "four"
       }
     },
     {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "De Broglie extend the wave particle duality to electron in:",
+      "options": {
+        "A": "1920",
+        "B": "1922",
+        "C": "1923",
+        "D": "1925"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Name the material of screen which is used in Rutherford atomic model :",
+      "options": {
+        "A": "Aluminum foil",
+        "B": "zinc sulphide",
+        "C": "sodium sulphide",
+        "D": "Aluminum sulphide"
+      }
+    },
+    {
+      "chapter": "Atomic Structure",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which rays are used for sterilization of medical instruments :",
+      "options": {
+        "A": "$\\alpha$-rays",
+        "B": "$\\beta$-rays",
+        "C": "$\\gamma$-rays",
+        "D": "x-rays"
+      }
+    },
+    {
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In 1869 Mandeleev put forward his periodic law about:",
+      "options": {
+        "A": "Atomic Number",
+        "B": "Chemical properties",
+        "C": "Physical properties",
+        "D": "Atomic Mass"
+      }
+    },
+    {
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The periodic table divided into s, p, d, and f block based on.",
+      "options": {
+        "A": "Atomic Radius",
+        "B": "Electronic Configuration",
+        "C": "Ionization Energy",
+        "D": "Electron Affinity"
+      }
+    },
+    {
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "4th and 5th period in periodic table are known as:",
+      "options": {
+        "A": "Short period",
+        "B": "Long period",
+        "C": "Normal period",
+        "D": "Very long period"
+      }
+    },
+    {
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one of the following decreases along the period?",
+      "options": {
+        "A": "Ionization Energy",
+        "B": "Atomic Radius",
+        "C": "Electronegativity",
+        "D": "Electron Affinity"
+      }
+    },
+    {
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The elements of VIIA group are known as:",
+      "options": {
+        "A": "Lanthanides",
+        "B": "Actinides",
+        "C": "Halogens",
+        "D": "Nobel Gases"
+      }
+    },
+    {
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "According to Mosely the chemical properties of elements are the periodic function of their :",
+      "options": {
+        "A": "Atomic Size",
+        "B": "Atomic Mass",
+        "C": "Atomic Radius",
+        "D": "Atomic Number"
+      }
+    },
+    {
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The shielding effect across the period :",
+      "options": {
+        "A": "Increases",
+        "B": "Decrease",
+        "C": "Moderate",
+        "D": "Same"
+      }
+    },
+    {
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The ability to attract shared pair of electron is called:",
+      "options": {
+        "A": "Electron Affinity",
+        "B": "Electronegativity",
+        "C": "Ionization Energy",
+        "D": "Shielding Effect"
+      }
+    },
+    {
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In group electron affinity values decreases from top to bottom because :",
+      "options": {
+        "A": "Atomic size normal",
+        "B": "Atomic size increases",
+        "C": "Atomic size decreases",
+        "D": "Atomic size same"
+      }
+    },
+    {
+      "chapter": "Periodic Table and Periodicity of Properties",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "All Transition Elements are :",
+      "options": {
+        "A": "Gases",
+        "B": "Metals",
+        "C": "Nonmetals",
+        "D": "Metalloids"
+      }
+    },
+    {
       "chapter": "Chemical Bonding",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which of the following has a coordinate covalent bond?",
+      "text": "An example of ionic compound is:",
       "options": {
-        "A": "$NH_4^+$",
+        "A": "$H_2$",
         "B": "$CH_4$",
-        "C": "$Cl_2$",
+        "C": "$N_2$",
         "D": "$NaCl$"
       }
     },
@@ -512,12 +442,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The octet rule states that atoms tend to have ______ electrons in their valence shell.",
+      "text": "Interaction between highly electron deficient hydrogen and highly electronegative atom is called",
       "options": {
-        "A": "2",
-        "B": "6",
-        "C": "8",
-        "D": "10"
+        "A": "covalent bond",
+        "B": "ionic bond",
+        "C": "hydrogen bond",
+        "D": "metallic bond"
       }
     },
     {
@@ -526,264 +456,852 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which of the following elements does not obey the octet rule?",
+      "text": "Two fluorine atoms share one electron each in their outermost shell to achieve electronic configuration of:",
       "options": {
-        "A": "Ne",
-        "B": "H",
+        "A": "Xe",
+        "B": "Ar",
+        "C": "Kr",
+        "D": "Ne"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Number of electrons lost by atoms of group IIIA equals:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Atom which loses two electrons from its outer shell to form ion is:",
+      "options": {
+        "A": "oxygen",
+        "B": "potassium",
+        "C": "magnesium",
+        "D": "carbon"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In NaCl crystal lattice each $Na^+$ ion is surrounded by:",
+      "options": {
+        "A": "6 $Cl^-$ ions",
+        "B": "6 $Na^+$ ions",
+        "C": "8 $Cl^-$ ions",
+        "D": "12 $Cl^-$ ions"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "At room temperature most of ionic compounds are:",
+      "options": {
+        "A": "amorphous solids",
+        "B": "crystalline solids",
+        "C": "liquids",
+        "D": "gases"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Tendency of atoms to acquire eight electrons in their valence shell is:",
+      "options": {
+        "A": "octet rule",
+        "B": "duplet rule",
+        "C": "triplet rule",
+        "D": "none of above"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "When one atom forms cation by losing electron and other forms anion by accepting that electron then bond form between them is:",
+      "options": {
+        "A": "Covalent bond",
+        "B": "Ionic bond",
+        "C": "coordinate covalent bond",
+        "D": "hydrogen bond"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Nobel gases are stable because they contain:",
+      "options": {
+        "A": "4 electrons in valence shell",
+        "B": "6 electrons in valence shell",
+        "C": "8 electrons in valence shell",
+        "D": "10 electrons in valence shell"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Bond which involve 3 shared electron pairs is a : [Source repeats an option label; choices are shown in printed order.]",
+      "options": {
+        "A": "double covalent bond",
+        "B": "single covalent bond",
+        "C": "triple covalent bond",
+        "D": "none of above"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A non-metal atom form anion by",
+      "options": {
+        "A": "loses of electrons",
+        "B": "gain of electrons",
+        "C": "loses of protons",
+        "D": "gain of protons"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "When two identical atoms share electron pairs and exert same force on each other than bond form is:",
+      "options": {
+        "A": "non-polar covalent bond",
+        "B": "polar covalent bond",
+        "C": "double covalent bond",
+        "D": "coordinate covalent bond"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Synthetic resins are used on places where:",
+      "options": {
+        "A": "electric resistance is required",
+        "B": "water resistance is required",
+        "C": "adhesion is required",
+        "D": "friction is required"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Oxygen belongs to group VIA so number of electrons in its valence shell are:",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "6",
+        "D": "8"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Electron pairs which are not shared by atoms are called:",
+      "options": {
+        "A": "electron pairs",
+        "B": "lone pairs",
+        "C": "bond pairs",
+        "D": "shared pairs"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Strength of intermolecular forces from ionic or covalent bond is:",
+      "options": {
+        "A": "Weaker",
+        "B": "stronger",
+        "C": "equal",
+        "D": "none of above"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Ionic crystals have:",
+      "options": {
+        "A": "high melting points",
+        "B": "moderate melting points",
+        "C": "low melting points",
+        "D": "none of above"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Bond formed by mutual sharing of electron is:",
+      "options": {
+        "A": "ionic bond",
+        "B": "coordinate covalent bond",
+        "C": "covalent bond",
+        "D": "metallic bond"
+      }
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following diagram shows atoms are bonded with same electro negativity? [Diagrams approximated; refer to source PDF page 8.]",
+      "options": {
+        "A": "$A\\;\\rule{0.6em}{0.05em}\\overset{\\color{red}{\\bullet}}{\\underset{\\color{green}{\\bullet}}{\\rule{0.6em}{0.05em}}}\\rule{0.6em}{0.05em}\\;B$",
+        "B": "$A\\;\\rule{1.2em}{0.05em}\\overset{\\color{red}{\\bullet}}{\\underset{\\color{green}{\\bullet}}{\\rule{0.6em}{0.05em}}}\\;B$",
+        "C": "$A\\;\\overset{\\color{red}{\\bullet}}{\\underset{\\color{green}{\\bullet}}{\\rule{0.6em}{0.05em}}}\\rule{1.2em}{0.05em}\\;B$",
+        "D": "$A\\;\\rule{0.6em}{0.05em}\\overset{\\color{red}{\\bullet}}{\\underset{\\color{green}{\\bullet}}{\\rule{0.6em}{0.05em}}}\\rule{1.2em}{0.05em}\\;B$"
+      }
+    },
+    {
+      "chapter": "Physical States of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following gases diffuse fastest?",
+      "options": {
+        "A": "Hydrogen",
+        "B": "Chlorine",
+        "C": "Fluorine",
+        "D": "Helium"
+      }
+    },
+    {
+      "chapter": "Physical States of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The vapour pressure of a liquid increases with the:",
+      "options": {
+        "A": "increase of pressure",
+        "B": "increase of temperature",
+        "C": "increase of intermolecular forces",
+        "D": "increase the polarity of molecules"
+      }
+    },
+    {
+      "chapter": "Physical States of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The freezing point depends upon:",
+      "options": {
+        "A": "Nature of liquid",
+        "B": "Pressure",
+        "C": "Temperature",
+        "D": "Volume"
+      }
+    },
+    {
+      "chapter": "Physical States of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "One atmospheric pressure is equal to:",
+      "options": {
+        "A": "10325 Pascal",
+        "B": "106075 Pascal",
+        "C": "10523 Pascal",
+        "D": "101325 Pascal"
+      }
+    },
+    {
+      "chapter": "Physical States of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following does not affect the boiling point :",
+      "options": {
+        "A": "Intermolecular forces",
+        "B": "External pressure",
+        "C": "Initial temperature of liquid",
+        "D": "Nature of liquid"
+      }
+    },
+    {
+      "chapter": "Physical States of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The mobility of liquids is lesser than:",
+      "options": {
+        "A": "Solids",
+        "B": "Gases",
+        "C": "Both a & b",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Physical States of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following have sharp melting point in solids :",
+      "options": {
+        "A": "Plastic",
+        "B": "Rubber",
+        "C": "Glass",
+        "D": "Diamond"
+      }
+    },
+    {
+      "chapter": "Physical States of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is the lightest form of matter:",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gases",
+        "D": "Plasma"
+      }
+    },
+    {
+      "chapter": "Physical States of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The liquid molecules leave the surface of liquid in evaporation process because :",
+      "options": {
+        "A": "Energy is low",
+        "B": "Energy is moderate",
+        "C": "Energy is high",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Physical States of Matter",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The density of gases increases when its :",
+      "options": {
+        "A": "Pressure increased",
+        "B": "Temperature increased",
+        "C": "Volume increased",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Solution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An alloy is the homogeneous mixture of:",
+      "options": {
+        "A": "two solids",
+        "B": "two liquids",
+        "C": "two gases",
+        "D": "solid and liquid"
+      }
+    },
+    {
+      "chapter": "Solution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A saturated solution of KCl on heating becomes:",
+      "options": {
+        "A": "unsaturated",
+        "B": "supersaturated",
+        "C": "diluted",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Solution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If we dissolve sand into the water, then the mixture is said to be:",
+      "options": {
+        "A": "solution",
+        "B": "suspension",
+        "C": "colloids",
+        "D": "concentrated solution"
+      }
+    },
+    {
+      "chapter": "Solution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Solubility is usually expressed in grams of the solute dissolved in ______ grams of a solvent [Source repeats an option label; choices are shown in printed order.]",
+      "options": {
+        "A": "10",
+        "B": "100",
+        "C": "500",
+        "D": "1000"
+      }
+    },
+    {
+      "chapter": "Solution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Example of heterogeneous mixture is:",
+      "options": {
+        "A": "sugar and water",
+        "B": "sand and water",
+        "C": "salt and water",
+        "D": "ink and water"
+      }
+    },
+    {
+      "chapter": "Solution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "2 moles of sodium chloride (NaCl) is equal to:",
+      "options": {
+        "A": "123 grams",
+        "B": "135 grams",
+        "C": "158 grams",
+        "D": "117 grams"
+      }
+    },
+    {
+      "chapter": "Solution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Molarity of a solution which is prepared by dissolving 40g sodium chloride in $500cm^3$ of solution is:",
+      "options": {
+        "A": "1.4M",
+        "B": "1.5M",
+        "C": "1.6M",
+        "D": "1.7M"
+      }
+    },
+    {
+      "chapter": "Solution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "10% (w/w) sugar solution mean that 10 grams of solute dissolved in:",
+      "options": {
+        "A": "90g of water",
+        "B": "95g of water",
+        "C": "100g of water",
+        "D": "105g of water"
+      }
+    },
+    {
+      "chapter": "Solution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "An example of true solution is:",
+      "options": {
+        "A": "solution of starch",
+        "B": "solution of soap",
+        "C": "ink in water",
+        "D": "tooth paste"
+      }
+    },
+    {
+      "chapter": "Solution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which solution contain more water:",
+      "options": {
+        "A": "1.0M",
+        "B": "0.75M",
+        "C": "0.5M",
+        "D": "0.25M"
+      }
+    },
+    {
+      "chapter": "Solution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "When a saturated solution is diluted, it change into:",
+      "options": {
+        "A": "saturated solution",
+        "B": "unsaturated solution",
+        "C": "concentrated solution",
+        "D": "supersaturated solution"
+      }
+    },
+    {
+      "chapter": "Solution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Butter is example of solution:",
+      "options": {
+        "A": "gas-liquid",
+        "B": "solid-liquid",
+        "C": "liquid-solid",
+        "D": "gas-solid"
+      }
+    },
+    {
+      "chapter": "Solution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A solution that contain solid solute into liquid solvent is called:",
+      "options": {
+        "A": "solids in gas",
+        "B": "liquids in solids",
+        "C": "solids in solids",
+        "D": "solids in liquid"
+      }
+    },
+    {
+      "chapter": "Solution",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "What is the particle size in suspension?",
+      "options": {
+        "A": "$10^3$nm",
+        "B": "$10^2$ nm",
+        "C": "less than $10^3$nm",
+        "D": "greater than $10^3$nm"
+      }
+    },
+    {
+      "chapter": "Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Alloy of Cu - Sn is called ______",
+      "options": {
+        "A": "Brass",
+        "B": "Bronze",
+        "C": "Monel",
+        "D": "Bell metal"
+      }
+    },
+    {
+      "chapter": "Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one is Alloy.",
+      "options": {
+        "A": "Graphite",
+        "B": "Mercury",
+        "C": "Steel",
+        "D": "Water"
+      }
+    },
+    {
+      "chapter": "Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Value of 1 Farady is equal to __________.",
+      "options": {
+        "A": "9.65 C",
+        "B": "9650 C",
+        "C": "96500 C",
+        "D": "965 C"
+      }
+    },
+    {
+      "chapter": "Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one is non electrolyte.",
+      "options": {
+        "A": "Aqueous HCl",
+        "B": "Aqueous NaCl",
+        "C": "Molten KCl",
+        "D": "Urea"
+      }
+    },
+    {
+      "chapter": "Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one is oxidizing agent.",
+      "options": {
+        "A": "Al",
+        "B": "$H_2S$",
+        "C": "$Cl_2$",
+        "D": "NaH"
+      }
+    },
+    {
+      "chapter": "Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one is reducing agent.",
+      "options": {
+        "A": "$H_2SO_4$",
+        "B": "$HNO_3$",
+        "C": "Al",
+        "D": "$I_2$"
+      }
+    },
+    {
+      "chapter": "Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one forms weak electrolyte solution with water",
+      "options": {
+        "A": "HCl",
+        "B": "KOH",
+        "C": "NaCl",
+        "D": "$CH_3COOH$"
+      }
+    },
+    {
+      "chapter": "Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In dry cell ______ is used as cathode.",
+      "options": {
+        "A": "Zn",
+        "B": "Cu",
+        "C": "Sn",
+        "D": "graphite"
+      }
+    },
+    {
+      "chapter": "Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "1g equivalent weight of Al is equal to ________.",
+      "options": {
+        "A": "9g",
+        "B": "27g",
+        "C": "54g",
+        "D": "1g"
+      }
+    },
+    {
+      "chapter": "Electrochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one is correct statement.",
+      "options": {
+        "A": "Oxidation occurs at cathode.",
+        "B": "Reduction occurs at anode",
+        "C": "Reduction occurs at cathode",
+        "D": "Ions lose electrons at cathode."
+      }
+    },
+    {
+      "chapter": "Chemical Reactivity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one metal belongs to Alkaline earth metal?",
+      "options": {
+        "A": "B",
+        "B": "Bi",
+        "C": "Br",
+        "D": "Ba"
+      }
+    },
+    {
+      "chapter": "Chemical Reactivity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one is Barium",
+      "options": {
+        "A": "Bi",
+        "B": "Be",
+        "C": "Ba",
+        "D": "Br"
+      }
+    },
+    {
+      "chapter": "Chemical Reactivity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Chlorine can be displaced by ________.",
+      "options": {
+        "A": "F",
+        "B": "Br",
+        "C": "I",
+        "D": "At"
+      }
+    },
+    {
+      "chapter": "Chemical Reactivity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one is strong acid?",
+      "options": {
+        "A": "HF",
+        "B": "HCl",
+        "C": "HBr",
+        "D": "HI"
+      }
+    },
+    {
+      "chapter": "Chemical Reactivity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which Halogen exists in liquid state?",
+      "options": {
+        "A": "$F_2$",
+        "B": "$Cl_2$",
+        "C": "$Br_2$",
+        "D": "$I_2$"
+      }
+    },
+    {
+      "chapter": "Chemical Reactivity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Non-metals of _______ group are gases",
+      "options": {
+        "A": "VI-A",
+        "B": "VII-A",
+        "C": "VIII-A",
+        "D": "VIII-B"
+      }
+    },
+    {
+      "chapter": "Chemical Reactivity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one is Metalloid?",
+      "options": {
+        "A": "Br",
+        "B": "Se",
+        "C": "S",
+        "D": "Sr"
+      }
+    },
+    {
+      "chapter": "Chemical Reactivity",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which one of the following act as oxidizing agent ?",
+      "options": {
+        "A": "Be",
+        "B": "Mg",
         "C": "Na",
         "D": "Cl"
       }
     },
     {
-      "chapter": "Chemical Bonding",
+      "chapter": "Chemical Reactivity",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A polar covalent bond is formed between two atoms when their electronegativity difference is:",
+      "text": "Which gas can turn lime water milky?",
       "options": {
-        "A": "zero",
-        "B": "small",
-        "C": "very large",
-        "D": "negative"
-      }
-    },
-    {
-      "chapter": "Chemical Bonding",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a polar molecule?",
-      "options": {
-        "A": "$H_2$",
-        "B": "$O_2$",
-        "C": "$H_2O$",
-        "D": "$Cl_2$"
-      }
-    },
-    {
-      "chapter": "Physical States of Matter",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The melting point of a pure substance is ______ than that of an impure substance.",
-      "options": {
-        "A": "lower",
-        "B": "higher",
-        "C": "same",
-        "D": "unpredictable"
-      }
-    },
-    {
-      "chapter": "Physical States of Matter",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The temperature at which the vapour pressure of a liquid equals the atmospheric pressure is called its:",
-      "options": {
-        "A": "melting point",
-        "B": "freezing point",
-        "C": "boiling point",
-        "D": "critical temperature"
-      }
-    },
-    {
-      "chapter": "Physical States of Matter",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Evaporation causes:",
-      "options": {
-        "A": "cooling",
-        "B": "heating",
-        "C": "no temperature change",
-        "D": "condensation"
-      }
-    },
-    {
-      "chapter": "Physical States of Matter",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which state of matter has a definite volume but no definite shape?",
-      "options": {
-        "A": "solid",
-        "B": "liquid",
-        "C": "gas",
-        "D": "plasma"
-      }
-    },
-    {
-      "chapter": "Physical States of Matter",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The particles of a solid are held together by:",
-      "options": {
-        "A": "weak forces",
-        "B": "strong forces",
-        "C": "no forces",
-        "D": "magnetic forces"
-      }
-    },
-    {
-      "chapter": "Physical States of Matter",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Diffusion is fastest in:",
-      "options": {
-        "A": "solids",
-        "B": "liquids",
-        "C": "gases",
-        "D": "all equally"
-      }
-    },
-    {
-      "chapter": "Physical States of Matter",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a crystalline solid?",
-      "options": {
-        "A": "glass",
-        "B": "rubber",
-        "C": "sodium chloride",
-        "D": "plastic"
-      }
-    },
-    {
-      "chapter": "Physical States of Matter",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Gases can be compressed easily because their particles have:",
-      "options": {
-        "A": "small size",
-        "B": "large empty spaces between them",
-        "C": "high kinetic energy",
-        "D": "definite shape"
-      }
-    },
-    {
-      "chapter": "Solution",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "A solution is a ______ mixture.",
-      "options": {
-        "A": "heterogeneous",
-        "B": "homogeneous",
-        "C": "colloidal",
-        "D": "suspension"
-      }
-    },
-    {
-      "chapter": "Solution",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "In a solution, the component present in larger amount is called the:",
-      "options": {
-        "A": "solute",
-        "B": "solvent",
-        "C": "solution",
-        "D": "colloid"
-      }
-    },
-    {
-      "chapter": "Solution",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is an aqueous solution?",
-      "options": {
-        "A": "sugar in water",
-        "B": "sugar in alcohol",
-        "C": "sugar in benzene",
-        "D": "sugar in ether"
-      }
-    },
-    {
-      "chapter": "Solution",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "A saturated solution is one which:",
-      "options": {
-        "A": "can dissolve more solute at a given temperature",
-        "B": "cannot dissolve more solute at a given temperature",
-        "C": "contains only solute",
-        "D": "contains no solute"
-      }
-    },
-    {
-      "chapter": "Solution",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Molarity is defined as the number of moles of solute dissolved in:",
-      "options": {
-        "A": "one litre of solution",
-        "B": "one kilogram of solvent",
-        "C": "100 g of solution",
-        "D": "one mole of solvent"
-      }
-    },
-    {
-      "chapter": "Solution",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The solubility of most solid solutes in water ______ with rise in temperature.",
-      "options": {
-        "A": "increases",
-        "B": "decreases",
-        "C": "remains constant",
-        "D": "becomes zero"
-      }
-    },
-    {
-      "chapter": "Solution",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a colligative property?",
-      "options": {
-        "A": "density",
-        "B": "boiling point elevation",
-        "C": "viscosity",
-        "D": "colour"
-      }
-    },
-    {
-      "chapter": "Solution",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "An unsaturated solution:",
-      "options": {
-        "A": "contains more solute than a saturated solution",
-        "B": "contains less solute than a saturated solution",
-        "C": "is at equilibrium with undissolved solute",
-        "D": "cannot dissolve any more solute"
+        "A": "$O_2$",
+        "B": "$NO_2$",
+        "C": "$CO_2$",
+        "D": "$N_2$"
       }
     },
     {
@@ -792,488 +1310,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A chemical reaction in which heat is absorbed is called a ______ reaction.",
+      "text": "Which compound is known as lunar caustic?",
       "options": {
-        "A": "exothermic",
-        "B": "endothermic",
-        "C": "neutralization",
-        "D": "displacement"
-      }
-    },
-    {
-      "chapter": "Chemical Reactivity",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is an exothermic process?",
-      "options": {
-        "A": "photosynthesis",
-        "B": "respiration",
-        "C": "evaporation",
-        "D": "melting of ice"
-      }
-    },
-    {
-      "chapter": "Chemical Reactivity",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "A catalyst ______ the rate of a chemical reaction.",
-      "options": {
-        "A": "increases",
-        "B": "decreases",
-        "C": "does not change",
-        "D": "first increases then decreases"
-      }
-    },
-    {
-      "chapter": "Chemical Reactivity",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The reaction between an acid and a base to form salt and water is called:",
-      "options": {
-        "A": "oxidation",
-        "B": "reduction",
-        "C": "neutralization",
-        "D": "hydrolysis"
-      }
-    },
-    {
-      "chapter": "Chemical Reactivity",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a decomposition reaction?",
-      "options": {
-        "A": "$CaCO_3 \\rightarrow CaO + CO_2$",
-        "B": "$2H_2 + O_2 \\rightarrow 2H_2O$",
-        "C": "$NaOH + HCl \\rightarrow NaCl + H_2O$",
-        "D": "$Zn + CuSO_4 \\rightarrow ZnSO_4 + Cu$"
-      }
-    },
-    {
-      "chapter": "Chemical Reactivity",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Rusting of iron is an example of:",
-      "options": {
-        "A": "reduction",
-        "B": "oxidation",
-        "C": "sublimation",
-        "D": "neutralization"
-      }
-    },
-    {
-      "chapter": "Chemical Reactivity",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The substance that is oxidized in a redox reaction acts as a:",
-      "options": {
-        "A": "reducing agent",
-        "B": "oxidizing agent",
-        "C": "catalyst",
-        "D": "solvent"
-      }
-    },
-    {
-      "chapter": "Chemical Reactivity",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which one is the correct balanced equation?",
-      "options": {
-        "A": "$H_2 + O_2 \\rightarrow H_2O$",
-        "B": "$2H_2 + O_2 \\rightarrow 2H_2O$",
-        "C": "$2H_2 + 2O_2 \\rightarrow 2H_2O$",
-        "D": "$H_2 + 2O_2 \\rightarrow 2H_2O$"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The process in which chemical energy is converted into electrical energy is called:",
-      "options": {
-        "A": "electrolysis",
-        "B": "electroplating",
-        "C": "galvanic cell / voltaic cell",
-        "D": "corrosion"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The process of electrolysis involves:",
-      "options": {
-        "A": "oxidation at cathode only",
-        "B": "reduction at anode only",
-        "C": "oxidation at anode and reduction at cathode",
-        "D": "no chemical change"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "In an electrochemical cell, oxidation occurs at the:",
-      "options": {
-        "A": "cathode",
-        "B": "anode",
-        "C": "salt bridge",
-        "D": "electrolyte"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is used as an electrolyte in a dry cell?",
-      "options": {
-        "A": "$H_2SO_4$",
-        "B": "$ZnSO_4$",
-        "C": "$NH_4Cl$",
-        "D": "$CuSO_4$"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The standard electrode potential of a hydrogen electrode is taken as:",
-      "options": {
-        "A": "zero",
-        "B": "$0.76$ V",
-        "C": "$1.0$ V",
-        "D": "$-0.76$ V"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Electroplating is done to:",
-      "options": {
-        "A": "increase weight",
-        "B": "protect metals from corrosion",
-        "C": "improve electrical conductivity",
-        "D": "change chemical composition"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "In electrolysis of water, the gas liberated at the anode is:",
-      "options": {
-        "A": "hydrogen",
-        "B": "oxygen",
-        "C": "chlorine",
-        "D": "nitrogen"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The electrode at which reduction occurs is called the:",
-      "options": {
-        "A": "anode",
-        "B": "cathode",
-        "C": "electrolyte",
-        "D": "salt bridge"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following metals is most readily oxidized?",
-      "options": {
-        "A": "Au",
-        "B": "Cu",
-        "C": "Zn",
-        "D": "Ag"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "A galvanic cell converts:",
-      "options": {
-        "A": "electrical energy into chemical energy",
-        "B": "chemical energy into electrical energy",
-        "C": "heat energy into electrical energy",
-        "D": "mechanical energy into electrical energy"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The direction of flow of electrons in an external circuit of a galvanic cell is from:",
-      "options": {
-        "A": "anode to cathode",
-        "B": "cathode to anode",
-        "C": "salt bridge to anode",
-        "D": "electrolyte to cathode"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a strong reducing agent?",
-      "options": {
-        "A": "$Na$",
-        "B": "$Cu$",
-        "C": "$Ag$",
-        "D": "$Au$"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a strong oxidizing agent?",
-      "options": {
-        "A": "$F_2$",
-        "B": "$I_2$",
-        "C": "$Cl_2$",
-        "D": "$Br_2$"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The oxidation number of sulphur in $H_2SO_4$ is:",
-      "options": {
-        "A": "+2",
-        "B": "+4",
-        "C": "+6",
-        "D": "-2"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The oxidation number of oxygen in hydrogen peroxide ($H_2O_2$) is:",
-      "options": {
-        "A": "-1",
-        "B": "-2",
-        "C": "+1",
-        "D": "0"
-      }
-    },
-    {
-      "chapter": "Electrochemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "In the reaction $Zn + Cu^{2+} \\rightarrow Zn^{2+} + Cu$, the reducing agent is:",
-      "options": {
-        "A": "Zn",
-        "B": "$Cu^{2+}$",
-        "C": "Cu",
-        "D": "$Zn^{2+}$"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The percentage by mass of oxygen in water is:",
-      "options": {
-        "A": "11.1%",
-        "B": "88.9%",
-        "C": "33.3%",
-        "D": "66.7%"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The empirical formula of a compound gives:",
-      "options": {
-        "A": "the actual number of atoms",
-        "B": "the simplest whole number ratio of atoms",
-        "C": "the molecular mass",
-        "D": "the molar volume"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "One dm$^3$ is equal to:",
-      "options": {
-        "A": "one litre",
-        "B": "1000 cm$^3$",
-        "C": "1000 mL",
-        "D": "all of these"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The volume occupied by one mole of any gas at STP is:",
-      "options": {
-        "A": "22.4 dm$^3$",
-        "B": "24 dm$^3$",
-        "C": "11.2 dm$^3$",
-        "D": "1 dm$^3$"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Avogadro's number is:",
-      "options": {
-        "A": "$6.02 \\times 10^{23}$",
-        "B": "$6.02 \\times 10^{-23}$",
-        "C": "$1.6 \\times 10^{-19}$",
-        "D": "$3 \\times 10^8$"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The molecular formula of glucose is:",
-      "options": {
-        "A": "$C_6H_{12}O_6$",
-        "B": "$C_{12}H_{22}O_{11}$",
-        "C": "$CH_2O$",
-        "D": "$C_2H_6O$"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is not a sub-atomic particle?",
-      "options": {
-        "A": "electron",
-        "B": "proton",
-        "C": "neutron",
-        "D": "molecule"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The charge on a neutron is:",
-      "options": {
-        "A": "+1",
-        "B": "-1",
-        "C": "0",
-        "D": "none of these"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Ionic compounds are generally soluble in:",
-      "options": {
-        "A": "water",
-        "B": "benzene",
-        "C": "petrol",
-        "D": "carbon tetrachloride"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The rate of a chemical reaction increases with rise in temperature because:",
-      "options": {
-        "A": "activation energy decreases",
-        "B": "number of effective collisions increases",
-        "C": "concentration increases",
-        "D": "pressure increases"
-      }
-    },
-    {
-      "chapter": "Fundamentals of Chemistry",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is a redox reaction?",
-      "options": {
-        "A": "$NaCl$ formation from $Na$ and $Cl_2$",
-        "B": "melting of ice",
-        "C": "dissolving sugar in water",
-        "D": "boiling of water"
+        "A": "$KNO_3$",
+        "B": "$AgNO_3$",
+        "C": "NaOH",
+        "D": "$NaNO_3$"
       }
     }
   ]
