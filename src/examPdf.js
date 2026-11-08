@@ -1,3 +1,4 @@
+import { loadQuestionImage } from './questionImage.js';
 import { jsPDF } from 'jspdf';
 import html2canvas from 'html2canvas';
 import katex from 'katex';
@@ -142,8 +143,13 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
       } else {
         for (const part of q.parts || []) parts.push({ label: part.label, rows: await rowsFor(part.text, textRight - partX, PART) });
       }
-      const height = rows.reduce((n,r)=>n+r.height,0) + parts.reduce((n,p)=>n+5+p.rows.reduce((a,r)=>a+r.height,0),0) + 14 + (meta.showChapter || meta.showSource ? 18 : 0);
-      prepared[section].push({ q, rows, parts, height });
+      const diagram = q.image ? await loadQuestionImage(q.image, import.meta.env.BASE_URL) : null;
+      if (diagram) {
+        const scale = Math.min(180 / diagram.width, 145 / diagram.height);
+        diagram.drawWidth = diagram.width * scale; diagram.drawHeight = diagram.height * scale;
+      }
+      const height = (diagram ? diagram.drawHeight + 8 : 0) + rows.reduce((n,r)=>n+r.height,0) + parts.reduce((n,p)=>n+5+p.rows.reduce((a,r)=>a+r.height,0),0) + 14 + (meta.showChapter || meta.showSource ? 18 : 0);
+      prepared[section].push({ q, rows, parts, height, diagram });
     }
   }
   if (meta.showHeader) {
@@ -173,6 +179,11 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
       // line-by-line without cutting text or formula artwork across page edges.
       if (item.height <= BOTTOM - 64) ensure(item.height);
       for (let j = 0; j < item.rows.length; j++) drawRow(item.rows[j], bodyX, j === 0, String(i+1), section === 'A' ? mcqMarks : section === 'B' ? shortMarks : longMarks);
+      if (item.diagram) {
+        ensure(item.diagram.drawHeight + 8);
+        pdf.addImage(item.diagram.data, 'PNG', bodyX, y + 4, item.diagram.drawWidth, item.diagram.drawHeight);
+        y += item.diagram.drawHeight + 8;
+      }
       for (const part of item.parts) { y += 5; ensure(Math.min(part.rows.reduce((n,r)=>n+r.height,0), BOTTOM-64)); for (let j=0;j<part.rows.length;j++) drawRow(part.rows[j], partX, j===0, '', null, part.label); }
       if (meta.showChapter || meta.showSource) {
         const detail = [meta.showChapter ? item.q.chapter : '', meta.showSource ? `${item.q.source === 'past_paper' ? 'Past paper' : 'Important book'}${item.q.year ? ' - ' + item.q.year : ''}` : ''].filter(Boolean).join(' | ');
