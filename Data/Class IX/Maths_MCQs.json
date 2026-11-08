@@ -12,7 +12,7 @@
       "options": {
         "A": "$-\\sqrt{5}$",
         "B": "$\\frac{1}{\\sqrt{5}}$",
-        "C": "$\\sqrt{5}$",
+        "C": "$\\sqrt{-5}$",
         "D": "$-5$"
       }
     },
@@ -64,7 +64,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $\\log x = 4$, then $x$ =:",
+      "text": "If $\\log_{10} x=4$, then $x=\\underline{\\qquad}$.",
       "options": {
         "A": "500",
         "B": "100",
@@ -122,8 +122,8 @@
       "year": null,
       "text": "Scientific notation of 0.00789 is:",
       "options": {
-        "A": "$7.89 \\times 10^3$",
-        "B": "$7.89 \\times 10^{-3}$",
+        "A": "$7.89\\times 10^{-3}$",
+        "B": "$7.89\\times 10^3$",
         "C": "$0.789 \\times 10^{-2}$",
         "D": "$78.9 \\times 10^{-4}$"
       }
@@ -151,9 +151,9 @@
       "text": "If $\\log_2 8 = x$ then $x$ =:",
       "options": {
         "A": "64",
-        "B": "$3^3$",
+        "B": "$3^2$",
         "C": "3",
-        "D": "$2^3$"
+        "D": "$2^8$"
       }
     },
     {
@@ -166,7 +166,7 @@
       "options": {
         "A": "10",
         "B": "e",
-        "C": "x",
+        "C": "$\\pi$",
         "D": "5"
       }
     },
@@ -180,8 +180,8 @@
       "options": {
         "A": "$\\log_3 5 = 243$",
         "B": "$\\log_3 243 = 5$",
-        "C": "$\\log_{12} 243 = 3$",
-        "D": "$\\log_3 3 = 243$"
+        "C": "$\\log_5 243=12$",
+        "D": "$\\log_5 3=243$"
       }
     },
     {
@@ -190,11 +190,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $b > 0$ and $b \\neq 1$ then $\\log_b b$ =:",
+      "text": "If $b>0$ and $b\\ne 1$ then $\\log_b\\sqrt{b}=\\underline{\\qquad}$.",
       "options": {
         "A": "0",
         "B": "1",
-        "C": "b",
+        "C": "$\\frac{1}{2}$",
         "D": "2"
       }
     },
@@ -246,7 +246,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The degree of the $3x^2y^5 + 5y^4 - 10$ is:",
+      "text": "The degree of the $3x^2y+5y^4-10$ is:",
       "options": {
         "A": "4",
         "B": "5",
@@ -274,7 +274,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Quotient of two polynomials $p(x)$ and $q(x)$, where $q(x) \\neq 0$ is called:",
+      "text": "Quotient $\\frac{p(x)}{q(x)}$ of two polynomials $p(x)$ and $q(x)$, where $q(x)\\neq 0$ is called:",
       "options": {
         "A": "Rational expression",
         "B": "Irrational expression",
@@ -363,7 +363,7 @@
         "A": "$(a+b-c)^2$",
         "B": "$(a+b+c)^2$",
         "C": "$(a-b+c)^2$",
-        "D": "$(a+b+c)^2$"
+        "D": "$(a+b+c)^3$"
       }
     },
     {
@@ -386,9 +386,9 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Factors of $a^2 + 2ab + b^2 - c^2$ is:",
+      "text": "Factors of $a^2 + 2ab + b^2 - c^2$ is: [Source issue: Options B and D are identical in the source.]",
       "options": {
-        "A": "$(a-b+c)(a-b-c)$",
+        "A": "$(a-b+c)(x-b-c)$",
         "B": "$(a+b+c)(a-b-c)$",
         "C": "$(a+b+c)(a+b-c)$",
         "D": "$(a+b+c)(a-b-c)$"
@@ -405,7 +405,7 @@
         "A": "$(x-y)(x^2+xy+y^2)$",
         "B": "$(x+y)(x^2+xy+y^2)$",
         "C": "$(x+y)(x^2+xy-y^2)$",
-        "D": "$(x-y)(x^2+xy-y^2)$"
+        "D": "$(x+y)(x^2-xy+y^2)$"
       }
     },
     {
@@ -417,7 +417,7 @@
       "text": "Factors of $y^3 - 27z^3$ are:",
       "options": {
         "A": "$y-3z, y^2+3yz+9z^2$",
-        "B": "$y+3z, y^2+3yz+9z^2$",
+        "B": "$y-3z,\\ y+3z+9z^2$",
         "C": "$y-3z, y^2-3yz+9z^2$",
         "D": "$y+3z, y^2-3yz+9z^2$"
       }
@@ -473,9 +473,9 @@
       "text": "LCM of $(2y+3z)^5$ and $(2y+3z)^3$ is:",
       "options": {
         "A": "$(2y+3z)^8$",
-        "B": "$(2y+3z)^5$",
-        "C": "$(2y+3z)^3$",
-        "D": "$(2y+3z)^{15}$"
+        "B": "$(2y+3z)^3$",
+        "C": "$(2y+3z)^2$",
+        "D": "$(2y+3z)^5$"
       }
     },
     {
@@ -512,7 +512,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Simplified form of $\\frac{1+y}{x+y} \\div \\frac{1-y}{x^2-y^2}$ is:",
+      "text": "Simplified form of $\\frac{1}{x+y}+\\frac{y}{x^2-y^2}$ is:",
       "options": {
         "A": "$\\frac{y+1}{x^2-y^2}$",
         "B": "$\\frac{x}{x^2-y^2}$",
@@ -526,12 +526,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Simplified form of $\\frac{5x}{25x^2-y^2} \\div \\frac{5x}{5x-y}$ is:",
+      "text": "Simplified form of $\\frac{y}{25x^2-y^2}-\\frac{1}{5x-y}$ is:",
       "options": {
         "A": "$\\frac{5x}{25x^2-y^2}$",
         "B": "$\\frac{5x}{5x-y}$",
-        "C": "$\\frac{5x-y}{25x^2-y^2}$",
-        "D": "$\\frac{5x-y}{5x-y}$"
+        "C": "$\\frac{-5x}{5x+y}$",
+        "D": "$\\frac{-5x}{25x-y^2}$"
       }
     },
     {
@@ -540,7 +540,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "$\\frac{a^3 + a^3y^3}{a^2(x^2+y^2)}$ =:",
+      "text": "$\\frac{a^3x^3+a^3y^3}{a^2(x+y)}=\\underline{\\qquad}$:",
       "options": {
         "A": "$ax^2 + ay^2$",
         "B": "$x^2 + y^2$",
@@ -554,12 +554,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "$\\frac{a}{a-b} \\div \\frac{a^2}{a^2-b^2}$ =:",
+      "text": "$\\frac{a}{a-b}-\\frac{b}{a+b}=\\underline{\\qquad}$:",
       "options": {
-        "A": "$\\frac{a^2+b^2}{a+b}$",
-        "B": "$\\frac{a^2+b^2}{a-b}$",
-        "C": "$\\frac{a^2-b^2}{a+b}$",
-        "D": "$\\frac{a^2-b^2}{a-b}$"
+        "A": "$\\frac{a^2+b^2}{a-b}$",
+        "B": "$\\frac{a^2+b^2}{a^2-b^2}$",
+        "C": "$\\frac{a+b}{a^2-b^2}$",
+        "D": "$\\frac{a-b}{a^2-b^2}$"
       }
     },
     {
@@ -568,9 +568,9 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "LCM = , given that $p$ and $q$ are any two polynomials:",
+      "text": "LCM $=\\underline{\\qquad}$, given that $p$ and $q$ are any two polynomials.",
       "options": {
-        "A": "HCF $\\times p \\times q$",
+        "A": "$\\frac{\\mathrm{HCF}}{p\\times q}$",
         "B": "$\\frac{p \\times q}{HCF}$",
         "C": "$\\frac{p}{HCF}$",
         "D": "$\\frac{q}{HCF}$"
@@ -610,7 +610,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "$|-20|$ means:",
+      "text": "$|-20|$",
       "options": {
         "A": "= 20",
         "B": "< 20",
@@ -640,10 +640,10 @@
       "year": null,
       "text": "The solution set of $\\sqrt{y} = 10$ is:",
       "options": {
-        "A": "{100}",
-        "B": "{10}",
-        "C": "{-10}",
-        "D": "{-10, 10}"
+        "A": "$\\{100\\}$",
+        "B": "$\\{10\\}$",
+        "C": "$\\{-10\\}$",
+        "D": "$\\{-10, 10\\}$"
       }
     },
     {
@@ -668,10 +668,10 @@
       "year": null,
       "text": "The solution set of $5 - 3y = -7$ is:",
       "options": {
-        "A": "{-4}",
-        "B": "{1, 4}",
-        "C": "{4}",
-        "D": "{12}"
+        "A": "$\\{-4\\}$",
+        "B": "$\\{1, 4\\}$",
+        "C": "$\\{4\\}$",
+        "D": "$\\{12\\}$"
       }
     },
     {
@@ -682,10 +682,10 @@
       "year": null,
       "text": "The solution set of $\\sqrt{5y+5} + 5 = 10$ is:",
       "options": {
-        "A": "{\\pm 4}",
-        "B": "{5}",
-        "C": "{4}",
-        "D": "{-4}"
+        "A": "$\\{\\pm 4\\}$",
+        "B": "$\\{5\\}$",
+        "C": "$\\{4\\}$",
+        "D": "$\\{-4\\}$"
       }
     },
     {
@@ -694,12 +694,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The solution set of $\\sqrt[3]{x} = 5$ is:",
+      "text": "The solution set of $\\left|\\frac{5y}{3}\\right|=5$ is:",
       "options": {
-        "A": "{3}",
-        "B": "{-5, 5}",
-        "C": "{3, -3}",
-        "D": "{-3}"
+        "A": "$\\{3\\}$",
+        "B": "$\\{-5, 5\\}$",
+        "C": "$\\{3, -3\\}$",
+        "D": "$\\{-3\\}$"
       }
     },
     {
@@ -710,10 +710,10 @@
       "year": null,
       "text": "The solution set of $|-y| = 0$ is:",
       "options": {
-        "A": "{1}",
-        "B": "{-1}",
-        "C": "{0}",
-        "D": "{ }"
+        "A": "$\\{1\\}$",
+        "B": "$\\{-1\\}$",
+        "C": "$\\{0\\}$",
+        "D": "$\\{\\}$"
       }
     },
     {
@@ -796,8 +796,8 @@
       "options": {
         "A": "$(-5, 5)$",
         "B": "$(0, -5)$",
-        "C": "$(5, 0)$",
-        "D": "$(-5, 0)$"
+        "C": "$(-5, 0)$",
+        "D": "$(5, 0)$"
       }
     },
     {
@@ -806,12 +806,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The solution set of the line $x = 2$ and $y = 5$:",
+      "text": "The solution set of the line $x=2$ and $x=5$:",
       "options": {
-        "A": "{(2, 5)}",
-        "B": "{2, 5}",
-        "C": "{(0, 5)}",
-        "D": "{ }"
+        "A": "$\\{(2, 5)\\}$",
+        "B": "$\\{2, 5\\}$",
+        "C": "$\\{(0, 5)\\}$",
+        "D": "$\\{\\}$"
       }
     },
     {
@@ -864,10 +864,10 @@
       "year": null,
       "text": "The Quadratic Formula for $ax^2 + bx + c = 0, a \\neq 0$ is:",
       "options": {
-        "A": "$x = \\frac{-b - \\sqrt{b^2 - 4ac}}{2a}$",
-        "B": "$x = \\frac{b + \\sqrt{b^2 - 4ac}}{2a}$",
+        "A": "$x=\\frac{-b-\\sqrt{b^2-4ac}}{2}$",
+        "B": "$x=\\frac{b\\pm\\sqrt{b^2-4ac}}{2a}$",
         "C": "$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$",
-        "D": "$x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}$"
+        "D": "$x=\\frac{-b\\pm\\sqrt{b^2+4ac}}{2a}$"
       }
     },
     {
@@ -878,10 +878,10 @@
       "year": null,
       "text": "Solution set of $x^2 + 10x + 24 = 0$ is:",
       "options": {
-        "A": "{-6, -4}",
-        "B": "{6, 4}",
-        "C": "{6, 4}",
-        "D": "{6, -4}"
+        "A": "$\\{-6, -4\\}$",
+        "B": "$\\{-6, 4\\}$",
+        "C": "$\\{6, 4\\}$",
+        "D": "$\\{6, -4\\}$"
       }
     },
     {
@@ -932,7 +932,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "An equation of the type of $3^x + 3^{-x} + 6 = 0$ is a/an:",
+      "text": "An equation of the type of $3^x+3^{2-x}+6=0$ is a/an:",
       "options": {
         "A": "Exponential equation",
         "B": "Radical equation",
@@ -948,9 +948,9 @@
       "year": null,
       "text": "The solution set of equation $4x^2 - 16 = 0$ is:",
       "options": {
-        "A": "{\\pm 4}",
-        "B": "{4}",
-        "C": "{\\pm 2}",
+        "A": "$\\{\\pm 4\\}$",
+        "B": "$\\{4\\}$",
+        "C": "$\\{\\pm 2\\}$",
         "D": "none of these"
       }
     },
@@ -1188,7 +1188,7 @@
       "options": {
         "A": "Concurrent",
         "B": "Collinear",
-        "C": "Do not intersect",
+        "C": "Do not interest",
         "D": "Unequal"
       }
     },
@@ -1268,7 +1268,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The ___ altitudes of an equilateral triangle are congruent.",
+      "text": "The ___ altitudes of an equilateral triangle are congruent. [Source issue: Options A and B can both be read as true.]",
       "options": {
         "A": "two",
         "B": "three",
@@ -1324,7 +1324,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If the three medians of a triangle are congruent then the triangle is:",
+      "text": "If the three medians of a triangle are congruent then the triangle is: [Source issue: An equilateral triangle is also acute-angled.]",
       "options": {
         "A": "Right angled",
         "B": "equilateral",
@@ -1338,7 +1338,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If two ___ of a triangle are congruent, then the triangle will be isosceles.",
+      "text": "If two ___ of a triangle are congruent, then the triangle will be isosceles. [Source issue: Several listed properties can imply an isosceles triangle.]",
       "options": {
         "A": "Altitudes",
         "B": "Medians",
@@ -1366,7 +1366,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If two triangles have equal areas then they will be congruent as well.",
+      "text": "If two triangles have equal areas then they will ___ be congruent as well.",
       "options": {
         "A": "Not necessarily",
         "B": "Necessarily",
@@ -1408,7 +1408,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Two parallelograms have equal bases. They will be having the same area, if:",
+      "text": "Two parallelograms have equal bases. They will be having the same area, if: [Source issue: Options A and B express the same condition.]",
       "options": {
         "A": "Their altitudes are equal",
         "B": "Their altitude is the same",
@@ -1450,7 +1450,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "$\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ is called:",
+      "text": "$\\left(\\frac{x_1+x_2}{2},\\frac{y_1+y_2}{2}\\right)$ is called:",
       "options": {
         "A": "Mid-point formula",
         "B": "Distance formula",
@@ -1464,11 +1464,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A(3, 0) and B(0, 3) are any two points in the plane then $|\\overline{AB}|$ =:",
+      "text": "A(3, 0) and B(0, 3) are any two points in the plane then $|\\overline{AB}|$ =: [Source issue: Options C and D are identical in the source.]",
       "options": {
         "A": "6 unit",
         "B": "$6\\sqrt{2}$ unit",
-        "C": "$2\\sqrt{9}$ unit",
+        "C": "$3\\sqrt{2}$ unit",
         "D": "$3\\sqrt{2}$ unit"
       }
     },
