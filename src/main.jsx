@@ -1,3 +1,4 @@
+import { questionImageUrl, loadQuestionImage } from './questionImage.js';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import katex from 'katex';
@@ -123,6 +124,7 @@ function inferChapters(rawQuestions, sourceKey) {
       source,
       year: Number.isInteger(raw?.year) ? raw.year : null,
       text: raw?.text ?? '',
+      image: raw?.image || '',
       options: raw?.options && typeof raw?.options === 'object' && !Array.isArray(raw?.options) ? raw.options : null,
       answer: typeof raw?.answer === 'string' ? raw.answer.trim().toUpperCase() : '',
       parts: Array.isArray(raw?.parts) ? raw.parts.map((part, partIndex) => (
@@ -212,6 +214,7 @@ function PaperQuestion({ question, index, marks, showMarks, showChapter, showSou
           <RichText text={question.text} />
           {showMarks && <span className="question-marks">[{marks}]</span>}
         </div>
+        {question.image && <img className="question-diagram" src={questionImageUrl(question.image, import.meta.env.BASE_URL)} alt="Diagram for this question" />}
         {(showChapter || showSource) && (
           <div className="paper-question-meta">
             {showChapter && <span>{question.chapter}</span>}
@@ -286,7 +289,7 @@ function QuestionRow({ question, checked, onToggle, position }) {
           {question.section !== 'A' && question.section !== 'B' && question.section !== 'C' && <span className="parts-badge">not eligible for A/B/C output</span>}
           {question.parts.length > 0 && <span className="parts-badge">{question.parts.length} parts</span>}
         </span>
-        <span className="question-row-text"><RichText text={question.text} /></span>
+        <span className="question-row-text"><RichText text={question.text} />{question.image && <img className="question-diagram question-diagram-small" src={questionImageUrl(question.image, import.meta.env.BASE_URL)} alt="Diagram for this question" />}</span>
       </span>
     </label>
   );
@@ -661,9 +664,19 @@ function App() {
     showNotice('Paper generated from the selected, chapter-aware pool.');
   }
 
-  function downloadWord() {
+  async function downloadWord() {
     if (!paperRef.current) return;
-    const html = `<!doctype html><html><head><meta charset="utf-8"><style>body{font-family:Arial,sans-serif;color:#111;line-height:1.6;padding:36pt}.section-title{font-weight:700;font-size:15pt;margin:0 0 16pt}.paper-question{display:flex;gap:12pt;margin:0 0 14pt}.paper-number{font-weight:700}.paper-question-body{flex:1}.paper-part{margin:7pt 0 0 16pt}.part-label{display:inline-block;width:28pt;font-weight:700}</style></head><body>${paperRef.current.innerHTML}</body></html>`;
+    const clone = paperRef.current.cloneNode(true);
+    try {
+      const images = clone.querySelectorAll('img.question-diagram');
+      await Promise.all(Array.from(images, async img => {
+        const name = img.getAttribute('src').split('/').pop();
+        const loaded = await loadQuestionImage(`question-images/${name}`, import.meta.env.BASE_URL);
+        img.setAttribute('src', loaded.data);
+        img.setAttribute('width', '180');
+      }));
+    } catch (error) { showNotice(error.message || 'Unable to include a question diagram.'); return; }
+    const html = `<!doctype html><html><head><meta charset="utf-8"><style>body{font-family:Arial,sans-serif;color:#111;line-height:1.6;padding:36pt}.section-title{font-weight:700;font-size:15pt;margin:0 0 16pt}.paper-question{display:flex;gap:12pt;margin:0 0 14pt}.paper-number{font-weight:700}.paper-question-body{flex:1}.paper-part{margin:7pt 0 0 16pt}.part-label{display:inline-block;width:28pt;font-weight:700}</style></head><body>${clone.innerHTML}</body></html>`;
     downloadBlob(html, 'paperloom-paper.doc', 'application/msword');
   }
 
