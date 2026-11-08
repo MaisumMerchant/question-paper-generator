@@ -162,7 +162,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The velocity of a particle at an instant is 10 m/s and after 5 sec the velocity of particle is 20m/s. The velocity at 3 sec before in before 10m/s is:",
+      "text": "The velocity of a particle at an instant is 10 m/s and after 5 sec the velocity of particle is 20m/s. The velocity at 3 sec before in before 10m/s is: [Source note: the printed wording is unclear and does not state an acceleration assumption.]",
       "options": {
         "A": "8",
         "B": "4",
@@ -249,7 +249,7 @@
       "text": "At what angle the range of projectile becomes equal to the height of projectile?",
       "options": {
         "A": "$65^\\circ$",
-        "B": "$45^\\circ$",
+        "B": "45",
         "C": "$76^\\circ$",
         "D": "$30^\\circ$"
       }
@@ -358,11 +358,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A bomb of mass 12 kg initially at rest explodes into two pieces of masses 4kg and 8kg . The speed of 8kg mass is 6 m/s. The kinetic energy The kinetic energy of 4 kg mass is:",
+      "text": "A bomb of mass 12 kg initially at rest explodes into two pieces of masses 4kg and 8kg . The speed of 8kg mass is 6 m/s. The kinetic energy of 4 kg mass is:",
       "options": {
         "A": "32J",
         "B": "48 J",
-        "C": "144J",
+        "C": "114 J",
         "D": "288 J"
       }
     },
@@ -414,12 +414,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A 3kg bowling ball experiences a net force of 15N. What will be its acceleration.",
+      "text": "A 3kg bowling ball experiences a net force of 15N. What will be its acceleration. [Source note: options A and D are identical.]",
       "options": {
-        "A": "35 $m/s^2$",
-        "B": "7 $m/s^2$",
-        "C": "5 $m/s^2$",
-        "D": "35 $m/s^2$"
+        "A": "35 m/s2",
+        "B": "7 m/s2",
+        "C": "5 m/s2",
+        "D": "35 m/s2"
       }
     },
     {
@@ -485,7 +485,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "An object rotating about a fixed axis, $I$ is its rotational inertia and $\\alpha$ is its angular acceleration. Its $I\\alpha$:",
+      "text": "An object rotating about a fixed axis, $I$ is its rotational inertia and $\\alpha$ is its angular acceleration. Its [Source note: the printed question is incomplete.]",
       "options": {
         "A": "is the definition of torque",
         "B": "is the definition of rotational inertia",
@@ -653,7 +653,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The minimum velocity given to an object so that it emerges out from the gravitational field of earth is about :",
+      "text": "The minimum velocity given to an object so that it emerges out from the gravitational field of earth is about __________ :",
       "options": {
         "A": "11.2 km/s",
         "B": "15.3 km/s",
@@ -709,7 +709,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A completely submerged object always displaces its own",
+      "text": "A completely submerged object always displaces its own __________",
       "options": {
         "A": "weight of fluid",
         "B": "volume of a fluid",
@@ -793,12 +793,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A rock suspended by a weighing scale weighs 5N out of water and 3 N when submerged in water. What is the buoyant force on the rock?",
+      "text": "A rock suspended by a weighing scale weighs 5N out of water and 3 N when submerged in water. What is the buoyant force on the rock? [Source note: the calculated buoyant force is not among the printed options.]",
       "options": {
         "A": "3N",
         "B": "5N",
         "C": "8N",
-        "D": "1N"
+        "D": "15 N"
       }
     },
     {
@@ -821,7 +821,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Salt water has greater density than freshwater. A boat floats in both freshwater and saltwater. The buoyant force on the boat in salt water is ----- that in freshwater.",
+      "text": "Salt water has greater density than freshwater. A boat floats in both freshwater and saltwater. The buoyant force on the boat in salt water is ----- that in freshwater. [Source note: options A and D have the same meaning.]",
       "options": {
         "A": "equal to",
         "B": "smaller than",
@@ -880,8 +880,8 @@
       "text": "Which of the following is associated with the law of conservation of energy in fluids?",
       "options": {
         "A": "Archimedes' principle",
-        "B": "Pascal's principle",
-        "C": "Bernoulli's principle",
+        "B": "Bernoulli's principle",
+        "C": "Pascal's principle",
         "D": "equation of continuity"
       }
     },
@@ -1008,7 +1008,7 @@
       "options": {
         "A": "$1.6 \\times 10^{-19}$ C",
         "B": "$3.2 \\times 10^{-19}$ C",
-        "C": "$9.1 \\times 10^{-9}$",
+        "C": "$9.1 \\times 10^{9}$",
         "D": "No definite value exist"
       }
     },
@@ -1046,7 +1046,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The flux through a flat surface of are “A” in a uniform electric field “E” is maximum. when the surface area is:",
+      "text": "The flux through a flat surface of are “A” in a uniform electric field “E” is maximum when the surface area is:",
       "options": {
         "A": "Parallel to E",
         "B": "perpendicular to E",
@@ -1063,7 +1063,7 @@
       "text": "The product of charge “q” and small separation “d” between two charges of same magnitude and opposite in nature is known as:",
       "options": {
         "A": "Electric dipole",
-        "B": "Moment arm.",
+        "B": "Moment arm",
         "C": "Electric dipole moment",
         "D": "Flux of electric field"
       }
@@ -1093,7 +1093,7 @@
         "A": "$F\\varepsilon_r$",
         "B": "$F/\\varepsilon_r$",
         "C": "$\\varepsilon_r/F$",
-        "D": "$\\varepsilon_r^2$"
+        "D": "$\\varepsilon\\varepsilon_r$"
       }
     },
     {
@@ -1116,7 +1116,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The electric flux through a plane area will be half of its maximum value when area is held at angle of with electric field",
+      "text": "The electric flux through a plane area will be half of its maximum value when area is held at angle of _____ with electric field",
       "options": {
         "A": "$30^\\circ$",
         "B": "$60^\\circ$",
@@ -1188,10 +1188,10 @@
       "year": null,
       "text": "Energy stored in the capacitor is:",
       "options": {
-        "A": "$E = \\frac{1}{2}CV$",
+        "A": "$E = \\frac{1}{4}CV$",
         "B": "$E = \\frac{1}{2}CV^2$",
         "C": "$E = CV^2$",
-        "D": "$E = \\frac{1}{4}CV^2$"
+        "D": "$E = \\frac{1}{2}CV$"
       }
     },
     {
@@ -1354,7 +1354,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Power dissipation in a resistor can be calculated using which formula:",
+      "text": "Power dissipation in a resistor can be calculated using which formula: [Source note: more than one printed formula is valid.]",
       "options": {
         "A": "$P=V^2/R$",
         "B": "$P=I^2R$",
@@ -1410,12 +1410,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Two simple pendulums A and B with same lengths, and equal amplitude of vibrations, but the mass of A is twice the mass of B, their period are $T_a$ and $T_b$ and energies are $E_a$ and $E_b$ respectively. Choose the correct statement.",
+      "text": "Two simple pendulums A and B with same lengths, and equal amplitude of vibrations, but the mass of A is twice the mass of B, their period are $T_A$ and $T_B$ and energies are $E_A$ and $E_B$ respectively. Choose the correct statement.",
       "options": {
-        "A": "$T_a = T_b$ and $E_a > E_b$",
-        "B": "$T_a < T_b$ and $E_a > E_b$",
-        "C": "$T_a > T_b$ and $E_a < E_b$",
-        "D": "$T_a = T_b$ and $E_a < E_b$"
+        "A": "$T_A = T_B$ and $E_A > E_B$",
+        "B": "$T_A < T_B$ and $E_A > E_B$",
+        "C": "$T_A > T_B$ and $E_A < E_B$",
+        "D": "$T_A = T_B$ and $E_A < E_B$"
       }
     },
     {
@@ -1494,7 +1494,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If a body oscillates at the angular frequency $\\omega$ of the driving force, then the oscillations are called:",
+      "text": "If a body oscillates at the angular frequency $\\omega_d$ of the driving force, then the oscillations are called:",
       "options": {
         "A": "Forced oscillations",
         "B": "Coupled oscillations",
@@ -1508,12 +1508,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A simple harmonic oscillator with a natural frequency $\\omega_n$ is force to oscillate with a driving frequency $\\omega_d$. The Resonance occurred when:",
+      "text": "A simple harmonic oscillator with a natural frequency $\\omega_N$ is force to oscillate with a driving frequency $\\omega_d$. The Resonance occurred when: [Source note: options C and D may overlap.]",
       "options": {
-        "A": "$\\omega_n < \\omega_d$",
-        "B": "$\\omega_n > \\omega_d$",
-        "C": "$\\omega_n = \\omega_d$",
-        "D": "$\\omega_n \\neq \\omega_d$"
+        "A": "$\\omega_N < \\omega_d$",
+        "B": "$\\omega_N > \\omega_d$",
+        "C": "$\\omega_N = \\omega_d$",
+        "D": "$\\omega_N \\approx \\omega_d$"
       }
     },
     {
@@ -1578,12 +1578,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $v_a$, $v_H$ and $v_m$ are the speeds of sound in air, hydrogen gas, and a metal at the same temperature, then:",
+      "text": "If $v_a$, $v_h$ and $v_m$ are the speeds of sound in air, hydrogen gas, and a metal at the same temperature, then:",
       "options": {
-        "A": "$v_a > v_H > v_m$",
-        "B": "$v_m > v_H > v_a$",
-        "C": "$v_H > v_m > v_a$",
-        "D": "$v_H > v_a > v_m$"
+        "A": "$v_a > v_h > v_m$",
+        "B": "$v_m > v_h > v_a$",
+        "C": "$v_h > v_m > v_a$",
+        "D": "$v_h > v_a > v_m$"
       }
     },
     {
@@ -1592,7 +1592,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The speed of sound in air at STP is 332 m/s. If the air pressure becomes double at the same temperatue, the speed of sound become:",
+      "text": "The speed of sound in air at STP is 332 m/s. If the air pressure becomes double at the same temperature, the speed of sound become:",
       "options": {
         "A": "1382 m/s",
         "B": "664m/s",
@@ -1609,9 +1609,9 @@
       "text": "How does the speed of sound v in air depend on the atmospheric pressure P:",
       "options": {
         "A": "$v \\propto P^0$",
-        "B": "$v \\propto P$",
+        "B": "$v \\propto P^{-1}$",
         "C": "$v \\propto P^2$",
-        "D": "$v \\propto 1/P$"
+        "D": "$v \\propto P^{1}$"
       }
     },
     {
