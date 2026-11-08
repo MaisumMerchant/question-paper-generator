@@ -39,7 +39,7 @@
       "text": "Each stoma is formed by:",
       "options": {
         "A": "one guard cell",
-        "B": "two guard cells",
+        "B": "two guards cells",
         "C": "three guard cells",
         "D": "four guard cells"
       }
@@ -50,7 +50,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Respiratory surface possess following property:",
+      "text": "Respiratory surface possesses following property:",
       "options": {
         "A": "thin and wet",
         "B": "permeable",
@@ -92,7 +92,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The main respiratory surface of human is:",
+      "text": "The respiratory surface of human is:",
       "options": {
         "A": "Nostril",
         "B": "Bronchiole",
@@ -195,7 +195,7 @@
         "A": "Xerophyte",
         "B": "Halophyte",
         "C": "Epiphyte",
-        "D": "Hydrophyte"
+        "D": "Hygrophyte"
       }
     },
     {
@@ -204,7 +204,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Organ of human body which is considered as the largest organ is:",
+      "text": "Organ of human body which is considered on the largest organ is:",
       "options": {
         "A": "Skin",
         "B": "Digestive tract",
@@ -218,12 +218,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The maintenance of body temperature with in suitable limit is called:",
+      "text": "The maintenance of body temperature with in suitable limit is called",
       "options": {
-        "A": "Homeothermy",
+        "A": "Homeotherm",
         "B": "Thermoregulation",
         "C": "Osmoregulation",
-        "D": "Heterothermy"
+        "D": "Heterotherm"
       }
     },
     {
@@ -232,9 +232,9 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The kidney is enclosed in a membrane called:",
+      "text": "The kidney is enclosed in a membrane called",
       "options": {
-        "A": "Pericard",
+        "A": "Pericardium",
         "B": "Peritoneum",
         "C": "Pleural membrane",
         "D": "Plumule"
@@ -260,11 +260,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Selective reabsorption in nephron takes place at:",
+      "text": "Selective reabsorption in nephron takes place at",
       "options": {
         "A": "Glomerulus",
         "B": "Malpighian body",
-        "C": "Convoluted tubules",
+        "C": "Convulated tubules",
         "D": "Loop of Henle's"
       }
     },
@@ -274,7 +274,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The hormone ADH release from:",
+      "text": "The hormone ADH release from",
       "options": {
         "A": "Pituitary gland",
         "B": "Kidneys",
@@ -307,7 +307,7 @@
         "A": "Receptor",
         "B": "Effector",
         "C": "Nerve",
-        "D": "Brain"
+        "D": "All of these"
       }
     },
     {
@@ -316,12 +316,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The type of coordination through electrochemical signal is:",
+      "text": "The type of coordination through electrochemical signals is:",
       "options": {
         "A": "Nervous",
         "B": "Chemical",
         "C": "Mechanical",
-        "D": "None of these"
+        "D": "All of these"
       }
     },
     {
@@ -344,7 +344,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The type of coordination seen in Plants:",
+      "text": "The type of coordination exhibited by Plants:",
       "options": {
         "A": "Nervous coordination",
         "B": "Chemical coordination",
@@ -376,7 +376,7 @@
       "options": {
         "A": "Cerebrum",
         "B": "Cerebellum",
-        "C": "Pons",
+        "C": "Thalamus",
         "D": "Medulla oblongata"
       }
     },
@@ -386,11 +386,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The involuntary actions for survival of animals are regulated by:",
+      "text": "Vital functions for survival of animals are regulated by:",
       "options": {
         "A": "CNS",
         "B": "PNS",
-        "C": "Somatic sub-division",
+        "C": "somatic sub-division",
         "D": "Autonomic sub-division"
       }
     },
@@ -418,7 +418,7 @@
       "options": {
         "A": "Convex",
         "B": "concave",
-        "C": "Both a&b",
+        "C": "Both a & b",
         "D": "None of these"
       }
     },
@@ -502,7 +502,7 @@
       "options": {
         "A": "FSH",
         "B": "LH",
-        "C": "Both a&b",
+        "C": "Both a & b",
         "D": "None of these"
       }
     },
@@ -512,12 +512,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Irritation caused by stimulus is the main cause of:",
+      "text": "Irritation caused by stimulus is the main cause of",
       "options": {
         "A": "Tropism",
         "B": "Movement",
         "C": "Locomotion",
-        "D": "Arthritis"
+        "D": "Arthritus"
       }
     },
     {
@@ -526,7 +526,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The frame work which gives shape to any structure:",
+      "text": "The frame work which gives shape to any structure called",
       "options": {
         "A": "Architecture",
         "B": "Bone",
@@ -540,12 +540,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The cartilage are made up of cells called:",
+      "text": "The cartilage are made up of cells called",
       "options": {
         "A": "Osteoclast",
-        "B": "Osteocytes",
+        "B": "Osteocytis",
         "C": "Chondrocytes",
-        "D": "Chordocytes"
+        "D": "Chaonocytes"
       }
     },
     {
@@ -554,12 +554,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The head of femur attached with:",
+      "text": "The head of femur attached with",
       "options": {
         "A": "Pelvic girdles",
         "B": "Pectoral girdle",
         "C": "Scapula",
-        "D": "Acetabulum of pelvic girdles"
+        "D": "Acetabulum of pelvic gridles"
       }
     },
     {
@@ -568,7 +568,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The large muscles of arm:",
+      "text": "The large muscles of arm is",
       "options": {
         "A": "Bicep",
         "B": "Tricep",
@@ -582,9 +582,9 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The band of tough, connective tissue which are attached to bones called:",
+      "text": "The band of tough, fibrous, connective tissue which are attached to bone at joints called",
       "options": {
-        "A": "Ligaments",
+        "A": "Ligament",
         "B": "Tendon",
         "C": "Bicep",
         "D": "Tricep"
@@ -596,9 +596,9 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Softening and weakening of bone in children due to deficiency:",
+      "text": "Softening and weakening of bone in children due to deficiency of vitamin D called",
       "options": {
-        "A": "Arthritis",
+        "A": "Osteoporesis",
         "B": "Osteoarthritis",
         "C": "Rickets",
         "D": "Rheumatic fever"
@@ -610,9 +610,9 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The muscle which is responsible to straighten the limb is:",
+      "text": "The muscle which is responsible to straighten the limb is",
       "options": {
-        "A": "Adductor",
+        "A": "Ligament",
         "B": "Skeleton muscle",
         "C": "Flexor",
         "D": "Extensor"
@@ -624,7 +624,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The pair of muscle where both work in opposite direction:",
+      "text": "The pair of muscle where both work in opposite direction",
       "options": {
         "A": "Antagonist",
         "B": "Cardiac",
@@ -638,7 +638,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The process which is essential for continuing and survival of species is:",
+      "text": "The process which is essential for continuing and survival of species is",
       "options": {
         "A": "Digestion",
         "B": "Respiration",
@@ -652,12 +652,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The type of reproduction which is necessary for evolution is:",
+      "text": "The type of reproduction which is necessary for evolution is",
       "options": {
         "A": "Vegetative propagation",
         "B": "Fragmentation",
         "C": "Sexual reproduction",
-        "D": "cloning"
+        "D": "clonning"
       }
     },
     {
@@ -666,11 +666,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The unusual cellular structure responsible for asexual reproduction is:",
+      "text": "The unicellular structure, responsible for asexual reproduction without fusion is",
       "options": {
-        "A": "Bulb",
+        "A": "Pores",
         "B": "Spores",
-        "C": "Rhizome",
+        "C": "Gametes",
         "D": "Pollen grains"
       }
     },
@@ -680,7 +680,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which plant reproduce vegetatively by bulb:",
+      "text": "The example of stem which run horizontally on surface of soil to produce vegetatively",
       "options": {
         "A": "Mint",
         "B": "Ginger",
@@ -694,7 +694,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Plant stem that arise from buds on the base of parent plants are:",
+      "text": "Plant stem that arise from buds on the base of parent plants are",
       "options": {
         "A": "Bulb",
         "B": "Rhizome",
@@ -708,10 +708,10 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The type of seed production without fusion of male and female gametes is:",
+      "text": "The type of seed production without fusion of male and female gametes is",
       "options": {
         "A": "Parthenocarpy",
-        "B": "Apomixes",
+        "B": "Apormixes",
         "C": "Grafting",
         "D": "Scion"
       }
@@ -722,9 +722,9 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The female gametophyte of angiospermic plant is:",
+      "text": "The female gametophyte of anglosparmic plant is",
       "options": {
-        "A": "Embryo sac",
+        "A": "Embryo sec",
         "B": "Ovule",
         "C": "Ovary",
         "D": "Carpel"
@@ -736,7 +736,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The 3N zygote in angiosperm develop into:",
+      "text": "The 3N zygote is angiosperm develop into",
       "options": {
         "A": "Seed coat",
         "B": "Cotyledon",
@@ -750,11 +750,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The male gonades in rabbit are:",
+      "text": "The male gonades in rabbit are",
       "options": {
         "A": "Testis",
         "B": "Ovaries",
-        "C": "Scrotal sac",
+        "C": "Scrotal sec",
         "D": "Vasdeferens"
       }
     },
@@ -764,10 +764,10 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The female gametes are fertilized in the rear end of:",
+      "text": "The female gametes are fertilized in the rear end of",
       "options": {
         "A": "Oviduct",
-        "B": "Follopian tube",
+        "B": "Follopin tube",
         "C": "Ovaries",
         "D": "Both a and b"
       }
@@ -778,7 +778,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Branch of biology deals with heredity and variation is called:",
+      "text": "Branch of biology deals with the study of heredity and variation is called:",
       "options": {
         "A": "Inheritance",
         "B": "Heredity",
@@ -792,7 +792,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The way by which genes transmit characters from parents to offspring is:",
+      "text": "The way by which gene transmits characters from parents to offspring is",
       "options": {
         "A": "Genetics",
         "B": "Inheritance",
@@ -806,9 +806,9 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Two similar chromosomes in a cell which are similar in shape, size and location of genes are:",
+      "text": "Two similar chromosomes in a cell which are similar in shape, size and position of centromere called",
       "options": {
-        "A": "Chromosomes",
+        "A": "Chromatids",
         "B": "Arms",
         "C": "Homologous",
         "D": "Homology"
@@ -820,7 +820,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The chemical material of a chromosome is called:",
+      "text": "The chemical material of a chromosome is called",
       "options": {
         "A": "Chromatin",
         "B": "Chromeres",
@@ -834,10 +834,10 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The outer part of DNA helix made up of sugar and phosphate is called:",
+      "text": "The outer part of DNA helix made up of sugar and phosphate is called",
       "options": {
         "A": "Nucleoprotein",
-        "B": "uprights",
+        "B": "upright",
         "C": "Rungs",
         "D": "Phosphoester"
       }
@@ -848,7 +848,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The small segment of DNA which has information to code one protein is called:",
+      "text": "The small segment of DNA which has information to code one protein is called",
       "options": {
         "A": "Nucleotide",
         "B": "Polynucleotide",
@@ -862,7 +862,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The exact duplication of DNA is called:",
+      "text": "The exact duplication of DNA is called",
       "options": {
         "A": "Duplication",
         "B": "Replication",
@@ -876,7 +876,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If both the parents donate same factors of a character:",
+      "text": "If both the parents donate same factors of a character is called",
       "options": {
         "A": "Homologous",
         "B": "Heterologous",
@@ -890,12 +890,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The Genetic constitution of a trait is called:",
+      "text": "The Genetic constitution of a trait is called",
       "options": {
         "A": "Genotype",
         "B": "Phenotype",
         "C": "Genome",
-        "D": "Gene pool"
+        "D": "Phenyl"
       }
     },
     {
@@ -904,7 +904,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The life sustaining envelop of earth is:",
+      "text": "The life sustaining envelop of earth is",
       "options": {
         "A": "Biomass",
         "B": "Biomes",
@@ -918,7 +918,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The group of organisms belong to the same species in particular area called:",
+      "text": "The group of organisms belong to the same species live in a particular area called",
       "options": {
         "A": "Community",
         "B": "Species",
@@ -932,7 +932,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "An area where community interacts with non-living environment is called:",
+      "text": "An area where community interacts with non-living environment is called",
       "options": {
         "A": "Community",
         "B": "Ecology",
@@ -946,7 +946,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Any biological region characterized by its climate or vegetation is called:",
+      "text": "Any biological region recognized by its climate or vegetation is called",
       "options": {
         "A": "Ecosystem",
         "B": "Biomes",
@@ -960,7 +960,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The transfer food material from producers through some organisms with repeated eating and being eaten is called:",
+      "text": "The transfer of food material from producers through some organisms with repeated eating and being eaten is called",
       "options": {
         "A": "Food pyramid",
         "B": "Food chain",
@@ -974,7 +974,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The elements/nutrients in ecosystem recycle through organisms with environment is called:",
+      "text": "The elements in ecosystem recycle through organisms with environment is called",
       "options": {
         "A": "Food chain",
         "B": "Food web",
@@ -988,7 +988,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Process where nitrogenous compound of living organism convert into nitrates is called:",
+      "text": "Process where nitrogenous compound of living organism convert into nitrates is called",
       "options": {
         "A": "Ammonification",
         "B": "Nitrification",
@@ -1002,7 +1002,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The cold war between the organisms of a community occupying the same habitat is called:",
+      "text": "The cold war between the organisms of a community occupying the same habitat is called",
       "options": {
         "A": "Predation",
         "B": "Competition",
@@ -1016,7 +1016,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The association between two different types of organism which gives benefit to each other, cannot live without each other is:",
+      "text": "The association between two different types of organism which get benefit to each other, cannot live without each other is called",
       "options": {
         "A": "Parasitism",
         "B": "Commensalism",
@@ -1030,7 +1030,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The amount of carbon dioxide or concentration of gases other than oxygen increase in atmosphere is called:",
+      "text": "The amount of solid waste or concentration of gases other than oxygen increase in atmosphere is called",
       "options": {
         "A": "Air pollution",
         "B": "Ozone depletion",
@@ -1044,12 +1044,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The artificial manipulation, synthesis and recombination of DNA is:",
+      "text": "The artificial manipulation, medication and recombination of DNA",
       "options": {
         "A": "Genetic engineering",
         "B": "Biotechnology",
         "C": "Molecular biology",
-        "D": "Genetic science"
+        "D": "Genetic"
       }
     },
     {
@@ -1058,7 +1058,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The earlier biotechnology was used by:",
+      "text": "The earlier biotechnologist were",
       "options": {
         "A": "Biologist",
         "B": "Agriculturist",
@@ -1072,7 +1072,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The complete graph of human genome was studied by:",
+      "text": "The complete graph of human genome was studied by",
       "options": {
         "A": "PCR",
         "B": "HGP",
@@ -1086,7 +1086,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The large scale production of antibiotics on large scale production by organism is:",
+      "text": "Alcohol and antibiotics on large scale production by organism is an area of",
       "options": {
         "A": "Environmental biotechnology",
         "B": "Fermentation",
@@ -1100,7 +1100,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Most of the living things use $O_2$ to produce:",
+      "text": "Most of the living things use $O_2$ to produce",
       "options": {
         "A": "ATP",
         "B": "Alcohol",
@@ -1114,7 +1114,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "In acidic formulation lactic acid produced from:",
+      "text": "In acidic formulation lactic acid produced from",
       "options": {
         "A": "Pyruvic acid",
         "B": "Acetic acid",
@@ -1128,7 +1128,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The bread dough rises during alcoholic fermentation is due to:",
+      "text": "The bread dough rises during alcoholic fermentation is due to",
       "options": {
         "A": "Methyl alcohol",
         "B": "$CO_2$",
@@ -1142,7 +1142,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The container use to grow bacteria on large scale are called:",
+      "text": "The container use to grow bacteria on large scale are called",
       "options": {
         "A": "Chillers",
         "B": "Sterilizers",
@@ -1156,12 +1156,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Naturally occurring enzyme used as a defense chemical by bacteria is:",
+      "text": "Naturally occurring enzyme used as a defense chemical by bacteria",
       "options": {
         "A": "Defense protein",
-        "B": "Restriction enzymes",
+        "B": "Restriction enzyme",
         "C": "Hydrolytic enzyme",
-        "D": "Lysozyme"
+        "D": "ligase enzyme"
       }
     },
     {
@@ -1170,12 +1170,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Extra circular DNA which use as vector of gene is:",
+      "text": "Extra circular DNA which use as vector of gene is",
       "options": {
         "A": "Genome",
         "B": "Plasmid",
         "C": "Pilli",
-        "D": "Nucleus"
+        "D": "Ligase"
       }
     },
     {
@@ -1186,24 +1186,10 @@
       "year": null,
       "text": "Who is called father of antiseptic?",
       "options": {
-        "A": "Alexandar Fleming",
+        "A": "Alexandar fleming",
         "B": "Edward Jenner",
         "C": "Lister",
         "D": "Oswald Schmiedeberg"
-      }
-    },
-    {
-      "chapter": "Pharmacology",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following drug is used as sedative?",
-      "options": {
-        "A": "Marijuana",
-        "B": "Morphine",
-        "C": "Diazepam",
-        "D": "Heroine"
       }
     },
     {
@@ -1254,12 +1240,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The substance which inhibit the growth of bacteria is considered as:",
+      "text": "The substance which inhibit the growth of bacteria can be considered as:",
       "options": {
         "A": "Vaccine",
         "B": "Bactericidal",
         "C": "Bacteriostatic",
-        "D": "Antibiotic"
+        "D": "Antibiotics"
       }
     },
     {
@@ -1268,7 +1254,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Haris is addicted to a drug, which left the following effect on Haris: i. Blurred vision ii. Making unseen faces in imagination iii. Euphoria. Identify the drug, to which Haris is addicted?",
+      "text": "Haris is addicted to a drug, which left the following effect on Haris: i. Blurred vision ii. Making unseen faces in imagination iii. Euphoria Identify the drug, to which Haris is addicted?",
       "options": {
         "A": "Narcotics",
         "B": "Hallucinogen",
