@@ -14,7 +14,8 @@
         "B": "$6.02 \\times 10^{23}$",
         "C": "$12.04 \\times 10^{23}$",
         "D": "$24.08 \\times 10^{23}$"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "1. Stoichiometry",
@@ -28,7 +29,8 @@
         "B": "$24 \\times 10^{23}$",
         "C": "$60 \\times 10^{23}$",
         "D": "$72 \\times 10^{23}$"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "1. Stoichiometry",
@@ -42,7 +44,8 @@
         "B": "$22.4\\,dm^3$",
         "C": "$33.6\\,dm^3$",
         "D": "$44.8\\,dm^3$"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "1. Stoichiometry",
@@ -56,7 +59,8 @@
         "B": "20g C",
         "C": "19g K",
         "D": "24g Mg"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "1. Stoichiometry",
@@ -70,7 +74,8 @@
         "B": "One mole of $H_2$ gas contains $6.02 \\times 10^{23}$ molecules of $H_2$",
         "C": "Number of atoms in 23g Na and 24g Mg are equal",
         "D": "One moles of $O_2$ at S.T.P occupy $22.4\\,dm^3$ volume"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "1. Stoichiometry",
@@ -78,7 +83,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "For Avogadro's number, this statement is incorrect:",
+      "text": "For Avogadro's number, this statement is incorrect: [Source note: more than one option appears incorrect.]",
       "options": {
         "A": "It is the no. of particles in one moles of any substances",
         "B": "Its numerical value is $6.02 \\times 10^{23}$",
@@ -98,7 +103,8 @@
         "B": "5 $dm^3$ of helium gas at STP",
         "C": "10 $dm^3$ of hydrogen gas at STP",
         "D": "22.4 $dm^3$ of chlorine gas at STP"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "1. Stoichiometry",
@@ -112,7 +118,8 @@
         "B": "$3.01 \\times 10^{24}$",
         "C": "$6.02 \\times 10^{23}$",
         "D": "$6.02 \\times 10^{24}$"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "1. Stoichiometry",
@@ -126,7 +133,8 @@
         "B": "100g $CH_4$",
         "C": "100g $CO_2$",
         "D": "100g $Cl_2$"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "1. Stoichiometry",
@@ -140,7 +148,8 @@
         "B": "Less than theoretical yield",
         "C": "Equal to the theoretical yield",
         "D": "Some times greater and some times less than theoretical yield"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "2. Atomic Structure",
@@ -154,7 +163,8 @@
         "B": "$H^+$",
         "C": "$He^+$",
         "D": "$Li^{+2}$"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "2. Atomic Structure",
@@ -162,13 +172,14 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Nitrogen has the electronic configuration $1s^2 2s^2 2p^1, 2p^1, 2p^1$ and not $1s^2 2s^2 2p^2, 2p^1, 2p^0$. This is determined by.",
+      "text": "Nitrogen has the electronic configuration $1s^2\\,2s^2\\,2p_x^1\\,2p_y^1\\,2p_z^1$ and not $1s^2\\,2s^2\\,2p_x^2\\,2p_y^1$. This is determined by.",
       "options": {
         "A": "Aufbau principle",
         "B": "Pauli's rule",
         "C": "Hund's rule",
         "D": "$n+\\ell$ rule"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "2. Atomic Structure",
@@ -182,7 +193,8 @@
         "B": "$n=1,\\ \\ell=0$",
         "C": "$n=3,\\ \\ell=1$",
         "D": "$n=3,\\ \\ell=0$"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "2. Atomic Structure",
@@ -196,7 +208,8 @@
         "B": "52.9Å",
         "C": "5.29Å",
         "D": "0.529 Å"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "2. Atomic Structure",
@@ -210,7 +223,8 @@
         "B": "Electrons",
         "C": "Elements",
         "D": "Molecules"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "2. Atomic Structure",
@@ -224,7 +238,8 @@
         "B": "He discovered neutron",
         "C": "He determined the radius of hydrogen atom",
         "D": "He gave the rules for electronic configuration"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "2. Atomic Structure",
@@ -238,7 +253,8 @@
         "B": "5p",
         "C": "5d",
         "D": "6s"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "2. Atomic Structure",
@@ -250,9 +266,10 @@
       "options": {
         "A": "$Na^+$ and Ne",
         "B": "$Na^+$ and $F^-$",
-        "C": "$Na^+$ and $Ca^{+2}$",
+        "C": "Na and Ca",
         "D": "$Na^+$ and $Mg^{+2}$"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "2. Atomic Structure",
@@ -266,7 +283,8 @@
         "B": "Third orbit",
         "C": "Fourth orbit",
         "D": "Fifth orbit"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "2. Atomic Structure",
@@ -280,7 +298,8 @@
         "B": "Dumbbell",
         "C": "Double dumbbell",
         "D": "Complicated"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
@@ -294,7 +313,8 @@
         "B": "Pyramidal",
         "C": "Bent",
         "D": "Planar Trigonal"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
@@ -308,7 +328,8 @@
         "B": "H-F",
         "C": "H-O",
         "D": "H-N"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
@@ -322,7 +343,8 @@
         "B": "HCl",
         "C": "$H_2O$",
         "D": "$CCl_4$"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
@@ -336,7 +358,8 @@
         "B": "$H_2O$",
         "C": "$NH_3$",
         "D": "$BF_3$"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
@@ -350,7 +373,8 @@
         "B": "Linear and sp",
         "C": "Planar trigonal and $sp^2$",
         "D": "Angular and $sp^3$"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
@@ -363,8 +387,9 @@
         "A": "$SO_2$",
         "B": "$CO_2$",
         "C": "$NH_3$",
-        "D": "$C_2H_6$"
-      }
+        "D": "$C_2H_4$"
+      },
+      "answer": "C"
     },
     {
       "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
@@ -378,7 +403,8 @@
         "B": "Planar trigonal",
         "C": "Angular",
         "D": "Tetrahedral"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
@@ -391,8 +417,9 @@
         "A": "1D $= 3.33 \\times 10^{-30}$Cm",
         "B": "1D $= 1.6 \\times 10^{-19}$Cm",
         "C": "1D $= 1.88 \\times 10^{-12}$Cm",
-        "D": "1D $= 1.23 \\times 10^{-19}$Cm"
-      }
+        "D": "1D $= 1.23 \\times 10^{-8}$Cm"
+      },
+      "answer": "A"
     },
     {
       "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
@@ -406,7 +433,8 @@
         "B": "1",
         "C": "2",
         "D": "3"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "3. Theories of Covalent Bonding and Shapes of Molecules",
@@ -420,7 +448,8 @@
         "B": "2 and 2",
         "C": "5 and 1",
         "D": "4 and 2"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "4. State of Matter: Gases",
@@ -434,7 +463,8 @@
         "B": "2:1",
         "C": "1:4",
         "D": "4:1"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "4. State of Matter: Gases",
@@ -448,7 +478,8 @@
         "B": "Dalton's law",
         "C": "Avogadro's law",
         "D": "Gaylussac law"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "4. State of Matter: Gases",
@@ -462,7 +493,8 @@
         "B": "0°C and 2 atm",
         "C": "25°C and 1 atm",
         "D": "25°C and 2 atm"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "4. State of Matter: Gases",
@@ -476,7 +508,8 @@
         "B": "Both are denser than air",
         "C": "Both have same molar mass",
         "D": "Both contains carbon atoms"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "4. State of Matter: Gases",
@@ -490,7 +523,8 @@
         "B": "0K",
         "C": "273K",
         "D": "273°C"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "4. State of Matter: Gases",
@@ -504,7 +538,8 @@
         "B": "High temperature and high pressure",
         "C": "Low temperature and high pressure",
         "D": "High temperature and low pressure"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "4. State of Matter: Gases",
@@ -518,7 +553,8 @@
         "B": "They possess kinetic energy",
         "C": "Their collision is elastic",
         "D": "Their molar mass depends upon temperature"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "4. State of Matter: Gases",
@@ -532,7 +568,8 @@
         "B": "Double",
         "C": "Reduced to half",
         "D": "Four time"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "4. State of Matter: Gases",
@@ -546,7 +583,8 @@
         "B": "25°C and 0.5 atm",
         "C": "0 K and 1 atm",
         "D": "25 K and 0.5 atm"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "4. State of Matter: Gases",
@@ -560,7 +598,8 @@
         "B": "2 times",
         "C": "4 times",
         "D": "16 times"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "5. State of Matter: Liquids",
@@ -568,13 +607,14 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The boiling point of water ($H_2O$) is 100°C where as that of hydrogen sulphide ($H_2S$) is 42°C. This can be attributed to:",
+      "text": "The boiling point of water ($H_2O$) is 100°C where as that of hydrogen sulphide ($H_2S$) is 42°C. This can be attributed to: [Source note: the textbook prints 42°C for hydrogen sulfide.]",
       "options": {
         "A": "Smaller bond angle of $H_2S$ than $H_2O$",
         "B": "Smaller radii of oxygen than sulphur",
         "C": "High IP of oxygen than sulphur",
         "D": "Tendency of water to form hydrogen bond"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "5. State of Matter: Liquids",
@@ -588,7 +628,8 @@
         "B": "Adhesive forces are stronger than cohesive forces",
         "C": "Cohesive and adhesive forces are equal in strength",
         "D": "None of these"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "5. State of Matter: Liquids",
@@ -602,7 +643,8 @@
         "B": "Liquid possess definite volume",
         "C": "One feels sense of cooling after bath due to condensation",
         "D": "Sublimation is endothermic process."
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "5. State of Matter: Liquids",
@@ -616,7 +658,8 @@
         "B": "$F_2$",
         "C": "$Br_2$",
         "D": "$I_2$"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "5. State of Matter: Liquids",
@@ -630,7 +673,8 @@
         "B": "$CH_4$",
         "C": "$NH_3$",
         "D": "HF"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "5. State of Matter: Liquids",
@@ -644,7 +688,8 @@
         "B": "Intermolecular forces",
         "C": "Surface area",
         "D": "Viscosities"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "5. State of Matter: Liquids",
@@ -658,7 +703,8 @@
         "B": "It is a reverse process of condensation",
         "C": "It occurs at all temperature and pressure",
         "D": "It causes cooling effect"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "5. State of Matter: Liquids",
@@ -672,7 +718,8 @@
         "B": "Mercury",
         "C": "Ethyl alcohol",
         "D": "Gasoline"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "5. State of Matter: Liquids",
@@ -686,7 +733,8 @@
         "B": "dipole-dipole interaction",
         "C": "Hydrogen bonding",
         "D": "All of these"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "5. State of Matter: Liquids",
@@ -700,7 +748,8 @@
         "B": "Boiling point of water decreases",
         "C": "Vapor pressure of liquid is reduced",
         "D": "Heat is uniformly distributed"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "6. State of Matter: Solids",
@@ -714,7 +763,8 @@
         "B": "Potential energy",
         "C": "Ionization energy",
         "D": "Lattice energy"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "6. State of Matter: Solids",
@@ -728,7 +778,8 @@
         "B": "Symmetrical",
         "C": "Anisotropic",
         "D": "Polymorphous"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "6. State of Matter: Solids",
@@ -742,7 +793,8 @@
         "B": "Boiling point",
         "C": "Geometrical shapes",
         "D": "Chemical Properties"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "6. State of Matter: Solids",
@@ -756,7 +808,8 @@
         "B": "Fusion temperature",
         "C": "Transition temperature",
         "D": "Critical temperature"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "6. State of Matter: Solids",
@@ -770,7 +823,8 @@
         "B": "Covalent solid",
         "C": "Metallic solid",
         "D": "Molecular solid"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "6. State of Matter: Solids",
@@ -784,7 +838,8 @@
         "B": "Covalent bond",
         "C": "Metallic bond",
         "D": "Hydrogen bond"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "6. State of Matter: Solids",
@@ -798,7 +853,8 @@
         "B": "Cubic system",
         "C": "Tetragonal system",
         "D": "Hexagonal system"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "6. State of Matter: Solids",
@@ -812,7 +868,8 @@
         "B": "Three",
         "C": "Six",
         "D": "Seven"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "6. State of Matter: Solids",
@@ -826,7 +883,8 @@
         "B": "Glass",
         "C": "Plastic",
         "D": "Rubber"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "6. State of Matter: Solids",
@@ -840,7 +898,8 @@
         "B": "Two $Na^+$ and Two $Cl^-$ ions",
         "C": "Four $Na^+$ and Four $Cl^-$ ions",
         "D": "Four $Na^+$ and Six $Cl^-$ ions"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "7. Chemical Equilibrium",
@@ -848,7 +907,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "In the equilibrium system of $PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)$, the correct relationship between $K_p$ and $K_c$ is:",
+      "text": "In the equilibrium system of $PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)$, the correct relationship between $K_p$ and $K_c$ is: [Source note: the comparison depends on conditions and conventions.]",
       "options": {
         "A": "$K_p > K_c$",
         "B": "$K_p < K_c$",
@@ -868,7 +927,8 @@
         "B": "$2NO(g) + Cl_2(g) \\rightleftharpoons 2NOCl(g)$",
         "C": "$N_2(g) + O_2(g) \\rightleftharpoons 2NO(g)$",
         "D": "$2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g)$"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "7. Chemical Equilibrium",
@@ -882,7 +942,8 @@
         "B": "It increases",
         "C": "It becomes zero",
         "D": "It remains unchanged"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "7. Chemical Equilibrium",
@@ -896,7 +957,8 @@
         "B": "$K_{sp}=[Li^+]^2[C_2O_4^{2-}]$",
         "C": "$K_{sp}=[2Li^+][C_2O_4^{2-}]$",
         "D": "$K_{sp}=[2Li^+]^2[C_2O_4^{2-}]^2$"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "7. Chemical Equilibrium",
@@ -910,7 +972,8 @@
         "B": "$A + B \\rightleftharpoons C$",
         "C": "$2C \\rightleftharpoons A + B$",
         "D": "$A + B \\rightleftharpoons 2C$"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "7. Chemical Equilibrium",
@@ -918,13 +981,14 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The equilibrium of $N_2(g)+O_2(g) \\rightleftharpoons 2NO (\\Delta H = +ve)$ is affected by change in:",
+      "text": "The equilibrium of $N_2(g)+O_2(g) \\rightleftharpoons 2NO(g)$ $(\\Delta H = +ve)$ is affected by change in:",
       "options": {
         "A": "Temperature only",
         "B": "Pressure only",
         "C": "Both temperature and pressure",
         "D": "Neither temperature nor pressure"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "7. Chemical Equilibrium",
@@ -938,7 +1002,8 @@
         "B": "$\\Delta n < 1$",
         "C": "$\\Delta n = 1$",
         "D": "$\\Delta n = 0$"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "7. Chemical Equilibrium",
@@ -952,7 +1017,8 @@
         "B": "No. of molecules",
         "C": "mole per $dm^3$",
         "D": "gram per $dm^3$"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "7. Chemical Equilibrium",
@@ -966,7 +1032,8 @@
         "B": "Increases the solubility of AgCl",
         "C": "Forms a clear solution",
         "D": "Does not effect"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "7. Chemical Equilibrium",
@@ -980,7 +1047,8 @@
         "B": "Very low value of $K_c$",
         "C": "Very high value of $\\Delta H$",
         "D": "Very low value of $\\Delta H$"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "8. Acid, Base and Salts",
@@ -994,7 +1062,8 @@
         "B": "Its boiling point is high",
         "C": "Its degree of ionization is high",
         "D": "It is highly corrosive"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "8. Acid, Base and Salts",
@@ -1008,7 +1077,8 @@
         "B": "Base",
         "C": "Both acids and base",
         "D": "neither acid nor base"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "8. Acid, Base and Salts",
@@ -1022,7 +1092,8 @@
         "B": "$Na_2CO_3/NaHCO_3$",
         "C": "$NH_4OH/NH_4Cl$",
         "D": "NaOH/HCl"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "8. Acid, Base and Salts",
@@ -1036,7 +1107,8 @@
         "B": "$CO_2$",
         "C": "CaO",
         "D": "$Al_2O_3$"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "8. Acid, Base and Salts",
@@ -1050,7 +1122,8 @@
         "B": "$Na_2CO_3$",
         "C": "NaCl",
         "D": "Mg(OH)Cl"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "8. Acid, Base and Salts",
@@ -1062,9 +1135,10 @@
       "options": {
         "A": "$NH_4^+$",
         "B": "$NH_2^-$",
-        "C": "$NH_3$",
+        "C": "$NH_2$",
         "D": "NH"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "8. Acid, Base and Salts",
@@ -1078,7 +1152,8 @@
         "B": "$NH_4Cl$",
         "C": "$Na_2CO_3$",
         "D": "$NH_4CN$"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "8. Acid, Base and Salts",
@@ -1092,7 +1167,8 @@
         "B": "They have high pH value",
         "C": "They react with acids to form salts",
         "D": "They turn blue litmus red"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "8. Acid, Base and Salts",
@@ -1106,7 +1182,8 @@
         "B": "One proton",
         "C": "One electron pair",
         "D": "One proton pair"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "8. Acid, Base and Salts",
@@ -1120,7 +1197,8 @@
         "B": "$Na_2CO_3$",
         "C": "$NH_4CN$",
         "D": "$Na_2SO_4$"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "9. Chemical Kinetics",
@@ -1130,11 +1208,12 @@
       "year": null,
       "text": "For a hypothetical reaction $x + y \\rightarrow z$, if the conc. of x is double, the rate increases by square and if the conc. of y is doubled the rate increases by twice. The experimental rate law of this reaction is:",
       "options": {
-        "A": "$R=K[x][y]$",
+        "A": "$R=K[x]^1[y]^1$",
         "B": "$R=K[x]^1[y]^2$",
         "C": "$R=K[x]^2[y]^1$",
         "D": "$R=K[x]^2[y]^2$"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "9. Chemical Kinetics",
@@ -1146,9 +1225,10 @@
       "options": {
         "A": "$s^{-1}$",
         "B": "conc. $s^{-1}$",
-        "C": "conc.$^{-1} s^{-1}$",
-        "D": "conc.$^{-2} s^{-1}$"
-      }
+        "C": "conc.$^{-1}$ s",
+        "D": "conc.$^{-1} s^{-1}$"
+      },
+      "answer": "A"
     },
     {
       "chapter": "9. Chemical Kinetics",
@@ -1162,7 +1242,8 @@
         "B": "Conc. of products",
         "C": "Temperature",
         "D": "Reaction time"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "9. Chemical Kinetics",
@@ -1176,7 +1257,8 @@
         "B": "Enthalpy of reaction",
         "C": "Activation energy",
         "D": "Nature of reaction"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "9. Chemical Kinetics",
@@ -1190,7 +1272,8 @@
         "B": "First order",
         "C": "Second order",
         "D": "Third order"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "9. Chemical Kinetics",
@@ -1204,7 +1287,8 @@
         "B": "Moderate reactions",
         "C": "Fast reactions",
         "D": "Reversible reaction"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "9. Chemical Kinetics",
@@ -1218,7 +1302,8 @@
         "B": "Glycerin",
         "C": "$MnO_2$",
         "D": "$V_2O_5$"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "9. Chemical Kinetics",
@@ -1232,7 +1317,8 @@
         "B": "Rate of disappearance",
         "C": "Average rate",
         "D": "Instantaneous rate"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "9. Chemical Kinetics",
@@ -1246,7 +1332,8 @@
         "B": "Raised",
         "C": "Stopped.",
         "D": "Constant"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "9. Chemical Kinetics",
@@ -1256,11 +1343,12 @@
       "year": null,
       "text": "In the reaction $A \\rightarrow B$, the rate of disappearance is written as:",
       "options": {
-        "A": "$\\frac{d[A]}{dt}$",
-        "B": "$-\\frac{d[A]}{dt}$",
-        "C": "$\\frac{d[B]}{dt}$",
-        "D": "$-\\frac{d[B]}{dt}$"
-      }
+        "A": "$\\frac{dA}{dt}$",
+        "B": "$-\\frac{dA}{dt}$",
+        "C": "$\\frac{dB}{dt}$",
+        "D": "$-\\frac{dB}{dt}$"
+      },
+      "answer": "B"
     },
     {
       "chapter": "10. Solution and Colloids",
@@ -1274,7 +1362,8 @@
         "B": "Benzene and toluene",
         "C": "n-Hexane and n-heptane",
         "D": "Ethanol and Acetone"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "10. Solution and Colloids",
@@ -1288,7 +1377,8 @@
         "B": "Its particles movement is Brownian type",
         "C": "Its particle size is less than 1 nm",
         "D": "Its physical appearance is translucent"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "10. Solution and Colloids",
@@ -1302,7 +1392,8 @@
         "B": "Liquid into liquid",
         "C": "Gas into liquid",
         "D": "All of them"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "10. Solution and Colloids",
@@ -1316,7 +1407,8 @@
         "B": "Elevation in boiling point",
         "C": "Depression in freezing point",
         "D": "Atmospheric pressure"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "10. Solution and Colloids",
@@ -1330,7 +1422,8 @@
         "B": "Mole fraction of solute",
         "C": "Molality",
         "D": "Molarity"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "10. Solution and Colloids",
@@ -1344,7 +1437,8 @@
         "B": "1.0",
         "C": "10",
         "D": "100"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "10. Solution and Colloids",
@@ -1358,7 +1452,8 @@
         "B": "1 mole",
         "C": "1.5 mole",
         "D": "2 mole"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "10. Solution and Colloids",
@@ -1372,7 +1467,8 @@
         "B": "Foam",
         "C": "Sol",
         "D": "Emulsion"
-      }
+      },
+      "answer": "D"
     },
     {
       "chapter": "10. Solution and Colloids",
@@ -1386,7 +1482,8 @@
         "B": "Water and phenol",
         "C": "Water and Benzene",
         "D": "Water and methanol"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "10. Solution and Colloids",
@@ -1400,7 +1497,113 @@
         "B": "85g water",
         "C": "100g water",
         "D": "115g water"
-      }
+      },
+      "answer": "B"
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Least entropy found in which of the following state of water:",
+      "options": {
+        "A": "Liquid water at 4°C",
+        "B": "Liquid water at 25°C",
+        "C": "Steam at 100°C",
+        "D": "Ice at 0°C"
+      },
+      "answer": "D"
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The energy corresponds to the given thermochemical process is labeled as: $Li^+_{(g)} + Cl^-_{(g)} \\rightarrow LiCl_{(s)}$",
+      "options": {
+        "A": "Ionization energy",
+        "B": "Lattice energy",
+        "C": "Enthalpy of combustion",
+        "D": "Enthalpy of atomization"
+      },
+      "answer": "B"
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following change is not an endothermic reaction:",
+      "options": {
+        "A": "Decomposition of lime",
+        "B": "Cracking of alkanes",
+        "C": "Combustion of butane",
+        "D": "Photosynthesis"
+      },
+      "answer": "C"
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Heat transfer can not be feasible across the boundry of a:",
+      "options": {
+        "A": "Open system",
+        "B": "Close system",
+        "C": "Isolated system",
+        "D": "Thermo permeable system"
+      },
+      "answer": "C"
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following enthalpy change is always negative:",
+      "options": {
+        "A": "Enthalpy of formation",
+        "B": "Enthalpy of decomposition",
+        "C": "Enthalpy of combustion",
+        "D": "Enthalpy of reaction"
+      },
+      "answer": "C"
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Standard enthalpy of formation of all of the following elements at 25°C and 1 atm pressure are zero except:",
+      "options": {
+        "A": "$C_{\\text{(diamond)}}$",
+        "B": "$C_{\\text{(graphite)}}$",
+        "C": "$O_2$",
+        "D": "$N_2$"
+      },
+      "answer": "A"
+    },
+    {
+      "chapter": "11. Thermochemistry",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In the equation of First law of thermodynamics ($\\Delta E = q + w$), the property(s) which depends upon initial and final state is (are):",
+      "options": {
+        "A": "$\\Delta E$",
+        "B": "q",
+        "C": "W",
+        "D": "Both q and W"
+      },
+      "answer": "A"
     },
     {
       "chapter": "11. Thermochemistry",
@@ -1413,8 +1616,9 @@
         "A": "For constant pressure process, $\\Delta H = \\Delta E + P\\Delta V$",
         "B": "For constant volume process, $\\Delta E = q$",
         "C": "For exothermic reactions, $\\Delta H > 0$",
-        "D": "For Hess law $\\Sigma\\Delta H_{(cycle)} = 0$"
-      }
+        "D": "For Hess law $\\Sigma\\Delta H^\\circ_{\\text{(cycle)}} = 0$"
+      },
+      "answer": "C"
     },
     {
       "chapter": "11. Thermochemistry",
@@ -1428,7 +1632,8 @@
         "B": "Constant pressure",
         "C": "Constant volume",
         "D": "Constant mass"
-      }
+      },
+      "answer": "C"
     },
     {
       "chapter": "11. Thermochemistry",
@@ -1442,7 +1647,8 @@
         "B": "Path function",
         "C": "Intensive properties",
         "D": "Colligative property"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "12. Electrochemistry",
@@ -1456,7 +1662,8 @@
         "B": "Zinc",
         "C": "Lead",
         "D": "Iron"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "12. Electrochemistry",
@@ -1470,7 +1677,8 @@
         "B": "Ions",
         "C": "Atoms",
         "D": "Molecules"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "12. Electrochemistry",
@@ -1484,7 +1692,8 @@
         "B": "Reduction",
         "C": "Hydrolysis",
         "D": "Simultaneous oxidation and reduction"
-      }
+      },
+      "answer": "A"
     },
     {
       "chapter": "12. Electrochemistry",
@@ -1498,7 +1707,8 @@
         "B": "It is a primary battery",
         "C": "Anode is made up of lead",
         "D": "Cathode is made up of lead oxide"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "12. Electrochemistry",
@@ -1512,7 +1722,8 @@
         "B": "$Zn \\rightarrow Zn^{+2} + 2e^-$",
         "C": "$2H^+ + 2e^- \\rightarrow H_2$",
         "D": "$H_2 \\rightarrow 2H^+ + 2e^-$"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "12. Electrochemistry",
@@ -1525,8 +1736,9 @@
         "A": "Li",
         "B": "$H_2$",
         "C": "Cu",
-        "D": "Fe"
-      }
+        "D": "$F_2$"
+      },
+      "answer": "D"
     },
     {
       "chapter": "12. Electrochemistry",
@@ -1540,7 +1752,8 @@
         "B": "Zinc",
         "C": "Chromium",
         "D": "Carbon"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "12. Electrochemistry",
@@ -1554,7 +1767,8 @@
         "B": "Hydrogen and oxygen",
         "C": "Methane and oxygen",
         "D": "Hydrogen and zinc"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "12. Electrochemistry",
@@ -1568,7 +1782,8 @@
         "B": "+6",
         "C": "+8",
         "D": "+12"
-      }
+      },
+      "answer": "B"
     },
     {
       "chapter": "12. Electrochemistry",
@@ -1580,9 +1795,10 @@
       "options": {
         "A": "$Fe^{+3} \\rightarrow Fe^{+2}$",
         "B": "$Cl_2 \\rightarrow 2Cl^-$",
-        "C": "$SO_4^{-2} \\rightarrow SO_3^{-2}$",
+        "C": "$SO_4^{-2} \\rightarrow SO_4^{-3}$",
         "D": "$Zn \\rightarrow Zn^{+2}$"
-      }
+      },
+      "answer": "D"
     }
   ]
 }
