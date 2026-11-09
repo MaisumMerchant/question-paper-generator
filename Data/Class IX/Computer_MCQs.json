@@ -294,7 +294,8 @@
         "B": "[Figure: three vertical bars]",
         "C": "[Figure: stacked colored areas]",
         "D": "[Figure: a circle divided into three sectors]"
-      }
+      },
+      "image": "question-images/class-ix-computer-office-chart-options.svg"
     },
     {
       "chapter": "Chapter 3: Office Automation",
@@ -372,13 +373,14 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The correct formula to calculate the total in the given table is:\n[Table transcription: columns A–F; row 1: Name | English | Sindh/Urdu | Maths | Science | Total.\nRow 2: Ghulam Shabir | 40 | 41 | 41 | 40 | blank.\nRow 3: Riaz Hussain | 41 | 39 | 34 | 38 | blank.\nRow 4: Nabil Ahmed | 41 | 35 | 32 | 40 | blank.\nRow 5: Anwar Ali | 40 | 38 | 33 | 37 | blank.]",
+      "text": "The correct formula to calculate the total in the given table is:",
       "options": {
         "A": "= B2 + C2 + D2+ E2",
         "B": "= B2 + E2",
         "C": "= sum (B2 to E2)",
         "D": "= sum (B2 from E2)"
-      }
+      },
+      "image": "question-images/class-ix-computer-office-total-table.svg"
     },
     {
       "chapter": "Chapter 3: Office Automation",
@@ -386,13 +388,14 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The correct formula to calculate the percentage in the given table is:\n[Table transcription: columns A–F; row 1: Name | English | Sindh/Urdu | Maths | Science | Per.\nRow 2: Ghulam Shabir | 40 | 41 | 41 | 40 | blank.\nRow 3: Riaz Hussain | 41 | 39 | 34 | 38 | blank.\nRow 4: Nabil Ahmed | 41 | 35 | 32 | 40 | blank.\nRow 5: Anwar Ali | 40 | 38 | 33 | 37 | blank.]",
+      "text": "The correct formula to calculate the percentage in the given table is:",
       "options": {
         "A": "=B2 + C2 + D2+ E2 / 400 * 100",
         "B": "=B2 + C2 + D2+ E2 * 100",
         "C": "=(B2 + C2 + D2+ E2) / 400 * 100",
         "D": "=(B2 + C2 + D2+ E2) / 100 * 400"
-      }
+      },
+      "image": "question-images/class-ix-computer-office-percentage-table.svg"
     },
     {
       "chapter": "Chapter 3: Office Automation",

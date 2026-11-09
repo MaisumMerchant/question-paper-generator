@@ -1,0 +1,5 @@
+# Class IX Computer MCQ source check
+
+The 70 questions in `Computer_MCQs.json` correspond in order to seven sets of ten MCQs in the supplied 14-page `Computer_Science_MCQs.pdf`. A normalized text comparison found the stems and each labelled choice in the corresponding source question, except for Chapter 3 question 1, whose options are pictures. This automatic check ignores case, punctuation, and formatting; it is not an independent complete visual proofread or a claim that the extract covers the full textbook. No answer key has been inferred.
+
+Chapter 3 question 1 now includes the four original source chart images and labels. The bracketed option descriptions are accessibility descriptions, not words printed in the textbook. Questions 7 and 8 now include the original source table images rather than replacing the tables with transcribed prose. Images are cropped from source extract pages 5 and 6; the chart images are assembled without redrawing. Original source pages remain available in the paired PDF.
