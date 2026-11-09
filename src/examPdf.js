@@ -2,9 +2,10 @@ import { loadQuestionImage } from './questionImage.js';
 import { jsPDF } from 'jspdf';
 import html2canvas from 'html2canvas';
 import katex from 'katex';
+import { hasArabicScript } from './rtlText.js';
 
-// A4 exam layout. Prose and code are real PDF text; only mathematics is rendered
-// as high-resolution black-on-white formula artwork, never a page screenshot.
+// A4 exam layout. Latin prose and code remain PDF text; mathematics and
+// Arabic-script question text are rendered as high-resolution artwork.
 const BODY = 14, PART = 13.5, MARGIN = 44;
 const clean = value => String(value ?? '').replace(/[‘’]/g, "'").replace(/[“”]/g, '"').replace(/[–—]/g, '-').replace(/\u00a0/g, ' ');
 const mathPattern = /(\$\$[\s\S]*?\$\$|\$[^$\n]+\$|\\\([\s\S]*?\\\)|\\\[[\s\S]*?\\\]|`[^`\n]+`)/g;
@@ -67,8 +68,57 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
       result.descent = Math.max(0, result.height - result.ascent); formulaCache.set(key, result); return result;
     } finally { wrapper.remove(); }
   }
+  // jsPDF's built-in Latin fonts cannot shape Urdu or Arabic. Render these
+  // paragraphs in the browser, where font shaping and bidirectional layout are
+  // available, then split the artwork at line boundaries for safe pagination.
+  async function rtlRows(text, width, size) {
+    const wrapper = document.createElement('div');
+    const linePx = size * 96 / 72 * 1.9;
+    Object.assign(wrapper.style, {
+      position: 'fixed', left: '-20000px', top: '0', width: `${width * 96 / 72}px`,
+      boxSizing: 'border-box', background: '#fff', color: '#000',
+      fontFamily: 'Arial, "Noto Naskh Arabic", "Noto Sans Arabic", sans-serif',
+      fontSize: `${size * 96 / 72}px`, lineHeight: `${linePx}px`,
+      direction: 'rtl', textAlign: 'right', whiteSpace: 'pre-wrap',
+      overflowWrap: 'anywhere', zIndex: '-1'
+    });
+    let cursor = 0;
+    for (const match of String(text).matchAll(mathPattern)) {
+      wrapper.append(document.createTextNode(text.slice(cursor, match.index)));
+      const token = match[0];
+      if (token.startsWith('`')) wrapper.append(document.createTextNode(token.slice(1, -1)));
+      else {
+        const math = document.createElement('span');
+        math.dir = 'ltr';
+        const displayMode = token.startsWith('$$') || token.startsWith('\\[');
+        const latex = token.replace(/^\$\$|\$\$$/g, '').replace(/^\$|\$$/g, '').replace(/^\\\(|\\\)$/g, '').replace(/^\\\[|\\\]$/g, '');
+        math.innerHTML = katex.renderToString(latex, { displayMode, throwOnError: false, output: 'html', trust: false });
+        wrapper.append(math);
+      }
+      cursor = match.index + token.length;
+    }
+    wrapper.append(document.createTextNode(text.slice(cursor)));
+    document.body.append(wrapper);
+    try {
+      await document.fonts.ready;
+      const rect = wrapper.getBoundingClientRect();
+      const scale = 3;
+      const canvas = await html2canvas(wrapper, { scale, backgroundColor: '#fff', logging: false, useCORS: true });
+      const count = Math.max(1, Math.round(rect.height / linePx));
+      const result = [];
+      for (let i = 0; i < count; i++) {
+        const top = Math.round(i * canvas.height / count), bottom = Math.round((i + 1) * canvas.height / count);
+        const slice = document.createElement('canvas'); slice.width = canvas.width; slice.height = bottom - top;
+        slice.getContext('2d').drawImage(canvas, 0, top, canvas.width, bottom - top, 0, 0, slice.width, slice.height);
+        const height = rect.height * .75 / count;
+        result.push({ rtl: true, height, ascent: height, descent: 0, segments: [{ image: slice.toDataURL('image/png'), width, height, ascent: height }] });
+      }
+      return result;
+    } finally { wrapper.remove(); }
+  }
   async function rowsFor(text, width, size = BODY) {
     text = formatExamText(text);
+    if (hasArabicScript(text)) return rtlRows(text, width, size);
     const rows = []; let row = { segments: [], width: 0, ascent: size * .82, descent: size * .25 };
     function flush(force = false) { if (row.segments.length || force) { row.height = Math.max(size * 1.5, row.ascent + row.descent + 4); rows.push(row); } row = { segments: [], width: 0, ascent: size * .82, descent: size * .25 }; }
     function append(segment) {
@@ -122,7 +172,7 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
     ensure(row.height); const baseline = y + row.ascent;
     if (first && number) { font(BODY, 'bold'); pdf.text(number + '.', MARGIN, baseline); }
     if (first && marks !== null && meta.showMarks) { font(12, 'bold'); pdf.text('[' + marks + ']', RIGHT, baseline, { align: 'right' }); }
-    if (first && label) { font(PART); pdf.text(clean(label), x - 32, baseline); }
+    if (first && label) { font(PART); if (row.rtl) pdf.text(clean(label), textRight, y + row.height * .7, { align: 'right' }); else pdf.text(clean(label), x - 32, baseline); }
     let cursor = x;
     for (const segment of row.segments) {
       if (segment.image) pdf.addImage(segment.image, 'PNG', cursor, baseline - segment.ascent, segment.width, segment.height);
@@ -139,9 +189,9 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
       const rows = await rowsFor(q.text, textRight - bodyX);
       const parts = [];
       if (section === 'A' && q.options) {
-        for (const [key, value] of Object.entries(q.options)) parts.push({ label: `(${key})`, rows: await rowsFor(String(value), textRight - partX, PART) });
+        for (const [key, value] of Object.entries(q.options)) parts.push({ label: `(${key})`, rows: await rowsFor(String(value), textRight - partX - (hasArabicScript(value) ? 32 : 0), PART) });
       } else {
-        for (const part of q.parts || []) parts.push({ label: part.label, rows: await rowsFor(part.text, textRight - partX, PART) });
+        for (const part of q.parts || []) parts.push({ label: part.label, rows: await rowsFor(part.text, textRight - partX - (hasArabicScript(part.text) ? 32 : 0), PART) });
       }
       const diagram = q.image ? await loadQuestionImage(q.image, import.meta.env.BASE_URL) : null;
       if (diagram) {
