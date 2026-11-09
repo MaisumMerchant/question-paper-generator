@@ -104,7 +104,7 @@ function richTextHtml(value) {
 }
 
 function RichText({ text }) {
-  return <span className="rich-text" dangerouslySetInnerHTML={{ __html: richTextHtml(text) }} />;
+  return <span className="rich-text" dir="auto" dangerouslySetInnerHTML={{ __html: richTextHtml(text) }} />;
 }
 
 function inferChapters(rawQuestions, sourceKey) {
