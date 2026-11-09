@@ -10,4 +10,4 @@ This is a work-in-progress transcription, not a production question bank. The li
 - The original option labels الف، ب، ج، د are represented by A, B, C, D in order. Five questions on PDF page 151 have three options in the source; no fourth has been invented.
 - No answer key is included: the exercises do not mark correct answers, and independent answers have not yet been verified.
 - Chapter names are provisional printed-page labels, not definitive chapter metadata.
-- This folder is outside `Data/` so the app does not present an unreviewed draft as a completed bank. The old English-medium IX Islamiat PDF was not replaced. The scanned candidate extract is not yet committed.
+- This folder is outside `Data/` so the app does not present an unreviewed draft as a completed bank. The old English-medium IX Islamiat PDF was not replaced. The original-page MCQ extract and corresponding draft JSON are in this folder; both remain subject to review.
