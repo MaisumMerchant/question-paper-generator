@@ -145,7 +145,7 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
       }
       const diagram = q.image ? await loadQuestionImage(q.image, import.meta.env.BASE_URL) : null;
       if (diagram) {
-        const scale = Math.min(180 / diagram.width, 145 / diagram.height);
+        const scale = Math.min(300 / diagram.width, 180 / diagram.height);
         diagram.drawWidth = diagram.width * scale; diagram.drawHeight = diagram.height * scale;
       }
       const height = (diagram ? diagram.drawHeight + 8 : 0) + rows.reduce((n,r)=>n+r.height,0) + parts.reduce((n,p)=>n+5+p.rows.reduce((a,r)=>a+r.height,0),0) + 14 + (meta.showChapter || meta.showSource ? 18 : 0);
