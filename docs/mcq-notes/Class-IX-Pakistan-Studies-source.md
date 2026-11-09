@@ -1,0 +1,3 @@
+# Class IX Pakistan Studies: official Urdu source check
+
+STBB lists [Pakistan Studies IX, Urdu, 2020–21](https://portal.stbb.edu.pk/ebooks/book.php?id=183); its [195-page source PDF](https://portal.stbb.edu.pk/ebooks/pdf_proxy.php?id=183) is titled as a book for both IX and X on its cover. A thumbnail survey of its chapter exercises found written questions and fill-in-the-blank exercises, not recognisable multiple-choice options. Larger-page spot checks included PDF pages 15, 188 and 194. This is not a complete, high-resolution examination of every page; it does not rule out MCQs elsewhere in the book or another edition. No MCQ bank or purported exercise PDF was invented from this source.
