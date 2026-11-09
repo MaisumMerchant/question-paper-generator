@@ -764,13 +764,14 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "[Scratch block: move 10 steps] can be found under ______.",
+      "text": "[Block shown below] can be found under ______.",
       "options": {
         "A": "Look",
         "B": "Motion",
         "C": "Sound",
         "D": "Control"
-      }
+      },
+      "image": "question-images/class-x-computer-move-block.svg"
     },
     {
       "chapter": "Introduction to Scratch",
@@ -792,13 +793,14 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "An orange C-shaped Scratch command block with the number 10 is available in ______.",
+      "text": "This [block shown below] command is available in ______.",
       "options": {
         "A": "Event",
         "B": "Control",
         "C": "Motion",
         "D": "Looks"
-      }
+      },
+      "image": "question-images/class-x-computer-repeat-block.svg"
     },
     {
       "chapter": "Introduction to Scratch",
@@ -806,13 +808,14 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "On a coordinate grid, point A is 100 units to the right of the origin and 100 units below it. Identify the x and y coordinates of point A.",
+      "text": "In the given picture identify the x and y coordinates (positions) of Point – A.",
       "options": {
         "A": "x=100, y=-100",
         "B": "x=-100, y=100",
         "C": "x=100, y=100",
         "D": "x=-100, y=-100"
-      }
+      },
+      "image": "question-images/class-x-computer-coordinate-grid.svg"
     }
   ]
 }

@@ -1,0 +1,5 @@
+# Class X Computer: Scratch source figures
+
+The paired 10-page Computer MCQ extract contains the Scratch exercise on its pages 9–10. Scratch questions vii, ix and x now include crops of the original source blocks and coordinate grid, including the source watermark and the grid's low resolution. The grid-dependent question uses the printed stem; the previous prose that disclosed the point's coordinates was removed. Square-bracketed references to blocks shown below are editorial pointers to images that appeared inline in the book.
+
+Question viii's first two choices have no visible labels in this scan; question ix prints `c` for both Control and Motion. The app's A–D keys use reading order (left to right, top to bottom), so those particular keys are normalized rather than a literal reproduction of the anomalous labels. The original pages remain available in the matching PDF. No answer key has been inferred. The remaining questions in this extract have not been fully proofread in this pass; the extract alone does not establish full-textbook coverage.
