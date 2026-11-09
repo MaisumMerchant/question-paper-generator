@@ -36,7 +36,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Fresh water organisms also have specialized cells located in their gills and in skin which actively extract $Na^+$, $Cl^-$, and $Ca^{2+}$ from external medium and excrete acidic ($H^+$) or basic ($HCO_3^-$) for acid base balance in the body fluids are called",
+      "text": "Fresh water organisms also have specialized cells located in their gills and in skin which actively extract $Na^+$, $Cl^-$, and $Ca^+$ from external medium and excrete ($H^+$) or basic ($HCO_3^-$) for acid base balance in the body fluids are called",
       "options": {
         "A": "Granulocyte",
         "B": "Lymphocyte",
@@ -262,7 +262,7 @@
       "year": null,
       "text": "The heart muscles arranged in a branching network where cells are joined together and making a",
       "options": {
-        "A": "Synceytium",
+        "A": "Syncytium",
         "B": "Sarcoplasmic reticulum",
         "C": "Endoplasmic reticulum",
         "D": "T-tubules"
@@ -406,6 +406,20 @@
         "B": "Fore brain — Cerebrum",
         "C": "Midbrain — Brainstem",
         "D": "Midbrain — Cerebellum"
+      }
+    },
+    {
+      "chapter": "17: Nervous Coordination",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following receptors is incorrectly paired with the type of energy is transduces?",
+      "options": {
+        "A": "Mechanoreceptors → Sound",
+        "B": "Pain receptors → Electricity",
+        "C": "Chemoreceptors → Solute concentration",
+        "D": "Thermo receptors → Heat"
       }
     },
     {
