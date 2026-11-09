@@ -288,12 +288,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $A$ is a square matrix of order $n$, then $|kA|$ equals:",
+      "text": "If a matrix A has $m$ row and $n$ column, then order of A is:",
       "options": {
-        "A": "$k^n |A|$",
-        "B": "$k|A|$",
-        "C": "$k^2|A|$",
-        "D": "$|A|^n$"
+        "A": "$m\\times n$",
+        "B": "$n\\times m$",
+        "C": "$mn$",
+        "D": "$m^n$"
       }
     },
     {
@@ -302,12 +302,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $A$ and $B$ are matrices of the same order, then $(A + B)^T$ equals:",
+      "text": "Any matrix of order $m\\times 1$ is called:",
       "options": {
-        "A": "$A^T + B^T$",
-        "B": "$A^T B^T$",
-        "C": "$B^T A^T$",
-        "D": "$AB$"
+        "A": "Row matrix",
+        "B": "Column matrix",
+        "C": "Square matrix",
+        "D": "Zero matrix"
       }
     },
     {
@@ -316,12 +316,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $A$ is a $3 \\times 3$ matrix with $|A| = 5$, then $|2A|$ equals:",
+      "text": "For the square matrix $A=[a_{ij}]$. If all $a_{ij}=0$, $i\\ne j$ and all $a_{ij}=k$ (non-zero) for $i=j$, then A is called:",
       "options": {
-        "A": "$40$",
-        "B": "$10$",
-        "C": "$25$",
-        "D": "$80$"
+        "A": "Diagonal matrix",
+        "B": "Scalar matrix",
+        "C": "Identity matrix",
+        "D": "Null matrix"
       }
     },
     {
@@ -330,166 +330,236 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The determinant $\\begin{vmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\\\ 7 & 8 & 9 \\end{vmatrix}$ equals:",
+      "text": "The matrix $[7]$ is:",
+      "options": {
+        "A": "Square matrix",
+        "B": "Row matrix",
+        "C": "Column matrix",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$(kABC)^t$, where $k\\ne 0$ =",
+      "options": {
+        "A": "$kA^tB^tC^t$",
+        "B": "$kC^tB^tA^t$",
+        "C": "$\\frac{1}{k}A^tB^tC^t$",
+        "D": "$\\frac{1}{k}C^tB^tA^t$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\begin{vmatrix}1&0\\\\5&6\\end{vmatrix}-\\begin{vmatrix}1&2\\\\3&4\\end{vmatrix}=$ _____",
+      "options": {
+        "A": "$4$",
+        "B": "$8$",
+        "C": "$-2$",
+        "D": "$10$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $AB=BA$, then which one is true, where A and B are square matrices:",
+      "options": {
+        "A": "A and B are multiplicative inverses of each other",
+        "B": "One of A or B is null matrix.",
+        "C": "One of A or B is identity matrix.",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $A=[-7]$, then $|A|=$",
+      "options": {
+        "A": "$7$",
+        "B": "$-7$",
+        "C": "$0$",
+        "D": "Not possible"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Let $A=[a_{ij}]$ be a square matrix. Then cofactor of $a_{ij}$ is equal to:",
+      "options": {
+        "A": "$M_{ij}$",
+        "B": "$(-1)^{i+j}M_{ij}$",
+        "C": "$(-1)^{ij}M_{ij}$",
+        "D": "$(-1)^{i+j}a_{ij}$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "For any triangular matrix A, $|A|$ is equal to:",
+      "options": {
+        "A": "Product of leading diagonal elements",
+        "B": "Sum of leading diagonal elements",
+        "C": "Sum of square of diagonal elements",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A square matrix $A=[a_{ij}]$ for which all $a_{ij}=0$, $i<j$, then A is called:",
+      "options": {
+        "A": "Upper triangular",
+        "B": "Lower triangular",
+        "C": "Symmetric",
+        "D": "Hermitian"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A triangular matrix is always a:",
+      "options": {
+        "A": "Diagonal matrix",
+        "B": "Scalar matrix",
+        "C": "Square matrix",
+        "D": "all of these"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A square matrix A is skew symmetric if:",
+      "options": {
+        "A": "$A^t=A$",
+        "B": "$A^t=-A$",
+        "C": "$(\\bar A)^t=A$",
+        "D": "None"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A square matrix A is Hermitian matrix if:",
+      "options": {
+        "A": "$A^t=A$",
+        "B": "$A^t=-A$",
+        "C": "$(\\bar A)^t=A$",
+        "D": "$(\\bar A)^t=-A$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In Skew-Hermitian matrix, elements of the main diagonal are _____ numbers.",
+      "options": {
+        "A": "Purely real",
+        "B": "Complex",
+        "C": "Either zero or purely imaginary",
+        "D": "None"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $\\begin{vmatrix}a&b\\\\0&7\\end{vmatrix}=\\begin{vmatrix}2&3\\\\1&-9\\end{vmatrix}$ then",
+      "options": {
+        "A": "$a=-3$",
+        "B": "$a=b$",
+        "C": "$a=\\frac{1}{3}$",
+        "D": "$a=\\frac{-1}{3}$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The number of non-zero rows in echelon form of a matrix is called:",
+      "options": {
+        "A": "Order of a matrix",
+        "B": "Rank of a matrix",
+        "C": "Leading Column",
+        "D": "Leading row"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If A is any square matrix and $A=-A^t$ then A is a:",
+      "options": {
+        "A": "Symmetric matrix",
+        "B": "Skew symmetric matrix",
+        "C": "Hermitian matrix",
+        "D": "Skew Hermitian matrix"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If A is an idempotent matrix then:",
+      "options": {
+        "A": "$A^2=I$",
+        "B": "$A^2=0$",
+        "C": "$A^2=A$",
+        "D": "$A^2=A^t$"
+      }
+    },
+    {
+      "chapter": "Matrices and Determinants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cofactor $A_{22}$ of $\\begin{bmatrix}1&2&4\\\\-1&2&5\\\\0&1&-1\\end{bmatrix}$ is:",
       "options": {
         "A": "$0$",
-        "B": "$1$",
-        "C": "$12$",
-        "D": "$-12$"
-      }
-    },
-    {
-      "chapter": "Matrices and Determinants",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "If $A$ is a non-singular matrix of order $3$ and $|A| = 3$, then $|A^{-1}|$ equals:",
-      "options": {
-        "A": "$\\frac{1}{3}$",
-        "B": "$3$",
-        "C": "$9$",
-        "D": "$\\frac{1}{9}$"
-      }
-    },
-    {
-      "chapter": "Matrices and Determinants",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "A square matrix $A$ is called symmetric if:",
-      "options": {
-        "A": "$A^T = A$",
-        "B": "$A^T = -A$",
-        "C": "$A^T = 0$",
-        "D": "$|A| = 0$"
-      }
-    },
-    {
-      "chapter": "Matrices and Determinants",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "If $A$ is a skew-symmetric matrix, then its diagonal elements are:",
-      "options": {
-        "A": "all zero",
-        "B": "all one",
-        "C": "all positive",
-        "D": "all negative"
-      }
-    },
-    {
-      "chapter": "Matrices and Determinants",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "If $AB = BA = I$, then $B$ is called:",
-      "options": {
-        "A": "the inverse of $A$",
-        "B": "the transpose of $A$",
-        "C": "the adjoint of $A$",
-        "D": "a scalar multiple of $A$"
-      }
-    },
-    {
-      "chapter": "Matrices and Determinants",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "If $A = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$, then $A^2$ equals:",
-      "options": {
-        "A": "$A$",
-        "B": "$0$",
-        "C": "$-A$",
-        "D": "$2A$"
-      }
-    },
-    {
-      "chapter": "Matrices and Determinants",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "If $A$ is a $2 \\times 3$ matrix, then $A^T$ is of order:",
-      "options": {
-        "A": "$2 \\times 3$",
-        "B": "$3 \\times 2$",
-        "C": "$2 \\times 2$",
-        "D": "$3 \\times 3$"
-      }
-    },
-    {
-      "chapter": "Matrices and Determinants",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The value of $\\begin{vmatrix} 2 & 3 \\\\ 4 & 5 \\end{vmatrix}$ is:",
-      "options": {
-        "A": "$-2$",
-        "B": "$2$",
-        "C": "$22$",
-        "D": "$-22$"
-      }
-    },
-    {
-      "chapter": "Matrices and Determinants",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "If $|A| = 0$, then $A$ is called:",
-      "options": {
-        "A": "a singular matrix",
-        "B": "a non-singular matrix",
-        "C": "a symmetric matrix",
-        "D": "a unit matrix"
-      }
-    },
-    {
-      "chapter": "Matrices and Determinants",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The adjoint of $A$ satisfies $A \\cdot \\text{adj}(A)$ equals:",
-      "options": {
-        "A": "$|A| I$",
-        "B": "$0$",
-        "C": "$I$",
-        "D": "$A$"
-      }
-    },
-    {
-      "chapter": "Matrices and Determinants",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "If $A$ and $B$ are square matrices of the same order, then $|AB|$ equals:",
-      "options": {
-        "A": "$|A||B|$",
-        "B": "$|A| + |B|$",
-        "C": "$|A| - |B|$",
-        "D": "$|A|/|B|$"
-      }
-    },
-    {
-      "chapter": "Matrices and Determinants",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "If $A$ is a $3 \\times 3$ matrix, then $|\\text{adj}(A)|$ equals:",
-      "options": {
-        "A": "$|A|^2$",
-        "B": "$|A|^3$",
-        "C": "$|A|$",
-        "D": "$1$"
+        "B": "$-1$",
+        "C": "$1$",
+        "D": "$2$"
       }
     },
     {
