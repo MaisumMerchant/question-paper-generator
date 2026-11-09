@@ -1,0 +1,61 @@
+name: Generate STBB Urdu Islamiat MCQ extract
+
+on:
+  push:
+    paths:
+      - .github/workflows/stbb-urdu-mcq-extract.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install PDF splitter
+        run: python -m pip install pypdf==6.21.4
+      - name: Download and verify the textbook
+        run: |
+          curl --fail --location --retry 3 --max-time 300 'https://portal.stbb.edu.pk/ebooks/pdf_proxy.php?id=265' -o /tmp/stbb-265.pdf
+          echo '632b8ec7bc1b639d5fcf3d9e13f187d09273e4541a0b6b17ef6b29b17dcfd3c7  /tmp/stbb-265.pdf' | sha256sum --check
+      - name: Extract original exercise pages
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from pypdf import PdfReader, PdfWriter
+          pages = [11,17,23,29,30,36,37,42,46,50,54,58,63,68,74,77,84,88,93,100,101,105,113,119,121,126,129,133,137,138,143,144,148,151,155]
+          src = PdfReader('/tmp/stbb-265.pdf')
+          assert len(src.pages) == 155
+          out = PdfWriter()
+          for n in pages:
+              out.add_page(src.pages[n - 1])
+          dest = Path('work-in-progress/stbb-265/Islamiat_Urdu_IX-X_DRAFT_MCQs.pdf')
+          with dest.open('wb') as f:
+              out.write(f)
+          assert len(PdfReader(dest).pages) == len(pages)
+          print('Extracted', len(pages), 'unchanged original pages to', dest)
+          readme = dest.with_name('README.md')
+          text = readme.read_text(encoding='utf-8')
+          text = text.replace('The scanned candidate extract is not yet committed.', 'The original-page MCQ extract and corresponding draft JSON are in this folder; both remain subject to review.')
+          readme.write_text(text, encoding='utf-8')
+          PY
+          if test -f work-in-progress/stbb-265/Islamiat_Urdu_IX-X_DRAFT.json; then
+            git mv work-in-progress/stbb-265/Islamiat_Urdu_IX-X_DRAFT.json work-in-progress/stbb-265/Islamiat_Urdu_IX-X_DRAFT_MCQs.json
+          fi
+      - name: Commit the original-page PDF and matching draft JSON
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add work-in-progress/stbb-265/README.md work-in-progress/stbb-265/Islamiat_Urdu_IX-X_DRAFT_MCQs.pdf work-in-progress/stbb-265/Islamiat_Urdu_IX-X_DRAFT_MCQs.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Add original STBB Urdu Islamiat MCQ exercise pages'
+            git push origin HEAD:main
+          fi
