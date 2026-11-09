@@ -1,0 +1,1621 @@
+{
+  "subject": "Islamiat",
+  "class": "IX",
+  "language": "Urdu",
+  "coverage": "DRAFT: 101 manually transcribed MCQs across 35 candidate exercise pages. All entries, Quranic diacritics, source page coverage, and class allocation require final proofreading. The source textbook covers both classes IX and X; no class-specific division has been verified.",
+  "source_url": "https://portal.stbb.edu.pk/ebooks/pdf_proxy.php?id=265",
+  "notes": "Options A, B, C, D correspond respectively to the original الف، ب، ج، د. The source does not mark answers, so no answer key is supplied.",
+  "questions": [
+    {
+      "chapter": "قرآن مجید: تعارف اور فضائل",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 11,
+      "source_printed_page": 6,
+      "text": "لفظ ”قرآن“ کے لغوی معنی ہے:",
+      "options": {
+        "A": "آسمانی کتاب",
+        "B": "سنی ہوئی کتاب",
+        "C": "پڑھی ہوئی کتاب",
+        "D": "لکھی ہوئی کتاب"
+      }
+    },
+    {
+      "chapter": "قرآن مجید: تعارف اور فضائل",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 11,
+      "source_printed_page": 6,
+      "text": "اللہ تعالیٰ کا دائمی و عالمگیر قانون ہے:",
+      "options": {
+        "A": "قرآن مجید",
+        "B": "احادیث",
+        "C": "فقہ",
+        "D": "تفسیر"
+      }
+    },
+    {
+      "chapter": "قرآن مجید: تعارف اور فضائل",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 11,
+      "source_printed_page": 6,
+      "text": "قرآن مجید کے نام ”الذکر“ سے مراد ہے:",
+      "options": {
+        "A": "راہ دکھانے والی کتاب",
+        "B": "روشنی والی کتاب",
+        "C": "نصیحت والی کتاب",
+        "D": "ثابت شدہ کتاب"
+      }
+    },
+    {
+      "chapter": "قرآن مجید: تعارف اور فضائل",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 11,
+      "source_printed_page": 6,
+      "text": "قرآن مجید اللہ تعالیٰ کا ازلی کلام، جو موجود ہے:",
+      "options": {
+        "A": "بیت المعمور میں",
+        "B": "خانہ کعبہ میں",
+        "C": "بیت العزت میں",
+        "D": "لوح محفوظ میں"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 12",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 17,
+      "source_printed_page": 12,
+      "text": "وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَاهَدُوا کا تعلق ہے:",
+      "options": {
+        "A": "ایمانیات سے",
+        "B": "معاملات سے",
+        "C": "مالی عبادات سے",
+        "D": "جانی عبادات سے"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 12",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 17,
+      "source_printed_page": 12,
+      "text": "یا ایہا الناس سے مخاطب کیا گیا ہے:",
+      "options": {
+        "A": "فرشتوں کو",
+        "B": "انسانوں کو",
+        "C": "حیوانوں کو",
+        "D": "جنوں کو"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 12",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 17,
+      "source_printed_page": 12,
+      "text": "البر حسن الخلق کے معنی ہیں:",
+      "options": {
+        "A": "نیکی سخاوت کا نام ہے",
+        "B": "نیکی بردباری کا نام ہے",
+        "C": "نیکی اچھے اخلاق کا نام ہے",
+        "D": "نیکی ایثار کا نام ہے"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 18",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 23,
+      "source_printed_page": 18,
+      "text": "ملکیت حوالے کرنے کے وقت مقرر کئے جائیں:",
+      "options": {
+        "A": "وکیل",
+        "B": "گواہ",
+        "C": "نائب",
+        "D": "حاکم"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 18",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 23,
+      "source_printed_page": 18,
+      "text": "یتیموں کو مال حوالے کرنے کے وقت جانچنا ہے:",
+      "options": {
+        "A": "بلوغ و رشد کو",
+        "B": "صحت اور مرض کو",
+        "C": "علم و دانش کو",
+        "D": "تحمل و برداشت کو"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 18",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 23,
+      "source_printed_page": 18,
+      "text": "یتیم کے مال سے کفیل کو بقدر ضرورت مال لینے کی اجازت ہے جب وہ:",
+      "options": {
+        "A": "کفیل غریب ہو",
+        "B": "کفیل امیر ہو",
+        "C": "کفیل قرضدار ہو",
+        "D": "کفیل محتاج ہو"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 18",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 23,
+      "source_printed_page": 18,
+      "text": "یتیموں اور مسکینوں سے بات کرنی چاہیے:",
+      "options": {
+        "A": "سختی سے",
+        "B": "نرمی سے",
+        "C": "غصے سے",
+        "D": "ناشائستگی سے"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 18",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 23,
+      "source_printed_page": 18,
+      "text": "قرآن مجید نے یتیموں کا مال ناحق کھانے والوں کا ٹھکانہ بتایا ہے:",
+      "options": {
+        "A": "جنت",
+        "B": "جہنم",
+        "C": "برزخ",
+        "D": "قبر"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 18",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 23,
+      "source_printed_page": 18,
+      "text": "یتامیٰ کا مال ناحق کھانے والے وہ اپنے پیٹ میں بھرتے ہیں:",
+      "options": {
+        "A": "مٹی",
+        "B": "آگ",
+        "C": "پانی",
+        "D": "ہوا"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 24",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 29,
+      "source_printed_page": 24,
+      "text": "آمدنی کا ناجائز طریقہ ہے:",
+      "options": {
+        "A": "زراعت",
+        "B": "صنعت",
+        "C": "تجارت",
+        "D": "رشوت"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 24",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 29,
+      "source_printed_page": 24,
+      "text": "حقوق العباد سے مراد ہیں:",
+      "options": {
+        "A": "اللہ تعالیٰ کے حقوق",
+        "B": "انسانوں کے حقوق",
+        "C": "حیوانات کے حقوق",
+        "D": "نباتات کے حقوق"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 24",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 29,
+      "source_printed_page": 24,
+      "text": "ابن السبیل سے مراد ہے:",
+      "options": {
+        "A": "فقیر",
+        "B": "مسکین",
+        "C": "مسافر",
+        "D": "ہمسایہ"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 25",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 30,
+      "source_printed_page": 25,
+      "text": "بے گناہ کو قتل کرنا گویا قتل کرنا ہے:",
+      "options": {
+        "A": "پوری کائنات کو",
+        "B": "پوری انسانیت کو",
+        "C": "پوری حیوانیت کو",
+        "D": "پورے خاندان کو"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 31",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 36,
+      "source_printed_page": 31,
+      "text": "”بِيَعٌ“ عبادت گاہ ہے:",
+      "options": {
+        "A": "ہندوؤں کی",
+        "B": "عیسائیوں کی",
+        "C": "سکھوں کی",
+        "D": "یہودیوں کی"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 31",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 36,
+      "source_printed_page": 31,
+      "text": "مسلمانوں کی مکہ مکرمہ سے مدینہ منورہ ہجرت کرنے کی وجہ تھی:",
+      "options": {
+        "A": "بے روزگاری",
+        "B": "قحط سالی",
+        "C": "شدید گرم موسم",
+        "D": "کفار مکہ کے مظالم"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 31",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 36,
+      "source_printed_page": 31,
+      "text": "مسلمانوں کو جہاد کی اجازت دی گئی:",
+      "options": {
+        "A": "مجبوری کی حالت میں",
+        "B": "خوشی کی حالت میں",
+        "C": "پریشانی کی حالت میں",
+        "D": "غصے کی حالت میں"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 32",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 37,
+      "source_printed_page": 32,
+      "text": "مسلمانوں پر کفار مکہ کے مظالم کی وجہ تھی:",
+      "options": {
+        "A": "قومی دشمنی",
+        "B": "خاندانی دشمنی",
+        "C": "سیاسی دشمنی",
+        "D": "مذہبی دشمنی"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 32",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 37,
+      "source_printed_page": 32,
+      "text": "اقامت صلوٰۃ و ایتاء زکوٰۃ اور امر بالمعروف و نہی عن المنکر کا اہتمام کرنے کی ذمہ داری ہے:",
+      "options": {
+        "A": "علماء کی",
+        "B": "حکمرانوں کی",
+        "C": "مجاہدین کی",
+        "D": "اساتذہ کی"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 37",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 42,
+      "source_printed_page": 37,
+      "text": "سنت کے لغوی معنی ہیں:",
+      "options": {
+        "A": "بات چیت",
+        "B": "قانون",
+        "C": "رسم و رواج",
+        "D": "طریقہ"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 37",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 42,
+      "source_printed_page": 37,
+      "text": "مفہوم اللہ تعالیٰ کا اور الفاظ حضور کریم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم کے ہوں تو وہ حدیث کہلاتی ہے:",
+      "options": {
+        "A": "تقریری",
+        "B": "فعلی",
+        "C": "قولی",
+        "D": "قدسی"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 37",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 42,
+      "source_printed_page": 37,
+      "text": "حدیث کے مفہوم کو ظاہر کرتا ہے لفظ:",
+      "options": {
+        "A": "سنت",
+        "B": "عقل",
+        "C": "قیاس",
+        "D": "اجماع"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 41",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 46,
+      "source_printed_page": 41,
+      "text": "حدیث میں افضل ذکر کہا گیا ہے:",
+      "options": {
+        "A": "سبحان اللہ کو",
+        "B": "الحمد للہ کو",
+        "C": "اللہ اکبر کو",
+        "D": "لا الہ الا اللہ کو"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 41",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 46,
+      "source_printed_page": 41,
+      "text": "اللہ تعالیٰ کی بارگاہ میں ”التجا کرنا“ کہلاتا ہے:",
+      "options": {
+        "A": "حمد",
+        "B": "ذکر",
+        "C": "دعا",
+        "D": "صلوٰۃ"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 41",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 46,
+      "source_printed_page": 41,
+      "text": "اطمینان قلب کا ذریعہ ہے:",
+      "options": {
+        "A": "شکر",
+        "B": "صبر",
+        "C": "ذکر",
+        "D": "سخا"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 45",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 50,
+      "source_printed_page": 45,
+      "text": "”دین کا مکمل علم حاصل کرنا“ ہے:",
+      "options": {
+        "A": "فرض عین",
+        "B": "فرض کفایہ",
+        "C": "سنت",
+        "D": "مستحب"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 45",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 50,
+      "source_printed_page": 45,
+      "text": "حدیث میں ”دین کا ستون“ کہا گیا ہے:",
+      "options": {
+        "A": "روزہ کو",
+        "B": "زکوٰۃ کو",
+        "C": "حج کو",
+        "D": "نماز کو"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 45",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 50,
+      "source_printed_page": 45,
+      "text": "حدیث میں ”جہنم کی آگ سے ڈھال“ قرار دیا گیا ہے:",
+      "options": {
+        "A": "نماز کو",
+        "B": "زکوٰۃ کو",
+        "C": "روزہ کو",
+        "D": "حج کو"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 49",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 54,
+      "source_printed_page": 49,
+      "text": "حدیث میں جو انسانوں کو زیادہ نفع پہنچائے اس کو کہا گیا ہے:",
+      "options": {
+        "A": "افضل الناس",
+        "B": "اکرم الناس",
+        "C": "خیر الناس",
+        "D": "احب الناس"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 49",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 54,
+      "source_printed_page": 49,
+      "text": "حدیث میں لعنت کا مستحق قرار دیا گیا ہے:",
+      "options": {
+        "A": "چغل خور کو",
+        "B": "غیبت کرنے والے کو",
+        "C": "بہتان لگانے والے کو",
+        "D": "رشوت لینے والے کو"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 49",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 54,
+      "source_printed_page": 49,
+      "text": "حدیث میں ”اوپر والے ہاتھ“ کو بہتر کہا گیا ہے۔ کیونکہ وہ:",
+      "options": {
+        "A": "دینے والا ہے",
+        "B": "لینے والا ہے",
+        "C": "سوال کرنے والا ہے",
+        "D": "بخل کرنے والا ہے"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 53",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 58,
+      "source_printed_page": 53,
+      "text": "چھینک کے وقت سننے والا کہتا ہے:",
+      "options": {
+        "A": "الحمدللہ",
+        "B": "یرحمک اللہ",
+        "C": "بارک اللہ",
+        "D": "جزاک اللہ"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 53",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 58,
+      "source_printed_page": 53,
+      "text": "جب کوئی کسی سے ملے تو کہے:",
+      "options": {
+        "A": "اللہ اکبر",
+        "B": "السلام علیکم",
+        "C": "سبحان اللہ",
+        "D": "ماشاء اللہ"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 53",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 58,
+      "source_printed_page": 53,
+      "text": "جو کام اللہ تعالیٰ کی رضا کے لیے کیا جائے وہ کہلاتا ہے:",
+      "options": {
+        "A": "اخلاص",
+        "B": "ریا",
+        "C": "تقویٰ",
+        "D": "زہد"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 53",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 58,
+      "source_printed_page": 53,
+      "text": "حدیث میں طلب علم کے لیے کس ملک جانے کے لیے ترغیب دی گئی ہے:",
+      "options": {
+        "A": "یمن",
+        "B": "شام",
+        "C": "ایران",
+        "D": "چین"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 58",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 63,
+      "source_printed_page": 58,
+      "text": "اپنے رشتے داروں کے دکھ سکھ میں شریک ہونا کہلاتا ہے:",
+      "options": {
+        "A": "اکرام الضیف",
+        "B": "صلہ رحمی",
+        "C": "حسن ظن",
+        "D": "حقوق العباد"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 58",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 63,
+      "source_printed_page": 58,
+      "text": "کسی چیز کی تحقیق کے سوا کچھ کہنا کہلاتا ہے:",
+      "options": {
+        "A": "یقین",
+        "B": "شک",
+        "C": "ظن",
+        "D": "خیال"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 58",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 63,
+      "source_printed_page": 58,
+      "text": "حدیث میں صلہ رحمی کا فائدہ بتایا گیا ہے:",
+      "options": {
+        "A": "صحت مند ہونا",
+        "B": "شہرت یافتہ ہونا",
+        "C": "رزق کشادہ ہونا",
+        "D": "معزز ہونا"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 63",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 68,
+      "source_printed_page": 63,
+      "text": "توحید کے لفظی معنی ہیں:",
+      "options": {
+        "A": "ایک ماننا",
+        "B": "یقین کرنا",
+        "C": "نظم و ضبط رکھنا",
+        "D": "ہدایت و رہبری کرنا"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 63",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 68,
+      "source_printed_page": 63,
+      "text": "ایک مسلمان کو پہلے:",
+      "options": {
+        "A": "عقیدہ درست کرنا چاہیے",
+        "B": "نماز پڑھنا چاہیے",
+        "C": "با اخلاق ہونا چاہیے",
+        "D": "حج کرنا چاہیے"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 63",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 68,
+      "source_printed_page": 63,
+      "text": "انسان کی فلاح و نجات کا مدار ہے:",
+      "options": {
+        "A": "صبر و شکر پر",
+        "B": "اخلاق و تقویٰ پر",
+        "C": "ایمان و عمل صالح پر",
+        "D": "تحمل و بردباری پر"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 69",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 74,
+      "source_printed_page": 69,
+      "text": "نبوت و رسالت ایک ایسا منصب ہے جو:",
+      "options": {
+        "A": "کوئی بھی انسان محنت کر کے حاصل کر سکتا ہے۔",
+        "B": "عبادت گزار لوگوں کو ملتا ہے۔",
+        "C": "خدمت خلق کرنے والوں کو ملتا ہے۔",
+        "D": "اللہ تعالیٰ اپنے خاص منتخب بندوں کو عطا کرتا ہے۔"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 69",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 74,
+      "source_printed_page": 69,
+      "text": "اللہ تعالیٰ نے ہر قوم کی ہدایت و رہبری کے لیے بھیجا ہے:",
+      "options": {
+        "A": "کتاب",
+        "B": "نبی",
+        "C": "فرشتہ",
+        "D": "جن"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 69",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 74,
+      "source_printed_page": 69,
+      "text": "اللہ تعالیٰ کی طرف سے بھیجے گئے پہلے نبی ہیں:",
+      "options": {
+        "A": "حضرت آدم علیہ السلام",
+        "B": "حضرت موسیٰ علیہ السلام",
+        "C": "حضرت عیسیٰ علیہ السلام",
+        "D": "حضرت ابراہیم علیہ السلام"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 72",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 77,
+      "source_printed_page": 72,
+      "text": "اللہ تعالیٰ نے انسانوں اور جنوں کو پیدا کیا ہے:",
+      "options": {
+        "A": "عبادت کے لیے",
+        "B": "زراعت کے لیے",
+        "C": "تجارت کے لیے",
+        "D": "صنعت و حرفت کے لیے"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 72",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 77,
+      "source_printed_page": 72,
+      "text": "حضور کریم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم کے اسوہ حسنہ کے مطابق زندگی گزارنے کا نام ہے:",
+      "options": {
+        "A": "معیشت",
+        "B": "معاشرت",
+        "C": "عبادت",
+        "D": "تجارت"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 72",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 77,
+      "source_printed_page": 72,
+      "text": "انسان کو پیدا کرنے کا مقصد ہے:",
+      "options": {
+        "A": "زمین کو آباد کرنا",
+        "B": "اللہ تعالیٰ کی عبادت کرنا",
+        "C": "تجارت کرنا",
+        "D": "کھیتی باڑی کرنا"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 79",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 84,
+      "source_printed_page": 79,
+      "text": "جہاد کی اقسام ہیں:",
+      "options": {
+        "A": "۳",
+        "B": "۴",
+        "C": "۵",
+        "D": "۶"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 79",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 84,
+      "source_printed_page": 79,
+      "text": "جہاد بالسیف کا مطلب ہے جہاد کرنا:",
+      "options": {
+        "A": "دل سے",
+        "B": "زبان سے",
+        "C": "اسلحہ سے",
+        "D": "قلم سے"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 79",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 84,
+      "source_printed_page": 79,
+      "text": "بعض روایات میں نفس کے ساتھ جہاد کرنے کو کہا گیا ہے:",
+      "options": {
+        "A": "جہاد اصغر",
+        "B": "جہاد اکبر",
+        "C": "جہاد اوسط",
+        "D": "جہاد اعظم"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 83",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 88,
+      "source_printed_page": 83,
+      "text": "قریش مکہ سال میں دو مرتبہ جن ملکوں کی طرف سفر کرتے تھے وہ تھے:",
+      "options": {
+        "A": "ایران۔ چین",
+        "B": "عراق۔ مصر",
+        "C": "شام۔ یمن",
+        "D": "حبش۔ یمن"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 83",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 88,
+      "source_printed_page": 83,
+      "text": "اہل مکہ کی مجلس مشاورت کا نام تھا:",
+      "options": {
+        "A": "دارالندوہ",
+        "B": "دارالہجرۃ",
+        "C": "خانہ کعبہ",
+        "D": "صفہ"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 83",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 88,
+      "source_printed_page": 83,
+      "text": "سب سے پہلے جو سورۃ نازل ہوئی وہ تھی:",
+      "options": {
+        "A": "القلم",
+        "B": "المدثر",
+        "C": "المزمل",
+        "D": "العلق"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 83",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 88,
+      "source_printed_page": 83,
+      "text": "پہلی وحی جس اسلامی مہینے میں نازل ہوئی وہ تھا:",
+      "options": {
+        "A": "محرم الحرام",
+        "B": "رمضان المبارک",
+        "C": "ربیع الاول",
+        "D": "شعبان المعظم"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 88",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 93,
+      "source_printed_page": 88,
+      "text": "دعوت کے لغوی معنی ہے:",
+      "options": {
+        "A": "بتانا",
+        "B": "پڑھانا",
+        "C": "پکارنا",
+        "D": "بلانا"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 88",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 93,
+      "source_printed_page": 88,
+      "text": "نیک اور اچھی بات دوسروں تک پہنچانے کو کہا جاتا ہے:",
+      "options": {
+        "A": "تقریر",
+        "B": "تدریس",
+        "C": "تبلیغ",
+        "D": "تجویز"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 88",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 93,
+      "source_printed_page": 88,
+      "text": "مکہ مکرمہ میں دعوت و تبلیغ کا ابتدائی مرکز تھا:",
+      "options": {
+        "A": "دار ارقم",
+        "B": "شعب ابی طالب",
+        "C": "کوہ صفا",
+        "D": "مسجد الحرام"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 88",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 93,
+      "source_printed_page": 88,
+      "text": "داعی کا کام ہے کہ مخاطب کی تنقید سن کر اس سے:",
+      "options": {
+        "A": "بدلہ لے",
+        "B": "درگزر کرے",
+        "C": "جھگڑا کرے",
+        "D": "غصہ کرے"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 95",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 100,
+      "source_printed_page": 95,
+      "text": "ہجرت لفظ کے معنی ہیں:",
+      "options": {
+        "A": "مسلمان ہونا",
+        "B": "حصول علم کے لیے سفر کرنا",
+        "C": "دین کی خاطر نقل مکانی کرنا",
+        "D": "قیام کرنا"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 96",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 101,
+      "source_printed_page": 96,
+      "text": "سفر ہجرت کے دوران حضور کریم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم ٹھہرے:",
+      "options": {
+        "A": "غار حرا میں",
+        "B": "غار ثور میں",
+        "C": "کہف میں",
+        "D": "طائف میں"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 96",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 101,
+      "source_printed_page": 96,
+      "text": "رسول اللہ صلی اللہ علیہ وعلی آلہ واصحابہ وسلم بذات خود جس جنگی مہم میں شامل ہوں وہ کہلاتا ہے:",
+      "options": {
+        "A": "غنیمت",
+        "B": "جزیہ",
+        "C": "غزوہ",
+        "D": "سریہ"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 96",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 101,
+      "source_printed_page": 96,
+      "text": "دوسرا غزوہ ہے:",
+      "options": {
+        "A": "تبوک",
+        "B": "خیبر",
+        "C": "احد",
+        "D": "بدر"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 100",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 105,
+      "source_printed_page": 100,
+      "text": "حضور کریم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم کے خصائل و شمائل سے مراد ہے:",
+      "options": {
+        "A": "سیرت نبوی",
+        "B": "اسوہ حسنہ",
+        "C": "سنت",
+        "D": "عمدہ عادات و خصوصیات"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 100",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 105,
+      "source_printed_page": 100,
+      "text": "فتح مکہ کے وقت اپنی قوم کے تمام لوگوں کو حضور اکرم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم نے:",
+      "options": {
+        "A": "قید کر دیا",
+        "B": "شہر چھوڑنے پر مجبور کر دیا",
+        "C": "معاف کر دیا",
+        "D": "امیر بنا دیا"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 108",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 113,
+      "source_printed_page": 108,
+      "text": "حضور اکرم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم کی ازواج مطہرات کو قرآن کریم میں کہا گیا ہے:",
+      "options": {
+        "A": "امہات المؤمنین",
+        "B": "امہات المسلمین",
+        "C": "اخوات المؤمنین",
+        "D": "سیدات المسلمین"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 108",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 113,
+      "source_printed_page": 108,
+      "text": "اہل بیت کے لغوی معنی ہیں:",
+      "options": {
+        "A": "بیت لکھنے والے",
+        "B": "شاعری کرنے والے",
+        "C": "گھر والے",
+        "D": "ایمان والے"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 114",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 119,
+      "source_printed_page": 114,
+      "text": "عشرہ مبشرہ کے معنی ہیں:",
+      "options": {
+        "A": "دس دوست",
+        "B": "دس ساتھی",
+        "C": "دس عمل",
+        "D": "خوشخبری سنائے جانے والے دس آدمی"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 114",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 119,
+      "source_printed_page": 114,
+      "text": "صحابی وہ ہے جس نے ایمان کی حالت میں حضور اکرم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم سے:",
+      "options": {
+        "A": "ملاقات کی ہو",
+        "B": "تجارت کی ہو",
+        "C": "دوستی کی ہو",
+        "D": "مواخات کی ہو"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 114",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 119,
+      "source_printed_page": 114,
+      "text": "حدیث شریف میں سب سے بہتر زمانہ قرار دیا گیا ہے:",
+      "options": {
+        "A": "موجودہ زمانہ کو",
+        "B": "حضور اکرم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم کے زمانہ کو",
+        "C": "بعثت سے قبل کے زمانہ کو",
+        "D": "آخرت کے زمانہ کو"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 116",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 121,
+      "source_printed_page": 116,
+      "text": "حضور کریم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم کا ارشاد پاک ہے کہ انبیاء کرام علیہم السلام کے وارث ہیں:",
+      "options": {
+        "A": "علماء کرام",
+        "B": "اولیاء کرام",
+        "C": "اساتذہ کرام",
+        "D": "طلباء کرام"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 121",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 126,
+      "source_printed_page": 121,
+      "text": "تمام رشتوں ناتوں میں سے اہم رشتہ ہے:",
+      "options": {
+        "A": "ماں باپ کا",
+        "B": "میاں بیوی کا",
+        "C": "بہن بھائی کا",
+        "D": "استاد شاگرد کا"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 121",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 126,
+      "source_printed_page": 121,
+      "text": "خاندان کی خوبصورتی ہے:",
+      "options": {
+        "A": "افراد خانہ",
+        "B": "دولت",
+        "C": "اولاد",
+        "D": "وراثت"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 124",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 129,
+      "source_printed_page": 124,
+      "text": "اسلام سے قبل زمانہ جاہلیت میں احترام انسانیت تھا:",
+      "options": {
+        "A": "زیادہ",
+        "B": "کم",
+        "C": "ختم",
+        "D": "بہتر"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 124",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 129,
+      "source_printed_page": 124,
+      "text": "تم میں سے اللہ تعالیٰ کے نزدیک زیادہ عزت والا وہ ہے جو:",
+      "options": {
+        "A": "زیادہ تقویٰ والا ہو",
+        "B": "زیادہ مرتبے والا ہو",
+        "C": "زیادہ علم والا ہو",
+        "D": "زیادہ دولت والا ہو"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 128",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 133,
+      "source_printed_page": 128,
+      "text": "عدل عربی لفظ ہے جس کے معنی ہیں:",
+      "options": {
+        "A": "انصاف قائم کرنا",
+        "B": "لوگوں سے اچھا سلوک کرنا",
+        "C": "کسی چیز کو دو برابر حصوں میں تقسیم کرنا",
+        "D": "مظلوم کی بد دعا سے بچنا"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 128",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 133,
+      "source_printed_page": 128,
+      "text": "قرآن کریم میں حکم ہے عدل کرو، کیوں کہ وہ زیادہ قریب ہے:",
+      "options": {
+        "A": "نیکی کو",
+        "B": "تقویٰ کو",
+        "C": "جنت کو",
+        "D": "فرمانبرداری کو"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 128",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 133,
+      "source_printed_page": 128,
+      "text": "ملک میں عدل و انصاف قائم ہو گا تو معاشرہ بن جائے گا:",
+      "options": {
+        "A": "امن و سکون والا",
+        "B": "ترقی یافتہ",
+        "C": "عام بھلائی والا",
+        "D": "نیکی والا"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 132",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 137,
+      "source_printed_page": 132,
+      "text": "عفت کے لفظ کے ساتھ دوسرا لفظ استعمال ہوتا ہے:",
+      "options": {
+        "A": "عصمت",
+        "B": "پاک دامنی",
+        "C": "پرہیزگاری",
+        "D": "پاکیزگی"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 133",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 138,
+      "source_printed_page": 133,
+      "text": "حیا کو اہم شعبہ کہا جاتا ہے:",
+      "options": {
+        "A": "اسلام کا",
+        "B": "ایمان کا",
+        "C": "شریعت کا",
+        "D": "قرآن و سنت کا"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 133",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 138,
+      "source_printed_page": 133,
+      "text": "اسلام میں لباس کے جو دو مقاصد بیان ہوئے ہیں:",
+      "options": {
+        "A": "سادگی اور صفائی",
+        "B": "عمدگی اور نفاست",
+        "C": "ستر اور زینت",
+        "D": "سفیدی اور کشادگی"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 133",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 138,
+      "source_printed_page": 133,
+      "text": "حدیث میں ایمان کی شاخوں کی تعداد فرمائی گئی ہیں:",
+      "options": {
+        "A": "پچاس سے زیادہ",
+        "B": "ستر سے زیادہ",
+        "C": "اسی سے زیادہ",
+        "D": "نوے سے زیادہ"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 133",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 138,
+      "source_printed_page": 133,
+      "text": "بعض علماء نے حیا کے مراتب بتائے ہیں:",
+      "options": {
+        "A": "دو",
+        "B": "تین",
+        "C": "چار",
+        "D": "پانچ"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 138",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 143,
+      "source_printed_page": 138,
+      "text": "حضرت امام حسین رضی اللہ عنہ کی آخری آرام گاہ ہے:",
+      "options": {
+        "A": "کوفہ",
+        "B": "بصرہ",
+        "C": "کربلا",
+        "D": "مدینہ منورہ"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 139",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 144,
+      "source_printed_page": 139,
+      "text": "یزید نے کوفہ کا نیا گورنر بنایا تھا:",
+      "options": {
+        "A": "عبید اللہ بن زیاد کو",
+        "B": "ولید بن عتبہ کو",
+        "C": "مسلم بن عقیل کو",
+        "D": "نعمان بن بشیر کو"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 139",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 144,
+      "source_printed_page": 139,
+      "text": "حضرت امام حسین رضی اللہ عنہ کی شہادت ۶۱ھ میں ہوئی:",
+      "options": {
+        "A": "۱۰ محرم الحرام",
+        "B": "۱۵ شعبان",
+        "C": "۱۲ ربیع الاول",
+        "D": "۱۰ شوال"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 143",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 148,
+      "source_printed_page": 143,
+      "text": "حضرت ابوعبیدہ بن جراح رضی اللہ عنہ کا نام تھا:",
+      "options": {
+        "A": "عبد اللہ",
+        "B": "عمر",
+        "C": "عمران",
+        "D": "عامر"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 143",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 148,
+      "source_printed_page": 143,
+      "text": "”اَمِیْنُ هٰذِهِ الْاُمَّةِ“ لقب تھا:",
+      "options": {
+        "A": "حضرت انس رضی اللہ عنہ کا",
+        "B": "حضرت زبیر رضی اللہ عنہ کا",
+        "C": "حضرت ابوعبیدہ بن جراح رضی اللہ عنہ کا",
+        "D": "حضرت اسامہ رضی اللہ عنہ کا"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 143",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 148,
+      "source_printed_page": 143,
+      "text": "حضرت ابوعبیدہ بن جراح رضی اللہ عنہ نے دو ملکوں کی طرف ہجرت کی:",
+      "options": {
+        "A": "حبشہ و مدینہ منورہ",
+        "B": "مکہ مکرمہ و مدینہ منورہ",
+        "C": "شام و فلسطین",
+        "D": "طائف و مدینہ منورہ"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 143",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 148,
+      "source_printed_page": 143,
+      "text": "حضرت ابوعبیدہ بن جراح رضی اللہ عنہ کی وفات کا سبب تھا:",
+      "options": {
+        "A": "شہادت",
+        "B": "طاعون کی وبا",
+        "C": "بخار",
+        "D": "دل کا دورہ"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 146",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 151,
+      "source_printed_page": 146,
+      "text": "جابر بن حیان کے دادا کا نام تھا:",
+      "options": {
+        "A": "عبیداللہ",
+        "B": "عبدالرحمن",
+        "C": "عبداللہ"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 146",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 151,
+      "source_printed_page": 146,
+      "text": "جابر بن حیان کے خاندان کا نام تھا:",
+      "options": {
+        "A": "قریش",
+        "B": "صدیقی",
+        "C": "ازد"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 146",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 151,
+      "source_printed_page": 146,
+      "text": "جابر بن حیان کے والد کا کاروبار تھا:",
+      "options": {
+        "A": "لکڑیاں بیچنے کا",
+        "B": "خوشبو کا",
+        "C": "چمڑا تیار کرنے کا"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 146",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 151,
+      "source_printed_page": 146,
+      "text": "جابر بن حیان کی مشہور ایجاد ہے:",
+      "options": {
+        "A": "کمپیوٹر",
+        "B": "بلب",
+        "C": "تیزاب"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 146",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 151,
+      "source_printed_page": 146,
+      "text": "عرق نکالنے کے لیے انہوں نے ایجاد کیا:",
+      "options": {
+        "A": "مٹکا",
+        "B": "قرع انبیق",
+        "C": "بوتل"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 150",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 155,
+      "source_printed_page": 150,
+      "text": "حضرت محمد راشد روضہ دھنی رحمتہ اللہ علیہ کا سلسلہ نسب ملتا ہے:",
+      "options": {
+        "A": "حضرت ابوبکر رضی اللہ عنہ سے",
+        "B": "حضرت عباس رضی اللہ عنہ سے",
+        "C": "حضرت امام حسین رضی اللہ عنہ سے",
+        "D": "حضرت حمزہ رضی اللہ عنہ سے"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 150",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 155,
+      "source_printed_page": 150,
+      "text": "آپ کا ”گاؤں رحیم ڈنو کلھوڑو“ واقع ہے:",
+      "options": {
+        "A": "شکارپور میں",
+        "B": "سکھر میں",
+        "C": "خیرپور میرس میں",
+        "D": "نواب شاہ میں"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 150",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 155,
+      "source_printed_page": 150,
+      "text": "حضرت محمد راشد روضہ دھنی رحمتہ اللہ علیہ کے اقوال و احوال پر مشتمل کتاب ہے:",
+      "options": {
+        "A": "سندھی کلام",
+        "B": "تحفۃ السالکین",
+        "C": "مجمع الجوامع",
+        "D": "ملفوظات شریف"
+      }
+    },
+    {
+      "chapter": "Urdu exercise — printed page 150",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 155,
+      "source_printed_page": 150,
+      "text": "اسلام کی اشاعت کے لیے آبائی وطن چھوڑ کر سکونت اختیار کی:",
+      "options": {
+        "A": "سہون",
+        "B": "لک آری",
+        "C": "آمری",
+        "D": "میہر"
+      }
+    }
+  ]
+}
