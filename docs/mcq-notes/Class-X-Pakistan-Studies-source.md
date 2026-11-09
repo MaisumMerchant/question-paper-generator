@@ -1,0 +1,3 @@
+# Class X Pakistan Studies: official source check
+
+STBB lists [Pak Studies X, English, 2023–24](https://portal.stbb.edu.pk/ebooks/book.php?id=235); the [source PDF](https://portal.stbb.edu.pk/ebooks/pdf_proxy.php?id=235) has 192 PDF pages. The PDF's exercise headings occur on pages 13, 37, 48, 72, 99, 118, 129, 144, 161, 172, 180, 186 and 192. Visual inspection of these exercise pages and adjacent pages found written questions, fill-in-the-blanks and activities, but no multiple-choice options on those exercise pages. Therefore no MCQ bank or purported MCQ exercise PDF was fabricated from this edition. This check does not establish whether another edition contains MCQs, or whether MCQs appear elsewhere in this book.
