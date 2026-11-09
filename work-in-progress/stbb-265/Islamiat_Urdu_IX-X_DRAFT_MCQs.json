@@ -2,9 +2,9 @@
   "subject": "Islamiat",
   "class": "IX",
   "language": "Urdu",
-  "coverage": "DRAFT: 101 manually transcribed MCQs across 35 candidate exercise pages. All entries, Quranic diacritics, source page coverage, and class allocation require final proofreading. The source textbook covers both classes IX and X; no class-specific division has been verified.",
+  "coverage": "DRAFT: 101 transcribed MCQs from 35 selected exercise pages. The selected pages were visually compared with the transcription; full-book coverage and the IX/X curriculum division remain unverified.",
   "source_url": "https://portal.stbb.edu.pk/ebooks/pdf_proxy.php?id=265",
-  "notes": "Options A, B, C, D correspond respectively to the original الف، ب، ج، د. The source does not mark answers, so no answer key is supplied.",
+  "notes": "Options A, B, C, D correspond respectively to the original الف، ب، ج، د. The source does not mark answers, so no answer key is supplied. Text and options were visually rechecked against the 35 selected source pages; Arabic diacritics and complete-book coverage still require independent review.",
   "questions": [
     {
       "chapter": "قرآن مجید: تعارف اور فضائل",
@@ -1358,7 +1358,7 @@
       "year": null,
       "source_pdf_page": 138,
       "source_printed_page": 133,
-      "text": "بعض علماء نے حیا کے مراتب بتائے ہیں:",
+      "text": "بعض حکماء نے حیا کے مراتب بتائے ہیں:",
       "options": {
         "A": "دو",
         "B": "تین",
@@ -1597,7 +1597,7 @@
       "options": {
         "A": "سندھی کلام",
         "B": "تحفۃ السالکین",
-        "C": "مجمع الجوامع",
+        "C": "جمع الجوامع",
         "D": "ملفوظات شریف"
       }
     },
