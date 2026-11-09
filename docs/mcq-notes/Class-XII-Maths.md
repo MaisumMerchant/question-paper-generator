@@ -6,7 +6,7 @@ Some printed questions are ambiguous or flawed: review exercise 2(iv) gives a re
 
 ## Review exercises 6–7
 
-The 20 Integration questions (PDF pages 10–13, printed pages 188–191) and 10 Plane Analytic Geometry: Straight Line questions (PDF pages 14–15, printed pages 238–239) were transcribed from the page images. This brought the reviewed portion to 86 questions. Review Exercise 1 is absent from this extract; this is not full textbook coverage.
+The 20 Integration questions (PDF pages 10–13, printed pages 188–191) and 10 Plane Analytic Geometry: Straight Line questions (PDF pages 14–15, printed pages 238–239) were transcribed from the page images. This brought the reviewed portion to 86 questions. The supplied extract begins at Review Exercise 2; see the Unit 1 comparison below.
 
 Printed issues retained without an answer key: 6(iii) writes ln x rather than ln |x|; 6(xi) involves inverse cosecant conventions and domain/sign restrictions; 6(xvi) does not explicitly identify the other boundary of the area; 6(xx) does not state restrictions on a. In 7(iii)–(iv), slope criteria as printed do not address vertical lines. 7(iii) option (c) says “Does not exit” in the source.
 
@@ -20,6 +20,10 @@ The 20 Parabola, Ellipse and Hyperbola questions were transcribed from PDF pages
 
 ## Review exercises 10–12
 
-Differential Equations (8), Partial Differentiation (10), and Introduction to Numerical Methods (10) were transcribed from PDF pages 21–26 (printed pages 372–373, 386–387, and 407–408). All 154 MCQs in the supplied review-exercise extract are now represented; this does not establish full textbook coverage because Review Exercise 1 is missing.
+Differential Equations (8), Partial Differentiation (10), and Introduction to Numerical Methods (10) were transcribed from PDF pages 21–26 (printed pages 372–373, 386–387, and 407–408). All 154 MCQs in the supplied review-exercise extract are now represented. This does not by itself establish full textbook coverage; see the Unit 1 comparison below.
 
 Printed issues retained without an answer key: 10(ii) shows an expression rather than a complete equation; 10(vi) does not specify a solution domain across the singular point x=0; 10(vii) also has the zero solution. In 11(i) and 11(iii), ratios require nonzero denominators; 11(vii) depends on how the trapezium is parameterized. In 12(i), a root in an interval does not determine a unique sign of the endpoint product; 12(iv) and 12(x) state “fastest” without conditions; 12(viii) and 12(ix) have overlapping choices. The exercise wording and choices remain as printed.
+
+## Unit 1 comparison with full book
+
+The extract begins with Review Exercise 2. The matching [2024 full textbook copy](https://www.taleem360.com/12th-class-mathematics-sindh-text-book-pdf-by-stbb) has Unit 1, Introduction to Symbolic Package: MAPLE, on printed pages 1–19, followed by Unit 2 on page 20. Page 19 ends Unit 1 with a written Exercise 1 (10 non-MCQ tasks), not a Review Exercise 1. An OCR-assisted scan of Unit 1 found no other review or multiple-choice heading; OCR can miss material, so this is not a substitute for a second visual proofread of every page. The copy's page 54 matches the supplied extract's start of Review Exercise 2. The full copy was consulted for comparison only and is not substituted for the original extract.
