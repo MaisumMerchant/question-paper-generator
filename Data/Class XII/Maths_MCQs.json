@@ -8,7 +8,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The function $y=x$ is called:",
+      "text": "The function $f(x)=x$ is called",
       "options": {
         "A": "Quadratic function",
         "B": "Cubic function",
@@ -22,12 +22,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The set $\\{x\\mid x\\le a\\}$ can be written as:",
+      "text": "The set $\\{x\\mid x\\in\\mathbb{R}\\}$ can be written as",
       "options": {
         "A": "$[-\\infty,\\infty]$",
-        "B": "$[-\\infty,a]$",
-        "C": "$(-\\infty,a]$",
-        "D": "$(-\\infty,\\infty)$"
+        "B": "$(-\\infty,a)$",
+        "C": "$(-\\infty,\\infty)$",
+        "D": "$(a,\\infty)$"
       }
     },
     {
@@ -39,9 +39,9 @@
       "text": "$[3,5]-(3,5)=$",
       "options": {
         "A": "$\\emptyset$",
-        "B": "(3,5)",
-        "C": "$\\{3,5\\}$",
-        "D": "$\\{1,5\\}$"
+        "B": "$(3,5)$",
+        "C": "$[3,5]$",
+        "D": "$\\{3,5\\}$"
       }
     },
     {
@@ -50,7 +50,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Let $R=\\{(x,y)\\mid x\\in\\mathbb{R}$ and $y=5\\}$",
+      "text": "Let $R=\\{(x,y)\\mid x,y\\in\\mathbb{R}$ and $y=5\\}$",
       "options": {
         "A": "Set of real numbers",
         "B": "$\\{5\\}$",
@@ -64,7 +64,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A function $f(x)=\\frac{x}{|x|}$, $x\\ne 0$ is an:",
+      "text": "A function $f(x)=\\frac{x}{\\lvert x\\rvert}$, $x\\ne0$ is an:",
       "options": {
         "A": "odd function",
         "B": "even function",
@@ -92,7 +92,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The limit of the sequence having general term $a_n=\\left(\\frac{1}{2}\\right)^n$ is:",
+      "text": "The limit of the sequence having general term $a_n=\\frac{1}{2^n}$ is:",
       "options": {
         "A": "0",
         "B": "1",
@@ -106,9 +106,9 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "$\\lim_{x\\to 0}\\frac{\\sin ax}{x}=$?",
+      "text": "$\\lim_{x\\to0}\\frac{\\sin ax}{x}=$?",
       "options": {
-        "A": "1",
+        "A": "$\\frac1a$",
         "B": "$a$",
         "C": "$\\infty$",
         "D": "0"
@@ -120,7 +120,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "$\\lim_{x\\to 3}\\frac{x^2-9}{x-3}=$?",
+      "text": "$\\lim_{x\\to3}\\frac{x^2-9}{x-3}=$?",
       "options": {
         "A": "3",
         "B": "$\\infty$",
@@ -148,12 +148,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "$\\lim_{h\\to 0}\\sin\\left(\\frac{\\pi}{2}+h\\right)=$?",
+      "text": "$\\lim_{h\\to0}\\sin(\\frac\\pi2+h)=$",
       "options": {
         "A": "1",
         "B": "-1",
         "C": "0",
-        "D": "$\\frac{1}{2}$"
+        "D": "$\\frac12$"
       }
     },
     {
@@ -162,12 +162,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "$\\lim_{x\\to 0}\\frac{e^{-x}-1}{x}=$?",
+      "text": "$\\lim_{x\\to0}e^{-1/x}=$",
       "options": {
         "A": "0",
         "B": "1",
-        "C": "-1",
-        "D": "does not exist"
+        "C": "$\\infty$",
+        "D": "$-\\infty$"
       }
     },
     {
@@ -176,12 +176,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "$\\lim_{x\\to c} f(x)$ exists if and only if:",
+      "text": "$\\lim_{x\\to c}f(x)$ exists if and only if",
       "options": {
-        "A": "$\\lim_{x\\to c^-} f(x)$ exists",
-        "B": "$\\lim_{x\\to c^+} f(x)$ exists",
-        "C": "$\\lim_{x\\to c^-} f(x)=\\lim_{x\\to c^+} f(x)$",
-        "D": "$\\lim_{x\\to c^+} f(x)\\ne\\lim_{x\\to c^-} f(x)$"
+        "A": "$\\lim_{x\\to c^+}f(x)$ exists",
+        "B": "$\\lim_{x\\to c^-}f(x)$ exists",
+        "C": "$\\lim_{x\\to c^+}f(x)=\\lim_{x\\to c^-}f(x)$",
+        "D": "$\\lim_{x\\to c^+}f(x)\\ne\\lim_{x\\to c^-}f(x)$"
       }
     },
     {
@@ -190,7 +190,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "$\\lim_{n\\to\\infty}\\left(1+\\frac{1}{n}\\right)^{-7n}$ is:",
+      "text": "$\\lim_{n\\to\\infty}(1+\\frac1n)^{-7n}=$",
       "options": {
         "A": "$e^{-7}$",
         "B": "$e$",
@@ -204,7 +204,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The limit of the sequence $1, \\pi^{-1}, \\pi^{-2}, \\pi^{-3}, \\ldots$ is:",
+      "text": "The limit of the sequence $1,\\pi^{-1},\\pi^{-2},\\pi^{-3},\\ldots$ is:",
       "options": {
         "A": "1",
         "B": "$\\pi$",
@@ -218,11 +218,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which of the following represents parametric function:",
+      "text": "Which of the following represents parametric function?",
       "options": {
         "A": "$y=f(x)$",
-        "B": "$f(x)=0$",
-        "C": "$x=f(t), y=g(t)$",
+        "B": "$f(x,y)=0$",
+        "C": "$x=f(t),y=g(t)$",
         "D": "None of these"
       }
     },
@@ -232,7 +232,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $g(x)=3x+2$ and $g(f(x))=x$ then $f(2)=$:",
+      "text": "If $g(x)=3x+2$ and $g(f(x))=x$, then $f(2)=$",
       "options": {
         "A": "2",
         "B": "6",
@@ -246,12 +246,40 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The value of $k$ for which $f(x)=\\frac{\\tan kx}{x}$, $x\\ne 0$ is continuous is:",
+      "text": "The value of $k$ for which $f(x)=\\begin{cases}x/\\tan(3x),&x\\ne0\\\\k,&x=0\\end{cases}$ is continuous is",
       "options": {
         "A": "0",
         "B": "3",
-        "C": "1",
-        "D": "1"
+        "C": "$\\frac12$",
+        "D": "$\\frac13$"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\lim_{x\\to0}(1-x)^{1/x}=$",
+      "options": {
+        "A": "$e^3$",
+        "B": "$e^{-1/2}$",
+        "C": "$e$",
+        "D": "$e^{-1}$"
+      }
+    },
+    {
+      "chapter": "Functions and Limits",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$\\operatorname{sech}^{-1}x=$",
+      "options": {
+        "A": "$\\ln(x+\\sqrt{x^2+1})$",
+        "B": "$\\ln(\\frac1x+\\frac{\\sqrt{1-x^2}}x)$",
+        "C": "$\\frac12\\ln(\\frac{1+x}{1-x})$",
+        "D": "$\\frac12\\ln(\\frac{1-x}{1+x})$"
       }
     },
     {
@@ -260,12 +288,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The derivative of $x^3$ is:",
+      "text": "The derivative of $\\frac2{x^3}$ is:",
       "options": {
-        "A": "$3x^2$",
-        "B": "$-3x^2$",
-        "C": "$6x^4$",
-        "D": "$-6x^4$"
+        "A": "$\\frac2{3x^2}$",
+        "B": "$-\\frac2{3x^2}$",
+        "C": "$\\frac6{x^4}$",
+        "D": "$-\\frac6{x^4}$"
       }
     },
     {
@@ -274,12 +302,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The derivative of $\\sqrt{x}+x$ is:",
+      "text": "The derivative of $\\sqrt{x}+x\\sqrt{x}$ is:",
       "options": {
-        "A": "$\\frac{1}{2\\sqrt{x}}+1$",
-        "B": "$-\\frac{1}{2\\sqrt{x}}$",
-        "C": "$\\frac{1}{\\sqrt{x}}+\\frac{1}{3}$",
-        "D": "$\\frac{1}{\\sqrt{x}}+3$"
+        "A": "$\\frac1{2\\sqrt{x}}+\\frac{3\\sqrt{x}}2$",
+        "B": "$-\\frac{1+x}{2\\sqrt{x}}$",
+        "C": "$\\frac1{\\sqrt{x}}+3\\sqrt{x}$",
+        "D": "$\\frac1{\\sqrt{x}}+\\frac{2\\sqrt{x}}3$"
       }
     },
     {
@@ -290,10 +318,10 @@
       "year": null,
       "text": "If $y=(x+1)(x^2-2)$, then $\\frac{dy}{dx}$ is:",
       "options": {
-        "A": "$3x^2+2x-2$",
+        "A": "$x^3+x^2-2x-2$",
         "B": "$3x^2+2x-2$",
-        "C": "$3x^2+2x-2$",
-        "D": "$3x^2+2x-2$"
+        "C": "$3x^2-2x+2$",
+        "D": "$3x^2+2x+2$"
       }
     },
     {
@@ -302,12 +330,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $a^2+b^2=c^2$ then $\\frac{da}{db}$ is:",
+      "text": "If $ax^2+by^2=ab$, then $\\frac{dy}{dx}$ is:",
       "options": {
-        "A": "$-\\frac{2a}{b}$",
-        "B": "$-\\frac{a}{b}$",
-        "C": "$-\\frac{a}{2b}$",
-        "D": "$-\\frac{b}{2a}$"
+        "A": "$-\\frac{2ax}{by}$",
+        "B": "$-\\frac{bx}{ay}$",
+        "C": "$-\\frac{ax}{by}$",
+        "D": "$-\\frac{ax}{2by}$"
       }
     },
     {
@@ -320,7 +348,7 @@
       "options": {
         "A": "$\\frac{\\tan x}{2y+1}$",
         "B": "$-\\frac{\\csc^2 x}{2y-1}$",
-        "C": "$\\frac{\\sec^2 x}{2y+1}$",
+        "C": "$\\frac{\\sec^2 x}{2y-1}$",
         "D": "$\\frac{\\sec^2 x}{2y+1}$"
       }
     },
@@ -330,12 +358,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $y=\\tan^{-1}\\sqrt{x}$, then $\\frac{dx}{dy}=$?",
+      "text": "If $y=\\tan^{-1}\\sqrt{x}$ then $\\frac{dy}{dx}=$?",
       "options": {
-        "A": "$\\frac{1}{1+x^2}$",
-        "B": "$\\frac{1}{x+\\sqrt{x}}$",
-        "C": "$\\frac{1}{2(x+\\sqrt{x})}$",
-        "D": "$\\frac{1}{2(\\sqrt{x}+x)}$"
+        "A": "$\\frac1{1+x^2}$",
+        "B": "$\\frac1{x+\\sqrt{x}}$",
+        "C": "$\\frac1{2(x+x\\sqrt{x})}$",
+        "D": "$\\frac1{2(\\sqrt{x}+x\\sqrt{x})}$"
       }
     },
     {
@@ -344,12 +372,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The derivative of $\\tan x$ w.r.t. $\\sec^2 x$ is:",
+      "text": "The derivative of $\\tan x$ w.r.t. $\\cot x$ is:",
       "options": {
-        "A": "$\\frac{\\sec^2 x}{2}$",
-        "B": "$-\\tan^2 x$",
-        "C": "$\\frac{\\csc^2 x}{\\sec^2 x}$",
-        "D": "$\\tan^2 x$"
+        "A": "$\\sec^2x\\,\\csc^2x$",
+        "B": "$-\\tan^2x$",
+        "C": "$\\frac{\\sec^2x}{\\csc^2x}$",
+        "D": "$\\tan^2x$"
       }
     },
     {
@@ -358,7 +386,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $a^2-3x^2=5$ and $f'(2)=9$, then $a$ is equal to:",
+      "text": "If $f(x)=ax^2-3x-5$ and $f'(2)=9$, then $a$ is equal to:",
       "options": {
         "A": "-2",
         "B": "3",
@@ -374,9 +402,9 @@
       "year": null,
       "text": "The derivative of $x^2e^{2x}$ is:",
       "options": {
-        "A": "$xe^{2x}(2x+2)$",
+        "A": "$x^2e^{2x}+2x^2e^x$",
         "B": "$2xe^{2x}$",
-        "C": "$2e^{2x}(x+2)$",
+        "C": "$2e^{2x}(x^2+x)$",
         "D": "$2e^{2x}(x^2+1)$"
       }
     },
@@ -386,11 +414,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The function $f(x)=a^x$, then $f'(x)=$?",
+      "text": "The derivative of $a^x$, if $a<0$ is:",
       "options": {
-        "A": "$a^x\\ln a$",
-        "B": "$a^x$",
-        "C": "$\\ln a$",
+        "A": "$-a^x\\ln a$",
+        "B": "$a^x\\ln a$",
+        "C": "$\\frac{a^x}{\\ln a}$",
         "D": "Does not exist"
       }
     },
@@ -400,26 +428,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $y=\\tan^{-1}\\sqrt{\\frac{1-\\cos x}{1+\\cos x}}$ then $\\frac{dy}{dx}$ is:",
-      "options": {
-        "A": "$\\frac{1}{2}$",
-        "B": "$-\\frac{1}{2}$",
-        "C": "2",
-        "D": "$\\frac{1}{4}$"
-      }
-    },
-    {
-      "chapter": "Differentiation",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "$\\frac{d}{dx}(\\sin^{-1}x+\\cos^{-1}x)$ is:",
+      "text": "If $y=\\tan^{-1}\\sqrt{\\frac{1-\\cos2x}{1+\\cos2x}}$ then $\\frac{dy}{dx}=$?",
       "options": {
         "A": "1",
-        "B": "0",
-        "C": "-1",
-        "D": "does not exist"
+        "B": "-1",
+        "C": "2",
+        "D": "$\\frac12$"
       }
     },
     {
@@ -428,12 +442,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The derivative of $\\tan ax$ is:",
+      "text": "$\\frac d{dx}(\\sinh^{-1}x+\\cosh^{-1}x)$ is:",
       "options": {
-        "A": "$\\sec^2 ax$",
-        "B": "$a\\sec^2 ax$",
-        "C": "$a\\sec^2 ax$",
-        "D": "$2a\\sec^2 ax$"
+        "A": "$\\cosh^{-1}x-\\sinh^{-1}x$",
+        "B": "$\\frac1{\\sqrt{1+x^2}}-\\frac1{\\sqrt{1-x^2}}$",
+        "C": "$\\frac1{\\sqrt{x^2+1}}+\\frac1{\\sqrt{x^2-1}}$",
+        "D": "$\\frac1{\\sqrt{x^2-1}}-\\frac1{\\sqrt{1+x^2}}$"
       }
     },
     {
@@ -442,12 +456,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The derivative of $\\cos^{-1}(2x)$ is:",
+      "text": "The derivative of $\\tanh ax$ is:",
       "options": {
-        "A": "$\\frac{1}{\\sqrt{1-4x^2}}$",
-        "B": "$-\\frac{2}{\\sqrt{1-4x^2}}$",
-        "C": "$-\\frac{2}{\\sqrt{1-4x^2}}$",
-        "D": "$-\\frac{1}{\\sqrt{1-4x^2}}$"
+        "A": "$\\operatorname{sech}^2 ax$",
+        "B": "$a\\operatorname{sech} ax$",
+        "C": "$a\\operatorname{sech}^2 ax$",
+        "D": "$2a\\operatorname{sech}^2 ax$"
       }
     },
     {
@@ -456,12 +470,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $f(x)=\\ln 2x$ ($x>0$), $g(x)=e^x$, then $g'(f(x))=$",
+      "text": "The derivative of $\\coth^{-1}(2x)$ is:",
       "options": {
-        "A": "$\\frac{2}{x}$",
-        "B": "$\\frac{1}{2x}$",
-        "C": "$\\frac{2}{x}$",
-        "D": "$\\frac{e^x}{2}$"
+        "A": "$\\frac1{1-4x^2}$",
+        "B": "$\\frac2{1-4x^2}$",
+        "C": "$\\frac{2x}{1-4x^2}$",
+        "D": "$\\frac2{1-x^2}$"
       }
     },
     {
@@ -470,7 +484,21 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $f(x)=a\\cos 3x$ and $f'\\left(\\frac{\\pi}{9}\\right)=6$, then $a=$",
+      "text": "If $f(x)=\\ln 2x$ ($x>0$), and $g$ is the inverse of $f$, then $g'(x)=$",
+      "options": {
+        "A": "$\\frac2x$",
+        "B": "$\\frac1{2x}$",
+        "C": "$\\frac2{e^x}$",
+        "D": "$\\frac{e^x}2$"
+      }
+    },
+    {
+      "chapter": "Differentiation",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $f(x)=a\\cos3x$ and $f'(\\frac\\pi2)=6$, then $a=$",
       "options": {
         "A": "-6",
         "B": "-2",
@@ -484,7 +512,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $y=\\frac{1}{x}$, then $y''(1)=$ ______:",
+      "text": "If $y=\\frac1x$, then $y'''(1)=$",
       "options": {
         "A": "6",
         "B": "-6",
@@ -498,12 +526,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "What will be the nth derivative of $e^{2x}$?",
+      "text": "What will be the nth derivative of $2e^x$?",
       "options": {
         "A": "$2ne^x$",
-        "B": "$2^n e^x$",
+        "B": "$2e^{nx}$",
         "C": "$2e^x$",
-        "D": "$\\frac{e^x}{2}$"
+        "D": "$\\frac{e^x}2$"
       }
     },
     {
@@ -512,12 +540,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $x=t^2$, then $y''(t)=$ ______:",
+      "text": "If $xy=k^2$, then $y''=$",
       "options": {
-        "A": "$\\frac{2x^2}{t^3}$",
-        "B": "$-\\frac{2x^2}{t^3}$",
-        "C": "$\\frac{3x^2}{t^3}$",
-        "D": "$\\frac{2x^2}{t^3}$"
+        "A": "$\\frac{2k^2}x$",
+        "B": "$-\\frac{2k^2}{x^3}$",
+        "C": "$\\frac{3k^2}{x^3}$",
+        "D": "$\\frac{2k^2}{x^3}$"
       }
     },
     {
@@ -526,11 +554,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "3rd order derivative of $e^{nx}$ is ______:",
+      "text": "3rd order derivative of $2^x$ is",
       "options": {
-        "A": "$(\\ln n)^3 e^{nx}$",
-        "B": "$(\\ln n)^2 e^{nx}$",
-        "C": "$(\\ln n)^3 e^{-nx}$",
+        "A": "$(\\ln3)^2e^{x\\ln2}$",
+        "B": "$(\\ln2)^3e^{x\\ln3}$",
+        "C": "$(\\ln2)^3e^{x\\ln2}$",
         "D": "None of these"
       }
     },
@@ -540,7 +568,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "2nd order derivative of $f(x)=A\\sin x+B\\cos x$ is ______:",
+      "text": "2nd order derivative of $f(x)=A\\sin x+B\\cos x$ is",
       "options": {
         "A": "$f(x)$",
         "B": "$-f(x)$",
@@ -549,17 +577,73 @@
       }
     },
     {
-      "chapter": "Differentiation of Vector Functions",
+      "chapter": "Higher Order Derivatives and Applications",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The domain of the vector function $\\vec{r}(t)=t^3\\mathbf{i}+\\frac{1}{t-2}\\mathbf{j}+\\ln(t+1)\\mathbf{k}$, $t\\in\\mathbb{R}$, is:",
+      "text": "If $S$ is the distance covered by a car, then $\\frac{d^2S}{dt^2}$ will be its",
       "options": {
-        "A": "$\\{t>2, t\\in\\mathbb{R}\\}$",
-        "B": "$\\{t<-1, t\\in\\mathbb{R}\\}$",
-        "C": "$(-\\infty,-1)\\cup(-1,2)\\cup(2,\\infty)$",
+        "A": "Velocity",
+        "B": "Deceleration",
+        "C": "Acceleration",
+        "D": "Average velocity"
+      }
+    },
+    {
+      "chapter": "Higher Order Derivatives and Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$y=\\tan^{-1}x$, then $y''(1)=$",
+      "options": {
+        "A": "$-\\frac12$",
+        "B": "$\\frac14$",
+        "C": "$-\\frac14$",
+        "D": "$\\frac12$"
+      }
+    },
+    {
+      "chapter": "Higher Order Derivatives and Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $y=x-\\frac{x^3}{3!}+\\frac{x^5}{5!}-\\cdots$, $x\\in\\mathbb R$, then $y$ is the Maclaurin series of",
+      "options": {
+        "A": "$\\sin x$",
+        "B": "$\\cos x$",
+        "C": "$e^x$",
         "D": "None of these"
+      }
+    },
+    {
+      "chapter": "Higher Order Derivatives and Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "A function $f(x)$ is said to be decreasing when $x_1<x_2$ and",
+      "options": {
+        "A": "$f(x_1)<f(x_2)$",
+        "B": "$f(x_1)>f(x_2)$",
+        "C": "$f(x_1)\\ge f(x_2)$",
+        "D": "$f(x_1)\\le f(x_2)$"
+      }
+    },
+    {
+      "chapter": "Higher Order Derivatives and Applications",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If a function $f(x)$ is such that $f'(c)=0$, then the point $(c,f(c))$ is called",
+      "options": {
+        "A": "Maximum point",
+        "B": "Minimum point",
+        "C": "Stationary point",
+        "D": "Critical point"
       }
     },
     {
@@ -568,7 +652,21 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Is the function $\\vec{F}(t)=\\cos t\\mathbf{i}+\\sin 2t\\mathbf{j}$ continuous at $t=\\frac{\\pi}{2}$:",
+      "text": "The domain of $\\vec r(t)=t^3\\hat i+\\frac1{t-1}\\hat j+\\ln(t-2)\\hat k$, $t\\in\\mathbb R$, is:",
+      "options": {
+        "A": "$\\{t>2,t\\in\\mathbb R\\}$",
+        "B": "$\\{t<2,t\\in\\mathbb R\\}$",
+        "C": "$\\{t>0,t\\in\\mathbb R\\}$",
+        "D": "$\\{t>1,t\\in\\mathbb R\\}$"
+      }
+    },
+    {
+      "chapter": "Differentiation of Vector Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Is the function $\\vec F(t)=\\cos t\\,\\hat i+\\sin2t\\,\\hat k$ continuous at $t=\\pi$?",
       "options": {
         "A": "is not continuous",
         "B": "is continuous",
@@ -582,12 +680,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "What value of $t$, vector function $\\vec{F}(t)=\\frac{1}{t-2}\\mathbf{i}+\\sin t\\mathbf{j}$ is continuous at:",
+      "text": "For what values of $t$ is $\\vec F(t)=\\frac1{t-2}\\hat i+\\sin t\\,\\hat j$ continuous?",
       "options": {
-        "A": "$t=2$",
-        "B": "$t=-2$",
-        "C": "$t=\\infty$",
-        "D": "$t=0$"
+        "A": "$t\\ne2,t\\in\\mathbb R$",
+        "B": "$t>2,t\\in\\mathbb R$",
+        "C": "$t\\le2,t\\in\\mathbb R$",
+        "D": "$t\\in\\mathbb R$"
       }
     },
     {
@@ -596,12 +694,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $\\vec{r}=t^2\\mathbf{i}-2e^t\\mathbf{j}$ is a vector function and $h=t^2-2t-1$ is scalar then $\\lim_{t\\to 0}[\\vec{r}(t)\\cdot h(t)]=$ ______.",
+      "text": "If $\\vec u=t^2\\hat i-e^{2t}\\hat j$ is a vector function and $h(t)=t^2+2t-2$ is a scalar function, then $\\lim_{t\\to0}[h(t)\\vec u(t)]=$",
       "options": {
-        "A": "$-2e^t$",
-        "B": "$e^t$",
-        "C": "$2e^t$",
-        "D": "$-e^t$"
+        "A": "$-\\hat j$",
+        "B": "$\\hat j$",
+        "C": "$2\\hat j$",
+        "D": "$-2\\hat j$"
       }
     },
     {
@@ -610,12 +708,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $\\vec{u}=t^2\\mathbf{i}-e^t\\mathbf{j}$ and $\\vec{v}=-2t\\mathbf{i}+2t^2\\mathbf{j}$ are vector functions then $\\lim_{t\\to 0}(\\vec{u}\\cdot\\vec{v})=$ ______.",
+      "text": "If $\\vec u=t^2\\hat i-e^{2t}\\hat j$ and $\\vec v=-2\\hat i-t^2\\hat k$ are vector functions then $\\lim_{t\\to0}[\\vec u(t)\\cdot\\vec v(t)]=$",
       "options": {
         "A": "0",
         "B": "$t^4$",
-        "C": "$t^2-e^t$",
-        "D": "$-2e^t$"
+        "C": "$t^2-e^{2t}$",
+        "D": "$-2t^2$"
       }
     },
     {
@@ -624,11 +722,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $\\vec{f}(t)=t^2\\mathbf{i}-e^t\\mathbf{j}$ then $\\vec{f}'(t)=$ ______.",
+      "text": "If $\\vec f(t)=t^2\\hat i-e^{2t}\\hat j$ then $\\vec f'(t)=$",
       "options": {
-        "A": "$2t\\mathbf{i}-e^t\\mathbf{j}$",
-        "B": "$2t\\mathbf{i}+e^t\\mathbf{j}$",
-        "C": "$-2t\\mathbf{i}-e^t\\mathbf{j}$",
+        "A": "$2t\\hat i-2e^{2t}\\hat j$",
+        "B": "$2t\\hat i-e^{2t}\\hat j$",
+        "C": "$2t\\hat i-2te^{2t}\\hat j$",
         "D": "None of these"
       }
     },
@@ -638,11 +736,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The velocity function of a particle, whose motion is given by $\\vec{r}(t)=\\frac{1}{2\\pi}t^2\\mathbf{i}+3\\sin t\\mathbf{j}$ at time $t=\\frac{\\pi}{2}$ is:",
+      "text": "The velocity of a particle whose motion is $\\vec r(t)=\\frac{1}{2\\pi}t\\hat i+3\\cos(t)\\hat j$ at $t=\\frac\\pi2$ is:",
       "options": {
-        "A": "$\\frac{1}{\\pi}+3$",
-        "B": "$\\frac{1}{\\pi}$",
-        "C": "$\\frac{1}{\\pi}-3$",
+        "A": "$\\frac1{2\\pi}\\hat i+3\\hat j$",
+        "B": "$\\frac1{2\\pi}\\hat i$",
+        "C": "$\\frac1{2\\pi}\\hat i-3\\hat j$",
         "D": "None of these"
       }
     },
@@ -652,12 +750,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The magnitude of velocity of a particle at $\\pi$ whose motion is given by $\\vec{r}(t)=4\\cos t\\mathbf{i}+4\\sin t\\mathbf{j}+3t^2\\mathbf{k}$ is:",
+      "text": "The magnitude of velocity at $t=\\pi$ for $\\vec r(t)=4\\cos(t)\\hat i+4\\sin(t)\\hat j+\\frac3{2\\pi}t^2\\hat k$ is:",
       "options": {
-        "A": "$\\sqrt{16\\pi^2+9}$",
-        "B": "$16\\pi^2+9$",
-        "C": "$\\sqrt{16\\pi^2+9\\pi^2}$",
-        "D": "$16\\pi^2+9\\pi^2$"
+        "A": "$\\sqrt5$",
+        "B": "5",
+        "C": "$\\sqrt{5\\pi}$",
+        "D": "$5\\pi$"
       }
     },
     {
@@ -666,12 +764,26 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The magnitude of acceleration of a particle at $\\pi$ whose motion is given by $\\vec{r}(t)=4\\cos t\\mathbf{i}+4\\sin t\\mathbf{j}+3t^2\\mathbf{k}$ is:",
+      "text": "The magnitude of acceleration at $t=\\frac\\pi2$ for $\\vec r(t)=4\\cos(t)\\hat i+4\\sin(t)\\hat j+\\frac3{2\\pi}t^2\\hat k$ is:",
       "options": {
-        "A": "$\\sqrt{16\\pi^2+9\\pi^2}$",
-        "B": "$16\\pi^2+9\\pi^2$",
-        "C": "$16\\pi^2+9$",
-        "D": "$\\sqrt{16\\pi^2+9}$"
+        "A": "$\\frac{\\sqrt{16\\pi^2+9}}\\pi$",
+        "B": "$\\sqrt{16\\pi^2+9}$",
+        "C": "$\\frac{\\sqrt{16\\pi^2+9}}{\\pi^2}$",
+        "D": "$\\frac{\\sqrt{16+9\\pi^2}}\\pi$"
+      }
+    },
+    {
+      "chapter": "Differentiation of Vector Functions",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Let $\\vec a=2\\hat i+3\\hat j+5\\hat k$, then $\\frac{d\\vec a}{dt}=$",
+      "options": {
+        "A": "10",
+        "B": "$\\sqrt{38}$",
+        "C": "0",
+        "D": "None of these"
       }
     },
     {
