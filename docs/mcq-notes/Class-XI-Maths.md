@@ -1,6 +1,6 @@
 # Class XI Mathematics MCQ review — in progress
 
-The supplied `Data/Class XI/Math_MCQs.pdf` is an exercise-page extract. The 20 Complex Numbers questions in Review Exercise 1 were transcribed from PDF pages 1–2 (printed pages 22–23). The Matrices and Determinants and Vectors exercises are reviewed below; other chapters remain unverified; this is not a claim of complete coverage of the textbook.
+The supplied `Data/Class XI/Math_MCQs.pdf` is an exercise-page extract. The 20 Complex Numbers questions in Review Exercise 1 were transcribed from PDF pages 1–2 (printed pages 22–23). The Matrices and Determinants Vectors and Sequence and Series exercises are reviewed below; other chapters remain unverified; this is not a claim of complete coverage of the textbook.
 
 The source is retained without an answer key. In 1(i), each of the first three choices and “All of these” is true. In 1(vii), a fractional power of a negative number requires a convention. In 1(ix), a real number is also complex. In 1(xiv), the domain of x affects interpretation. In 1(xviii), options (a) and (d) are duplicated in the source.
 
@@ -12,6 +12,12 @@ Potential source problems: (iii) describes a scalar matrix, which is also diagon
 
 ## Review Exercise 3 — Vectors
 
-The 20 source questions on PDF pages 6–8 (printed pages 121–123) replace the 10 previous Vectors items. The bank now contains 146 questions; the 86 items outside Exercises 1–3 remain unverified. The source choices and their order are preserved.
+The 20 source questions on PDF pages 6–8 (printed pages 121–123) replace the 10 previous Vectors items. The bank now contains 146 questions; the 86 items outside Exercises 1–3 remained unverified at that stage. The source choices and their order are preserved.
 
 Source ambiguities include: (iii) signed scalar triple product versus nonnegative volume; (v) parallel vectors may point oppositely; (viii) a plane is not uniquely determined by parallel vectors; (xi) the other possible angle $5\pi/6$ is not offered; and (xvi) $3\pi/4$ also satisfies the equality for nonzero vectors. No answer key is asserted.
+
+## Review Exercise 4 — Sequence and Series
+
+The 18 questions on PDF pages 9–10 (printed pages 160–161) replace the previous 10 bank items. The bank now contains 154 questions; 76 items outside Exercises 1–4 remain unverified. Choices remain in source order.
+
+Source qualifications: (v) “mid-point” may describe the same value as arithmetic mean; (ix) nonzero terms depend on the definition of a geometric progression; (x) and (xvi) need qualification for a zero first term; and (xii) special values of $a$ and $b$ can make additional choices satisfy the statement. No answer key is asserted.
