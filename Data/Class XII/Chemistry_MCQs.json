@@ -306,8 +306,8 @@
       "options": {
         "A": "$CH_4$",
         "B": "$C_2H_6$",
-        "C": "$C_3H_6$",
-        "D": "$C_6H_6$"
+        "C": "$C_3H_8$",
+        "D": "$C_2H_4$"
       }
     },
     {
@@ -456,7 +456,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "$CH_3CH = CH - C \\equiv CH$, its correct IUPAC name is:",
+      "text": "An organic compound possesses the structural formula $CH_3CH=CH-C\\equiv CH$, its correct IUPAC name is:",
       "options": {
         "A": "1-pentyne-3-ene",
         "B": "3-pentene-1-pentyne",
@@ -531,7 +531,7 @@
         "A": "propionic acid",
         "B": "valeric acid",
         "C": "caproic acid",
-        "D": "stearic acid"
+        "D": "steric acid"
       }
     },
     {
@@ -542,9 +542,9 @@
       "year": null,
       "text": "The correct structure of 1,3-penta diene is:",
       "options": {
-        "A": "$CH_3-CH=CH-CH=CH-CH_3$",
-        "B": "$CH \\equiv CH-CH_2-CH=CH_2$",
-        "C": "$CH_2=CH-CH=CH-CH_3$",
+        "A": "$H_3C-CH=CH-HC=CH_2-CH_3$",
+        "B": "$CH_2=CH-CH_2-CH=CH_2$",
+        "C": "$CH_2=CH-HC=CH-CH_3$",
         "D": "$CH_3-CH=C=CH-CH_3$"
       }
     },
@@ -572,7 +572,7 @@
       "options": {
         "A": "Bromo ethene",
         "B": "1,1-dibromo ethane",
-        "C": "1,2-dibromo ethane",
+        "C": "1,2-bromo ethane",
         "D": "1,1,2,2 tetra bromoethane"
       }
     },
@@ -582,7 +582,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The formula of a saturated hydrocarbon is $C_3H_8$, it should be:",
+      "text": "The formula of a saturated hydrocarbon is $C_3H_6$, it should be:",
       "options": {
         "A": "Propane",
         "B": "Propene",
@@ -782,7 +782,7 @@
       "options": {
         "A": "Planar trigonal",
         "B": "Linear",
-        "C": "Pyramidal",
+        "C": "Tetrahedral pyramidal",
         "D": "Regular tetrahedral"
       }
     },
@@ -843,7 +843,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "7 - Alcohols, Phenols and Ethers",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -857,7 +857,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "7 - Alcohols, Phenols and Ethers",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -871,12 +871,12 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "7 - Alcohols, Phenols and Ethers",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Ethanol reacts with $PCl_5$ to form.",
+      "text": "Ethanol reacts with $PCl_3$ to form.",
       "options": {
         "A": "Diethyl ether",
         "B": "Ethene",
@@ -885,7 +885,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "7 - Alcohols, Phenols and Ethers",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -899,7 +899,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "7 - Alcohols, Phenols and Ethers",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -913,7 +913,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "7 - Alcohols, Phenols and Ethers",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -927,7 +927,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "7 - Alcohols, Phenols and Ethers",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -941,7 +941,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "7 - Alcohols, Phenols and Ethers",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -955,7 +955,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "7 - Alcohols, Phenols and Ethers",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -969,7 +969,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "7 - Alcohols, Phenols and Ethers",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -983,7 +983,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "8 - Carbonyl Compounds 1: Aldehydes and Ketones",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -993,11 +993,11 @@
         "A": "Primary alcohol",
         "B": "Secondary alcohol",
         "C": "Tertiary alcohol",
-        "D": "Dihydric alcohol"
+        "D": "Dihyderic alcohol"
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "8 - Carbonyl Compounds 1: Aldehydes and Ketones",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1005,13 +1005,13 @@
       "text": "The reagent used to oxidizes ketones into carboxylic acids is:",
       "options": {
         "A": "Ammoniacal silver nitrate",
-        "B": "Potassium dichromate",
+        "B": "Potassium dichromatic",
         "C": "Fehling solution",
         "D": "Benedict solution"
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "8 - Carbonyl Compounds 1: Aldehydes and Ketones",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1021,11 +1021,11 @@
         "A": "sp hybridized",
         "B": "$sp^2$ hybridized",
         "C": "$sp^3$ hybridized",
-        "D": "$dsp^2$ hybridized"
+        "D": "$dsp^3$ hybridized"
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "8 - Carbonyl Compounds 1: Aldehydes and Ketones",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1039,7 +1039,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "8 - Carbonyl Compounds 1: Aldehydes and Ketones",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1053,7 +1053,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "8 - Carbonyl Compounds 1: Aldehydes and Ketones",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1067,7 +1067,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "8 - Carbonyl Compounds 1: Aldehydes and Ketones",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1081,7 +1081,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "8 - Carbonyl Compounds 1: Aldehydes and Ketones",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1095,7 +1095,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "8 - Carbonyl Compounds 1: Aldehydes and Ketones",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1104,12 +1104,12 @@
       "options": {
         "A": "$HCHO$",
         "B": "$CH_3-O-CH_3$",
-        "C": "$C_6H_5OH$",
+        "C": "$C_2H_5OH$",
         "D": "$CH_3COOH$"
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "8 - Carbonyl Compounds 1: Aldehydes and Ketones",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1123,7 +1123,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "9 - Carbonyl Compounds 2: Carboxylic Acids and Functional Derivatives",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1137,7 +1137,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "9 - Carbonyl Compounds 2: Carboxylic Acids and Functional Derivatives",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1145,13 +1145,13 @@
       "text": "Two molecules of acetic acid on condensation gives:",
       "options": {
         "A": "Ethyl acetate",
-        "B": "Acetamide",
+        "B": "Aceticamide",
         "C": "Acylhalide",
         "D": "Acetic anhydride"
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "9 - Carbonyl Compounds 2: Carboxylic Acids and Functional Derivatives",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1160,26 +1160,26 @@
       "options": {
         "A": "$HCl$",
         "B": "$HNO_3$",
-        "C": "$C_6H_5OH$",
+        "C": "$C_2H_5OH$",
         "D": "$H_2SO_4$"
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "9 - Carbonyl Compounds 2: Carboxylic Acids and Functional Derivatives",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
       "text": "The reagent that cannot produce an acyl halide in reaction with a carboxylic acid is:",
       "options": {
-        "A": "$PCl_5$",
-        "B": "$PCl_3$",
+        "A": "$PCl_3$",
+        "B": "$PCl_5$",
         "C": "HCl",
         "D": "$SOCl_2$"
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "9 - Carbonyl Compounds 2: Carboxylic Acids and Functional Derivatives",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1193,7 +1193,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "9 - Carbonyl Compounds 2: Carboxylic Acids and Functional Derivatives",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1207,7 +1207,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "9 - Carbonyl Compounds 2: Carboxylic Acids and Functional Derivatives",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1221,7 +1221,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "9 - Carbonyl Compounds 2: Carboxylic Acids and Functional Derivatives",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1235,7 +1235,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "9 - Carbonyl Compounds 2: Carboxylic Acids and Functional Derivatives",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1249,7 +1249,7 @@
       }
     },
     {
-      "chapter": "3 - Organic Compounds",
+      "chapter": "9 - Carbonyl Compounds 2: Carboxylic Acids and Functional Derivatives",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1683,7 +1683,7 @@
       }
     },
     {
-      "chapter": "13 - Environmental Chemistry",
+      "chapter": "13 - Spectroscopy (Analytical Chemistry)",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1697,7 +1697,7 @@
       }
     },
     {
-      "chapter": "13 - Environmental Chemistry",
+      "chapter": "13 - Spectroscopy (Analytical Chemistry)",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1711,7 +1711,7 @@
       }
     },
     {
-      "chapter": "13 - Environmental Chemistry",
+      "chapter": "13 - Spectroscopy (Analytical Chemistry)",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1719,13 +1719,13 @@
       "text": "Which unit of measurement is used for the wave number of IR spectrum:",
       "options": {
         "A": "Nanometer (nm)",
-        "B": "Angstrom ($\\AA$)",
+        "B": "Angstrom (Å)",
         "C": "Centimeter$^{-1}$ ($cm^{-1}$)",
         "D": "Hertz (Hz)"
       }
     },
     {
-      "chapter": "13 - Environmental Chemistry",
+      "chapter": "13 - Spectroscopy (Analytical Chemistry)",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1739,7 +1739,7 @@
       }
     },
     {
-      "chapter": "13 - Environmental Chemistry",
+      "chapter": "13 - Spectroscopy (Analytical Chemistry)",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1753,7 +1753,7 @@
       }
     },
     {
-      "chapter": "13 - Environmental Chemistry",
+      "chapter": "13 - Spectroscopy (Analytical Chemistry)",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1767,12 +1767,12 @@
       }
     },
     {
-      "chapter": "13 - Environmental Chemistry",
+      "chapter": "13 - Spectroscopy (Analytical Chemistry)",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Infrared spectroscopy is a technique use to determine in the given organic molecule:",
+      "text": "Infrared spectroscopy is a technique use to determine _____ in the given organic molecule:",
       "options": {
         "A": "Double and triple bonds",
         "B": "Mass to charge ratio",
@@ -1781,7 +1781,7 @@
       }
     },
     {
-      "chapter": "13 - Environmental Chemistry",
+      "chapter": "13 - Spectroscopy (Analytical Chemistry)",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1795,7 +1795,7 @@
       }
     },
     {
-      "chapter": "13 - Environmental Chemistry",
+      "chapter": "13 - Spectroscopy (Analytical Chemistry)",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
@@ -1809,7 +1809,7 @@
       }
     },
     {
-      "chapter": "13 - Environmental Chemistry",
+      "chapter": "13 - Spectroscopy (Analytical Chemistry)",
       "section": "A",
       "type": "mcq",
       "source": "important_book",
