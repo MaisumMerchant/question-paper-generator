@@ -22,7 +22,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Tendency of water to coalesce oil drop into large droplets called?",
+      "text": "Tendency of water to coalesce oil drop into large droplet called",
       "options": {
         "A": "Hydrophilic force",
         "B": "Hydrophobic exclusion",
@@ -36,7 +36,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The covalent bond between two monosaccharides is called?",
+      "text": "The covalent bond between two monosaccharides is called",
       "options": {
         "A": "Peptide bond",
         "B": "Ester bond",
@@ -78,7 +78,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "All amino acids have same formula except?",
+      "text": "All amino acids have same formula except",
       "options": {
         "A": "Alpha carbon",
         "B": "Hydroxyl group",
@@ -92,11 +92,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A trihydroxy alcohol, made of three carbon atoms called?",
+      "text": "A trihydroxy alcohol, made of three carbon atoms called",
       "options": {
-        "A": "Glycerol",
-        "B": "Maltose",
-        "C": "Glyceraldehyde",
+        "A": "Glucose",
+        "B": "Glycerol",
+        "C": "Maltose",
         "D": "Ribose"
       }
     },
@@ -106,7 +106,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Large and important class of lipid made up of isoprenoid unit called?",
+      "text": "Large and important class of lipid made up of isoprenoid unit called",
       "options": {
         "A": "Phospholipid",
         "B": "Terpenoids",
@@ -120,7 +120,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "How many molecules of water polymer that are 21 monomers long are needed to completely hydrolyze a polymer?",
+      "text": "How many molecules of water are needed to completely hydrolyze a polymer that is 21 monomers long?",
       "options": {
         "A": "10",
         "B": "20",
@@ -148,12 +148,70 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Increasing which of the following would lower the pH of an enzymatic reaction?",
+      "text": "Which of the following statements is (are) true about enzyme catalyzed reactions?",
       "options": {
-        "A": "Denaturation of the enzyme",
+        "A": "The reaction is faster than the same reaction in the absence of the enzyme.",
+        "B": "The free energy change of the reaction is opposite from the reaction in the absence of the enzyme.",
+        "C": "The reaction always goes in the direction toward chemical equilibrium.",
+        "D": "Both a and b."
+      }
+    },
+    {
+      "chapter": "2: Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The active site of an enzyme is the region that",
+      "options": {
+        "A": "Binds allosteric regulators of the enzyme",
+        "B": "Is involved in the catalytic reaction of the enzyme",
+        "C": "Binds the products of the catalytic reaction",
+        "D": "Is inhibited by the presence of a coenzyme or a cofactor."
+      }
+    },
+    {
+      "chapter": "2: Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "According to the induced fit hypothesis of enzyme catalysis, which of the following is correct?",
+      "options": {
+        "A": "The binding of the substrate depends on the shape of the active site.",
+        "B": "Some enzymes change their structure when activators bind to the enzyme.",
+        "C": "A competitive inhibitor can outcompete the substrate for the active site.",
+        "D": "The binding of the substrate changes the shape of the enzyme’s active site."
+      }
+    },
+    {
+      "chapter": "2: Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which curve represents the behavior of an enzyme taken from a bacterium that lives in hot springs? I. Curve 1; II. Curve 2; III. Curve 3",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "III only",
+        "D": "I and II",
+        "E": "II and III"
+      },
+      "image": "question-images/class-xi-biology-enzymes-4.svg"
+    },
+    {
+      "chapter": "2: Enzymes",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Increasing the substrate concentration in an enzymatic reaction could overcome which of the following?",
+      "options": {
+        "A": "Denaturization of the enzyme",
         "B": "Allosteric inhibition",
         "C": "Competitive inhibition",
-        "D": "Substrate concentration"
+        "D": "Saturation of the enzyme activity"
       }
     },
     {
@@ -162,12 +220,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "On which of the following is the primary structure of an enzyme primarily dependent?",
+      "text": "Competitive inhibitors block the entry of substrate into the active site of an enzyme. On which of the following properties of an active site does this primarily depend?",
       "options": {
-        "A": "The ability of the enzyme to hold the substrate and move them into a transition state",
-        "B": "The enzyme's ability to stretch chemical bonds that join molecules and move them toward each other",
-        "C": "The enzyme providing a microenvironment conductive to a reaction's occurrence with the reactants",
-        "D": "The enzyme forming covalent bonds with the active site."
+        "A": "The ability of an enzyme to form a template for holding and joining molecules",
+        "B": "The enzyme’s ability to stretch reactants and move them toward a transition state",
+        "C": "The enzyme providing an appropriate microenvironment conducive to a reaction’s occurrence",
+        "D": "The enzyme forming covalent bonds with the reactants"
       }
     },
     {
@@ -176,7 +234,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A series of enzymes catalyze the reaction X → Y → Z → A. Product A binds to the enzyme that converts X to Y at a position remote from its active site. This binding decreases the activity of the enzyme. What is substance X?",
+      "text": "A series of enzymes catalyze the reaction $X \\rightarrow Y \\rightarrow Z \\rightarrow A$. Product A binds to the enzyme that converts X to Y at a position remote from its active site. This binding decreases the activity of the enzyme. What is substance X?",
       "options": {
         "A": "A coenzyme",
         "B": "An allosteric inhibitor",
@@ -192,9 +250,9 @@
       "year": null,
       "text": "If an enzyme is added to a solution where its substrate and product are in equilibrium, what would occur?",
       "options": {
-        "A": "Additional product would be formed",
-        "B": "Additional substrate would be formed",
-        "C": "The free energy of the system would change",
+        "A": "Additional product would be formed.",
+        "B": "Additional substrate would be formed.",
+        "C": "The free energy of the system would change.",
         "D": "Nothing; the reaction would stay at equilibrium."
       }
     },
@@ -222,7 +280,7 @@
       "options": {
         "A": "By binding at the active site of the enzyme",
         "B": "By changing the shape of a reactant",
-        "C": "By changing the free energy of the reaction",
+        "C": "By changing the free energy change of the reaction",
         "D": "By acting as a coenzyme for the reaction"
       }
     },
@@ -234,9 +292,9 @@
       "year": null,
       "text": "A primary objective of cell fractionation is to",
       "options": {
-        "A": "View the structure of cell membranes",
-        "B": "Identify enzymes outside the organelles",
-        "C": "Determine the size of various organelles",
+        "A": "View the structure of cell membranes.",
+        "B": "Identify the enzymes outside the organelles.",
+        "C": "Determine the size of various organelles.",
         "D": "Separate the major organelles so that their particular functions can be determined."
       }
     },
@@ -248,9 +306,9 @@
       "year": null,
       "text": "The volume enclosed by the plasma membrane of plant cells is often much larger than the corresponding volume in animal cells. The most reasonable explanation for this observation is that",
       "options": {
-        "A": "Plant cells are capable of having a much higher surface-to-volume ratio than animal cells",
-        "B": "Plant cells have a much more highly convoluted plasma membrane than animal cells",
-        "C": "Plant cells contain a large vacuole that reduces the volume of the cytoplasm",
+        "A": "Plant cells are capable of having a much higher surface to volume ration than animal cells.",
+        "B": "Plant cells have a much more highly convoluted plasma membrane than animal cells.",
+        "C": "Plant cells contain a large vacuole that reduces the volume of the cytoplasm.",
         "D": "Animal cells are more spherical, while plant cells are more elongated."
       }
     },
@@ -264,8 +322,8 @@
       "options": {
         "A": "Lipids",
         "B": "Starch",
-        "C": "Steroids",
-        "D": "Proteins"
+        "C": "Proteins",
+        "D": "Steroids"
       }
     },
     {
@@ -274,12 +332,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "In animal cells, hydrolytic enzymes are packaged to prevent general destruction of cellular components. Which of the following organelles functions in this compartmentalization?",
+      "text": "In animal cells, hydrolytic enzymes are packed to prevent general destruction of cellular components. Which of the following organelles functions in the compartmentalization?",
       "options": {
         "A": "Chloroplast",
-        "B": "Peroxisome",
-        "C": "Central vacuole",
-        "D": "Lysosome"
+        "B": "Lysosome",
+        "C": "Peroxisome",
+        "D": "Glyoxysome"
       }
     },
     {
@@ -288,12 +346,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Tay-Sachs disease is a human genetic abnormality that results in cells accumulating and becoming clogged with very large and complex lipids. Which cellular organelle must be involved in this condition?",
+      "text": "Tay-Sachs disease is a human genetic abnormality in cells accumulating and becoming clogged with very large and complex lipids. Which cellular organelle must be involved in this condition?",
       "options": {
         "A": "Endoplasmic reticulum",
         "B": "Golgi complex",
         "C": "Lysosome",
-        "D": "Mitochondrion"
+        "D": "Mitochondria"
       }
     },
     {
@@ -304,10 +362,24 @@
       "year": null,
       "text": "Which is one of the main energy transformers of cells?",
       "options": {
-        "A": "Lysosome",
+        "A": "Endoplasmic reticulum",
         "B": "Golgi complex",
-        "C": "Mitochondrion",
-        "D": "Ribosome"
+        "C": "Lysosome",
+        "D": "Mitochondria"
+      }
+    },
+    {
+      "chapter": "3: Cell Structure and Function",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Organelles other than the nucleus that contain DNA. I. Ribosomes   II. Chloroplast   III. Mitochondria",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "II and III",
+        "D": "I and II"
       }
     },
     {
@@ -319,9 +391,9 @@
       "text": "Which structure is common to plant and animal cells?",
       "options": {
         "A": "Chloroplast",
-        "B": "Central vacuole",
-        "C": "Mitochondrion",
-        "D": "Cell wall"
+        "B": "Cell wall",
+        "C": "Central vacuole",
+        "D": "Mitochondria"
       }
     },
     {
@@ -330,12 +402,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Chloroplast is concerned with the detoxification of alcohol. Which of the following organelles functions in this compartmentalization?",
+      "text": "Cell organelle mainly concerned with the detoxification of alcohol.",
       "options": {
         "A": "Chloroplast",
-        "B": "Central vacuole",
-        "C": "Peroxisome",
-        "D": "Mitochondrion"
+        "B": "Peroxisome",
+        "C": "Central vacuole",
+        "D": "Mitochondria"
       }
     },
     {
@@ -347,8 +419,8 @@
       "text": "Clarity of image is generally known as",
       "options": {
         "A": "Magnification",
-        "B": "Resolution",
-        "C": "Contrast",
+        "B": "Contrast",
+        "C": "Resolution",
         "D": "Sedimentation"
       }
     },
@@ -360,10 +432,10 @@
       "year": null,
       "text": "Chlorophyll-a is almost identical to chlorophyll-b but slight structural difference between them is enough to give",
       "options": {
-        "A": "Similar energy states during the light gathering",
-        "B": "Different absorption spectra of the two",
-        "C": "Different Calvin cycles",
-        "D": "Different reaction centres in thylakoid membranes"
+        "A": "Similar energy during the light reaction",
+        "B": "Different absorptive spectrum",
+        "C": "Different product during the Calvin cycle",
+        "D": "All of these"
       }
     },
     {
@@ -372,12 +444,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Chlorophyll is organized along with other molecules into photosystems which are located in the",
+      "text": "Chlorophyll is organized along with other molecules into a photosystem, which has light gathering",
       "options": {
-        "A": "Reaction centre of thylakoid",
-        "B": "Antenna complex",
-        "C": "Thylakoid membranes",
-        "D": "Cytochrome complex"
+        "A": "Reaction centre",
+        "B": "Carotenoid compound",
+        "C": "Antenna complex",
+        "D": "Cytochrome"
       }
     },
     {
@@ -386,12 +458,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Select the antenna complex",
+      "text": "Select the correct statement",
       "options": {
-        "A": "PSI and ATP synthase part of thylakoid membrane are located in the pressed part of thylakoid",
-        "B": "Chlorophyll molecules located in the pressed part of thylakoid membrane",
-        "C": "Chlorophyll molecules located in the stroma",
-        "D": "Chlorophyll molecules located in the stromal lamellae"
+        "A": "PSI and ATP synthase complexes are located in the appressed part of thylakoid.",
+        "B": "PSI and NADP reductase are located in the appressed part of thylakoid membrane.",
+        "C": "Appressed part contains NADP reductase and ATP synthase.",
+        "D": "Non-appressed (non-stacked) part has PSI."
       }
     },
     {
@@ -404,7 +476,7 @@
       "options": {
         "A": "Cyclic photophosphorylation",
         "B": "Non-cyclic photophosphorylation",
-        "C": "Chemiosmosis",
+        "C": "Chemiosmotic phosphorylation",
         "D": "Oxidative phosphorylation"
       }
     },
@@ -414,12 +486,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The intermediate carbon fixing compound in the member of grass family to pass CO2 to calvin cycle is",
+      "text": "The intermediate carbon fixing compound in the member of grass family to pass CO₂ to Calvin cycle is",
       "options": {
         "A": "Citric acid",
         "B": "Oxaloacetic acid",
-        "C": "Succinate",
-        "D": "Malate"
+        "C": "Pyruvic acid",
+        "D": "Crassulacean acid"
       }
     },
     {
@@ -428,12 +500,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Oxidative decarboxylation of ketoglutarate is iso-citrate form of a-ketoglutarate results in the formation of",
+      "text": "Oxidative decarboxylation of isocitrate forms?",
       "options": {
-        "A": "a-ketoglutarate and CO2",
-        "B": "Succinyl-CoA and CO2",
-        "C": "Fumarate and CO2",
-        "D": "Malate and CO2"
+        "A": "α-ketoglutarate",
+        "B": "Succinate",
+        "C": "Cis-aconitate",
+        "D": "Fumarate"
       }
     },
     {
@@ -442,7 +514,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "How many ATP molecules are formed during substrate level phosphorylations in krebs's cycle when one glucose is respired aerobically?",
+      "text": "How many ATP molecules are formed during substrate level phosphorylation in Krebs cycle when one glucose is consumed?",
       "options": {
         "A": "One",
         "B": "Two",
@@ -456,7 +528,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Enzyme involves during carboxylation",
+      "text": "Enzyme involved during carboxylation",
       "options": {
         "A": "Rubisco oxygenase",
         "B": "Rubisco carboxylase",
@@ -470,7 +542,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The oxygen consumed during cellular respiration is involved directly in which process or event?",
+      "text": "The oxygen consumed during cellular respiration is involved directly in which process or events?",
       "options": {
         "A": "Glycolysis",
         "B": "Accepting electrons at the end of the electron transport chain",
@@ -502,7 +574,7 @@
       "options": {
         "A": "Cellular organelles",
         "B": "Cellular enzymes",
-        "C": "Cellular membranes",
+        "C": "Cellular energy",
         "D": "All of them"
       }
     },
@@ -528,7 +600,7 @@
       "year": null,
       "text": "Bacteriophages escape from host cell by the activity of",
       "options": {
-        "A": "Lysosome",
+        "A": "Lysozyme",
         "B": "Ribozyme",
         "C": "Peroxisomes",
         "D": "Glyoxisomes"
@@ -540,7 +612,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The smaller proteins are cut down and forms a new virus structure by the process called",
+      "text": "The smaller proteins are cut down and form a new virus structure by the process called",
       "options": {
         "A": "Integration",
         "B": "Transcription",
@@ -554,7 +626,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Viruses that severely damage motor neurons and causes paralysis called",
+      "text": "Virus that severely damages motor neurons and causes paralysis is called",
       "options": {
         "A": "HIV",
         "B": "Dengue",
@@ -572,7 +644,7 @@
       "options": {
         "A": "Prions",
         "B": "Viroids",
-        "C": "Antigens",
+        "C": "Antigen",
         "D": "Antibodies"
       }
     },
@@ -582,12 +654,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Smaller than viruses having single stranded RNA with no protein coat called",
+      "text": "Smaller than viruses having single stranded RNA with some double stranded regions are called",
       "options": {
         "A": "Prions",
         "B": "Viroids",
-        "C": "Antigens",
-        "D": "Virions"
+        "C": "Minus strand viruses",
+        "D": "Double stranded DNA viruses"
       }
     },
     {
@@ -600,8 +672,8 @@
       "options": {
         "A": "Arbo-viruses",
         "B": "Retro-viruses",
-        "C": "Rhado-viruses",
-        "D": "Rhinoviruses"
+        "C": "Rhabdo-viruses",
+        "D": "Rhino-viruses"
       }
     },
     {
@@ -610,12 +682,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Aedes mosquitoes is the vector of",
+      "text": "Aedes mosquito is the vector of",
       "options": {
-        "A": "Dengue viruses",
-        "B": "Ebola viruses",
-        "C": "Hepatitis viruses",
-        "D": "Measles viruses"
+        "A": "Dengue virus",
+        "B": "Ebola virus",
+        "C": "Hepatitis virus",
+        "D": "Measles virus"
       }
     },
     {
@@ -624,7 +696,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which of the following is true about the Kingdom Protista?",
+      "text": "Which of the following is true about the Kingdom Protoctista?",
       "options": {
         "A": "All organisms are prokaryotes",
         "B": "All organisms are eukaryotes",
@@ -638,12 +710,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "All members of green algae have the pigment combination of chlorophylls a and b along with the pigment",
+      "text": "All members of green algae have the pigment combination",
       "options": {
-        "A": "Fucoxanthin",
-        "B": "Phycobilins",
-        "C": "Phycoerythrin",
-        "D": "Carotenoids"
+        "A": "Chlorophylls a and b",
+        "B": "Chlorophylls a and c",
+        "C": "Chlorophyll a and phycobilins",
+        "D": "Chlorophylls a, b and c"
       }
     },
     {
@@ -652,12 +724,26 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Protists having isomorphic alternation of generation are",
+      "text": "The major grouping of protozoa is based upon their",
+      "options": {
+        "A": "Feeding habits",
+        "B": "Mode of reproduction",
+        "C": "Mode of nutrition",
+        "D": "Mode of locomotion"
+      }
+    },
+    {
+      "chapter": "7: Protoctists and Fungi",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Protoctista having isomorphic alternation of generation",
       "options": {
         "A": "Chlorella",
-        "B": "Euglena",
-        "C": "Ulva",
-        "D": "Diatoms"
+        "B": "Ulva",
+        "C": "Euglena",
+        "D": "Phytophthora"
       }
     },
     {
@@ -666,12 +752,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The amoeboid stage of slime mold is called",
+      "text": "The amoeboid stage of slime mold is",
       "options": {
         "A": "Plasmodium",
         "B": "Fruiting bodies",
-        "C": "Myxamoebae",
-        "D": "Pseudoplasmodium"
+        "C": "Euglena",
+        "D": "Merozoites"
       }
     },
     {
@@ -680,39 +766,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Trichomonas and Leishmania are disease causing protists and are",
+      "text": "Trypanosomes and Leishmanias are disease causing",
       "options": {
         "A": "Viruses",
-        "B": "Protists",
-        "C": "Prokaryotes",
-        "D": "Fungi"
-      }
-    },
-    {
-      "chapter": "7: Protoctists and Fungi",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Ulvа is commonly called",
-      "options": {
-        "A": "Sea lettuce",
-        "B": "Sea urchin",
-        "C": "Sea palm",
-        "D": "Sea anemone"
-      }
-    },
-    {
-      "chapter": "7: Protoctists and Fungi",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The most important cellulose degraders are",
-      "options": {
-        "A": "Slime molds",
         "B": "Bacteria",
-        "C": "Viruses",
+        "C": "Protoctists",
         "D": "Fungi"
       }
     },
@@ -722,12 +780,180 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The most important cellular organelle degrades of the fungal hyphae are",
+      "text": "Ulva is commonly called",
+      "options": {
+        "A": "Bacteria",
+        "B": "Virus",
+        "C": "Mushroom",
+        "D": "Sea lettuce"
+      }
+    },
+    {
+      "chapter": "7: Protoctists and Fungi",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The study of fungi is called",
+      "options": {
+        "A": "Zoology",
+        "B": "Microbiology",
+        "C": "Botany",
+        "D": "Mycology"
+      }
+    },
+    {
+      "chapter": "7: Protoctists and Fungi",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The most important cellulose degraders in ecosystem are",
       "options": {
         "A": "Ascomycota",
         "B": "Zygomycota",
         "C": "Basidiomycota",
         "D": "Deuteromycota"
+      }
+    },
+    {
+      "chapter": "8: Diversity Among Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The rapid diversification of plants occurred in the period:",
+      "options": {
+        "A": "Silurian",
+        "B": "Devonian",
+        "C": "Carboniferous",
+        "D": "Paleozoic"
+      }
+    },
+    {
+      "chapter": "8: Diversity Among Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Spores of land plants are tough, flexible and resistant to biodegradation by:",
+      "options": {
+        "A": "Lignin",
+        "B": "Chitin",
+        "C": "Waxes",
+        "D": "Sporopollenin"
+      }
+    },
+    {
+      "chapter": "8: Diversity Among Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Hepaticae, Anthocerotae and moss are the classes of:",
+      "options": {
+        "A": "Angiosperms",
+        "B": "Gymnosperms",
+        "C": "Tracheophytes",
+        "D": "Bryophytes"
+      }
+    },
+    {
+      "chapter": "8: Diversity Among Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The most successful kind of reproduction is:",
+      "options": {
+        "A": "Heterogamy",
+        "B": "Oogamy",
+        "C": "Anisogamy",
+        "D": "Isogamy"
+      }
+    },
+    {
+      "chapter": "8: Diversity Among Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The dominant generation of living vascular plants existing as free-living plants is:",
+      "options": {
+        "A": "Sporophyte",
+        "B": "Gametophyte",
+        "C": "Tracheophyte",
+        "D": "Pteridophyte"
+      }
+    },
+    {
+      "chapter": "8: Diversity Among Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The most primitive living vascular plants is:",
+      "options": {
+        "A": "Lycophyta",
+        "B": "Sphenophyta",
+        "C": "Psilophyta",
+        "D": "Filicinophyta"
+      }
+    },
+    {
+      "chapter": "8: Diversity Among Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The gametophyte of fern is called:",
+      "options": {
+        "A": "Archegonium",
+        "B": "Antheridium",
+        "C": "Cones",
+        "D": "Prothallus"
+      }
+    },
+    {
+      "chapter": "8: Diversity Among Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Double fertilization is the characteristic feature of:",
+      "options": {
+        "A": "Bryophytes",
+        "B": "Gymnosperms",
+        "C": "Angiosperms",
+        "D": "Ferns"
+      }
+    },
+    {
+      "chapter": "8: Diversity Among Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Resins, turpentine and pine oil are obtained from:",
+      "options": {
+        "A": "Rose",
+        "B": "Onion",
+        "C": "Pines",
+        "D": "Banana"
+      }
+    },
+    {
+      "chapter": "8: Diversity Among Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In banana tree, flowers are covered over by one or many large bracts called:",
+      "options": {
+        "A": "Spathes",
+        "B": "Spadix",
+        "C": "Capitulum",
+        "D": "Palea"
       }
     },
     {
@@ -739,9 +965,9 @@
       "text": "Choose the incorrect pair?",
       "options": {
         "A": "Sponges → Spicules",
-        "B": "Cnidarians → Nematocysts",
+        "B": "Cnidaria → Nematocysts",
         "C": "Segmented worm → Pseudopodia",
-        "D": "Arthropods → Jointed legs"
+        "D": "Arthropoda → jointed legs"
       }
     },
     {
@@ -750,7 +976,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Water movement through sponges?",
+      "text": "Water movement through sponge?",
       "options": {
         "A": "Ostia → Spongocoel → Osculum",
         "B": "Spongocoel → Osculum → Ostia",
@@ -764,7 +990,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Choose the term which encompasses all of the others?",
+      "text": "Choose the term which encompasses all others in the list",
       "options": {
         "A": "Coelomate",
         "B": "Protostome",
@@ -778,12 +1004,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Dry scaly skin, ectothermic, two pairs of legs, internal fertilization, eggs with amniotic shell, and a three chambered heart are all properties of which class?",
+      "text": "Dry scaly skin, ectothermic, two pairs of legs, lungs, internal fertilization, eggs with amniotic shell, and a three chambered heart are all properties of which class?",
       "options": {
         "A": "Amphibia",
         "B": "Reptilia",
         "C": "Aves",
-        "D": "Mammalia"
+        "D": "Mammals"
       }
     },
     {
@@ -809,9 +1035,9 @@
       "text": "Which of the following terms or structures is properly associated only with animals?",
       "options": {
         "A": "Genes",
-        "B": "Autotomy",
-        "C": "Sexual reproduction",
-        "D": "Cell wall"
+        "B": "Cell wall",
+        "C": "Autotrophy",
+        "D": "Sexual reproduction"
       }
     },
     {
@@ -820,12 +1046,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "An adult animal that possesses bilateral symmetry but lacks a true body cavity is most likely to",
+      "text": "An adult animal that possesses bilateral symmetry is most certainly also",
       "options": {
         "A": "Triploblastic",
-        "B": "Deuterostome",
-        "C": "Triploblastic deuterostome",
-        "D": "Coelomate"
+        "B": "Deuterostomes",
+        "C": "Coelomate",
+        "D": "Protostomes"
       }
     },
     {
@@ -834,12 +1060,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Proteostome characteristics generally include all of the following except",
+      "text": "Protostome characteristics generally include which of the following?",
       "options": {
-        "A": "A mouth that develops from the blastopore",
-        "B": "Radial body symmetry",
-        "C": "Deterministic development",
-        "D": "Spiral cleavage"
+        "A": "A mouth that develops secondly and far away from the blastopore",
+        "B": "Radial body",
+        "C": "Radial cleavage",
+        "D": "Determinate cleavage"
       }
     },
     {
@@ -848,12 +1074,166 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Sponges structural materials (spicules) are manufactured by",
+      "text": "Sponges structural materials (spicules) are manufactured by the",
       "options": {
         "A": "Pinacocytes",
-        "B": "Porocytes",
+        "B": "Choanocytes",
         "C": "Amoebocytes",
-        "D": "Choanocytes"
+        "D": "Porocytes"
+      }
+    },
+    {
+      "chapter": "9: Diversity Among Animals",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following can be used to distinguish a nematode from annelids? I. Type of body cavity; II. Number of muscle layers in the body wall; III. Presence of segmentation; IV. Number of embryonic tissue layers",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "I and II",
+        "D": "I, II and III"
+      }
+    },
+    {
+      "chapter": "10: Forms and Functions in Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "From where plants primarily obtain essential nutrients:",
+      "options": {
+        "A": "Water",
+        "B": "Air",
+        "C": "Soil",
+        "D": "Light"
+      }
+    },
+    {
+      "chapter": "10: Forms and Functions in Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Identify a micronutrient for plants amongst the following:",
+      "options": {
+        "A": "Potassium",
+        "B": "Phosphorus",
+        "C": "Iron",
+        "D": "Sulphur"
+      }
+    },
+    {
+      "chapter": "10: Forms and Functions in Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "In which mineral deficient soil do carnivorous plants typically live:",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Calcium",
+        "C": "Magnesium",
+        "D": "Potassium"
+      }
+    },
+    {
+      "chapter": "10: Forms and Functions in Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The plants growing in salt marshes close to sea are termed as:",
+      "options": {
+        "A": "Hydrophytes",
+        "B": "Xerophytes",
+        "C": "Mesophytes",
+        "D": "Halophytes"
+      }
+    },
+    {
+      "chapter": "10: Forms and Functions in Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The cause of color of leaf turning into dull or bluish green is the deficiency of:",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Phosphate",
+        "C": "Potassium",
+        "D": "Magnesium"
+      }
+    },
+    {
+      "chapter": "10: Forms and Functions in Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which principal type of auxin of higher plants is synthesized at the apices of stem and root:",
+      "options": {
+        "A": "PAA",
+        "B": "2,4-D",
+        "C": "IAA",
+        "D": "NAA"
+      }
+    },
+    {
+      "chapter": "10: Forms and Functions in Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Active transport of sucrose into sieve elements is a step commonly called:",
+      "options": {
+        "A": "Phloem loading",
+        "B": "Unloading",
+        "C": "Diffusion",
+        "D": "Osmosis"
+      }
+    },
+    {
+      "chapter": "10: Forms and Functions in Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The capacity of a living system to lose water is:",
+      "options": {
+        "A": "Osmotic pressure",
+        "B": "Water potential",
+        "C": "Osmosis",
+        "D": "Plasma"
+      }
+    },
+    {
+      "chapter": "10: Forms and Functions in Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The production of lateral appendages depends on the activity of:",
+      "options": {
+        "A": "Lateral meristem",
+        "B": "Intercalary meristem",
+        "C": "Apical meristem",
+        "D": "None of these"
+      }
+    },
+    {
+      "chapter": "10: Forms and Functions in Plants",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which process is involved in the promotion of flowering by cold treatment:",
+      "options": {
+        "A": "Photoperiodism",
+        "B": "Vernalization",
+        "C": "Secondary growth",
+        "D": "Transpiration"
       }
     },
     {
@@ -862,12 +1242,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The process of nutrition does not include the breakdown of:",
+      "text": "The process of nutrition does not include this:",
       "options": {
-        "A": "Proteins into amino acids",
-        "B": "Carbohydrates into simple sugars",
-        "C": "Lipids into fatty acids",
-        "D": "Nucleic acids into nitrogenous bases"
+        "A": "Taking in of food",
+        "B": "Breaking down of food",
+        "C": "Absorption of nutrients",
+        "D": "Removal of undigested food"
       }
     },
     {
@@ -880,8 +1260,9 @@
       "options": {
         "A": "Hormones",
         "B": "Enzymes",
-        "C": "Both a & b",
-        "D": "None of these"
+        "C": "HCl",
+        "D": "Both a & b",
+        "E": "None of these"
       }
     },
     {
@@ -890,7 +1271,21 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The type of dentition in Planaria is:",
+      "text": "The thecodont condition refers to:",
+      "options": {
+        "A": "Presence of two sets of teeth during life time",
+        "B": "All alike teeth",
+        "C": "Sharp, pointed teeth",
+        "D": "Embedded teeth"
+      }
+    },
+    {
+      "chapter": "11: Holozoic Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The type of digestion in Planaria is:",
       "options": {
         "A": "Intracellular",
         "B": "Extracellular",
@@ -922,7 +1317,7 @@
       "options": {
         "A": "Incisors",
         "B": "Canines",
-        "C": "Premolars",
+        "C": "Pre-molars",
         "D": "Molars"
       }
     },
@@ -935,9 +1330,9 @@
       "text": "The part of gut also associated with respiratory system is:",
       "options": {
         "A": "Stomach",
-        "B": "Duodenum",
+        "B": "Esophagus",
         "C": "Pharynx",
-        "D": "Jejunum"
+        "D": "Both b & c"
       }
     },
     {
@@ -946,35 +1341,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The part of gut that has no digestive function is:",
-      "options": {
-        "A": "Stomach",
-        "B": "Duodenum",
-        "C": "Oral cavity",
-        "D": "Large intestine"
-      }
-    },
-    {
-      "chapter": "11: Holozoic Nutrition",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The enzyme that is not a part of gastric juice is:",
-      "options": {
-        "A": "Pepsin",
-        "B": "Renin",
-        "C": "Trypsin",
-        "D": "HCl"
-      }
-    },
-    {
-      "chapter": "11: Holozoic Nutrition",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The number of salivary glands in our oral cavity is:",
+      "text": "The number of salivary glands in our oral cavity are:",
       "options": {
         "A": "3",
         "B": "4",
@@ -988,12 +1355,26 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "A BMI over 30 kg/m² is considered as:",
+      "text": "The rugae are related to:",
+      "options": {
+        "A": "Stomach",
+        "B": "Duodenum",
+        "C": "Jejunum",
+        "D": "Ilium"
+      }
+    },
+    {
+      "chapter": "11: Holozoic Nutrition",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "BMI over 30 kg/m² is considered as:",
       "options": {
         "A": "Normal",
         "B": "Over-weight",
-        "C": "Obesity",
-        "D": "Under-weight"
+        "C": "Under-weight",
+        "D": "Obesity"
       }
     },
     {
@@ -1002,7 +1383,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Lymph most closely resembles:",
+      "text": "Lymph most closely resembles which of the following?",
       "options": {
         "A": "Blood",
         "B": "Urine",
@@ -1018,10 +1399,10 @@
       "year": null,
       "text": "What event initiates blood clotting?",
       "options": {
-        "A": "Contact with an irregular surface by platelets",
+        "A": "Contact with an irregular surface by platelets and other factors in plasma.",
         "B": "Production of the enzyme thrombin",
-        "C": "Conversion of fibrinogen to fibrin",
-        "D": "Excess flow of blood through a damaged vessel"
+        "C": "Conversion of fibrinogen into fibrin",
+        "D": "Excess flow of blood through a capillary"
       }
     },
     {
@@ -1030,12 +1411,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Damage to the S.A. node in humans:",
+      "text": "Damage to the S.A. node in humans",
       "options": {
-        "A": "Is a major cause of heart attacks",
-        "B": "Would block conduction between the bundle branches",
-        "C": "Would have a negative effect on peripheral resistance",
-        "D": "Would disrupt the rate and timing of cardiac muscle contractions"
+        "A": "Is a major contributor to heart attacks.",
+        "B": "Would block conductance between the bundle branches and the Purkinje fibers.",
+        "C": "Would have a negative effect on peripheral resistance.",
+        "D": "Would disrupt the rate and timing of cardiac muscle contractions."
       }
     },
     {
@@ -1044,12 +1425,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which of the following is measured by an electrocardiogram (EKG)?",
+      "text": "Which of the following is measured by an electrocardiogram?",
       "options": {
         "A": "Impulses from the AV node",
-        "B": "Speed of impulses from the SA node",
-        "C": "Contraction of the SA node",
-        "D": "Contraction of the AV node"
+        "B": "Impulses of the parasympathetic nervous system that control heartbeat",
+        "C": "The speed of impulses from the SA node",
+        "D": "Contraction of the two atria"
       }
     },
     {
@@ -1058,12 +1439,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Where are the two atria located in which blood goes from the atria to the mammalian heart?",
+      "text": "Where are semilunar valves to be found in the mammalian heart?",
       "options": {
-        "A": "Where semilunar valves are found",
-        "B": "Where blood goes from atria to the heart",
-        "C": "Where pulmonary veins only enter",
-        "D": "Where veins attach to only"
+        "A": "Where blood goes from atria to ventricles",
+        "B": "On the right side of the heart only",
+        "C": "Where the pulmonary veins attach to the heart",
+        "D": "At the places where blood leaves via the aorta and pulmonary arteries"
       }
     },
     {
@@ -1072,12 +1453,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Organism in which a circulatory fluid that is distinct from the interstitial fluid is pumped through a closed circulatory system?",
+      "text": "Organisms in which a circulating body fluid is distinct from the fluid that directly surrounds the body's cells are likely to have which of the following?",
       "options": {
-        "A": "An open circular cells that are likely to have a gastrovascular cavity",
-        "B": "An organism in which the body cavity is lined with mesoderm",
-        "C": "A closed circulatory system in which fluid is pumped",
-        "D": "An organism in which the body is a solid mass of cells"
+        "A": "An open circulatory system",
+        "B": "A closed circulatory system",
+        "C": "A gastrovascular cavity",
+        "D": "Branched tracheae"
       }
     },
     {
@@ -1086,9 +1467,9 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Average blood pressure, trace which is lowest in which of the following (s) or (b)?",
+      "text": "Average blood pressure is lowest in which structure(s)?",
       "options": {
-        "A": "Average blood pressure trace",
+        "A": "Aorta",
         "B": "Arterioles",
         "C": "Capillaries",
         "D": "Vena cava"
@@ -1100,21 +1481,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Atria are composed of:",
-      "options": {
-        "A": "An open circulatory system of cells that are likely to have a gastrovascular cavity",
-        "B": "Open circular system cells",
-        "C": "A closed circular system",
-        "D": "Closed circular cells"
-      }
-    },
-    {
-      "chapter": "12: Circulation",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following is / are a cause (s) of vasoconstriction?",
+      "text": "Which of the following is/are a cause(s) of vasoconstriction?",
       "options": {
         "A": "Lying down after standing",
         "B": "Standing after lying down",
@@ -1146,7 +1513,7 @@
       "options": {
         "A": "Transport of nutrients and respiratory gases",
         "B": "Regulation of body temperature",
-        "C": "Protection of the body by circulatory antibodies",
+        "C": "Protection of the body by circulating antibodies",
         "D": "Removal of waste products for excretion from the body"
       }
     },
@@ -1170,9 +1537,9 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "It is responsible for specific immune response against any pathogen which tries to enter in the body called:",
+      "text": "It is responsible for specific immune response:",
       "options": {
-        "A": "Innate Immune system",
+        "A": "Innate immune system",
         "B": "First line of defense",
         "C": "Second line of defense",
         "D": "Third line of defense"
@@ -1198,10 +1565,10 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Our digestive tract consists of what kind of barrier?",
+      "text": "Our digestive tract consists of what kind of barriers?",
       "options": {
-        "A": "Physical barrier",
-        "B": "Biochemical barrier",
+        "A": "Physical barriers",
+        "B": "Biochemical barriers",
         "C": "Both a & b",
         "D": "None of these"
       }
@@ -1268,7 +1635,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The type of immunity achieved through the transfer of antibodies from mother to her fetus is:",
+      "text": "The type of immunity through the transfer of antibodies from mother to her fetus is:",
       "options": {
         "A": "Natural active immunity",
         "B": "Natural passive immunity",
@@ -1282,7 +1649,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Tears are secreted by:",
+      "text": "Antibodies are secreted by:",
       "options": {
         "A": "T cells",
         "B": "B cells",
@@ -1296,7 +1663,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "In which part of the respiratory system, gaseous exchange takes place?",
+      "text": "In which part of the respiratory system does gaseous exchange take place?",
       "options": {
         "A": "Alveoli",
         "B": "Pharynx",
@@ -1310,12 +1677,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "Which of the following statements is true about breathing?",
+      "text": "Which of the following statements is true about involuntary breathing?",
       "options": {
-        "A": "It is controlled by the bronchi",
-        "B": "It is controlled by the pulmonary arteries",
+        "A": "It is controlled by the bronchioles",
+        "B": "It is controlled by the pulmonary arterioles",
         "C": "It is controlled by the alveolar-capillary network",
-        "D": "It is controlled by the medulla and pons"
+        "D": "It is controlled by the neurons located in the medulla and pons"
       }
     },
     {
@@ -1324,11 +1691,11 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The tiny air sacs present in human lungs are called:",
+      "text": "The tiny air sacs present in human lungs is called.",
       "options": {
         "A": "Alveoli",
-        "B": "Bronchioles",
-        "C": "Bronchi",
+        "B": "Bronchus",
+        "C": "Bronchioles",
         "D": "All of the above"
       }
     },
@@ -1338,9 +1705,9 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The exchange of gases between the external environment and the lungs:",
+      "text": "The exchange of gases between the external environment and the lungs.",
       "options": {
-        "A": "Internal respiration",
+        "A": "Respiration",
         "B": "External respiration",
         "C": "Cellular respiration",
         "D": "None of the above"
@@ -1352,7 +1719,7 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The maximum volume of air contained in the lung by a full forced inspiration is called:",
+      "text": "The maximum volume of air contained in the lung by a full forced inhalation is called.",
       "options": {
         "A": "Tidal volume",
         "B": "Vital capacity",
@@ -1369,8 +1736,22 @@
       "text": "Which one of the following is correct regarding larynx?",
       "options": {
         "A": "It houses the vocal cords",
-        "B": "It prevents the inhaled food particles into the windpipe",
-        "C": "It connects the pharynx to the trachea",
+        "B": "It prevents the invading pathogens into the trachea",
+        "C": "It is an organ made of cartilage and connects the pharynx to the trachea",
+        "D": "All of the above"
+      }
+    },
+    {
+      "chapter": "14: Gaseous Exchange",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Which of the following is the function of the trachea?",
+      "options": {
+        "A": "Gaseous exchange",
+        "B": "Filters the air we breathe",
+        "C": "Exhales the air from the body",
         "D": "All of the above"
       }
     },
@@ -1385,21 +1766,7 @@
         "A": "Larynx",
         "B": "Pharynx",
         "C": "Nasal chambers",
-        "D": "Trachea"
-      }
-    },
-    {
-      "chapter": "14: Gaseous Exchange",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "Which of the following organs functions as the chief organ of the respiratory system?",
-      "options": {
-        "A": "Pharynx",
-        "B": "Lungs",
-        "C": "Trachea",
-        "D": "Bronchi"
+        "D": "All of the above"
       }
     },
     {
@@ -1410,10 +1777,10 @@
       "year": null,
       "text": "Which of the following statements is true about the entry of air into the lungs?",
       "options": {
-        "A": "Air enters the body and travels to the lungs through the nose and the mouth",
-        "B": "Air enters the body and travels to the lungs through the oesophagus and gullet",
+        "A": "Air enters the body and travels to the lungs through the mouth and the nose",
+        "B": "Air enters the body and travels to the lungs through the esophagus and gullet",
         "C": "Air enters the body and travels to the lungs through the windpipe and the pores",
-        "D": "Air enters the body and travels to the lungs through the nose and the nerve endings"
+        "D": "Air enters the body and travels to the lungs through the nose and the nervous system."
       }
     }
   ]

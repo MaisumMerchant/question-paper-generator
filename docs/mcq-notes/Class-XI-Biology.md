@@ -1,0 +1,5 @@
+# Class XI Biology MCQ source review
+
+The supplied `Data/Class XI/Biology_MCQs.pdf` is an exercise-page extract, not the complete textbook. This bank transcribes the 127 MCQs visible in chapters 1–5 and 7–14, including the enzyme graph and five-choice questions. Chapter 6 (Prokaryotes) is not present in the supplied extract. The extract ends chapter 5 at question ix, chapter 7 at ix, and chapter 14 at ix; no unseen questions have been invented. Exercise-page coverage is not a claim of coverage of every question in the complete textbook.
+
+Some questions in the source have scientific or editorial problems and are reproduced without an answer key. Examples: chapter 2(x) offers no clear description of noncompetitive inhibition; chapter 9(vi) does not offer a feature unique to animals; chapter 12(x) lists functions all associated with circulation; and chapter 13(viii) includes a self-referential option. Chapter 11(viii) does not specify whether glands or pairs of glands are counted. Check these questions before using them in an assessed paper.
