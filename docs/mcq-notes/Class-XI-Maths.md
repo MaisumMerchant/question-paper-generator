@@ -1,6 +1,6 @@
-# Class XI Mathematics MCQ review — in progress
+# Class XI Mathematics MCQ source review
 
-The supplied `Data/Class XI/Math_MCQs.pdf` is an exercise-page extract. The 20 Complex Numbers questions in Review Exercise 1 were transcribed from PDF pages 1–2 (printed pages 22–23). The Matrices and Determinants Vectors, Sequence and Series, Miscellaneous and Series, Permutation, Combination and Probability, and Mathematical Induction and Binomial Theorem, Functions and Graph, Linear Programming, Trigonometric Identities, and Application of Trigonometry exercises are reviewed below; other chapters remain unverified; this is not a claim of complete coverage of the textbook.
+The supplied `Data/Class XI/Math_MCQs.pdf` is an exercise-page extract. The 20 Complex Numbers questions in Review Exercise 1 were transcribed from PDF pages 1–2 (printed pages 22–23). The Matrices and Determinants Vectors, Sequence and Series, Miscellaneous and Series, Permutation, Combination and Probability, and Mathematical Induction and Binomial Theorem, Functions and Graph, Linear Programming, Trigonometric Identities, Application of Trigonometry, and trigonometric functions exercises are reviewed below; this is not a claim of complete coverage of the textbook.
 
 The source is retained without an answer key. In 1(i), each of the first three choices and “All of these” is true. In 1(vii), a fractional power of a negative number requires a convention. In 1(ix), a real number is also complex. In 1(xiv), the domain of x affects interpretation. In 1(xviii), options (a) and (d) are duplicated in the source.
 
@@ -40,6 +40,12 @@ In 8(iv) injectivity and surjectivity are each necessary for a bijective inverse
 
 ## Review Exercises 10–11 — Trigonometry
 
-The 13 identities questions on PDF page 21 (printed 315) and 20 application questions on PDF pages 22–23 (printed 334–335) replace 10 and 16 earlier items. The next full textbook PDF page after printed 315 is blank, followed by the next unit, so no continuation MCQ page is missing there. The bank now has 194 items; only the 10 items in Review Exercise 12 remain unverified. The filled triangle symbol is preserved in the application exercise as the book's area notation.
+The 13 identities questions on PDF page 21 (printed 315) and 20 application questions on PDF pages 22–23 (printed 334–335) replace 10 and 16 earlier items. The next full textbook PDF page after printed 315 is blank, followed by the next unit, so no continuation MCQ page is missing there. The bank now has 194 items; the 10 items in Review Exercise 12 remained unverified at that stage. The filled triangle symbol is preserved in the application exercise as the book's area notation.
 
 Exercise 10(x) has three equivalent choices plus “all of these”; 10(xii)(a) prints two first powers, which is retained. In 11(xii) special triangles can make extra formulas coincide. The original wording is retained without an answer key.
+
+## Review Exercise 12 — Trigonometric Functions and Equations
+
+The 23 questions on PDF pages 24–25 (printed pages 386–387) replace 10 earlier items. The 207 MCQs in the supplied exercise extract have now been transcribed against the page images. This is a review of the supplied exercise pages, not an assertion that other textbook exercises or all source page selections have been exhaustively covered. Null year fields were omitted; the application defaults missing years to null.
+
+Printed issues retained: (i)(c) reads [0,x] and excludes π/2; (ii)(c) and (d) are duplicates; (iii)(c) also describes all real numbers; (ix) requires conditions for the inverse-cosine sum; (xii) has two listed solutions; (xvi) ignores trigonometric equations with no real solutions; and (xvii) has multiple periods if “period” is not taken to mean least positive period. No answer key is supplied.
