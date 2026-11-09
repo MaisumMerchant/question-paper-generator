@@ -2,7 +2,7 @@ import { loadQuestionImage } from './questionImage.js';
 import { jsPDF } from 'jspdf';
 import html2canvas from 'html2canvas';
 import katex from 'katex';
-import { hasArabicScript } from './rtlText.js';
+import { hasArabicScript, textDirection } from './rtlText.js';
 
 // A4 exam layout. Latin prose and code remain PDF text; mathematics and
 // Arabic-script question text are rendered as high-resolution artwork.
@@ -73,13 +73,14 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
   // available, then split the artwork at line boundaries for safe pagination.
   async function rtlRows(text, width, size) {
     const wrapper = document.createElement('div');
+    const direction = textDirection(text, /\(English\)/i.test(subject));
     const linePx = size * 96 / 72 * 1.9;
     Object.assign(wrapper.style, {
       position: 'fixed', left: '-20000px', top: '0', width: `${width * 96 / 72}px`,
       boxSizing: 'border-box', background: '#fff', color: '#000',
       fontFamily: 'Arial, "Noto Naskh Arabic", "Noto Sans Arabic", sans-serif',
       fontSize: `${size * 96 / 72}px`, lineHeight: `${linePx}px`,
-      direction: 'rtl', textAlign: 'right', whiteSpace: 'pre-wrap',
+      direction, textAlign: direction === 'rtl' ? 'right' : 'left', whiteSpace: 'pre-wrap',
       overflowWrap: 'anywhere', zIndex: '-1'
     });
     let cursor = 0;
@@ -111,7 +112,7 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
         const slice = document.createElement('canvas'); slice.width = canvas.width; slice.height = bottom - top;
         slice.getContext('2d').drawImage(canvas, 0, top, canvas.width, bottom - top, 0, 0, slice.width, slice.height);
         const height = rect.height * .75 / count;
-        result.push({ rtl: true, height, ascent: height, descent: 0, segments: [{ image: slice.toDataURL('image/png'), width, height, ascent: height }] });
+        result.push({ rtl: direction === 'rtl', height, ascent: height, descent: 0, segments: [{ image: slice.toDataURL('image/png'), width, height, ascent: height }] });
       }
       return result;
     } finally { wrapper.remove(); }
