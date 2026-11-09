@@ -189,7 +189,12 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
       const rows = await rowsFor(q.text, textRight - bodyX);
       const parts = [];
       if (section === 'A' && q.options) {
-        for (const [key, value] of Object.entries(q.options)) parts.push({ label: `(${key})`, rows: await rowsFor(String(value), textRight - partX - (hasArabicScript(value) ? 32 : 0), PART) });
+        for (const [key, value] of Object.entries(q.options)) {
+          // Built-in PDF fonts cannot render Urdu labels: shape them together
+          // with the option text instead of drawing them with pdf.text.
+          if (hasArabicScript(key)) parts.push({ label: '', rows: await rowsFor(`(${key}) ${value}`, textRight - partX, PART) });
+          else parts.push({ label: `(${key})`, rows: await rowsFor(String(value), textRight - partX - (hasArabicScript(value) ? 32 : 0), PART) });
+        }
       } else {
         for (const part of q.parts || []) parts.push({ label: part.label, rows: await rowsFor(part.text, textRight - partX - (hasArabicScript(part.text) ? 32 : 0), PART) });
       }
@@ -237,7 +242,12 @@ export async function createExamPdf({ paper, meta, className, subject, shortMark
       for (const part of item.parts) { y += 5; ensure(Math.min(part.rows.reduce((n,r)=>n+r.height,0), BOTTOM-64)); for (let j=0;j<part.rows.length;j++) drawRow(part.rows[j], partX, j===0, '', null, part.label); }
       if (meta.showChapter || meta.showSource) {
         const detail = [meta.showChapter ? item.q.chapter : '', meta.showSource ? `${item.q.source === 'past_paper' ? 'Past paper' : 'Important book'}${item.q.year ? ' - ' + item.q.year : ''}` : ''].filter(Boolean).join(' | ');
-        font(10); const lines = pdf.splitTextToSize(clean(detail), textRight - bodyX); ensure(lines.length*14); pdf.text(lines, bodyX, y + 10); y += lines.length*14;
+        if (hasArabicScript(detail)) {
+          const detailRows = await rowsFor(detail, textRight - bodyX, 10);
+          for (const row of detailRows) drawRow(row, bodyX);
+        } else {
+          font(10); const lines = pdf.splitTextToSize(clean(detail), textRight - bodyX); ensure(lines.length*14); pdf.text(lines, bodyX, y + 10); y += lines.length*14;
+        }
       }
       y += 14;
     }
