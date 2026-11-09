@@ -2010,12 +2010,12 @@
 "type": "mcq",
 "source": "important_book",
 "year": null,
-"text": "If $\\alpha$ and $\\beta$ are the roots of $x^2 - 5x + 6 = 0$, then $\\alpha + \\beta$ equals:",
+"text": "If $a_n=5-3n+2n^2$, then $a_{2n}=$ ______",
 "options": {
-"A": "$5$",
-"B": "$6$",
-"C": "$-5$",
-"D": "$1$"
+"A": "$5-6n+2n^2$",
+"B": "$5-6n+4n^2$",
+"C": "$5+6n+4n^2$",
+"D": "$5-6n+8n^2$"
 }
 },
 {
@@ -2024,12 +2024,12 @@
 "type": "mcq",
 "source": "important_book",
 "year": null,
-"text": "If $\\alpha \\beta = 6$ and $\\alpha + \\beta = 5$, then the quadratic equation with roots $\\alpha$ and $\\beta$ is:",
+"text": "If $a_{n-2}=3n-11$, then $a_n=$ ______",
 "options": {
-"A": "$x^2 - 5x + 6 = 0$",
-"B": "$x^2 + 5x + 6 = 0$",
-"C": "$x^2 - 6x + 5 = 0$",
-"D": "$x^2 + 5x - 6 = 0$"
+"A": "$3n+5$",
+"B": "$3n-5$",
+"C": "$3n-9$",
+"D": "$3n-13$"
 }
 },
 {
@@ -2038,12 +2038,12 @@
 "type": "mcq",
 "source": "important_book",
 "year": null,
-"text": "The discriminant of $ax^2 + bx + c = 0$ is:",
+"text": "$\\sum_{1}^{50}n=$ ______",
 "options": {
-"A": "$b^2 - 4ac$",
-"B": "$b^2 + 4ac$",
-"C": "$4ac - b^2$",
-"D": "$b - 4ac$"
+"A": "$1274$",
+"B": "$1275$",
+"C": "$1280$",
+"D": "$1285$"
 }
 },
 {
@@ -2052,12 +2052,12 @@
 "type": "mcq",
 "source": "important_book",
 "year": null,
-"text": "The roots of $ax^2 + bx + c = 0$ are real and distinct if:",
+"text": "$\\frac1{n(n+1)}=$ ______",
 "options": {
-"A": "$b^2 - 4ac > 0$",
-"B": "$b^2 - 4ac = 0$",
-"C": "$b^2 - 4ac < 0$",
-"D": "$a = c$"
+"A": "$\\frac1n+\\frac1{n+1}$",
+"B": "$\\frac1n-\\frac1{n+1}$",
+"C": "$\\frac2n+\\frac1{n+1}$",
+"D": "$\\frac1n-\\frac3{n+1}$"
 }
 },
 {
@@ -2066,12 +2066,82 @@
 "type": "mcq",
 "source": "important_book",
 "year": null,
-"text": "The sum of the roots of $2x^2 - 8x + 6 = 0$ is:",
+"text": "The $n$th term of $\\frac12,\\ \\frac15,\\ \\frac18\\ldots$ is:",
 "options": {
-"A": "$4$",
-"B": "$3$",
-"C": "$8$",
-"D": "$-4$"
+"A": "$\\frac1{3n-1}$",
+"B": "$3n-1$",
+"C": "$2n+1$",
+"D": "$\\frac1{3n+1}$"
+}
+},
+{
+"chapter": "Miscellaneous and Series",
+"section": "A",
+"type": "mcq",
+"source": "important_book",
+"year": null,
+"text": "$\\sum n$ is equal to:",
+"options": {
+"A": "$\\frac{n(n+1)}2$",
+"B": "$\\frac{n(n+1)(2n+1)}6$",
+"C": "$\\frac{n^2(n+1)^2}2$",
+"D": "$n^2$"
+}
+},
+{
+"chapter": "Miscellaneous and Series",
+"section": "A",
+"type": "mcq",
+"source": "important_book",
+"year": null,
+"text": "$\\sum n^2$ is equal to:",
+"options": {
+"A": "$\\frac{n(n+1)}2$",
+"B": "$\\frac{n(n+1)(2n+1)}6$",
+"C": "$\\frac{n^2(n+1)^2}2$",
+"D": "$n^2$"
+}
+},
+{
+"chapter": "Miscellaneous and Series",
+"section": "A",
+"type": "mcq",
+"source": "important_book",
+"year": null,
+"text": "$\\sum n^3$ is equal to:",
+"options": {
+"A": "$\\frac{n(n+1)}2$",
+"B": "$\\frac{n(n+1)(2n+1)}6$",
+"C": "$\\frac{n^2(n+1)^2}4$",
+"D": "$\\frac{n(n+1)^2}4$"
+}
+},
+{
+"chapter": "Miscellaneous and Series",
+"section": "A",
+"type": "mcq",
+"source": "important_book",
+"year": null,
+"text": "If $S_n=(n+1)^2$, then $S_{2n}$ is equal to:",
+"options": {
+"A": "$2n+1$",
+"B": "$4n^2+4n+1$",
+"C": "$(2n-1)^2$",
+"D": "Cannot be determined"
+}
+},
+{
+"chapter": "Miscellaneous and Series",
+"section": "A",
+"type": "mcq",
+"source": "important_book",
+"year": null,
+"text": "$\\sum_{n=3}^{20}n^0=$ ______",
+"options": {
+"A": "$1$",
+"B": "$19$",
+"C": "$20$",
+"D": "$18$"
 }
 },
 {
