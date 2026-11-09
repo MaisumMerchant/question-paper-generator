@@ -1,0 +1,1621 @@
+{
+  "subject": "Islamiat (Urdu)",
+  "class": "IX",
+  "language": "Urdu",
+  "coverage": "101 MCQs transcribed from 35 selected exercise pages of the official combined IX–X Urdu textbook, listed by STBB under Class IX. The selected pages were visually checked; complete-book coverage and the IX/X curriculum division have not been independently verified.",
+  "source_url": "https://portal.stbb.edu.pk/ebooks/pdf_proxy.php?id=265",
+  "notes": "The textbook uses Urdu option labels الف، ب، ج، د; five questions have three options as printed. The source does not mark answers, so no answer key is supplied. The selected original pages are included in the matching PDF. Arabic diacritics and transcription have not had an independent second proofread.",
+  "questions": [
+    {
+      "chapter": "قرآن مجید: تعارف اور فضائل",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 11,
+      "source_printed_page": 6,
+      "text": "لفظ ”قرآن“ کے لغوی معنی ہے:",
+      "options": {
+        "الف": "آسمانی کتاب",
+        "ب": "سنی ہوئی کتاب",
+        "ج": "پڑھی ہوئی کتاب",
+        "د": "لکھی ہوئی کتاب"
+      }
+    },
+    {
+      "chapter": "قرآن مجید: تعارف اور فضائل",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 11,
+      "source_printed_page": 6,
+      "text": "اللہ تعالیٰ کا دائمی و عالمگیر قانون ہے:",
+      "options": {
+        "الف": "قرآن مجید",
+        "ب": "احادیث",
+        "ج": "فقہ",
+        "د": "تفسیر"
+      }
+    },
+    {
+      "chapter": "قرآن مجید: تعارف اور فضائل",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 11,
+      "source_printed_page": 6,
+      "text": "قرآن مجید کے نام ”الذکر“ سے مراد ہے:",
+      "options": {
+        "الف": "راہ دکھانے والی کتاب",
+        "ب": "روشنی والی کتاب",
+        "ج": "نصیحت والی کتاب",
+        "د": "ثابت شدہ کتاب"
+      }
+    },
+    {
+      "chapter": "قرآن مجید: تعارف اور فضائل",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 11,
+      "source_printed_page": 6,
+      "text": "قرآن مجید اللہ تعالیٰ کا ازلی کلام، جو موجود ہے:",
+      "options": {
+        "الف": "بیت المعمور میں",
+        "ب": "خانہ کعبہ میں",
+        "ج": "بیت العزت میں",
+        "د": "لوح محفوظ میں"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 17,
+      "source_printed_page": 12,
+      "text": "وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَاهَدُوا کا تعلق ہے:",
+      "options": {
+        "الف": "ایمانیات سے",
+        "ب": "معاملات سے",
+        "ج": "مالی عبادات سے",
+        "د": "جانی عبادات سے"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 17,
+      "source_printed_page": 12,
+      "text": "یا ایہا الناس سے مخاطب کیا گیا ہے:",
+      "options": {
+        "الف": "فرشتوں کو",
+        "ب": "انسانوں کو",
+        "ج": "حیوانوں کو",
+        "د": "جنوں کو"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 17,
+      "source_printed_page": 12,
+      "text": "البر حسن الخلق کے معنی ہیں:",
+      "options": {
+        "الف": "نیکی سخاوت کا نام ہے",
+        "ب": "نیکی بردباری کا نام ہے",
+        "ج": "نیکی اچھے اخلاق کا نام ہے",
+        "د": "نیکی ایثار کا نام ہے"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 23,
+      "source_printed_page": 18,
+      "text": "ملکیت حوالے کرنے کے وقت مقرر کئے جائیں:",
+      "options": {
+        "الف": "وکیل",
+        "ب": "گواہ",
+        "ج": "نائب",
+        "د": "حاکم"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 23,
+      "source_printed_page": 18,
+      "text": "یتیموں کو مال حوالے کرنے کے وقت جانچنا ہے:",
+      "options": {
+        "الف": "بلوغ و رشد کو",
+        "ب": "صحت اور مرض کو",
+        "ج": "علم و دانش کو",
+        "د": "تحمل و برداشت کو"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 23,
+      "source_printed_page": 18,
+      "text": "یتیم کے مال سے کفیل کو بقدر ضرورت مال لینے کی اجازت ہے جب وہ:",
+      "options": {
+        "الف": "کفیل غریب ہو",
+        "ب": "کفیل امیر ہو",
+        "ج": "کفیل قرضدار ہو",
+        "د": "کفیل محتاج ہو"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 23,
+      "source_printed_page": 18,
+      "text": "یتیموں اور مسکینوں سے بات کرنی چاہیے:",
+      "options": {
+        "الف": "سختی سے",
+        "ب": "نرمی سے",
+        "ج": "غصے سے",
+        "د": "ناشائستگی سے"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 23,
+      "source_printed_page": 18,
+      "text": "قرآن مجید نے یتیموں کا مال ناحق کھانے والوں کا ٹھکانہ بتایا ہے:",
+      "options": {
+        "الف": "جنت",
+        "ب": "جہنم",
+        "ج": "برزخ",
+        "د": "قبر"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 23,
+      "source_printed_page": 18,
+      "text": "یتامیٰ کا مال ناحق کھانے والے وہ اپنے پیٹ میں بھرتے ہیں:",
+      "options": {
+        "الف": "مٹی",
+        "ب": "آگ",
+        "ج": "پانی",
+        "د": "ہوا"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 29,
+      "source_printed_page": 24,
+      "text": "آمدنی کا ناجائز طریقہ ہے:",
+      "options": {
+        "الف": "زراعت",
+        "ب": "صنعت",
+        "ج": "تجارت",
+        "د": "رشوت"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 29,
+      "source_printed_page": 24,
+      "text": "حقوق العباد سے مراد ہیں:",
+      "options": {
+        "الف": "اللہ تعالیٰ کے حقوق",
+        "ب": "انسانوں کے حقوق",
+        "ج": "حیوانات کے حقوق",
+        "د": "نباتات کے حقوق"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 29,
+      "source_printed_page": 24,
+      "text": "ابن السبیل سے مراد ہے:",
+      "options": {
+        "الف": "فقیر",
+        "ب": "مسکین",
+        "ج": "مسافر",
+        "د": "ہمسایہ"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 30,
+      "source_printed_page": 25,
+      "text": "بے گناہ کو قتل کرنا گویا قتل کرنا ہے:",
+      "options": {
+        "الف": "پوری کائنات کو",
+        "ب": "پوری انسانیت کو",
+        "ج": "پوری حیوانیت کو",
+        "د": "پورے خاندان کو"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 36,
+      "source_printed_page": 31,
+      "text": "”بِيَعٌ“ عبادت گاہ ہے:",
+      "options": {
+        "الف": "ہندوؤں کی",
+        "ب": "عیسائیوں کی",
+        "ج": "سکھوں کی",
+        "د": "یہودیوں کی"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 36,
+      "source_printed_page": 31,
+      "text": "مسلمانوں کی مکہ مکرمہ سے مدینہ منورہ ہجرت کرنے کی وجہ تھی:",
+      "options": {
+        "الف": "بے روزگاری",
+        "ب": "قحط سالی",
+        "ج": "شدید گرم موسم",
+        "د": "کفار مکہ کے مظالم"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 36,
+      "source_printed_page": 31,
+      "text": "مسلمانوں کو جہاد کی اجازت دی گئی:",
+      "options": {
+        "الف": "مجبوری کی حالت میں",
+        "ب": "خوشی کی حالت میں",
+        "ج": "پریشانی کی حالت میں",
+        "د": "غصے کی حالت میں"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 37,
+      "source_printed_page": 32,
+      "text": "مسلمانوں پر کفار مکہ کے مظالم کی وجہ تھی:",
+      "options": {
+        "الف": "قومی دشمنی",
+        "ب": "خاندانی دشمنی",
+        "ج": "سیاسی دشمنی",
+        "د": "مذہبی دشمنی"
+      }
+    },
+    {
+      "chapter": "قرآن مجید",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 37,
+      "source_printed_page": 32,
+      "text": "اقامت صلوٰۃ و ایتاء زکوٰۃ اور امر بالمعروف و نہی عن المنکر کا اہتمام کرنے کی ذمہ داری ہے:",
+      "options": {
+        "الف": "علماء کی",
+        "ب": "حکمرانوں کی",
+        "ج": "مجاہدین کی",
+        "د": "اساتذہ کی"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 42,
+      "source_printed_page": 37,
+      "text": "سنت کے لغوی معنی ہیں:",
+      "options": {
+        "الف": "بات چیت",
+        "ب": "قانون",
+        "ج": "رسم و رواج",
+        "د": "طریقہ"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 42,
+      "source_printed_page": 37,
+      "text": "مفہوم اللہ تعالیٰ کا اور الفاظ حضور کریم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم کے ہوں تو وہ حدیث کہلاتی ہے:",
+      "options": {
+        "الف": "تقریری",
+        "ب": "فعلی",
+        "ج": "قولی",
+        "د": "قدسی"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 42,
+      "source_printed_page": 37,
+      "text": "حدیث کے مفہوم کو ظاہر کرتا ہے لفظ:",
+      "options": {
+        "الف": "سنت",
+        "ب": "عقل",
+        "ج": "قیاس",
+        "د": "اجماع"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 46,
+      "source_printed_page": 41,
+      "text": "حدیث میں افضل ذکر کہا گیا ہے:",
+      "options": {
+        "الف": "سبحان اللہ کو",
+        "ب": "الحمد للہ کو",
+        "ج": "اللہ اکبر کو",
+        "د": "لا الہ الا اللہ کو"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 46,
+      "source_printed_page": 41,
+      "text": "اللہ تعالیٰ کی بارگاہ میں ”التجا کرنا“ کہلاتا ہے:",
+      "options": {
+        "الف": "حمد",
+        "ب": "ذکر",
+        "ج": "دعا",
+        "د": "صلوٰۃ"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 46,
+      "source_printed_page": 41,
+      "text": "اطمینان قلب کا ذریعہ ہے:",
+      "options": {
+        "الف": "شکر",
+        "ب": "صبر",
+        "ج": "ذکر",
+        "د": "سخا"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 50,
+      "source_printed_page": 45,
+      "text": "”دین کا مکمل علم حاصل کرنا“ ہے:",
+      "options": {
+        "الف": "فرض عین",
+        "ب": "فرض کفایہ",
+        "ج": "سنت",
+        "د": "مستحب"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 50,
+      "source_printed_page": 45,
+      "text": "حدیث میں ”دین کا ستون“ کہا گیا ہے:",
+      "options": {
+        "الف": "روزہ کو",
+        "ب": "زکوٰۃ کو",
+        "ج": "حج کو",
+        "د": "نماز کو"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 50,
+      "source_printed_page": 45,
+      "text": "حدیث میں ”جہنم کی آگ سے ڈھال“ قرار دیا گیا ہے:",
+      "options": {
+        "الف": "نماز کو",
+        "ب": "زکوٰۃ کو",
+        "ج": "روزہ کو",
+        "د": "حج کو"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 54,
+      "source_printed_page": 49,
+      "text": "حدیث میں جو انسانوں کو زیادہ نفع پہنچائے اس کو کہا گیا ہے:",
+      "options": {
+        "الف": "افضل الناس",
+        "ب": "اکرم الناس",
+        "ج": "خیر الناس",
+        "د": "احب الناس"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 54,
+      "source_printed_page": 49,
+      "text": "حدیث میں لعنت کا مستحق قرار دیا گیا ہے:",
+      "options": {
+        "الف": "چغل خور کو",
+        "ب": "غیبت کرنے والے کو",
+        "ج": "بہتان لگانے والے کو",
+        "د": "رشوت لینے والے کو"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 54,
+      "source_printed_page": 49,
+      "text": "حدیث میں ”اوپر والے ہاتھ“ کو بہتر کہا گیا ہے۔ کیونکہ وہ:",
+      "options": {
+        "الف": "دینے والا ہے",
+        "ب": "لینے والا ہے",
+        "ج": "سوال کرنے والا ہے",
+        "د": "بخل کرنے والا ہے"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 58,
+      "source_printed_page": 53,
+      "text": "چھینک کے وقت سننے والا کہتا ہے:",
+      "options": {
+        "الف": "الحمدللہ",
+        "ب": "یرحمک اللہ",
+        "ج": "بارک اللہ",
+        "د": "جزاک اللہ"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 58,
+      "source_printed_page": 53,
+      "text": "جب کوئی کسی سے ملے تو کہے:",
+      "options": {
+        "الف": "اللہ اکبر",
+        "ب": "السلام علیکم",
+        "ج": "سبحان اللہ",
+        "د": "ماشاء اللہ"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 58,
+      "source_printed_page": 53,
+      "text": "جو کام اللہ تعالیٰ کی رضا کے لیے کیا جائے وہ کہلاتا ہے:",
+      "options": {
+        "الف": "اخلاص",
+        "ب": "ریا",
+        "ج": "تقویٰ",
+        "د": "زہد"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 58,
+      "source_printed_page": 53,
+      "text": "حدیث میں طلب علم کے لیے کس ملک جانے کے لیے ترغیب دی گئی ہے:",
+      "options": {
+        "الف": "یمن",
+        "ب": "شام",
+        "ج": "ایران",
+        "د": "چین"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 63,
+      "source_printed_page": 58,
+      "text": "اپنے رشتے داروں کے دکھ سکھ میں شریک ہونا کہلاتا ہے:",
+      "options": {
+        "الف": "اکرام الضیف",
+        "ب": "صلہ رحمی",
+        "ج": "حسن ظن",
+        "د": "حقوق العباد"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 63,
+      "source_printed_page": 58,
+      "text": "کسی چیز کی تحقیق کے سوا کچھ کہنا کہلاتا ہے:",
+      "options": {
+        "الف": "یقین",
+        "ب": "شک",
+        "ج": "ظن",
+        "د": "خیال"
+      }
+    },
+    {
+      "chapter": "حدیث شریف",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 63,
+      "source_printed_page": 58,
+      "text": "حدیث میں صلہ رحمی کا فائدہ بتایا گیا ہے:",
+      "options": {
+        "الف": "صحت مند ہونا",
+        "ب": "شہرت یافتہ ہونا",
+        "ج": "رزق کشادہ ہونا",
+        "د": "معزز ہونا"
+      }
+    },
+    {
+      "chapter": "ایمانیات",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 68,
+      "source_printed_page": 63,
+      "text": "توحید کے لفظی معنی ہیں:",
+      "options": {
+        "الف": "ایک ماننا",
+        "ب": "یقین کرنا",
+        "ج": "نظم و ضبط رکھنا",
+        "د": "ہدایت و رہبری کرنا"
+      }
+    },
+    {
+      "chapter": "ایمانیات",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 68,
+      "source_printed_page": 63,
+      "text": "ایک مسلمان کو پہلے:",
+      "options": {
+        "الف": "عقیدہ درست کرنا چاہیے",
+        "ب": "نماز پڑھنا چاہیے",
+        "ج": "با اخلاق ہونا چاہیے",
+        "د": "حج کرنا چاہیے"
+      }
+    },
+    {
+      "chapter": "ایمانیات",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 68,
+      "source_printed_page": 63,
+      "text": "انسان کی فلاح و نجات کا مدار ہے:",
+      "options": {
+        "الف": "صبر و شکر پر",
+        "ب": "اخلاق و تقویٰ پر",
+        "ج": "ایمان و عمل صالح پر",
+        "د": "تحمل و بردباری پر"
+      }
+    },
+    {
+      "chapter": "ایمانیات",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 74,
+      "source_printed_page": 69,
+      "text": "نبوت و رسالت ایک ایسا منصب ہے جو:",
+      "options": {
+        "الف": "کوئی بھی انسان محنت کر کے حاصل کر سکتا ہے۔",
+        "ب": "عبادت گزار لوگوں کو ملتا ہے۔",
+        "ج": "خدمت خلق کرنے والوں کو ملتا ہے۔",
+        "د": "اللہ تعالیٰ اپنے خاص منتخب بندوں کو عطا کرتا ہے۔"
+      }
+    },
+    {
+      "chapter": "ایمانیات",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 74,
+      "source_printed_page": 69,
+      "text": "اللہ تعالیٰ نے ہر قوم کی ہدایت و رہبری کے لیے بھیجا ہے:",
+      "options": {
+        "الف": "کتاب",
+        "ب": "نبی",
+        "ج": "فرشتہ",
+        "د": "جن"
+      }
+    },
+    {
+      "chapter": "ایمانیات",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 74,
+      "source_printed_page": 69,
+      "text": "اللہ تعالیٰ کی طرف سے بھیجے گئے پہلے نبی ہیں:",
+      "options": {
+        "الف": "حضرت آدم علیہ السلام",
+        "ب": "حضرت موسیٰ علیہ السلام",
+        "ج": "حضرت عیسیٰ علیہ السلام",
+        "د": "حضرت ابراہیم علیہ السلام"
+      }
+    },
+    {
+      "chapter": "عبادات",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 77,
+      "source_printed_page": 72,
+      "text": "اللہ تعالیٰ نے انسانوں اور جنوں کو پیدا کیا ہے:",
+      "options": {
+        "الف": "عبادت کے لیے",
+        "ب": "زراعت کے لیے",
+        "ج": "تجارت کے لیے",
+        "د": "صنعت و حرفت کے لیے"
+      }
+    },
+    {
+      "chapter": "عبادات",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 77,
+      "source_printed_page": 72,
+      "text": "حضور کریم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم کے اسوہ حسنہ کے مطابق زندگی گزارنے کا نام ہے:",
+      "options": {
+        "الف": "معیشت",
+        "ب": "معاشرت",
+        "ج": "عبادت",
+        "د": "تجارت"
+      }
+    },
+    {
+      "chapter": "عبادات",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 77,
+      "source_printed_page": 72,
+      "text": "انسان کو پیدا کرنے کا مقصد ہے:",
+      "options": {
+        "الف": "زمین کو آباد کرنا",
+        "ب": "اللہ تعالیٰ کی عبادت کرنا",
+        "ج": "تجارت کرنا",
+        "د": "کھیتی باڑی کرنا"
+      }
+    },
+    {
+      "chapter": "عبادات",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 84,
+      "source_printed_page": 79,
+      "text": "جہاد کی اقسام ہیں:",
+      "options": {
+        "الف": "۳",
+        "ب": "۴",
+        "ج": "۵",
+        "د": "۶"
+      }
+    },
+    {
+      "chapter": "عبادات",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 84,
+      "source_printed_page": 79,
+      "text": "جہاد بالسیف کا مطلب ہے جہاد کرنا:",
+      "options": {
+        "الف": "دل سے",
+        "ب": "زبان سے",
+        "ج": "اسلحہ سے",
+        "د": "قلم سے"
+      }
+    },
+    {
+      "chapter": "عبادات",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 84,
+      "source_printed_page": 79,
+      "text": "بعض روایات میں نفس کے ساتھ جہاد کرنے کو کہا گیا ہے:",
+      "options": {
+        "الف": "جہاد اصغر",
+        "ب": "جہاد اکبر",
+        "ج": "جہاد اوسط",
+        "د": "جہاد اعظم"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 88,
+      "source_printed_page": 83,
+      "text": "قریش مکہ سال میں دو مرتبہ جن ملکوں کی طرف سفر کرتے تھے وہ تھے:",
+      "options": {
+        "الف": "ایران۔ چین",
+        "ب": "عراق۔ مصر",
+        "ج": "شام۔ یمن",
+        "د": "حبش۔ یمن"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 88,
+      "source_printed_page": 83,
+      "text": "اہل مکہ کی مجلس مشاورت کا نام تھا:",
+      "options": {
+        "الف": "دارالندوہ",
+        "ب": "دارالہجرۃ",
+        "ج": "خانہ کعبہ",
+        "د": "صفہ"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 88,
+      "source_printed_page": 83,
+      "text": "سب سے پہلے جو سورۃ نازل ہوئی وہ تھی:",
+      "options": {
+        "الف": "القلم",
+        "ب": "المدثر",
+        "ج": "المزمل",
+        "د": "العلق"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 88,
+      "source_printed_page": 83,
+      "text": "پہلی وحی جس اسلامی مہینے میں نازل ہوئی وہ تھا:",
+      "options": {
+        "الف": "محرم الحرام",
+        "ب": "رمضان المبارک",
+        "ج": "ربیع الاول",
+        "د": "شعبان المعظم"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 93,
+      "source_printed_page": 88,
+      "text": "دعوت کے لغوی معنی ہے:",
+      "options": {
+        "الف": "بتانا",
+        "ب": "پڑھانا",
+        "ج": "پکارنا",
+        "د": "بلانا"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 93,
+      "source_printed_page": 88,
+      "text": "نیک اور اچھی بات دوسروں تک پہنچانے کو کہا جاتا ہے:",
+      "options": {
+        "الف": "تقریر",
+        "ب": "تدریس",
+        "ج": "تبلیغ",
+        "د": "تجویز"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 93,
+      "source_printed_page": 88,
+      "text": "مکہ مکرمہ میں دعوت و تبلیغ کا ابتدائی مرکز تھا:",
+      "options": {
+        "الف": "دار ارقم",
+        "ب": "شعب ابی طالب",
+        "ج": "کوہ صفا",
+        "د": "مسجد الحرام"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 93,
+      "source_printed_page": 88,
+      "text": "داعی کا کام ہے کہ مخاطب کی تنقید سن کر اس سے:",
+      "options": {
+        "الف": "بدلہ لے",
+        "ب": "درگزر کرے",
+        "ج": "جھگڑا کرے",
+        "د": "غصہ کرے"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 100,
+      "source_printed_page": 95,
+      "text": "ہجرت لفظ کے معنی ہیں:",
+      "options": {
+        "الف": "مسلمان ہونا",
+        "ب": "حصول علم کے لیے سفر کرنا",
+        "ج": "دین کی خاطر نقل مکانی کرنا",
+        "د": "قیام کرنا"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 101,
+      "source_printed_page": 96,
+      "text": "سفر ہجرت کے دوران حضور کریم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم ٹھہرے:",
+      "options": {
+        "الف": "غار حرا میں",
+        "ب": "غار ثور میں",
+        "ج": "کہف میں",
+        "د": "طائف میں"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 101,
+      "source_printed_page": 96,
+      "text": "رسول اللہ صلی اللہ علیہ وعلی آلہ واصحابہ وسلم بذات خود جس جنگی مہم میں شامل ہوں وہ کہلاتا ہے:",
+      "options": {
+        "الف": "غنیمت",
+        "ب": "جزیہ",
+        "ج": "غزوہ",
+        "د": "سریہ"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 101,
+      "source_printed_page": 96,
+      "text": "دوسرا غزوہ ہے:",
+      "options": {
+        "الف": "تبوک",
+        "ب": "خیبر",
+        "ج": "احد",
+        "د": "بدر"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 105,
+      "source_printed_page": 100,
+      "text": "حضور کریم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم کے خصائل و شمائل سے مراد ہے:",
+      "options": {
+        "الف": "سیرت نبوی",
+        "ب": "اسوہ حسنہ",
+        "ج": "سنت",
+        "د": "عمدہ عادات و خصوصیات"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 105,
+      "source_printed_page": 100,
+      "text": "فتح مکہ کے وقت اپنی قوم کے تمام لوگوں کو حضور اکرم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم نے:",
+      "options": {
+        "الف": "قید کر دیا",
+        "ب": "شہر چھوڑنے پر مجبور کر دیا",
+        "ج": "معاف کر دیا",
+        "د": "امیر بنا دیا"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 113,
+      "source_printed_page": 108,
+      "text": "حضور اکرم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم کی ازواج مطہرات کو قرآن کریم میں کہا گیا ہے:",
+      "options": {
+        "الف": "امہات المؤمنین",
+        "ب": "امہات المسلمین",
+        "ج": "اخوات المؤمنین",
+        "د": "سیدات المسلمین"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 113,
+      "source_printed_page": 108,
+      "text": "اہل بیت کے لغوی معنی ہیں:",
+      "options": {
+        "الف": "بیت لکھنے والے",
+        "ب": "شاعری کرنے والے",
+        "ج": "گھر والے",
+        "د": "ایمان والے"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 119,
+      "source_printed_page": 114,
+      "text": "عشرہ مبشرہ کے معنی ہیں:",
+      "options": {
+        "الف": "دس دوست",
+        "ب": "دس ساتھی",
+        "ج": "دس عمل",
+        "د": "خوشخبری سنائے جانے والے دس آدمی"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 119,
+      "source_printed_page": 114,
+      "text": "صحابی وہ ہے جس نے ایمان کی حالت میں حضور اکرم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم سے:",
+      "options": {
+        "الف": "ملاقات کی ہو",
+        "ب": "تجارت کی ہو",
+        "ج": "دوستی کی ہو",
+        "د": "مواخات کی ہو"
+      }
+    },
+    {
+      "chapter": "سیرت طیبہ",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 119,
+      "source_printed_page": 114,
+      "text": "حدیث شریف میں سب سے بہتر زمانہ قرار دیا گیا ہے:",
+      "options": {
+        "الف": "موجودہ زمانہ کو",
+        "ب": "حضور اکرم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم کے زمانہ کو",
+        "ج": "بعثت سے قبل کے زمانہ کو",
+        "د": "آخرت کے زمانہ کو"
+      }
+    },
+    {
+      "chapter": "اخلاق و آداب",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 121,
+      "source_printed_page": 116,
+      "text": "حضور کریم صلی اللہ علیہ وعلی آلہ واصحابہ وسلم کا ارشاد پاک ہے کہ انبیاء کرام علیہم السلام کے وارث ہیں:",
+      "options": {
+        "الف": "علماء کرام",
+        "ب": "اولیاء کرام",
+        "ج": "اساتذہ کرام",
+        "د": "طلباء کرام"
+      }
+    },
+    {
+      "chapter": "اخلاق و آداب",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 126,
+      "source_printed_page": 121,
+      "text": "تمام رشتوں ناتوں میں سے اہم رشتہ ہے:",
+      "options": {
+        "الف": "ماں باپ کا",
+        "ب": "میاں بیوی کا",
+        "ج": "بہن بھائی کا",
+        "د": "استاد شاگرد کا"
+      }
+    },
+    {
+      "chapter": "اخلاق و آداب",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 126,
+      "source_printed_page": 121,
+      "text": "خاندان کی خوبصورتی ہے:",
+      "options": {
+        "الف": "افراد خانہ",
+        "ب": "دولت",
+        "ج": "اولاد",
+        "د": "وراثت"
+      }
+    },
+    {
+      "chapter": "اخلاق و آداب",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 129,
+      "source_printed_page": 124,
+      "text": "اسلام سے قبل زمانہ جاہلیت میں احترام انسانیت تھا:",
+      "options": {
+        "الف": "زیادہ",
+        "ب": "کم",
+        "ج": "ختم",
+        "د": "بہتر"
+      }
+    },
+    {
+      "chapter": "اخلاق و آداب",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 129,
+      "source_printed_page": 124,
+      "text": "تم میں سے اللہ تعالیٰ کے نزدیک زیادہ عزت والا وہ ہے جو:",
+      "options": {
+        "الف": "زیادہ تقویٰ والا ہو",
+        "ب": "زیادہ مرتبے والا ہو",
+        "ج": "زیادہ علم والا ہو",
+        "د": "زیادہ دولت والا ہو"
+      }
+    },
+    {
+      "chapter": "اخلاق و آداب",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 133,
+      "source_printed_page": 128,
+      "text": "عدل عربی لفظ ہے جس کے معنی ہیں:",
+      "options": {
+        "الف": "انصاف قائم کرنا",
+        "ب": "لوگوں سے اچھا سلوک کرنا",
+        "ج": "کسی چیز کو دو برابر حصوں میں تقسیم کرنا",
+        "د": "مظلوم کی بد دعا سے بچنا"
+      }
+    },
+    {
+      "chapter": "اخلاق و آداب",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 133,
+      "source_printed_page": 128,
+      "text": "قرآن کریم میں حکم ہے عدل کرو، کیوں کہ وہ زیادہ قریب ہے:",
+      "options": {
+        "الف": "نیکی کو",
+        "ب": "تقویٰ کو",
+        "ج": "جنت کو",
+        "د": "فرمانبرداری کو"
+      }
+    },
+    {
+      "chapter": "اخلاق و آداب",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 133,
+      "source_printed_page": 128,
+      "text": "ملک میں عدل و انصاف قائم ہو گا تو معاشرہ بن جائے گا:",
+      "options": {
+        "الف": "امن و سکون والا",
+        "ب": "ترقی یافتہ",
+        "ج": "عام بھلائی والا",
+        "د": "نیکی والا"
+      }
+    },
+    {
+      "chapter": "اخلاق و آداب",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 137,
+      "source_printed_page": 132,
+      "text": "عفت کے لفظ کے ساتھ دوسرا لفظ استعمال ہوتا ہے:",
+      "options": {
+        "الف": "عصمت",
+        "ب": "پاک دامنی",
+        "ج": "پرہیزگاری",
+        "د": "پاکیزگی"
+      }
+    },
+    {
+      "chapter": "اخلاق و آداب",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 138,
+      "source_printed_page": 133,
+      "text": "حیا کو اہم شعبہ کہا جاتا ہے:",
+      "options": {
+        "الف": "اسلام کا",
+        "ب": "ایمان کا",
+        "ج": "شریعت کا",
+        "د": "قرآن و سنت کا"
+      }
+    },
+    {
+      "chapter": "اخلاق و آداب",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 138,
+      "source_printed_page": 133,
+      "text": "اسلام میں لباس کے جو دو مقاصد بیان ہوئے ہیں:",
+      "options": {
+        "الف": "سادگی اور صفائی",
+        "ب": "عمدگی اور نفاست",
+        "ج": "ستر اور زینت",
+        "د": "سفیدی اور کشادگی"
+      }
+    },
+    {
+      "chapter": "اخلاق و آداب",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 138,
+      "source_printed_page": 133,
+      "text": "حدیث میں ایمان کی شاخوں کی تعداد فرمائی گئی ہیں:",
+      "options": {
+        "الف": "پچاس سے زیادہ",
+        "ب": "ستر سے زیادہ",
+        "ج": "اسی سے زیادہ",
+        "د": "نوے سے زیادہ"
+      }
+    },
+    {
+      "chapter": "اخلاق و آداب",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 138,
+      "source_printed_page": 133,
+      "text": "بعض حکماء نے حیا کے مراتب بتائے ہیں:",
+      "options": {
+        "الف": "دو",
+        "ب": "تین",
+        "ج": "چار",
+        "د": "پانچ"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 143,
+      "source_printed_page": 138,
+      "text": "حضرت امام حسین رضی اللہ عنہ کی آخری آرام گاہ ہے:",
+      "options": {
+        "الف": "کوفہ",
+        "ب": "بصرہ",
+        "ج": "کربلا",
+        "د": "مدینہ منورہ"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 144,
+      "source_printed_page": 139,
+      "text": "یزید نے کوفہ کا نیا گورنر بنایا تھا:",
+      "options": {
+        "الف": "عبید اللہ بن زیاد کو",
+        "ب": "ولید بن عتبہ کو",
+        "ج": "مسلم بن عقیل کو",
+        "د": "نعمان بن بشیر کو"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 144,
+      "source_printed_page": 139,
+      "text": "حضرت امام حسین رضی اللہ عنہ کی شہادت ۶۱ھ میں ہوئی:",
+      "options": {
+        "الف": "۱۰ محرم الحرام",
+        "ب": "۱۵ شعبان",
+        "ج": "۱۲ ربیع الاول",
+        "د": "۱۰ شوال"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 148,
+      "source_printed_page": 143,
+      "text": "حضرت ابوعبیدہ بن جراح رضی اللہ عنہ کا نام تھا:",
+      "options": {
+        "الف": "عبد اللہ",
+        "ب": "عمر",
+        "ج": "عمران",
+        "د": "عامر"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 148,
+      "source_printed_page": 143,
+      "text": "”اَمِیْنُ هٰذِهِ الْاُمَّةِ“ لقب تھا:",
+      "options": {
+        "الف": "حضرت انس رضی اللہ عنہ کا",
+        "ب": "حضرت زبیر رضی اللہ عنہ کا",
+        "ج": "حضرت ابوعبیدہ بن جراح رضی اللہ عنہ کا",
+        "د": "حضرت اسامہ رضی اللہ عنہ کا"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 148,
+      "source_printed_page": 143,
+      "text": "حضرت ابوعبیدہ بن جراح رضی اللہ عنہ نے دو ملکوں کی طرف ہجرت کی:",
+      "options": {
+        "الف": "حبشہ و مدینہ منورہ",
+        "ب": "مکہ مکرمہ و مدینہ منورہ",
+        "ج": "شام و فلسطین",
+        "د": "طائف و مدینہ منورہ"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 148,
+      "source_printed_page": 143,
+      "text": "حضرت ابوعبیدہ بن جراح رضی اللہ عنہ کی وفات کا سبب تھا:",
+      "options": {
+        "الف": "شہادت",
+        "ب": "طاعون کی وبا",
+        "ج": "بخار",
+        "د": "دل کا دورہ"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 151,
+      "source_printed_page": 146,
+      "text": "جابر بن حیان کے دادا کا نام تھا:",
+      "options": {
+        "الف": "عبیداللہ",
+        "ب": "عبدالرحمن",
+        "ج": "عبداللہ"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 151,
+      "source_printed_page": 146,
+      "text": "جابر بن حیان کے خاندان کا نام تھا:",
+      "options": {
+        "الف": "قریش",
+        "ب": "صدیقی",
+        "ج": "ازد"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 151,
+      "source_printed_page": 146,
+      "text": "جابر بن حیان کے والد کا کاروبار تھا:",
+      "options": {
+        "الف": "لکڑیاں بیچنے کا",
+        "ب": "خوشبو کا",
+        "ج": "چمڑا تیار کرنے کا"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 151,
+      "source_printed_page": 146,
+      "text": "جابر بن حیان کی مشہور ایجاد ہے:",
+      "options": {
+        "الف": "کمپیوٹر",
+        "ب": "بلب",
+        "ج": "تیزاب"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 151,
+      "source_printed_page": 146,
+      "text": "عرق نکالنے کے لیے انہوں نے ایجاد کیا:",
+      "options": {
+        "الف": "مٹکا",
+        "ب": "قرع انبیق",
+        "ج": "بوتل"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 155,
+      "source_printed_page": 150,
+      "text": "حضرت محمد راشد روضہ دھنی رحمتہ اللہ علیہ کا سلسلہ نسب ملتا ہے:",
+      "options": {
+        "الف": "حضرت ابوبکر رضی اللہ عنہ سے",
+        "ب": "حضرت عباس رضی اللہ عنہ سے",
+        "ج": "حضرت امام حسین رضی اللہ عنہ سے",
+        "د": "حضرت حمزہ رضی اللہ عنہ سے"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 155,
+      "source_printed_page": 150,
+      "text": "آپ کا ”گاؤں رحیم ڈنو کلھوڑو“ واقع ہے:",
+      "options": {
+        "الف": "شکارپور میں",
+        "ب": "سکھر میں",
+        "ج": "خیرپور میرس میں",
+        "د": "نواب شاہ میں"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 155,
+      "source_printed_page": 150,
+      "text": "حضرت محمد راشد روضہ دھنی رحمتہ اللہ علیہ کے اقوال و احوال پر مشتمل کتاب ہے:",
+      "options": {
+        "الف": "سندھی کلام",
+        "ب": "تحفۃ السالکین",
+        "ج": "جمع الجوامع",
+        "د": "ملفوظات شریف"
+      }
+    },
+    {
+      "chapter": "مشاہیر اسلام",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "source_pdf_page": 155,
+      "source_printed_page": 150,
+      "text": "اسلام کی اشاعت کے لیے آبائی وطن چھوڑ کر سکونت اختیار کی:",
+      "options": {
+        "الف": "سہون",
+        "ب": "لک آری",
+        "ج": "آمری",
+        "د": "میہر"
+      }
+    }
+  ]
+}

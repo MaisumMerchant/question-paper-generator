@@ -1,0 +1,7 @@
+# Class IX Islamiat (Urdu): combined IX–X source
+
+Source: STBB, [Islamiyat IX–X, Urdu, 2023–24](https://portal.stbb.edu.pk/ebooks/book.php?id=265), listed under Class IX; [original PDF](https://portal.stbb.edu.pk/ebooks/pdf_proxy.php?id=265). The book itself covers IX–X. Its class-specific curriculum division is not established here: the Class IX bank is a combined-book bank, not a claim that all 101 questions are assigned to IX or that none belong to X. It has not been duplicated as a Class X bank.
+
+The matching PDF contains 35 selected original exercise pages (source PDF pages 11, 17, 23, 29, 30, 36, 37, 42, 46, 50, 54, 58, 63, 68, 74, 77, 84, 88, 93, 100, 101, 105, 113, 119, 121, 126, 129, 133, 137, 138, 143, 144, 148, 151, 155). Their rendered pixels were compared with the corresponding source PDF pages. The 101 questions and choices were visually checked against those pages; the selection was reviewed against page contact sheets, but complete-book coverage and the transcription have not had an independent second proofread. Original PDF and printed-page numbers are recorded per question. Chapter filters use broad textbook headings, not a confirmed IX/X split.
+
+Original option labels الف، ب، ج، د are preserved. Five questions on PDF page 151 have three choices as printed. No answer key is invented. Arabic diacritics may require further checking. Existing English-language materials are unchanged; no Sindhi Islamiat bank is included.

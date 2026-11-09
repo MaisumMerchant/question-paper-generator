@@ -1,0 +1,29 @@
+name: Publish Urdu IX MCQ source PDF
+on:
+  push:
+    paths:
+      - '.github/workflows/publish-urdu-ix-mcq.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  copy-source-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Verify and publish original textbook pages
+        run: |
+          set -eu
+          source='work-in-progress/stbb-265/Islamiat_Urdu_IX-X_DRAFT_MCQs.pdf'
+          target='Data/Class IX/Islamiat_Urdu_MCQs.pdf'
+          echo 'fb2b766d235c98f14434bb63033425f72786d8d7ee71943b96b180744063754b  '"$source" | sha256sum -c -
+          cp "$source" "$target"
+          git add "$target"
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Publish Urdu Islamiat IX original MCQ pages'
+            git push origin HEAD:main
+          fi
