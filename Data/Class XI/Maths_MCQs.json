@@ -8,12 +8,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The conjugate of $-3 + 4i$ is:",
+      "text": "For any complex number $z$, $|z|$ is equal to",
       "options": {
-        "A": "$3 + 4i$",
-        "B": "$3 - 4i$",
-        "C": "$-3 - 4i$",
-        "D": "$4 + 3i$"
+        "A": "$|\\overline z|$",
+        "B": "$|-z|$",
+        "C": "$|-\\overline z|$",
+        "D": "All of these"
       }
     },
     {
@@ -22,7 +22,77 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "$i^{19}$ is equal to:",
+      "text": "If $z_1$ and $z_2$ are any two complex numbers, then",
+      "options": {
+        "A": "$|z_1+z_2|<|z_1|+|z_2|$",
+        "B": "$|z_1+z_2|\\le|z_1|+|z_2|$",
+        "C": "$|z_1-z_2|<|z_1|-|z_2|$",
+        "D": "$|z_1+z_2|\\ge|z_1|+|z_2|$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $z=3i-4$, then $z+\\overline z=$",
+      "options": {
+        "A": "$8$",
+        "B": "$-3i$",
+        "C": "$-8$",
+        "D": "$3i-8$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $a>0$ and $b<0$ then",
+      "options": {
+        "A": "$ab>0$",
+        "B": "$ab<0$",
+        "C": "$ab=0$",
+        "D": "All of these"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $n$ is an even integer, then $(i)^n$ is equal to:",
+      "options": {
+        "A": "$i$",
+        "B": "$-i$",
+        "C": "$1$ or $-1$",
+        "D": "$i$ or $-i$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $z$ is any real number $x$, then its conjugate is:",
+      "options": {
+        "A": "$x$",
+        "B": "$-x$",
+        "C": "$xi$",
+        "D": "$-xi$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$(-1)^{-\\frac{21}{2}}$ is equal to:",
       "options": {
         "A": "$i$",
         "B": "$-i$",
@@ -36,138 +106,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The multiplicative inverse of $1 + i$ is:",
-      "options": {
-        "A": "$1 - i$",
-        "B": "$\\frac{1}{2}(1 - i)$",
-        "C": "$-\\frac{1}{2}(1 + i)$",
-        "D": "$\\frac{1}{2}(1 + i)$"
-      }
-    },
-    {
-      "chapter": "Complex Numbers",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The set of real numbers $x$ and $y$ satisfying $(1 + i)x - 2i = 3 + iy$ is:",
-      "options": {
-        "A": "$x = 3$, $y = 3$",
-        "B": "$x = 1$, $y = 1$",
-        "C": "$x = -1$, $y = -1$",
-        "D": "$x = 2$, $y = 3$"
-      }
-    },
-    {
-      "chapter": "Complex Numbers",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "If $z = \\frac{1}{1 - i}$, then $|z|$ is equal to:",
-      "options": {
-        "A": "$1$",
-        "B": "$\\frac{1}{2}$",
-        "C": "$\\sqrt{2}$",
-        "D": "$\\frac{1}{\\sqrt{2}}$"
-      }
-    },
-    {
-      "chapter": "Complex Numbers",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "If $z_1 = 2 + 3i$ and $z_2 = 1 - 2i$, then $z_1 z_2$ equals:",
-      "options": {
-        "A": "$8 + i$",
-        "B": "$8 - i$",
-        "C": "$-8 + i$",
-        "D": "$2 - 6i$"
-      }
-    },
-    {
-      "chapter": "Complex Numbers",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The value of $\\sqrt{-16}$ is:",
-      "options": {
-        "A": "$4i$",
-        "B": "$-4i$",
-        "C": "$\\pm 4i$",
-        "D": "$4$"
-      }
-    },
-    {
-      "chapter": "Complex Numbers",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "If $(a + ib)^2 = 3 + 4i$, then $a^2 + b^2$ equals:",
-      "options": {
-        "A": "$5$",
-        "B": "$3$",
-        "C": "$4$",
-        "D": "$7$"
-      }
-    },
-    {
-      "chapter": "Complex Numbers",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The modulus of $\\frac{1 + i}{1 - i}$ is:",
-      "options": {
-        "A": "$1$",
-        "B": "$2$",
-        "C": "$0$",
-        "D": "$\\sqrt{2}$"
-      }
-    },
-    {
-      "chapter": "Complex Numbers",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "If $z = x + iy$ and $|z - 1| = |z + 1|$, then the locus of $z$ is:",
-      "options": {
-        "A": "the real axis",
-        "B": "the imaginary axis",
-        "C": "the line $y = x$",
-        "D": "the circle $x^2 + y^2 = 1$"
-      }
-    },
-    {
-      "chapter": "Complex Numbers",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The real part of $(1 + i)^2$ is:",
-      "options": {
-        "A": "$0$",
-        "B": "$2$",
-        "C": "$-2$",
-        "D": "$1$"
-      }
-    },
-    {
-      "chapter": "Complex Numbers",
-      "section": "A",
-      "type": "mcq",
-      "source": "important_book",
-      "year": null,
-      "text": "The imaginary part of $\\frac{1}{i}$ is:",
+      "text": "If $z=(0,1)$ then $z^2$ is:",
       "options": {
         "A": "$1$",
         "B": "$-1$",
-        "C": "$0$",
-        "D": "$i$"
+        "C": "$i$",
+        "D": "$-i$"
       }
     },
     {
@@ -176,12 +120,26 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "$1 + i^2 + i^4 + i^6 + i^8$ equals:",
+      "text": "The product of two conjugate complex numbers is:",
+      "options": {
+        "A": "A real number",
+        "B": "An imaginary number",
+        "C": "Always zero",
+        "D": "A complex number"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "Real part of $\\frac{2+i}{i}$ is equal to:",
       "options": {
         "A": "$1$",
-        "B": "$5$",
-        "C": "$0$",
-        "D": "$-1$"
+        "B": "$2$",
+        "C": "$-1$",
+        "D": "$\\frac12$"
       }
     },
     {
@@ -190,12 +148,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $z = 1 + i$, then $z^4$ equals:",
+      "text": "The plane on which complex numbers are represented is called:",
       "options": {
-        "A": "$4$",
-        "B": "$-4$",
-        "C": "$4i$",
-        "D": "$-4i$"
+        "A": "Coordinate plane",
+        "B": "Complex plane",
+        "C": "Cartesian plane",
+        "D": "Real plane"
       }
     },
     {
@@ -204,12 +162,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The conjugate of $\\overline{z}$ is:",
+      "text": "The modulus of a complex number $z=x+iy$ is the distance of $P(x,y)$ from:",
       "options": {
-        "A": "$z$",
-        "B": "$-z$",
-        "C": "$iz$",
-        "D": "$-iz$"
+        "A": "$x$-axis",
+        "B": "$y$-axis",
+        "C": "Origin",
+        "D": "$(x,y)$"
       }
     },
     {
@@ -218,12 +176,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "$i^7 + i^8 + i^9$ equals:",
+      "text": "If $z_1=2+3i$, $z_2=1-i$ then $|z_1z_2|=$",
       "options": {
-        "A": "$1 + i$",
-        "B": "$1 - i$",
-        "C": "$-1 + i$",
-        "D": "$i$"
+        "A": "$\\sqrt{13}$",
+        "B": "$\\sqrt{26}$",
+        "C": "$\\sqrt{15}$",
+        "D": "$26$"
       }
     },
     {
@@ -232,12 +190,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $z = 2 - 3i$, then $z \\overline{z}$ equals:",
+      "text": "If $|x+5i|=3$, then $x$ is equal to:",
       "options": {
-        "A": "$13$",
-        "B": "$-13$",
-        "C": "$4 - 9i$",
-        "D": "$13i$"
+        "A": "$\\pm4$",
+        "B": "$\\pm4i$",
+        "C": "$\\pm22i$",
+        "D": "None of these"
       }
     },
     {
@@ -246,12 +204,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The value of $(1 + i)^6$ is:",
+      "text": "Multiplicative inverse of $(3,4)$ is:",
       "options": {
-        "A": "$-8i$",
-        "B": "$8i$",
-        "C": "$8$",
-        "D": "$-8$"
+        "A": "$(\\frac3{25},\\frac4{25})$",
+        "B": "$(\\frac3{25},-\\frac4{25})$",
+        "C": "$(-\\frac3{25},-\\frac4{25})$",
+        "D": "$(1,0)$"
       }
     },
     {
@@ -260,12 +218,12 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "If $x + iy = (a + ib)(c + id)$, then $(x^2 + y^2)$ equals:",
+      "text": "If $z=-3i+4$, then $\\overline z=$",
       "options": {
-        "A": "$(a^2 + b^2)(c^2 + d^2)$",
-        "B": "$(a + b)(c + d)$",
-        "C": "$(ac + bd)^2$",
-        "D": "$(ad + bc)^2$"
+        "A": "$-3i-4$",
+        "B": "$-3i+4$",
+        "C": "$3i+4$",
+        "D": "$3i-4$"
       }
     },
     {
@@ -274,12 +232,54 @@
       "type": "mcq",
       "source": "important_book",
       "year": null,
-      "text": "The square root of $i$ is:",
+      "text": "Real and imaginary part of $i(3-2i)$ are respectively:",
       "options": {
-        "A": "$\\pm\\frac{1}{\\sqrt{2}}(1 + i)$",
-        "B": "$\\pm(1 + i)$",
-        "C": "$\\pm\\frac{1}{2}(1 + i)$",
-        "D": "$\\pm i$"
+        "A": "$2$ & $-3$",
+        "B": "$2$ & $3$",
+        "C": "$3$ & $-2$",
+        "D": "$-3$ & $-2$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "If $z=a+ib$, then $|z|=$",
+      "options": {
+        "A": "$\\sqrt{a-b}$",
+        "B": "$\\sqrt{a^2-b^2}$",
+        "C": "$\\sqrt{a^2+b^2}$",
+        "D": "$\\sqrt{a-b}$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "$(\\frac{1+i}{1-i})^{12}=$",
+      "options": {
+        "A": "$-1$",
+        "B": "$1$",
+        "C": "$i$",
+        "D": "$-i$"
+      }
+    },
+    {
+      "chapter": "Complex Numbers",
+      "section": "A",
+      "type": "mcq",
+      "source": "important_book",
+      "year": null,
+      "text": "The value of $i^{-7}$ is:",
+      "options": {
+        "A": "$1$",
+        "B": "$i$",
+        "C": "$-1$",
+        "D": "$-i$"
       }
     },
     {
