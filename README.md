@@ -138,6 +138,10 @@ Studio and draft PDF exports use the same A4 exam renderer: white pages, black t
 
 Default structure: eight Section B questions at four marks (attempt five), and three Section C questions at ten marks (attempt two). Set questions-to-attempt independently of questions printed; the header and PDF totals count attempted questions, not all offered choices. Leave an attempt field blank for all questions. Sections without questions contribute zero marks.
 
+### Generation source policy
+
+New studio papers use selected past-paper questions dated 2022 or later. Within each chapter and section quota, selected questions marked `important_book` are used only when there are not enough eligible recent past-paper questions. Older or undated past-paper questions are not used. If the eligible pool cannot fill a requested section, the app generates fewer questions and displays a warning. Questions that were not selected and chapters that are inactive remain excluded. The rule applies to Sections A, B and C; draft replacement behavior is unchanged.
+
 ### Balanced random generation
 
 With **Balance evenly** enabled, each section gets equal chapter quotas, independent of question-bank size and rounded display percentages. Eight short questions from two chapters means four per chapter. Three long questions means two from one chapter and one from the other; tied extra slots are assigned randomly. Questions are randomly sampled within each quota and shuffled in the paper. A seed preserves repeatability. Custom percentage mode uses proportional integer quotas instead. Chapters with too few questions contribute what is available, and unfilled slots are redistributed among the other selected chapters with eligible questions. No questions are invented or duplicated to fill a shortage. Existing shared PDFs are unchanged.

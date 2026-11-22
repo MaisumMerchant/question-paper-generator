@@ -7,9 +7,20 @@ function shuffle(items, random) {
   return copy;
 }
 
+// Paper generation uses recent past papers first; important-book questions are
+// eligible only as a fallback within a chapter/section quota.
+export function isPaperEligible(question) {
+  return (question.source === 'past_paper' && Number.isInteger(question.year) && question.year >= 2022)
+    || question.source === 'important_book';
+}
+
+export function allocatePaperQuestions(candidates, count, percentages = {}, random = Math.random, balanceEvenly = true) {
+  return allocateQuestions(candidates.filter(isPaperEligible), count, percentages, random, balanceEvenly, true);
+}
+
 // Allocate each section independently, then randomly sample within its quotas.
 // Automatic mode ignores rounded display percentages: all chapters weigh equally.
-export function allocateQuestions(candidates, count, percentages = {}, random = Math.random, balanceEvenly = true) {
+export function allocateQuestions(candidates, count, percentages = {}, random = Math.random, balanceEvenly = true, preferRecent = false) {
   const unique = [...new Map(candidates.map((question) => [question.id, question])).values()];
   const target = Math.min(Math.max(0, Math.floor(Number(count) || 0)), unique.length);
   if (!target) return [];
@@ -44,5 +55,12 @@ export function allocateQuestions(candidates, count, percentages = {}, random = 
       }
     }
   }
-  return shuffle(chapters.flatMap((chapter) => shuffle(byChapter.get(chapter), random).slice(0, quotas.get(chapter))), random);
+  return shuffle(chapters.flatMap((chapter) => {
+    const pool = byChapter.get(chapter);
+    const ordered = preferRecent
+      ? [...shuffle(pool.filter((q) => q.source === 'past_paper'), random),
+         ...shuffle(pool.filter((q) => q.source === 'important_book'), random)]
+      : shuffle(pool, random);
+    return ordered.slice(0, quotas.get(chapter));
+  }), random);
 }

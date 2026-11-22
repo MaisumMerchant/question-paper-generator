@@ -45,3 +45,34 @@ test('capacity and count invariants over many chapter pools',()=>{
     }
   }
 });
+
+// The generation policy is separate from the general-purpose chapter allocator.
+test('paper selection excludes old and undated past papers, preferring 2022+ per chapter', async () => {
+  const { allocatePaperQuestions, isPaperEligible } = await import('../src/questionAllocation.js');
+  const q = (id, chapter, source, year) => ({id, chapter, source, year});
+  const pool = [q('old','A','past_paper',2021),q('unknown','A','past_paper',null),q('edge','A','past_paper',2022),q('recent','A','past_paper',2025),q('book','A','important_book',null)];
+  assert.equal(isPaperEligible(pool[0]), false); assert.equal(isPaperEligible(pool[1]), false); assert.equal(isPaperEligible(pool[2]), true);
+  for (let seed=1;seed<=40;seed++) {
+    assert.deepEqual(new Set(allocatePaperQuestions(pool,2,{},rng(seed)).map(q=>q.id)),new Set(['edge','recent']));
+    assert.deepEqual(new Set(allocatePaperQuestions(pool,3,{},rng(seed)).map(q=>q.id)),new Set(['edge','recent','book']));
+  }
+});
+test('book fallback respects section-provided chapter quotas and selected candidates', async () => {
+  const { allocatePaperQuestions } = await import('../src/questionAllocation.js');
+  const pool = [
+    {id:'a-recent',chapter:'A',source:'past_paper',year:2023},
+    {id:'a-book',chapter:'A',source:'important_book',year:null},
+    {id:'a-old',chapter:'A',source:'past_paper',year:2020},
+    ...Array.from({length:5},(_,i)=>({id:`b-${i}`,chapter:'B',source:'past_paper',year:2024})),
+    {id:'b-book',chapter:'B',source:'important_book',year:null}
+  ];
+  for(let seed=1;seed<=30;seed++) {
+    const out=allocatePaperQuestions(pool,4,{},rng(seed));
+    assert.deepEqual(counts(out),{A:2,B:2});
+    assert.ok(out.some(q=>q.id==='a-recent')); assert.ok(out.some(q=>q.id==='a-book'));
+    assert.ok(!out.some(q=>q.id==='a-old'||q.id==='b-book'));
+    assert.deepEqual(out,allocatePaperQuestions(pool,4,{},rng(seed)));
+  }
+  assert.deepEqual(allocatePaperQuestions(pool.filter(q=>q.source==='past_paper'&&q.year<2022),3),[]);
+  assert.equal(allocatePaperQuestions(pool.filter(q=>q.id==='a-book'),5).length,1);
+});
