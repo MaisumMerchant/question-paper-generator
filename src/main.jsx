@@ -3,7 +3,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import katex from 'katex';
 import { createExamPdf, formatExamText, calculateExamMarks } from './examPdf.js';
-import { allocateQuestions } from './questionAllocation.js';
+import { allocatePaperQuestions, isPaperEligible } from './questionAllocation.js';
 import 'katex/dist/katex.min.css';
 import './styles.css';
 import SharedLibrary, { useCloudConfig } from './SharedLibrary.jsx';
@@ -445,9 +445,9 @@ function App() {
     );
   }, [selectedBank, selectedQuestionIds, activeChapters]);
   const poolBySection = useMemo(() => ({
-    A: selectedPool.filter((question) => question.section === 'A'),
-    B: selectedPool.filter((question) => question.section === 'B'),
-    C: selectedPool.filter((question) => question.section === 'C')
+    A: selectedPool.filter((question) => question.section === 'A' && isPaperEligible(question)),
+    B: selectedPool.filter((question) => question.section === 'B' && isPaperEligible(question)),
+    C: selectedPool.filter((question) => question.section === 'C' && isPaperEligible(question))
   }), [selectedPool]);
   const visibleQuestions = useMemo(() => {
     if (!selectedBank) return [];
@@ -651,18 +651,23 @@ function App() {
       return;
     }
     if (!poolBySection.A.length && !poolBySection.B.length && !poolBySection.C.length) {
-      showNotice('No selected questions are available in the active chapters.');
+      showNotice('No selected eligible questions: use 2022+ past papers or important-book questions in active chapters.');
       return;
     }
     const random = seededRandom(seed.trim() || `${Date.now()}-${selectedBankId}`);
     const paper = {
-      A: allocateQuestions(poolBySection.A, Math.max(0, Number(mcqCount) || 0), percentages, random, autoBalance),
-      B: allocateQuestions(poolBySection.B, Math.max(0, Number(shortCount) || 0), percentages, random, autoBalance),
-      C: allocateQuestions(poolBySection.C, Math.max(0, Number(longCount) || 0), percentages, random, autoBalance)
+      A: allocatePaperQuestions(poolBySection.A, Math.max(0, Number(mcqCount) || 0), percentages, random, autoBalance),
+      B: allocatePaperQuestions(poolBySection.B, Math.max(0, Number(shortCount) || 0), percentages, random, autoBalance),
+      C: allocatePaperQuestions(poolBySection.C, Math.max(0, Number(longCount) || 0), percentages, random, autoBalance)
     };
     setGeneratedPaper(paper);
     goToStep(4);
-    showNotice('Paper generated from the selected, chapter-aware pool.');
+    const requested = { A: Math.max(0, Number(mcqCount) || 0), B: Math.max(0, Number(shortCount) || 0), C: Math.max(0, Number(longCount) || 0) };
+    const shortages = ['A', 'B', 'C'].filter((section) => paper[section].length < requested[section]);
+    const fallbackCount = Object.values(paper).flat().filter((question) => question.source === 'important_book').length;
+    const status = fallbackCount ? ` Used ${fallbackCount} important-book question(s) as fallback.` : '';
+    const shortage = shortages.length ? ` Not enough eligible questions in section(s) ${shortages.join(', ')}; fewer were generated.` : '';
+    showNotice(`Paper generated using the selected eligible questions.${status}${shortage}`);
   }
 
   async function downloadWord() {
@@ -760,7 +765,7 @@ function App() {
 
               <section className={`panel pool-panel ${collapsedSteps.has(2) ? 'collapsed' : ''}`} ref={(node) => { sectionRefs.current[2] = node; }}>
                 <div className="panel-heading">
-                  <div><div className="panel-kicker">STEP 02 — SELECT QUESTIONS</div><h2>Question pool</h2><p>Refine the questions from your selected chapters.</p></div>
+                  <div><div className="panel-kicker">STEP 02 — SELECT QUESTIONS</div><h2>Question pool</h2><p>Refine the questions from your selected chapters. Older past-paper questions remain visible but are excluded from generation.</p></div>
                   <div className="panel-heading-actions"><div className="pool-stat"><strong>{selectedPool.length}</strong><span>in selected pool</span></div><CollapseButton collapsed={collapsedSteps.has(2)} onToggle={() => toggleStepCollapsed(2)} label="question selection" /></div>
                 </div>
                 {!collapsedSteps.has(2) && <>
@@ -817,7 +822,7 @@ function App() {
                   {[['showHeader', 'Paper header'], ['showMarks', 'Marks'], ['showChapter', 'Chapter labels'], ['showSource', 'Source/year'], ['showAnswerKey', 'Answer key (Section A)']].map(([key, label]) => <label key={key}><input type="checkbox" checked={paperMeta[key]} onChange={(event) => setPaperMeta({ ...paperMeta, [key]: event.target.checked })} /><span>{label}</span></label>)}
                 </div>
                 <button className="generate-button" onClick={generatePaper}><span><Icon name="shuffle" size={18} /> Generate random paper</span><Icon name="arrow" size={18} /></button>
-                <div className="generation-note"><span className="spark">✦</span> Chapter quotas apply separately to short and long questions. Extras are assigned randomly; shortages are filled from other selected chapters. A seed makes the selection repeatable.</div>
+                <div className="generation-note"><span className="spark">✦</span> For each chapter and section, 2022+ past-paper questions are preferred. Important-book questions fill any shortfall; older or undated past papers are excluded. Shortages may be filled from other selected chapters. A seed makes selection repeatable.</div>
                 </>}
               </section>
 
